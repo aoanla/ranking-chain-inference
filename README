@@ -1,0 +1,16 @@
+The contained files are python scripts designed to process ranking files for sporting matches
+
+The input files are of the form
+TEAM1 score TEAM2 score 
+with optional trailing values. TEAM1 and TEAM2 must contain no spaces.
+
+The process-* scripts will ignore any line containing a leading #.
+
+rankerfuzz-final.py generates a ranked sort of the teams based on a combination of topological sorting and inference from transitive score ratio calculations.
+rankerfuzz-final-1.py does not use topological sorts, and instead iterates to a set number of iterations to achieve a consistent inferred score ratio set, and sorts using that. 
+
+(Both of these files have property flags in ALLCAPS at the top of their source.)
+
+The process-* scripts interface to GNU Octave, to allow Massey style game matrices to be used for linear least squares estimation.
+process-for-Octave generates an Avector (which is the matrix of observations) and a yvector (the vector of observed values) for importation into Octave. The yvector contains 3 columns, for scoredifference, log(score ratio) and log(FlatTrackStats style normalised difference ratio).
+After least squares fit, the exported beta matrix can be processed by process-from-Octave to give the rankings for all three metrics.
