@@ -11,6 +11,8 @@ rankerfuzz-final-1.py does not use topological sorts, and instead iterates to a 
 
 (Both of these files have property flags in ALLCAPS at the top of their source.)
 
+heatmap.py will generate a (HTML table) heatmap for the variation in predicted rank from an ensemble of rankerfuzz* runs (set the number oof runs in the rankerfuzz code to more than 1 and FUZZ to True).
+
 The process-* scripts interface to GNU Octave, to allow Massey style game matrices to be used for linear least squares estimation.
 process-for-Octave generates an Avector (which is the matrix of observations) and a yvector (the vector of observed values) for importation into Octave. The yvector contains 3 columns, for scoredifference, log(score ratio) and log(FlatTrackStats style normalised difference ratio).
 After least squares fit, the exported beta matrix can be processed by process-from-Octave to give the rankings for all three metrics.
