@@ -1,0 +1,28 @@
+
+import parse_fts_csv as pfc
+import time
+###parameters
+##date limits
+datestart = time.mktime(time.strptime("1 Jan 13", "%d %b %y")) #start of sample training records
+datelim = time.mktime(time.strptime("1 Jan 14", "%d %b %y"))   #end of sample training secords
+datetest = datelim + 1#60*60*24*30*2 #2 months after datelim, end of testing records
+##source data
+teamfile = "flattrackstats_teams_2015-06-03.csv"
+boutfile = "flattrackstats_bouts_2015-06-03.csv"
+
+###sequencing
+##initialisation
+teams_in = pfc.import_teams(teamfile)
+bouts_in = pfc.import_bouts(boutfile)
+print len(bouts_in)
+##selection
+teams_winnowed = pfc.select_teams(teams_in,genuses=['W'])
+(bouts_out,boutgraph,names) = pfc.select_bouts(bouts_in,teams_winnowed,datestart,datelim,datetest)
+print len(bouts_out[0])
+##subgraph selection
+pfc.process_subgraphs(boutgraph, teams_winnowed)
+#(there will be code to subdivide the bouts_out into different subgraphs)
+##output the linear regression stuff
+pfc.write_names(teams_winnowed,names)
+pfc.output_matrices(bouts_out,names)
+

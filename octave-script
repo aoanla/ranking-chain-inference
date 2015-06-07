@@ -1,0 +1,8 @@
+#!/usr/local/octave/3.8.0/bin/octave
+Av = load("Avector");
+yv = load("yvector");
+
+[beta,sigma,r] = ols(yv,Av);
+
+save betavector beta
+save rvector r
