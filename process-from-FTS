@@ -1,4 +1,4 @@
-
+# Licensed by aoanla under https://creativecommons.org/licenses/by-nc-sa/4.0/
 import parse_fts_csv as pfc
 import time
 ###parameters

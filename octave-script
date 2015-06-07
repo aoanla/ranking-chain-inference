@@ -1,4 +1,7 @@
 #!/usr/local/octave/3.8.0/bin/octave
+
+# Licensed by aoanla under https://creativecommons.org/licenses/by-nc-sa/4.0/
+
 Av = load("Avector");
 yv = load("yvector");
 

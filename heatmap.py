@@ -1,4 +1,6 @@
+# Licensed by aoanla under https://creativecommons.org/licenses/by-nc-sa/4.0/
 import math
+
 histf = open('histo','r')
 statf = open('stats','r')
 

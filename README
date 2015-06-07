@@ -16,3 +16,7 @@ heatmap.py will generate a (HTML table) heatmap for the variation in predicted r
 The process-* scripts interface to GNU Octave, to allow Massey style game matrices to be used for linear least squares estimation.
 process-for-Octave generates an Avector (which is the matrix of observations) and a yvector (the vector of observed values) for importation into Octave. The yvector contains 3 columns, for scoredifference, log(score ratio) and log(FlatTrackStats style normalised difference ratio).
 After least squares fit, the exported beta matrix can be processed by process-from-Octave to give the rankings for all three metrics.
+
+We also now include scripts for importing FlatTrackStats csv-structured snapshots, and octave scripts for generating the ranking matrices.
+
+All of this content is licenced CC:BY-NC-SA 4.0 (Creative Commons: Attribution, NonCommercial, ShareAlike 4.0 International - as described in https://creativecommons.org/licenses/by-nc-sa/4.0/ )
