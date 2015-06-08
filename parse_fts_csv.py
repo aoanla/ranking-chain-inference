@@ -152,9 +152,17 @@ def process_subgraphs(g, teams):
 		process_graph(s,n_str, teams, colour_map)
 		i = i+1
 
+#output winnowed team lists, per connected group
+def process_subgraphs_2(g, teams):
+	subgraphs = networkx.connect_component_subgraphs(g)
+	team_groups = list()
+	for s in subgraphs:
+		team_groups.append({n:teams[n] for n in g.nodes() })
+	return team_groups
+
 #name ordering stuff
-def write_names(teams,names):
-	tmp = open("names", 'w')
+def write_names(teams,names, prefix = ""):
+	tmp = open(prefix + "names", 'w')
 	for v in names:
 		tmp.write(teams[v][0]+'\n')
 	tmp.close()
@@ -180,11 +188,11 @@ def h_adv(l,n):
 	return 0
 
 #output the linear regression matrices for these bouts
-def output_matrices(bouts,names):
-        A = [open('Avector','w'),open('Avector_test','w')]
-        y = [open('yvector','w'),open('yvector_test','w')]
-        W = [open('Wvector','w'),open('Wvector_test','w')]
-        H = [open('Hvector','w'),open('Hvector_test','w')]
+def output_matrices(bouts,names, prefix = ""):
+        A = [open(prefix + 'Avector','w'),open(prefix + 'Avector_test','w')]
+        y = [open(prefix + 'yvector','w'),open(prefix + 'yvector_test','w')]
+        W = [open(prefix + 'Wvector','w'),open(prefix + 'Wvector_test','w')]
+        H = [open(prefix + 'Hvector','w'),open(prefix + 'Hvector_test','w')]
         for i in range(2):
                 for line in bouts[i]:
                         #y is a 2 column result vector for scorediff and scoreratio respectively
