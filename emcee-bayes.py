@@ -1,7 +1,9 @@
+# Licensed by aoanla under https://creativecommons.org/licenses/by-nc-sa/4.0/
 import numpy as np
 import emcee
 import corner
 
+#Utility function to build name list
 namedict = {}
 def namecheck(name, namedict):
 	if name in namedict:
@@ -11,6 +13,8 @@ def namecheck(name, namedict):
 		namedict[name] = l
 		return l
 
+#Read in input file, format:
+#TEAM1 TEAM2 SCORE1 SCORE2
 f = open("Champs-data")
 
 #the teams
