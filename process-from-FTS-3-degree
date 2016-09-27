@@ -1,0 +1,74 @@
+# Licensed by aoanla under https://creativecommons.org/licenses/by-nc-sa/4.0/
+import parse_fts_csv as pfc
+import time
+import networkx
+###parameters
+# Testing Centrality would also be interesting networkx.center
+
+
+
+##date limits
+datestart = time.mktime(time.strptime("1 Feb 12", "%d %b %y")) #start of sample training records
+datelim = time.mktime(time.strptime("1 Feb 13", "%d %b %y"))   #end of sample training secords
+
+datetest = datelim + 1#60*60*24*30*2 #2 months after datelim, end of testing records
+##source data
+teamfile = "flattrackstats_teams_2015-06-03.csv"
+boutfile = "flattrackstats_bouts_2015-06-03.csv"
+
+###sequencing
+##initialisation
+teams_in = pfc.import_teams(teamfile)
+bouts_in = pfc.import_bouts(boutfile)
+print len(bouts_in)
+##selection
+exclude_lists = [list(),list()]
+exclude_domains = {"Australia":list(),"USA":list()}
+
+for key in exclude_domains.iterkeys():
+	teams_winnowed = pfc.select_teams(teams_in,genuses=['W'], domains=[key])
+	(bouts_out,boutgraph,names) = pfc.select_bouts(bouts_in,teams_winnowed,datestart,datelim,datetest)
+	#print len(bouts_out[0])
+	##subgraph selection
+	
+	subgraphs = networkx.connected_component_subgraphs(boutgraph)
+	
+	ss = sorted(subgraphs, cmp=lambda x,y: cmp(len(y.nodes()), len(x.nodes())))
+	#print list(networkx.articulation_points(ss[0]))
+	exclude_domains[key] = list(networkx.articulation_points(ss[0])) 
+
+teams_winnowed = pfc.select_teams(teams_in,genuses=['W'], domains=exclude_domains.keys())
+(bouts_out,boutgraph,names) = pfc.select_bouts(bouts_in,teams_winnowed,datestart,datelim,datetest)
+#print len(bouts_out[0])
+##subgraph selection
+
+subgraphs = networkx.connected_component_subgraphs(boutgraph)
+
+ss = sorted(subgraphs, cmp=lambda x,y: cmp(len(y.nodes()), len(x.nodes())))
+exclude = exclude_domains[exclude_domains.keys()[0]]
+exclude.extend(exclude_domains[exclude_domains.keys()[1]])
+connecting_nodes =  [ n for n in networkx.articulation_points(ss[0]) if n not in exclude ] 
+
+print connecting_nodes
+for n in connecting_nodes:
+	print teams_winnowed[n][0] + ":"
+	print [teams_winnowed[nx][0] for nx in boutgraph.neighbors(n)]
+
+print "London (not an articulation point):"
+print [teams_winnowed[nx][0] for nx in boutgraph.neighbors('3628')]
+#deg = networkx.degree(ss[0])
+#dm = sorted([dg for dg in deg.iteritems()], cmp=lambda x,y: cmp(y[1],x[1]))
+#print "Top Node Degree (nearest neighbours)"
+#print [ (teams_in[d[0]][0], d[1]) for d in dm[0:20] ] 
+#print "Gotham " + str(deg['3413'])
+#print "Average Degree Connectivity of largest clique"
+#print networkx.average_degree_connectivity(ss[0])
+
+#Katz Centrality (a measure of influence of a node derived as part of PageRank)
+#print "Katz Centrality"
+##katz = networkx.katz_centrality(ss[0])
+#km = sorted([kg for kg in katz.iteritems()], cmp=lambda x,y: cmp(y[1],x[1]))
+#print [ (teams_in[k[0]][0], k[1]) for k in km[0:20] ]
+#print "Gotham " + str(katz['3413'])
+#print "Dominating set of largest clique"
+#print [ teams_in[n][0] for n in networkx.dominating_set(ss[0]) ]

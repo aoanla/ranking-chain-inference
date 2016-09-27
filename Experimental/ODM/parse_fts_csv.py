@@ -5,6 +5,8 @@ import networkx
 import matplotlib
 import matplotlib.pyplot as plt
 import unicodedata as ud
+import numpy as np
+import ODM as sk
 
 matplotlib.rc('text',usetex=False)
 #TODO:
@@ -16,6 +18,9 @@ def safe_ratio(x,y):
 	sx = max(1,float(x))
 	sy = max(1,float(y))
 	return sx/sy
+
+def safe_log_ratio(x,y):
+	return math.log(safe_ratio(x,y))
 
 def import_teams(teamfile):
 	t = open(teamfile, 'r')
@@ -41,7 +46,7 @@ def import_teams(teamfile):
 	#	if genus != "C":
 	#		continue
 		#and filter on only Travel / B teams
-		if species != "Travel Team" and species != "B Team" :
+		if species != "Travel Team" and species != "B Team": 
 			continue
 		teams[items[0][1:]] = (name, domain, genus)
 		#domain.add(items[-1][1:-3])
@@ -80,6 +85,31 @@ def import_bouts(boutfile):
         b.close()
         return bouts
 
+def import_bouts_raw(boutfile):
+        b = open(boutfile, 'r')
+        b.readline()
+
+        bouts = dict()
+
+        for line in b:
+                items = line.split(',')
+                date = time.mktime(time.strptime(items[1],'"%Y-%m-%d"')) #seconds since epoch of bout happening    line[1]
+                tourn = 1
+                if items[3] != '""': #there's a tournament specified
+                        tourn = 0
+                ts = (items[4][1:-1],items[6][1:-1])
+                #no scores - no data
+                if items[5] == '""':
+                        continue
+                scores = (int(items[5][1:-1]), int(items[7].strip()[1:-1]))
+
+                if date not in bouts:
+                        bouts[date] = list()
+
+                bouts[date].append((ts[0], ts[1], scores[0], scores[1], tourn))
+        b.close()
+        return bouts
+
 
 
 def select_bouts(bouts,teamlist,startdate,enddate,trainingperiod):
@@ -92,7 +122,7 @@ def select_bouts(bouts,teamlist,startdate,enddate,trainingperiod):
 	boutgraph = networkx.Graph()
 	
 	names = set()
-	
+	duration = 9*28*24*60*60*1.0 #9 month normalisation (9 months old = 1.0 units old)
 	
 	for (k,v) in bouts.iteritems(): 
 		selector = 0
@@ -113,7 +143,7 @@ def select_bouts(bouts,teamlist,startdate,enddate,trainingperiod):
 			boutgraph.add_edge(vv[0],vv[1])
 			#ordered_add(boutgraph,ts[0],ts[1])
 			#score calc	
-			bouts_out[selector].append((vv[0], vv[1], vv[2], vv[3], enddate-k, vv[4]))
+			bouts_out[selector].append((vv[0], vv[1], vv[2], vv[3], (enddate-k)/duration, vv[4]))
 	return (bouts_out,boutgraph,names)
 
 
@@ -260,3 +290,90 @@ def output_matrices(bouts,names, prefix = ""):
                 A[i].close()
                 y[i].close()
 
+#implement Govan's Offense-Defence model
+#Current defaults are mse optimised values for 9 month period ending 6 May 2016
+# mse optimised hadv is almost always close to 0.96
+# mse optimised recency varies quite a lot, usually in range -2.5 to -1 (-1 most common end)
+# but, for ex 'W' only cohort, 9months to 6 May 2016 has -5!
+def odm(bouts, names, hadv=0.96, recency=-5.0):
+	a = np.zeros((len(names),len(names))) #score array
+	teamfreq = np.zeros(len(names))
+	tindex = dict()
+	for i,t in zip(range(len(names)),names):
+		tindex[t] = i
+
+	for b in bouts[0]: #bouts[0] is training data, bouts[1] is test data!
+		homefactor = 1 if b[5]==0 else hadv
+		id0 = tindex[b[0]]
+		id1 = tindex[b[1]]
+		#increase our running total of bouts per team
+		teamfreq[id0] += 1
+		teamfreq[id1] += 1
+		#can include recency based on value in b[4], but most useful for weighted sums
+		#we need some way to account for multiple bouts per pair existing!
+		a[id0,id1] = (b[3] / homefactor)*math.exp(recency*b[4]) #I think - a[i][j] is j's score against i
+		a[id1,id0] = (b[2] *homefactor)*math.exp(recency*b[4]) # so b[3] is score[1] not score[0] etc
+	
+	#tweak to force the matrix to have total support - tiny fudge factor to all elements (Govan's PhD thesis suggests tiny values sufficient
+	# and the smaller the value the smaller the decrease in predictive accuracy - she uses 1e-5 so that seems a good place)
+	a+=0.00001
+
+	sksolv = sk.SinkhornKnopp()
+	od = sksolv.fit( a , teamfreq)
+	#normalisaton needed in fit above 
+	#scores = o/d #elementwise!
+	return od
+
+#test against training data
+# we might assume that the ratio of power rating is proportional to the ratio of scores?
+
+#scipy.optimize.minimize(mse_predictor,[hta,recency],[maximal_bouts,maximal_names]):
+#scipy.optimize.minimize(odm_train,[1,0],args = (maximal_bouts,maximal_names))
+
+def odm_train(values,bouts,names):
+        hta = values[0]
+	loghta = math.log(hta)
+	#hta = 0.96
+	# recency varies much more - seems to generally be around -2.5 to -1, depending on the range and start time
+	# significant outlier for 6 May 2016 , 9 month period, which gives -4.5 or -5!
+        recency = values[1] #values[0]
+        #maximal_bouts = args[0]
+        #maximal_names = args[1]
+        a = np.zeros((len(names),len(names))) #score array
+        teamfreq = np.zeros(len(names))
+        tindex = dict()
+        for i,t in zip(range(len(names)),names):
+                tindex[t] = i
+
+        for b in bouts[0]: #bouts[0] is training data, bouts[1] is test data!
+                homefactor = 1 if b[5]==0 else hta
+                id0 = tindex[b[0]]
+                id1 = tindex[b[1]]
+                #increase our running total of bouts per team
+                teamfreq[id0] += 1
+                teamfreq[id1] += 1
+                #can include recency based on value in b[4], but most useful for weighted sums
+                #we need some way to account for multiple bouts per pair existing!
+                a[id0,id1] += (b[3] / homefactor)*math.exp(recency*b[4]) #I think - a[i][j] is j's score against i
+                a[id1,id0] += (b[2] *homefactor)*math.exp(recency*b[4]) # so b[3] is score[1] not score[0] etc
+
+        #tweak to force the matrix to have total support - tiny fudge factor to all elements (Govan's PhD thesis suggests tiny values sufficient
+        # and the smaller the value the smaller the decrease in predictive accuracy - she uses 1e-5 so that seems a good place)
+        a+=0.00001
+
+        sksolv = sk.SinkhornKnopp()
+        od = sksolv.fit( a , teamfreq)
+        #assumes np has a log which distributes
+        logstr = [ lodi[0] - lodi[1] for lodi in np.log(od)]
+        mse = 0
+        for b in bouts[1]:
+		loghf = 0 if b[5]==0 else loghta
+                actual_ratio = safe_log_ratio(b[2],b[3])+2*loghf #== applying hta appropriately
+                #smaller "strength" seems better?
+                #uses tindex, so should be in pfc
+                predicted_ratio = logstr[tindex[b[1]]] - logstr[tindex[b[0]]]
+                mse += (actual_ratio - predicted_ratio)**2
+        return mse
+
+def odm_train1(values,bouts,names): #hack for fixing hta
+	return odm_train([0.96,values[0]],bouts,names)

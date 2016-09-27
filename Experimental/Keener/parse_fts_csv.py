@@ -12,10 +12,38 @@ matplotlib.rc('text',usetex=False)
 # Graph connectivity analysis -> we can't rank a disconnected graph of teams!
 #
 
-def safe_ratio(x,y):
-	sx = max(1,float(x))
-	sy = max(1,float(y))
+#N is an additive perturbation to the scores, applied before ratio is taken
+#Motivation is Keener direct ratings, which do something similar,
+#but we use them specifically to avoid the singularity at 0, while tuning the
+#strength factors gained per (opposition point prevented) for low opposition scores.
+def safe_ratio(x,y,N=0):
+	sx = max(1,float(x)+N)
+	sy = max(1,float(y)+N)
 	return sx/sy
+
+def import_rankings(rankingfile):
+	t = open(rankingfile, 'r')
+	
+	#print l.split(',')
+	teams = dict()
+	#genus = set()
+	#domain = set()
+	for line in t:
+		items = line.decode('utf_8').encode('ascii','ignore').split(',')
+		if items[0][0] != '(':
+			#print items[0]
+			continue
+		
+		#need to strip off the double quotes surrounding each item...
+		#and remove non-ascii chars for plotter
+		try:
+			name = items[0][2:-1]
+			rank = items[1][:-1]
+			teams[name] = rank
+		except:
+			pass
+		
+	return teams
 
 def import_teams(teamfile):
 	t = open(teamfile, 'r')
@@ -41,7 +69,7 @@ def import_teams(teamfile):
 	#	if genus != "C":
 	#		continue
 		#and filter on only Travel / B teams
-		if species != "Travel Team" and species != "B Team" :
+		if species != "Travel Team": #and species != "B Team": 
 			continue
 		teams[items[0][1:]] = (name, domain, genus)
 		#domain.add(items[-1][1:-3])
@@ -53,7 +81,8 @@ def import_teams(teamfile):
 def select_teams(teams,domains=['Europe','USA','Canada','Australia','New Zealand','Pacific',''],genuses=['W','M','J','C']):
 	return {t:v for (t,v) in teams.iteritems() if v[1] in domains and v[2] in genuses}
 
-def import_bouts(boutfile):
+#Laplace/Keener perturbation N here - ugly functionally, but without making a class, the best place to apply it
+def import_bouts(boutfile,N=0):
 	b = open(boutfile, 'r')
         b.readline()
 
@@ -71,12 +100,12 @@ def import_bouts(boutfile):
                         continue
                 scores = (int(items[5][1:-1]), int(items[7].strip()[1:-1]))
                 scorediff = scores[0] - scores[1]
-                scorerat = math.log(safe_ratio(scores[0],scores[1]))
+                scorerat = math.log(safe_ratio(scores[0],scores[1],N))
 		
 		if date not in bouts:
 			bouts[date] = list()
 
-                bouts[date].append((ts[0], ts[1], scorediff, scorerat, tourn))
+                bouts[date].append((ts[0], ts[1], (scores[0],scores[1]), scorerat, tourn))
         b.close()
         return bouts
 
@@ -166,8 +195,70 @@ def select_bouts_teamdict(bouts,teamlist,startdate,enddate,trainingperiod):
 			bouts_out[selector].append((vv[0], vv[1], vv[2], vv[3], enddate-k, vv[4]))
 	return (bouts_out,boutgraph,names)
 
+
+#Weighted graphs:
+def select_bouts_weighted(bouts,teamlist,startdate,enddate,trainingperiod,weight='ratio',bidir=True):
+
+        bouts_out = (list(),list())
+
+        #graph of all team v team connections via bouts
+        #to avoid double-counting, we strictly order by alphabetical sorting.
+        #that is A-B and B-A both stored as [A][B] = 1, D-C as [C][D] = 1
+        boutgraph = networkx.DiGraph() if bidir else networkx.Graph() #or DiGraph if we're directed
+	datenormalise = 9*28*24*60*60 #normalise to 9 months
+        names = set()
+	htacorr = 1
+	htafun = lambda x,y: x
+	component = 3
+	if weight == 'ratio':
+		htacorr = math.log(0.92) #empirically determined home team advantage correction from previous studies
+		component = 3
+		htafun = lambda x,y: x+y
+		null = 0
+	elif weight == 'diff':
+		htacorr = 0.96 #for scorediff - sqrt(0.92), because the ratio applies it twice (once to numerator, once to denominator)
+		component = 2
+		htafun = lambda x,y: (x[0]*y - x[1]/y) 
+		null = 1
+        for (k,v) in bouts.iteritems():
+                selector = 0
+                if (k < startdate):
+                        continue
+                elif (k > enddate):
+                        if (k > trainingperiod):
+                                continue
+                        selector=1 #testing
+                #for all bouts for this date:
+                for vv in v:
+                        if (vv[0] not in teamlist) or (vv[1] not in teamlist):
+                                continue
+                        #names list (for teams featured in a bout in our window - use this to prune teams dict)
+                        names.add(vv[0])
+                        names.add(vv[1])
+			# - can add edge weight by either signed (and assuming A-B ordering), or as a directed edge (winner -> loser)
+                        #boutgraph increment - scorerat is vv[3] for a boutlist from non-raw import
+                        #if boutgraph.has_edge(vv[0],vv[1]):
+			#	boutgraph.remove_edge(vv[0],vv[1])
+			#	if bidir:
+			#		boutgraph.remove_edge(vv[1],vv[0])
+			#boutgraph.add_edge(vv[0],vv[1], weight = abs(math.log(vv[3])) )
+                        #ordered_add(boutgraph,ts[0],ts[1])
+			#directed graph:
+			w = htacorr if vv[4]==0 else null #no correction if a tournament, as neutral court assumed [this is not always true, but it's harder to prove this with FTS data]
+			wcorr = htafun(vv[component], w) #vv[2] * w #or vv[3] + w for scorerat (vv[2] * w for score diff)
+			boutgraph.add_edge( vv[0],vv[1],weight = (wcorr),kfactor=(enddate-k)/datenormalise )
+			if bidir:
+				boutgraph.add_edge(vv[1],vv[0],weight = -(wcorr),kfactor=(enddate-k)/datenormalise )
+                        #score calc     
+                        bouts_out[selector].append((vv[0], vv[1], vv[2], vv[3], enddate-k, vv[4]))
+        return (bouts_out,boutgraph,names)
+
+
+
 #do subgraph analysis
 
+
+#Reasoning 17Jun idea for "geometric" ordering based on plotting link-length by scoreratio/scoreratio equiv class needs modification of process-graph to implement
 def process_graph(g,text,teams, colour_map):
         print text
 	#approximate scaling law for good plot size
@@ -209,7 +300,14 @@ def process_subgraphs_2(g, teams):
 		team_groups.append({n:teams[n] for n in s.nodes() })
 	return team_groups
 
-
+#do the above, but for directed graphs (via an undirected proxy, as the subgraph stuff isn't implemented for general digraphs)
+def process_subgraphs_2_directed(g,teams):
+	tmpg = g.to_undirected()
+	tmpsubgs = process_subgraphs_2(tmpg,teams)
+	#we also fix this so we actually return the bloody subgraphs, not a dict
+	subgs = [g.subgraph(sgi.keys()) for sgi in tmpsubgs ]
+	return subgs
+	
 #name ordering stuff
 def write_names(teams,names, prefix = ""):
 	tmp = open(prefix + "names", 'w')

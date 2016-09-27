@@ -1,0 +1,172 @@
+# Licensed by aoanla under https://creativecommons.org/licenses/by-nc-sa/4.0/
+import parse_fts_csv as pfc
+import time
+import numpy
+import networkx
+import matplotlib.pyplot as plt
+#or use matplotlib's implementation: http://matplotlib.org/api/mlab_api.html#matplotlib.mlab.PCA
+#import princomp as pcpa
+import sklearn.decomposition as deco
+###parameters
+##date limits
+
+datelim = time.mktime(time.strptime("06 May 16", "%d %b %y"))   #end of sample training secords
+datestart = datelim - 8*28*24*60*60 # 9 months = time for largest stable group to form / minimum number of total connected groups to be reached with this dataset
+
+datetest = datelim + 60*60*24*1 #1 month after datelim, end of testing records
+
+
+##source data
+teamfile = "flattrackstats_teams_2016-06-06.csv"
+#teamfile = "top40.csv"
+boutfile = "flattrackstats_bouts_2016-06-06.csv"
+#boutfile = "flattrackstats_bouts_2016-06-06-Champs2015.csv"
+
+###sequencing
+##initialisation
+teams_in = pfc.import_teams(teamfile)
+bouts_in = pfc.import_bouts(boutfile) #second parameter is Laplace/Keener perturbation on scores in ratios
+print len(bouts_in)
+##selection
+teams_winnowed = pfc.select_teams(teams_in,genuses=['W'])
+(bouts_out,boutgraph,names) = pfc.select_bouts_weighted(bouts_in,teams_winnowed,datestart,datelim,datetest,weight='ratio')
+
+print len(bouts_out[0])
+
+##subgraph selection
+
+#select largest subgraph - we've changed this to return the actual subgraphs!!
+subgraphs = pfc.process_subgraphs_2_directed(boutgraph, teams_winnowed)
+smax = {}
+subgraphs.sort(reverse=True, key = len )
+
+#print subgraphs[0].nodes()
+#print '3409' in subgraphs[0].nodes()
+
+# subgraphs[0] is now the dict of the teams in the largest group as id:{name,type etc} dict
+
+# potentially, we don't want the "maximal boutgraph" as got below - we may want to weight edges, merge parallel edges (for example, as weighted sum of logscoreratio by recency)
+
+#for example, this is the adjacency matrix for the maximal subgraph
+#adj_matrix = networkx.adjacency_matrix(subgraphs[0])
+
+
+#networkx.shortest_path_length(G, weight='weight'
+
+
+#see also: single_source_shortest_path_length()
+# 		single_source_dijkstra_path_length()
+#		all_pairs_shortest_path_length() and dijkstra equiv
+#		negative_edge_cycle(G...) for finding if there's a negative cycle
+#		-> finding the "path with length closest to zero" for a graph with negative weights is NP-complete
+#			but we don't want that (we want the "length of the shortest number of links", which is going to be an upperbound on the "True" distance)
+
+def shortest_signed(G, source, dest):
+	potential_paths = networkx.all_shortest_paths(G,source,dest)
+	#sum the total length of each path by adding weights of edges, and then get the smallest of these sums [closest to zero, so need abs in min] 
+	#we know that all these lengths are upper bounds on the "true" distance, so the smallest of them must be the closest to true
+	return min([sum([G[p[i]][p[i+1]]['weight'] for i in range(len(p)-1) ]) for p in potential_paths], key=lambda i: abs(i)) 
+
+def single_source_shortest_path_length_signed(G,source):
+	return { n:shortest_signed(G,source,n) for n in G.nodes() }
+
+def HarelKoren(G,working_dim=50,out_dim=3):
+	l = G.number_of_nodes()
+	working_matrix = numpy.zeros([ working_dim, l ])
+	nodelist = list()
+	#start with random node:
+	nodelist.append(G.nodes()[numpy.random.random_integers(0,l)])
+	paths = single_source_shortest_path_length_signed(G,nodelist[0]) #for signed weights in Euclidean model
+	#paths = networkx.single_source_shortest_path_length(G,nodelist[0])
+	working_matrix[0] = [ paths[g] for g in G.nodes() ] #because we have to keep ordering!
+	min_dists = paths
+	for i in range(1,working_dim):
+		#select a new node to project onto
+		maxd = max(min_dists.items(),key=lambda x: abs(x[1])) #find maximum of all values, abs so it works with signed lengths
+		nodelist.append(maxd[0])	
+		#for this node, do the usual
+		paths = single_source_shortest_path_length_signed(G,nodelist[i])
+		#paths = networkx.single_source_shortest_path_length(G,nodelist[i])
+        	working_matrix[i] = [ paths[g] for g in G.nodes() ] #because we have to keep ordering!
+		min_dists = { g: min(paths[g],min_dists[g], key=lambda i: abs(i)) for g in G.nodes() } #update "minimal distance set", abs so it works with signed lengths
+	#then do PCA
+	print working_matrix
+	working_matrix = working_matrix.T
+	mean = numpy.mean(working_matrix,0)
+	std = numpy.std(working_matrix,0)
+	#print "Mean: " + str(mean)
+	#print "Std Dev: " + str(std)
+	working_matrix = (working_matrix - mean) #/std
+	#pca = deco.PCA(out_dim) 
+	pca = deco.PCA(0.95)
+	x_r = pca.fit_transform(working_matrix)
+	print "Explained variance ratio for components returned"
+	print pca.explained_variance_ratio_
+	#pca_on_working_matrix, with out_dim pcas requested
+	return x_r.T
+
+#(maximal_bouts, maximal_boutgraph, maximal_names) = pfc.select_bouts(bouts_in, subgraphs[0], datestart, datelim, datetest)
+
+scores = HarelKoren(subgraphs[0], working_dim=100)
+
+#for i in range(len(scores)):
+#	min_p = min(scores[i])
+#	scores[i] -= min_p
+
+scores[0] -= min(scores[0])
+
+names_out = [teams_winnowed[n][0] for n in subgraphs[0].nodes()]
+ordering = sorted(zip(names_out,scores[0]),key= lambda x: x[1])
+
+#quit() #skip detailed output
+
+def printer(x):
+	print x
+
+print "PCA 1"
+[ printer(o) for o in ordering ]
+
+#print "PCA 2"
+#[ printer(o) for o in sorted(zip(names_out,scores[1]), key = lambda x:x[1]) ]
+#do PCA, or build spring-simulation
+
+print "PCA len(1,2,3)"
+score123 = numpy.sqrt(scores[0]**2 + scores[1]**2 + scores[2]**2)
+[ printer(o) for o in sorted(zip(names_out,score123), key = lambda x:x[1]) ]
+
+def print_graph_pca(G,pca,text,c):
+	limits = [0,0]
+	x = 0
+	for i in c:
+		#and centre
+		limits[x] = max(pca[i])
+		x += 1
+        plt.figure(1,limits)
+        node_labels = dict([ (n,teams_winnowed[n][0]) for n in G.nodes() ])
+        #node_cols = [ colour_map[teams_winnowed[n][1]] for n in G.nodes() ]
+        pos = { n[0]:(n[1][c[0]],n[1][c[1]]) for n in zip(G.nodes(),pca.T) }
+	print pos
+        networkx.draw_networkx_nodes(G,pos)
+
+        networkx.draw_networkx_edges(G,pos)
+        networkx.draw_networkx_labels(G,pos,labels = node_labels)
+#        networkx.draw_spring(g,with_labels=True, node_color=node_cols, labels = node_labels)
+        plt.savefig(text+str(c[0])+str(c[1])+".png")
+        plt.close()
+
+
+def print_projections(x,y):
+	print_graph_pca(subgraphs[0],scores,"pca-test",(x,y))
+
+print_projections(0,1)
+print_projections(0,2)
+print_projections(1,2)
+
+#we guess that score[0], as the principal component, might be a ranking?
+## (we can try the first few principal components to see what they look like)
+
+
+##output the linear regression stuff
+#pfc.write_names(subgraphs[0],maximal_names)
+#pfc.output_matrices(maximal_bouts,maximal_names)
+

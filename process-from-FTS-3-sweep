@@ -1,0 +1,43 @@
+from __future__ import print_function
+# Licensed by aoanla under https://creativecommons.org/licenses/by-nc-sa/4.0/
+import parse_fts_csv as pfc
+import time
+###parameters
+##date limits
+
+##source data
+teamfile = "flattrackstats_teams_2015-09-08.csv"
+boutfile = "flattrackstats_bouts_2015-09-08.csv"
+
+###sequencing
+##initialisation
+teams_in = pfc.import_teams(teamfile)
+bouts_in = pfc.import_bouts(boutfile)
+#print len(bouts_in)
+##selection
+teams_winnowed = pfc.select_teams(teams_in,genuses=['W'])
+
+#Sweep through every sample size, in weeks, we can make, and output the number of subgroups, their largest member, and the median size
+
+#for wk in range(1,53):
+startwk = 4
+datestart = time.mktime(time.strptime("1 {0:02d} 14".format(startwk), "%w %U %y")) #start of sample training records
+
+
+for wk in range(1,50):
+	for startwk in range(0,24,4):
+		wko = (wk+startwk) % 54
+		year = 13 + int((wk+startwk)/54)
+		datestart = time.mktime(time.strptime("1 {0:02d} 13".format(startwk), "%w %U %y"))
+		datelim = time.mktime(time.strptime("1 {0:02d} {1:02d}".format(wko,year), "%w %U %y"))   #end of sample training secords
+		datetest = datelim + 1#60*60*24*30*2 #2 months after datelim, end of testing records
+		
+		(bouts_out,boutgraph,names) = pfc.select_bouts(bouts_in,teams_winnowed,datestart,datelim,datetest)
+#		print len(bouts_out[0])
+		##subgraph selection
+		subgraphs = pfc.process_subgraphs_2(boutgraph, teams_winnowed)
+		size = len(subgraphs)
+		lens = [len(s) for s in subgraphs]
+		lens.sort(reverse=True)
+		print(size, lens[0], lens[size/2], sep=" ", end = " ")
+	print(end="\n")

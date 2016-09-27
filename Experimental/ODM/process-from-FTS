@@ -1,0 +1,89 @@
+# Licensed by aoanla under https://creativecommons.org/licenses/by-nc-sa/4.0/
+import parse_fts_csv as pfc
+import time
+from scipy.optimize import minimize
+###parameters
+##date limits
+
+datelim = time.mktime(time.strptime("06 May 16", "%d %b %y"))   #end of sample training secords
+datestart = datelim - 8*28*24*60*60 # 9 months = time for largest stable group to form / minimum number of total connected groups to be reached with this dataset
+
+datetest = datelim + 60*60*24*31 #1 month after datelim, end of testing records
+
+
+##source data
+teamfile = "flattrackstats_teams_2016-06-06.csv"
+#teamfile = "top40.csv"
+boutfile = "flattrackstats_bouts_2016-06-06.csv"
+
+###sequencing
+##initialisation
+teams_in = pfc.import_teams(teamfile)
+bouts_in = pfc.import_bouts_raw(boutfile)
+print len(bouts_in)
+##selection
+teams_winnowed = pfc.select_teams(teams_in,genuses=['W'])
+print "Winnowed team size"
+print len(teams_winnowed)
+
+(bouts_out,boutgraph,names) = pfc.select_bouts(bouts_in,teams_winnowed,datestart,datelim,datetest)
+
+print len(bouts_out[0])
+print "Training size:"
+print len(bouts_out[1])
+##subgraph selection
+
+#select largest subgraph
+subgraphs = pfc.process_subgraphs_2(boutgraph, teams_winnowed)
+smax = {}
+subgraphs.sort(reverse=True, key = len )
+
+
+# subgraphs[0] is now the dict of the teams in the largest group as id:{name,type etc} dict
+(maximal_bouts, maximal_boutgraph, maximal_names) = pfc.select_bouts(bouts_in, subgraphs[0], datestart, datelim, datetest)
+
+print "Maximal set"
+print len(maximal_bouts[0])
+print "Training maximal set"
+print len(maximal_bouts[1])
+
+
+##do ODM for our subgraph
+pfc.write_names(subgraphs[0],maximal_names)
+od = pfc.odm(maximal_bouts,maximal_names)
+#logod = np.log(od)
+
+#[subgraphs[0][i[1]][0] for i in sorted(zip(od,maximal_names),key=lambda p: p[0][0]/p[0][1]) ]
+
+output =  zip(range(1,len(maximal_names)+1),[ (subgraphs[0][i[1]][0],i[0][0],i[0][1],i[0][0]/i[0][1]) for i in sorted(zip(od,maximal_names),key=lambda p: p[0][0]/p[0][1])])
+
+
+output_d = zip(range(1,len(maximal_names)+1),[ (subgraphs[0][i[1]][0],i[0][0]) for i in sorted(zip(od,maximal_names),key=lambda p: p[0][0])])
+output_o = zip(range(1,len(maximal_names)+1),[ (subgraphs[0][i[1]][0],i[0][1]) for i in sorted(zip(od,maximal_names),key=lambda p: p[0][1])])
+
+print "Overall ranking"
+for i in [ str(o[0])+'. '+o[1][0] + ' T:' + str(o[1][3][0]) + ' O:' + str(o[1][2][0]) + ' D:' + str(o[1][1][0]) for o in output]:
+	print i
+#print "Defense ranking"
+#print output_d
+#print "Offense ranking"
+#print output_o
+
+#test against training data
+# we might assume that the ratio of power rating is proportional to the ratio of scores?
+
+#scipy.optimize.minimize(mse_predictor,[hta,recency],[maximal_bouts,maximal_names]):
+#output = minimize(pfc.odm_train,[0.95,-4.5,],args = (maximal_bouts,maximal_names), method='SLSQP',bounds=[(0.9,1.1),(-5.5,-3.5)])
+#output = minimize(pfc.odm_train1,[-1.0,],args = (maximal_bouts,maximal_names), method='SLSQP',bounds=[(-5.5,0.0),])
+
+
+
+#print output
+#print output.x
+#print output.success
+
+#free parameters - home advantage, recency decay factor
+# (also, at present, we just keep the most recent score for any matchup between teams)
+
+#for o in output:
+#	print o
