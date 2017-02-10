@@ -1,0 +1,9 @@
+#/bin/bash
+cd $2
+sort -t'|' -k1,1 $1 > output-numeric
+sort -t'|' -k1,1 ../fts-teams_2016-11-01.denormalised > fts-teams_2016-11-01.denormalised.sort
+join -t'|' -o 1.2,1.3,1.11,2.7 fts-teams_2016-11-01.denormalised.sort output-numeric > joined.sort
+sort -t'|' -k4,4 -n -r joined.sort > theranking-joined
+awk '{printf "%s|%s\n",NR,$0}' theranking-joined > ${1}-theranking
+grep "|Womens|" ${1}-theranking | awk '{printf "%s|%s\n",NR,$0}' > ${1}-theranking-wonly
+grep "|Mens|" ${1}-theranking | awk '{printf "%s|%s\n",NR,$0}' > ${1}-theranking-monly

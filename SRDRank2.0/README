@@ -1,5 +1,15 @@
 This location will contain the infrastructure for SRD Rank v2.0
 
 This is currently under development, and will probably combine multiple ranking mechanisms to improve tracking.
+ - further with with Massey-style least-squares fits, and optimisation, suggests possibilities for optimising the fits to spring-method levels of efficiency.
+ - benefit of the above is that lsq fits are both faster than spring-model energy minimisation, and also give us an intrinsic measure of confidence for ratings.
+ - (spring model confidences exist, but are inferred from graph theory, rather than estimated directly from the fit - we can combine both approaches for 
+ -    a more nuanced view of the relationship between teams. )
 
 The output html will also be improved for UX.
+
+ - several "prettification" requests have been made, which increase page weight slightly
+ - layout tweaks needed
+ - improved power of selectors (group selectors etc), which need javascript 
+ - - two versions of html (css-clean and javascript"enhanced", so security conscious can still use the old versions)
+ - rewording of table columns, other help for understanding output 

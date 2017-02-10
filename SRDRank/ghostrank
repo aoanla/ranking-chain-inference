@@ -1,0 +1,30 @@
+#!/bin/bash
+main=$1
+ghost=$2
+join -t'|' -o 1.1,1.7,2.7 <(sort -k1,1 -t'|' ${main}/joined_01*_MW ) <(sort -k1,1 -t'|' ${ghost}/joined_01*_MW ) > tmp-intersection
+
+#chop off the problematic bits at top and tail
+#and then calculate mean, stddev
+tmpoutput=$(grep -v "||" tmp-intersection | awk -F'|' '{ for (i=1;i<=NF;i++) {sum[i] += $i; sumsq[i] += ($i)^2}} END {for (i=2;i<=NF;i++) {printf "%f-%f:", sum[i]/NR, sqrt((sumsq[i]-sum[i]^2/NR)/NR)} }')
+output=${tmpoutput%:}
+#at this point we have mean1 std1 , mean2 std2, we just need to split things up
+# we want to transform the fields dataset 2 not in dataset 1 to dataset 1's distribution
+# this is done by: foreach element: newelement = (element-mean2)*(std1/std2) + mean1
+gstats=${output#*:}
+nstats=${output%:*}
+gmean=${gstats%-*}
+nmean=${nstats%-*}
+gstd=${gstats#*-}
+nstd=${nstats#*-}
+ratio=$(echo "scale=5; ${nstd}/${gstd};" | bc)
+
+echo $output
+echo $gmean
+echo $gstd
+
+# -v should give us only the ghost elements which aren't in the main, which we transform
+#join -t'|' -o 2.1,2.7 -v 2 <(sort -k1,1 -t'|' ${main}/joined_01*_MW ) <(sort -k1,1 -t'|' ${ghost}/joined_01*_MW ) | grep -e "^[0-9][0-9]*\|[0-9][0-9]*$" | awk -F'|' "{printf \"%s|%s|GHOST\n\", \$1, $nmean+((\$2-$gmean)*$ratio)  }" > tmp-ghosts
+
+#new approach - transform the entire old ranking (and add the old ranking positions), and then subset ghosts (this helps us with our "historical ranking" stuff in the main make-full-ranking code) - we sort in id order
+#ID|ORATING|"GHOST"|ORANK
+awk -F'|' '{printf "%s|%s\n",$1,$7 }' <(sort -k7,7 -n -t'|' -r ${ghost}/joined_01*_MW) | grep -e "^[0-9][0-9]*\|[0-9][0-9]*$" | awk -F'|' "{printf \"%s|%.4f|GHOST|%s\n\", \$1, $nmean+((\$2-$gmean)*$ratio),NR  }" | sort -t'|' -k1,1 > tmp-oldratings
