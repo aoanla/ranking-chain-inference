@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tacoma",
+               "short_name" : "Tacoma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pierce County",
+               "short_name" : "Pierce County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tacoma, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.3190031,
+                  "lng" : -122.3482139
+               },
+               "southwest" : {
+                  "lat" : 47.166528,
+                  "lng" : -122.562265
+               }
+            },
+            "location" : {
+               "lat" : 47.2528768,
+               "lng" : -122.4442906
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3190031,
+                  "lng" : -122.3482139
+               },
+               "southwest" : {
+                  "lat" : 47.166528,
+                  "lng" : -122.562265
+               }
+            }
+         },
+         "place_id" : "ChIJZ5VlK-5UkFQRgp6w6wecIWI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

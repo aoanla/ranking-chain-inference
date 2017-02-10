@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rohnert Park",
+               "short_name" : "Rohnert Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sonoma County",
+               "short_name" : "Sonoma County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rohnert Park, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.372513,
+                  "lng" : -122.6761
+               },
+               "southwest" : {
+                  "lat" : 38.314215,
+                  "lng" : -122.732099
+               }
+            },
+            "location" : {
+               "lat" : 38.3396367,
+               "lng" : -122.7010984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.372513,
+                  "lng" : -122.6761
+               },
+               "southwest" : {
+                  "lat" : 38.314215,
+                  "lng" : -122.732099
+               }
+            }
+         },
+         "place_id" : "ChIJd_ag-mpKhIARx1I-A6I4iCQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

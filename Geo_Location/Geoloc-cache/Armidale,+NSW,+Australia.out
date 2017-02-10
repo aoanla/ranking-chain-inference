@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Armidale",
+               "short_name" : "Armidale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2350",
+               "short_name" : "2350",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Armidale NSW 2350, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.5001688,
+                  "lng" : 151.6905793
+               },
+               "southwest" : {
+                  "lat" : -30.5232848,
+                  "lng" : 151.6490245
+               }
+            },
+            "location" : {
+               "lat" : -30.5143425,
+               "lng" : 151.6669644
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.5001688,
+                  "lng" : 151.6905793
+               },
+               "southwest" : {
+                  "lat" : -30.5232848,
+                  "lng" : 151.6490245
+               }
+            }
+         },
+         "place_id" : "ChIJfVxG3dufn2sRwClEkLQJBgU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Armidale",
+               "short_name" : "Armidale",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2350",
+               "short_name" : "2350",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Armidale NSW 2350, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.4172,
+                  "lng" : 151.7755999
+               },
+               "southwest" : {
+                  "lat" : -30.5838428,
+                  "lng" : 151.55918
+               }
+            },
+            "location" : {
+               "lat" : -30.4864338,
+               "lng" : 151.6771835
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.4172,
+                  "lng" : 151.7755999
+               },
+               "southwest" : {
+                  "lat" : -30.5838428,
+                  "lng" : 151.55918
+               }
+            }
+         },
+         "place_id" : "ChIJ0WtkGlB1n2sREKxDkLQJBgQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

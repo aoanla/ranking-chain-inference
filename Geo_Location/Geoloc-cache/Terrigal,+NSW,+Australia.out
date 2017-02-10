@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Terrigal",
+               "short_name" : "Terrigal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Terrigal NSW, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.4269575,
+                  "lng" : 151.4524233
+               },
+               "southwest" : {
+                  "lat" : -33.4647726,
+                  "lng" : 151.4049626
+               }
+            },
+            "location" : {
+               "lat" : -33.4469486,
+               "lng" : 151.4445866
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.4269575,
+                  "lng" : 151.4524233
+               },
+               "southwest" : {
+                  "lat" : -33.4647726,
+                  "lng" : 151.4049626
+               }
+            }
+         },
+         "place_id" : "ChIJiVj8d4a1cmsRgN4yFmh9AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

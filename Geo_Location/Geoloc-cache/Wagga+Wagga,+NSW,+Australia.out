@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wagga Wagga",
+               "short_name" : "Wagga Wagga",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wagga Wagga NSW, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -35.02428,
+                  "lng" : 147.5111616
+               },
+               "southwest" : {
+                  "lat" : -35.24233,
+                  "lng" : 147.2464202
+               }
+            },
+            "location" : {
+               "lat" : -35.1250948,
+               "lng" : 147.349649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -35.02428,
+                  "lng" : 147.5111616
+               },
+               "southwest" : {
+                  "lat" : -35.24233,
+                  "lng" : 147.2464202
+               }
+            }
+         },
+         "place_id" : "ChIJb5_giEeZGGsRUO9DkLQJBgQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wagga Wagga",
+               "short_name" : "Wagga Wagga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2650",
+               "short_name" : "2650",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wagga Wagga NSW 2650, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -35.087929,
+                  "lng" : 147.3827005
+               },
+               "southwest" : {
+                  "lat" : -35.12595659999999,
+                  "lng" : 147.3377791
+               }
+            },
+            "location" : {
+               "lat" : -35.1155492,
+               "lng" : 147.3694772
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -35.087929,
+                  "lng" : 147.3827005
+               },
+               "southwest" : {
+                  "lat" : -35.12595659999999,
+                  "lng" : 147.3377791
+               }
+            }
+         },
+         "place_id" : "ChIJd7Z4Op2ZGGsR8CZEkLQJBgU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

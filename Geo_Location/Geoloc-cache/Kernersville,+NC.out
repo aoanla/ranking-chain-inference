@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kernersville",
+               "short_name" : "Kernersville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Forsyth County",
+               "short_name" : "Forsyth County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kernersville, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.1472009,
+                  "lng" : -80.0247069
+               },
+               "southwest" : {
+                  "lat" : 36.0414418,
+                  "lng" : -80.1540571
+               }
+            },
+            "location" : {
+               "lat" : 36.1198588,
+               "lng" : -80.07365329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1472009,
+                  "lng" : -80.0247069
+               },
+               "southwest" : {
+                  "lat" : 36.0414418,
+                  "lng" : -80.1540571
+               }
+            }
+         },
+         "place_id" : "ChIJA76DJbYAU4gRBepsIfETt0o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

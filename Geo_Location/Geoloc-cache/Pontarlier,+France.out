@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pontarlier",
+               "short_name" : "Pontarlier",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Doubs",
+               "short_name" : "Doubs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Franche-Comté",
+               "short_name" : "Franche-Comté",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pontarlier, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.957868,
+                  "lng" : 6.447696
+               },
+               "southwest" : {
+                  "lat" : 46.87577599999999,
+                  "lng" : 6.3115389
+               }
+            },
+            "location" : {
+               "lat" : 46.9041039,
+               "lng" : 6.354241999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.957868,
+                  "lng" : 6.447696
+               },
+               "southwest" : {
+                  "lat" : 46.87577599999999,
+                  "lng" : 6.3115389
+               }
+            }
+         },
+         "place_id" : "ChIJYfccJMa8jUcRNpLR1gwyWHc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

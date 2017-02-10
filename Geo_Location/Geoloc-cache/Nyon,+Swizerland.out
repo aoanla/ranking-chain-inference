@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nyon",
+               "short_name" : "Nyon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nyon District",
+               "short_name" : "Nyon District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vaud",
+               "short_name" : "VD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Switzerland",
+               "short_name" : "CH",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nyon, Switzerland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4064,
+                  "lng" : 6.247679100000001
+               },
+               "southwest" : {
+                  "lat" : 46.3664733,
+                  "lng" : 6.20566
+               }
+            },
+            "location" : {
+               "lat" : 46.3832683,
+               "lng" : 6.2347852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4064,
+                  "lng" : 6.247679100000001
+               },
+               "southwest" : {
+                  "lat" : 46.3664733,
+                  "lng" : 6.20566
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJZwgvdy9DjEcRR69BEhrUt28",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

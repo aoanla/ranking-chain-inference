@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saratoga Springs",
+               "short_name" : "Saratoga Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saratoga County",
+               "short_name" : "Saratoga County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saratoga Springs, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1078819,
+                  "lng" : -73.6950229
+               },
+               "southwest" : {
+                  "lat" : 43.0154019,
+                  "lng" : -73.84881279999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0831301,
+               "lng" : -73.78456509999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1078819,
+                  "lng" : -73.6950229
+               },
+               "southwest" : {
+                  "lat" : 43.0154019,
+                  "lng" : -73.84881279999999
+               }
+            }
+         },
+         "place_id" : "ChIJOdRbx0443okRqKKUG2pFHWQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

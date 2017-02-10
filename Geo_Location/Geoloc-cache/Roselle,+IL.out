@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roselle",
+               "short_name" : "Roselle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bloomingdale Township",
+               "short_name" : "Bloomingdale Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "DuPage County",
+               "short_name" : "Dupage County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Roselle, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0004281,
+                  "lng" : -88.04649809999999
+               },
+               "southwest" : {
+                  "lat" : 41.959729,
+                  "lng" : -88.1258139
+               }
+            },
+            "location" : {
+               "lat" : 41.9847504,
+               "lng" : -88.07979329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0004281,
+                  "lng" : -88.04649809999999
+               },
+               "southwest" : {
+                  "lat" : 41.959729,
+                  "lng" : -88.1258139
+               }
+            }
+         },
+         "place_id" : "ChIJU_LSeAGsD4gRoElQz5W1Cgc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

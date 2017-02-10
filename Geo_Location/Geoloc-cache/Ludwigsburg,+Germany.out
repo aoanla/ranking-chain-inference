@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ludwigsburg",
+               "short_name" : "Ludwigsburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ludwigsburg",
+               "short_name" : "LB",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Stuttgart",
+               "short_name" : "Süd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ludwigsburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.93255600000001,
+                  "lng" : 9.3124755
+               },
+               "southwest" : {
+                  "lat" : 48.8734228,
+                  "lng" : 9.137365599999999
+               }
+            },
+            "location" : {
+               "lat" : 48.8940624,
+               "lng" : 9.195463999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.93255600000001,
+                  "lng" : 9.3124755
+               },
+               "southwest" : {
+                  "lat" : 48.8734228,
+                  "lng" : 9.137365599999999
+               }
+            }
+         },
+         "place_id" : "ChIJG0r0mB3OmUcREC8JjTz9HwQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

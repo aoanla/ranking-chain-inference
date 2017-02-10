@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montpellier",
+               "short_name" : "Montpellier",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hérault",
+               "short_name" : "Hérault",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Languedoc-Roussillon",
+               "short_name" : "Languedoc-Roussillon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montpellier, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6532999,
+                  "lng" : 3.941279
+               },
+               "southwest" : {
+                  "lat" : 43.566744,
+                  "lng" : 3.807044
+               }
+            },
+            "location" : {
+               "lat" : 43.610769,
+               "lng" : 3.876716
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6532999,
+                  "lng" : 3.941279
+               },
+               "southwest" : {
+                  "lat" : 43.566744,
+                  "lng" : 3.807044
+               }
+            }
+         },
+         "place_id" : "ChIJsZ3dJQevthIRAuiUKHRWh60",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uruguaiana",
+               "short_name" : "Uruguaiana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uruguaiana",
+               "short_name" : "Uruguaiana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uruguaiana, Uruguaiana - RS, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.7410565,
+                  "lng" : -57.0377425
+               },
+               "southwest" : {
+                  "lat" : -29.7992215,
+                  "lng" : -57.1177157
+               }
+            },
+            "location" : {
+               "lat" : -29.7619121,
+               "lng" : -57.08584279999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.7410565,
+                  "lng" : -57.0377425
+               },
+               "southwest" : {
+                  "lat" : -29.7992215,
+                  "lng" : -57.1177157
+               }
+            }
+         },
+         "place_id" : "ChIJf4YeOhZbU5QR9Gc9WXDU5Vc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

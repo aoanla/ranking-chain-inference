@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dothan",
+               "short_name" : "Dothan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Houston County",
+               "short_name" : "Houston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dothan, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.333962,
+                  "lng" : -85.29432179999999
+               },
+               "southwest" : {
+                  "lat" : 31.12382999999999,
+                  "lng" : -85.518849
+               }
+            },
+            "location" : {
+               "lat" : 31.2232313,
+               "lng" : -85.3904888
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.333962,
+                  "lng" : -85.29432179999999
+               },
+               "southwest" : {
+                  "lat" : 31.12382999999999,
+                  "lng" : -85.518849
+               }
+            }
+         },
+         "place_id" : "ChIJjaXCA1SNkogRryfBw72yLy4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

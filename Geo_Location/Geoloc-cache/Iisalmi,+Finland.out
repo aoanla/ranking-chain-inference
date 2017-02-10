@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iisalmi",
+               "short_name" : "Iisalmi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Iisalmi",
+               "short_name" : "Iisalmi",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "74100",
+               "short_name" : "74100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "74100 Iisalmi, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 63.557773,
+               "lng" : 27.1917194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.5627412,
+                  "lng" : 27.2077268
+               },
+               "southwest" : {
+                  "lat" : 63.55280399999999,
+                  "lng" : 27.175712
+               }
+            }
+         },
+         "place_id" : "ChIJsy4uAAV2g0YRD6mhxGnWkLA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

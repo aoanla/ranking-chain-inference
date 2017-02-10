@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shasta Lake",
+               "short_name" : "Shasta Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shasta County",
+               "short_name" : "Shasta County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shasta Lake, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.709755,
+                  "lng" : -122.3369849
+               },
+               "southwest" : {
+                  "lat" : 40.650476,
+                  "lng" : -122.4113281
+               }
+            },
+            "location" : {
+               "lat" : 40.6804279,
+               "lng" : -122.3708419
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.709755,
+                  "lng" : -122.3369849
+               },
+               "southwest" : {
+                  "lat" : 40.650476,
+                  "lng" : -122.4113281
+               }
+            }
+         },
+         "place_id" : "ChIJcdXrbgGR0lQRsST2E7SUoFE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

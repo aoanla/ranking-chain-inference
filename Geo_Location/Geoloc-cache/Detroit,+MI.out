@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Detroit",
+               "short_name" : "Detroit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Detroit, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.45023,
+                  "lng" : -82.91045099999999
+               },
+               "southwest" : {
+                  "lat" : 42.255192,
+                  "lng" : -83.287959
+               }
+            },
+            "location" : {
+               "lat" : 42.331427,
+               "lng" : -83.0457538
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.45023,
+                  "lng" : -82.91045099999999
+               },
+               "southwest" : {
+                  "lat" : 42.255192,
+                  "lng" : -83.287959
+               }
+            }
+         },
+         "place_id" : "ChIJdR3LEAHKJIgR0sS5NU6Gdlc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

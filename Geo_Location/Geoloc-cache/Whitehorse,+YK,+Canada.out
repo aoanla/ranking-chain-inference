@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whitehorse",
+               "short_name" : "Whitehorse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yukon",
+               "short_name" : "Yukon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Yukon Territory",
+               "short_name" : "YT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Whitehorse, YT, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.84586799999999,
+                  "lng" : -134.8905214
+               },
+               "southwest" : {
+                  "lat" : 60.55364099999999,
+                  "lng" : -135.2786347
+               }
+            },
+            "location" : {
+               "lat" : 60.7211871,
+               "lng" : -135.0568449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.84586799999999,
+                  "lng" : -134.8905214
+               },
+               "southwest" : {
+                  "lat" : 60.55364099999999,
+                  "lng" : -135.2786347
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJgVO8gJhEVFERSzXQZOq3PeQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

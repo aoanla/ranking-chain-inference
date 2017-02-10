@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Croydon",
+               "short_name" : "Croydon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "London Borough of Croydon",
+               "short_name" : "London Borough of Croydon",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater London",
+               "short_name" : "Greater London",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Croydon, Greater London, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.40585189999999,
+                  "lng" : -0.0106914
+               },
+               "southwest" : {
+                  "lat" : 51.3298043,
+                  "lng" : -0.1537876
+               }
+            },
+            "location" : {
+               "lat" : 51.376165,
+               "lng" : -0.098234
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.40585189999999,
+                  "lng" : -0.0106914
+               },
+               "southwest" : {
+                  "lat" : 51.3298043,
+                  "lng" : -0.1537876
+               }
+            }
+         },
+         "place_id" : "ChIJcxZChCr-dUgRRUkMxV3ydNU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Croydon",
+               "short_name" : "Croydon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Royston",
+               "short_name" : "Royston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Croydon",
+               "short_name" : "Croydon",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "South Cambridgeshire District",
+               "short_name" : "South Cambridgeshire District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cambridgeshire",
+               "short_name" : "Cambridgeshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SG8",
+               "short_name" : "SG8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Croydon, Royston, Cambridgeshire SG8, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.128545,
+               "lng" : -0.078445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1298939802915,
+                  "lng" : -0.07709601970849797
+               },
+               "southwest" : {
+                  "lat" : 52.1271960197085,
+                  "lng" : -0.07979398029150203
+               }
+            }
+         },
+         "place_id" : "ChIJ_SmcysrWd0gRpUa6Putnkfg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

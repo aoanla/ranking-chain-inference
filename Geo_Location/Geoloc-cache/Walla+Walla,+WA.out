@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Walla Walla",
+               "short_name" : "Walla Walla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Walla Walla County",
+               "short_name" : "Walla Walla County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Walla Walla, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.089531,
+                  "lng" : -118.2525379
+               },
+               "southwest" : {
+                  "lat" : 46.0359789,
+                  "lng" : -118.4149139
+               }
+            },
+            "location" : {
+               "lat" : 46.0645809,
+               "lng" : -118.3430209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.089531,
+                  "lng" : -118.2525379
+               },
+               "southwest" : {
+                  "lat" : 46.0359789,
+                  "lng" : -118.4149139
+               }
+            }
+         },
+         "place_id" : "ChIJO_fQoEsVolQR1LEd58-vxBI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

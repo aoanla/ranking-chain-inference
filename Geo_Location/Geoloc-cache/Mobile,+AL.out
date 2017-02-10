@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mobile",
+               "short_name" : "Mobile",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mobile County",
+               "short_name" : "Mobile County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mobile, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.843458,
+                  "lng" : -87.9566159
+               },
+               "southwest" : {
+                  "lat" : 30.5603742,
+                  "lng" : -88.22125290000001
+               }
+            },
+            "location" : {
+               "lat" : 30.6953657,
+               "lng" : -88.0398912
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.843458,
+                  "lng" : -87.9566159
+               },
+               "southwest" : {
+                  "lat" : 30.5603742,
+                  "lng" : -88.22125290000001
+               }
+            }
+         },
+         "place_id" : "ChIJqfhM8R1OmogRGp6Jd1QO6Ew",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

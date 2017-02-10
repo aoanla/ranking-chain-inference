@@ -1,0 +1,75 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Central Avenue",
+               "short_name" : "Central Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Hays",
+               "short_name" : "Hays",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taber",
+               "short_name" : "Taber",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Division No. 2",
+               "short_name" : "Division No. 2",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T0K 1B0",
+               "short_name" : "T0K 1B0",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Central Ave, Hays, AB T0K 1B0, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.1123086,
+                  "lng" : -111.738557
+               },
+               "southwest" : {
+                  "lat" : 50.0909876,
+                  "lng" : -111.8041806
+               }
+            },
+            "location" : {
+               "lat" : 50.1060771,
+               "lng" : -111.7711131
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1123086,
+                  "lng" : -111.738557
+               },
+               "southwest" : {
+                  "lat" : 50.0909876,
+                  "lng" : -111.8041806
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ0UpVrTkGbVMRInN1Y_9REe4",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

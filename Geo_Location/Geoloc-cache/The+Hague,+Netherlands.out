@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "The Hague",
+               "short_name" : "The Hague",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "The Hague",
+               "short_name" : "The Hague",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "The Hague, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.1285368,
+                  "lng" : 4.4230263
+               },
+               "southwest" : {
+                  "lat" : 52.0147717,
+                  "lng" : 4.1967104
+               }
+            },
+            "location" : {
+               "lat" : 52.0704978,
+               "lng" : 4.3006999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.1285368,
+                  "lng" : 4.4230263
+               },
+               "southwest" : {
+                  "lat" : 52.0147717,
+                  "lng" : 4.1967104
+               }
+            }
+         },
+         "place_id" : "ChIJcb2YQi-3xUcREGwejVreAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Athens",
+               "short_name" : "Athens",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clarke County",
+               "short_name" : "Clarke County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Athens, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.040572,
+                  "lng" : -83.24086
+               },
+               "southwest" : {
+                  "lat" : 33.8479769,
+                  "lng" : -83.537385
+               }
+            },
+            "location" : {
+               "lat" : 33.9519347,
+               "lng" : -83.357567
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.040572,
+                  "lng" : -83.24086
+               },
+               "southwest" : {
+                  "lat" : 33.8479769,
+                  "lng" : -83.537385
+               }
+            }
+         },
+         "place_id" : "ChIJuTO0tBlt9ogRfGGd1gJydE0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

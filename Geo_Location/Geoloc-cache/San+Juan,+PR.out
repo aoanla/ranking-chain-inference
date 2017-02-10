@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Juan",
+               "short_name" : "San Juan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Juan",
+               "short_name" : "San Juan",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Puerto Rico",
+               "short_name" : "PR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Juan, San Juan, Puerto Rico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.4720048,
+                  "lng" : -65.991542
+               },
+               "southwest" : {
+                  "lat" : 18.297648,
+                  "lng" : -66.12514089999999
+               }
+            },
+            "location" : {
+               "lat" : 18.4655394,
+               "lng" : -66.10573549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.4720048,
+                  "lng" : -65.991542
+               },
+               "southwest" : {
+                  "lat" : 18.297648,
+                  "lng" : -66.12514089999999
+               }
+            }
+         },
+         "place_id" : "ChIJbxlo4m9oA4wR3FqTXA9_a60",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

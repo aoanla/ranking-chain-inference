@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bluefield",
+               "short_name" : "Bluefield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "I",
+               "short_name" : "I",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mercer County",
+               "short_name" : "Mercer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bluefield, WV, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2926319,
+                  "lng" : -81.08862479999999
+               },
+               "southwest" : {
+                  "lat" : 37.2348739,
+                  "lng" : -81.26535609999999
+               }
+            },
+            "location" : {
+               "lat" : 37.2698395,
+               "lng" : -81.2223195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2926319,
+                  "lng" : -81.08862479999999
+               },
+               "southwest" : {
+                  "lat" : 37.2348739,
+                  "lng" : -81.26535609999999
+               }
+            }
+         },
+         "place_id" : "ChIJGZu83XY_TogRqTDGMTz4r80",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

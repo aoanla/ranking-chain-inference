@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toluca",
+               "short_name" : "Toluca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toluca",
+               "short_name" : "Toluca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Mexico",
+               "short_name" : "Méx.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toluca, State of Mexico, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.345726,
+                  "lng" : -99.5559416
+               },
+               "southwest" : {
+                  "lat" : 19.2424987,
+                  "lng" : -99.7064855
+               }
+            },
+            "location" : {
+               "lat" : 19.2826098,
+               "lng" : -99.6556653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.345726,
+                  "lng" : -99.5559416
+               },
+               "southwest" : {
+                  "lat" : 19.2424987,
+                  "lng" : -99.7064855
+               }
+            }
+         },
+         "place_id" : "ChIJuetQKomJzYURxAgCVdVKP60",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peterborough",
+               "short_name" : "Peterborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peterborough County",
+               "short_name" : "Peterborough County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Peterborough, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.378223,
+                  "lng" : -78.268288
+               },
+               "southwest" : {
+                  "lat" : 44.2521659,
+                  "lng" : -78.3828599
+               }
+            },
+            "location" : {
+               "lat" : 44.309058,
+               "lng" : -78.31974699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.378223,
+                  "lng" : -78.268288
+               },
+               "southwest" : {
+                  "lat" : 44.2521659,
+                  "lng" : -78.3828599
+               }
+            }
+         },
+         "place_id" : "ChIJVzoQtZGM1YkR4Bgjxyh7AwU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

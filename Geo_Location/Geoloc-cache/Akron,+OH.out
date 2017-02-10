@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Akron",
+               "short_name" : "Akron",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Summit County",
+               "short_name" : "Summit County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Akron, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.171061,
+                  "lng" : -81.4049419
+               },
+               "southwest" : {
+                  "lat" : 40.9976731,
+                  "lng" : -81.62101389999999
+               }
+            },
+            "location" : {
+               "lat" : 41.0814447,
+               "lng" : -81.51900529999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.171061,
+                  "lng" : -81.4049419
+               },
+               "southwest" : {
+                  "lat" : 40.9976731,
+                  "lng" : -81.62101389999999
+               }
+            }
+         },
+         "place_id" : "ChIJt_oui5XXMIgRBG0m_ZVsySk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valence",
+               "short_name" : "Valence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Drome",
+               "short_name" : "Drome",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valence, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.959722,
+                  "lng" : 4.9783899
+               },
+               "southwest" : {
+                  "lat" : 44.8868601,
+                  "lng" : 4.854378100000001
+               }
+            },
+            "location" : {
+               "lat" : 44.933393,
+               "lng" : 4.89236
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.959722,
+                  "lng" : 4.9783899
+               },
+               "southwest" : {
+                  "lat" : 44.8868601,
+                  "lng" : 4.854378100000001
+               }
+            }
+         },
+         "place_id" : "ChIJxyEyxplX9UcRgLW_5CqrCAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

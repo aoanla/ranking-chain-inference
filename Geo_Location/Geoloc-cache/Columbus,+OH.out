@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbus",
+               "short_name" : "Columbus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Columbus, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1572719,
+                  "lng" : -82.77137809999999
+               },
+               "southwest" : {
+                  "lat" : 39.808631,
+                  "lng" : -83.2102799
+               }
+            },
+            "location" : {
+               "lat" : 39.9611755,
+               "lng" : -82.99879419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1572719,
+                  "lng" : -82.77137809999999
+               },
+               "southwest" : {
+                  "lat" : 39.808631,
+                  "lng" : -83.2102799
+               }
+            }
+         },
+         "place_id" : "ChIJcd6QucGJOIgRM7Wxz_hmMuQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dalton",
+               "short_name" : "Dalton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Whitfield County",
+               "short_name" : "Whitfield County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dalton, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.8202499,
+                  "lng" : -84.8598398
+               },
+               "southwest" : {
+                  "lat" : 34.6998669,
+                  "lng" : -85.037297
+               }
+            },
+            "location" : {
+               "lat" : 34.7698021,
+               "lng" : -84.9702228
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.8202499,
+                  "lng" : -84.91913
+               },
+               "southwest" : {
+                  "lat" : 34.6998669,
+                  "lng" : -85.037297
+               }
+            }
+         },
+         "place_id" : "ChIJj47ynNZ0YIgRULdClZJ3iSU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

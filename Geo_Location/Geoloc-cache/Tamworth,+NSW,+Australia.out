@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tamworth",
+               "short_name" : "Tamworth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2340",
+               "short_name" : "2340",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tamworth NSW 2340, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.0838314,
+                  "lng" : 150.940993
+               },
+               "southwest" : {
+                  "lat" : -31.1017337,
+                  "lng" : 150.9231796
+               }
+            },
+            "location" : {
+               "lat" : -31.091085,
+               "lng" : 150.9303741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.0838314,
+                  "lng" : 150.940993
+               },
+               "southwest" : {
+                  "lat" : -31.1017337,
+                  "lng" : 150.9231796
+               }
+            }
+         },
+         "place_id" : "ChIJH9ZCOLaYCmsRcClEkLQJBgU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tamworth",
+               "short_name" : "Tamworth",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2340",
+               "short_name" : "2340",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tamworth NSW 2340, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.0363799,
+                  "lng" : 151.03585
+               },
+               "southwest" : {
+                  "lat" : -31.20926,
+                  "lng" : 150.8145099
+               }
+            },
+            "location" : {
+               "lat" : -31.1063157,
+               "lng" : 150.9307341
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.0363799,
+                  "lng" : 151.03585
+               },
+               "southwest" : {
+                  "lat" : -31.20926,
+                  "lng" : 150.8145099
+               }
+            }
+         },
+         "place_id" : "ChIJWbmFLKaZCmsREMRDkLQJBgQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

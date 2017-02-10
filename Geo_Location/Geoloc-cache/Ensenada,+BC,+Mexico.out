@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ensenada",
+               "short_name" : "Ensenada",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ensenada",
+               "short_name" : "Ensenada",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baja California",
+               "short_name" : "B.C.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ensenada, Baja California, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9138515,
+                  "lng" : -116.550696
+               },
+               "southwest" : {
+                  "lat" : 31.7666551,
+                  "lng" : -116.669452
+               }
+            },
+            "location" : {
+               "lat" : 31.8667427,
+               "lng" : -116.5963713
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9138515,
+                  "lng" : -116.550696
+               },
+               "southwest" : {
+                  "lat" : 31.7666551,
+                  "lng" : -116.669452
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9blUH_CO2IARUaZ2thuYYPM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

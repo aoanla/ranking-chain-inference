@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dijon",
+               "short_name" : "Dijon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Côte-d'Or",
+               "short_name" : "Côte-d'Or",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Burgundy",
+               "short_name" : "Burgundy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dijon, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.377463,
+                  "lng" : 5.101999
+               },
+               "southwest" : {
+                  "lat" : 47.286299,
+                  "lng" : 4.962442999999999
+               }
+            },
+            "location" : {
+               "lat" : 47.322047,
+               "lng" : 5.04148
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.377463,
+                  "lng" : 5.101999
+               },
+               "southwest" : {
+                  "lat" : 47.286299,
+                  "lng" : 4.962442999999999
+               }
+            }
+         },
+         "place_id" : "ChIJdZb974yd8kcR0FgUszTOCQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

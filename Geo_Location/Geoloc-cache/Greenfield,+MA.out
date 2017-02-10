@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenfield",
+               "short_name" : "Greenfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklin County",
+               "short_name" : "Franklin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greenfield, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.65586,
+                  "lng" : -72.53989589999999
+               },
+               "southwest" : {
+                  "lat" : 42.56619200000001,
+                  "lng" : -72.6498589
+               }
+            },
+            "location" : {
+               "lat" : 42.587915,
+               "lng" : -72.5994104
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.65586,
+                  "lng" : -72.53989589999999
+               },
+               "southwest" : {
+                  "lat" : 42.56619200000001,
+                  "lng" : -72.6498589
+               }
+            }
+         },
+         "place_id" : "ChIJQ-NdUfIl4YkRw6tFIauwx50",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

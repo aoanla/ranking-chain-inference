@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kannapolis",
+               "short_name" : "Kannapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "4, Kannapolis",
+               "short_name" : "4, Kannapolis",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cabarrus County",
+               "short_name" : "Cabarrus County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kannapolis, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.541202,
+                  "lng" : -80.5398318
+               },
+               "southwest" : {
+                  "lat" : 35.4104929,
+                  "lng" : -80.7790589
+               }
+            },
+            "location" : {
+               "lat" : 35.4873613,
+               "lng" : -80.6217341
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.541202,
+                  "lng" : -80.5398318
+               },
+               "southwest" : {
+                  "lat" : 35.4104929,
+                  "lng" : -80.7790589
+               }
+            }
+         },
+         "place_id" : "ChIJPW97u5QIVIgRHdxKah_1bak",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

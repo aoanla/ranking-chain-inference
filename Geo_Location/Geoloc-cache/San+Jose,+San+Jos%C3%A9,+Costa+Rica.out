@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San José",
+               "short_name" : "San José",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Jose",
+               "short_name" : "San Jose",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Costa Rica",
+               "short_name" : "CR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San José, Costa Rica",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 9.9712598,
+                  "lng" : -84.047191
+               },
+               "southwest" : {
+                  "lat" : 9.899968699999999,
+                  "lng" : -84.1794991
+               }
+            },
+            "location" : {
+               "lat" : 9.9280694,
+               "lng" : -84.0907246
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.9712598,
+                  "lng" : -84.047191
+               },
+               "southwest" : {
+                  "lat" : 9.899968699999999,
+                  "lng" : -84.1794991
+               }
+            }
+         },
+         "place_id" : "ChIJxRUNxULjoI8RgrgRn2pqdOY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

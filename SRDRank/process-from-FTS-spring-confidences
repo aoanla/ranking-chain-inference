@@ -1,0 +1,179 @@
+# Licensed by aoanla under https://creativecommons.org/licenses/by-nc-sa/4.0/
+import parse_fts_csv as pfc
+import time
+import numpy as np
+import networkx
+import matplotlib.pyplot as plt
+import scipy.optimize as optimize
+import sys
+import collections as c
+#or use matplotlib's implementation: http://matplotlib.org/api/mlab_api.html#matplotlib.mlab.PCA
+#import princomp as pcpa
+#import sklearn.decomposition as deco
+###parameters
+##date limits
+
+#argv[1] = time to end record collection at
+#argv[2] = list of genuses to include, comma separated
+#argv[4] = seeded rank file to load for pre-seeding of calculation (for improved optimisation speed)
+
+print "Time:"+sys.argv[1]
+print "Genii:"+str(sys.argv[2].strip().split(','))
+
+#sys.exit()
+
+datelim = time.mktime(time.strptime(sys.argv[1], "%d %b %y"))   #end of sample training secords
+datestart = datelim - 12*28*24*60*60 # 9 months = time for largest stable group to form / minimum number of total connected groups to be reached with this dataset
+#datestart = datelim - 4*28*24*60*60 # 6 months, testing smaller sample size effects
+
+datetest = datelim + 60*60*24*1 #1 month after datelim, end of testing records
+
+
+
+##source data
+teamfile = "flattrackstats_teams_2016-12-02.csv"
+#teamfile = "top40.csv"
+boutfile = ["flattrackstats_bouts_2016-12-02.csv",] # "fts-additional-1.cvs", "fts-additional-2.cvs", "fts-additional-3.cvs", "fts-additional-4.cvs", "fts-additional-5.cvs", "fts-additional-6.cvs","fts-additional-7.cvs","fts-additional-8.cvs","fts-additional-9.cvs","fts-additional-10.cvs"]
+#boutfile = "flattrackstats_bouts_2016-06-06-Champs2015.csv"
+
+
+
+###sequencing
+##initialisation
+teams_in = pfc.import_teams(teamfile)
+bouts_in = pfc.import_bouts(boutfile) #second factor is Laplace/Keener ratio perturbation
+print len(bouts_in)
+##selection
+teams_winnowed = pfc.select_teams(teams_in,genuses=sys.argv[2].split(','))
+(bouts_out,boutgraph,names) = pfc.select_bouts_weighted(bouts_in,teams_winnowed,datestart,datelim,datetest,weight='ratio',bidir=True)
+
+print len(bouts_out[0])
+
+##subgraph selection
+
+#select largest subgraph - we've changed this to return the actual subgraphs!!
+subgraphs = pfc.process_subgraphs_2_directed(boutgraph, teams_winnowed)
+smax = {}
+subgraphs.sort(reverse=True, key = len )
+
+#print subgraphs[0].nodes()
+#print '3409' in subgraphs[0].nodes()
+
+# subgraphs[0] is now the dict of the teams in the largest group as id:{name,type etc} dict
+
+# potentially, we don't want the "maximal boutgraph" as got below - we may want to weight edges, merge parallel edges (for example, as weighted sum of logscoreratio by recency)
+
+#for example, this is the adjacency matrix for the maximal subgraph
+#adj_matrix = networkx.adjacency_matrix(subgraphs[0])
+
+
+#networkx.shortest_path_length(G, weight='weight'
+
+#posvector = np.random.random(len(subgraphs[0].nodes())) * scalefactor
+
+
+#minimise the energy, using the first derivative (the forces):
+
+#res = optimize.minimize(energy,posvector, args=(tindex,subgraphs[0]), method = 'BFGS', jac = force)
+
+
+#we want to calculate the errors. There's two ways I can think of to do this:
+#    1) perturb each element individually, and measure the delta in energy
+#    2) calculate the "weakest" connection between each element and the rest of the community
+#           -> this is essentially the maxflow/mincut algorithm
+#              -> we probably want to check multiple pairs. 
+#                   Source -> [Sinks of same Genus]
+#                   Source -> [Sinks of same Region]
+#                   Source -> [Sinks of different Genii]
+#                   Source -> [Sinks of different Regions]
+#              We'd expect the same Genus/Region links to be stronger.
+#              As Women is a bigger group than Men, it's probably safe to assume Women doesn't rely on Men.
+#              [Men have an absolute Ranking dependance on Women, relatively, so the -> Women, -> Women,USA links are critical]
+
+#capacity for an edge is the same as effective stiffness
+def calc_capacity(kfactor):
+	return np.exp(-kfactor);
+
+for e in subgraphs[0].edges(data='kfactor'): #iterate through the edges, adding their capacity property so minimum_cut can work
+	subgraphs[0][e[0]][e[1]]['capacity'] = calc_capacity(e[2]['kfactor']);
+
+
+#we need to check - n to best node (posvector highest?), worst node (posvector lowest), best node in genus (if not Women), worst node in genus (if not Women)
+# In fact, ideally we need the average [to genus] and the average [out of genus]?
+#  More thought suggests that we should attempt to identify the largest clique in the graph [if one exists]. If such a dominant clique exists, it makes sense that
+# [within it] the total capacity out of a node is its max flow
+# [outside it] the capacity to a node [the one with max flow?] in the clique is our max flow
+
+# maximum_flow(Graph,source, sink) # because we put our capacity value in a value called "capacity"
+
+#I think we can use the mincut returns to actually solve our problem here
+#minimum_cut returns the flow + the partitions created (that is, if it returns r, then
+# r[0] is the flow, and r[1][0] and r[1][1] are the sets of nodes divided when you make the cut
+# if one of r[1][0],r[1][1] is length 1, then that node has a weak connection itself
+# if neither is, then we have a properly divided subsets - 
+#     experimentally, if we do "WFTDA Top 10" to "MRDA Top 10", then we get two sets of nodes which 
+#	approximately equivalent to "Women+[Aussie Men]" and "US Men" on the 1st October set.
+#     if we do "WFTDA Top 10" to another "WFTDA Top 10", we get "Everyone else" and "the weaker of the two WFTDA Top 10s in connections"
+# So we can use minimum_cuts against a small number of targets to identify good measures.
+#
+
+# Candidates to test against: 1) find members of the two genuses:
+
+# women_teams = [k for k in names if teams_winnowed[k][2] == 'W']
+# men_teams = [k for k in names if teams_winnowed[k][2] == 'M']
+
+# usa_teams = [k for k in names
+
+# Some testing looks like nodes within Women group are likely to be weak themselves, nodes in Men are weak at connection between Men/Women
+# So - find the strongest node in women [the one with highest capacity from itself - so just sort by sum[capacities of edges]
+
+def node_cap(G,node):
+	return sum([e['capacity'] for e in G[node].values()])
+
+subnames = subgraphs[0].nodes()
+
+maxnode = sorted(subnames, key=lambda l:node_cap(subgraphs[0],l))[-1]
+#maxnode_m = sorted(men_teams, key=lambda l:node_cap(subgraphs[0],l))[-1]
+
+#get minimum cuts for routes to the most connected node, maxnode [except for maxnode, which obviously can't be tested against itself]
+globalparts = {n:networkx.minimum_cut(subgraphs[0],maxnode,n) for n in subnames if n != maxnode}
+
+connectivity = {n:{'global':globalparts[n][0], 'pivot':False, 'local':globalparts[n][0], 'localpart':0} for n in subnames if n != maxnode }
+
+connectivity[maxnode] = {'global':node_cap(subgraphs[0],maxnode),'pivot': True, 'local':node_cap(subgraphs[0],maxnode),'localpart':0}
+
+#global connectivity is globalparts[n][0] for all nodes but maxnode (which has connectivity = node_cap(subgraphs[0],maxnode) by definition)
+
+#now, find our valid subgroups: - we (arbitrarily) decide that sensible subgroups must be at least 11 teams in size... and (formally) that a subgroup must be < half the size of the total group!
+potential_subparts = sorted([[x[1][1],False] for x in globalparts.values() if len(x[1][1]) > 10 and len(x[1][1]) < len(globalparts)/2 ],key=lambda s:-len(s[0]))
+#now we need to winnow these down to eliminate smaller groups which are subsets of the larger (we only want 1 level of subset partitioning here!)
+for n in range(len(potential_subparts)):    #operate on sorted copy of list, as we want to go from largest subsets first
+	if potential_subparts[n][1] == True:
+		continue #already marked as a subset
+	for l in potential_subparts[n+1:]: #else check all remaining subparts to see if we own them
+		if l[1] == True:
+			continue #already someone else's subset
+		l[1] = potential_subparts[n][0].issuperset(l[0])
+
+#the true subparts are those which are not subsets of larger subparts
+true_subparts = [x[0] for x in potential_subparts if x[1] is False]
+
+for i in range(len(true_subparts)):
+	partset = list(true_subparts[i])
+	local_maxnode = sorted(partset, key=lambda l:node_cap(subgraphs[0],l))[-1]
+	connectivity[local_maxnode]['local'] = node_cap(subgraphs[0],local_maxnode)
+	connectivity[local_maxnode]['localpart'] = i+1
+	connectivity[local_maxnode]['pivot'] = True
+	for p in [x for x in partset if x != local_maxnode]:
+		connectivity[p]['localpart'] = i+1
+		connectivity[p]['local'] = networkx.minimum_cut(subgraphs[0],local_maxnode,p)[0]
+
+output='-'.join(sys.argv[1].split(' '))+'confidence'
+
+of=open(output,'w')
+
+for n in connectivity.keys():
+	v = connectivity[n]
+	of.write("|".join([n,str(v['global']),str(v['localpart']),str(v['local']),str(v['pivot'])])+'\n')
+
+of.close()

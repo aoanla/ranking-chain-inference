@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brevard County",
+               "short_name" : "Brevard County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brevard County, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.791396,
+                  "lng" : -80.44637849999999
+               },
+               "southwest" : {
+                  "lat" : 27.822058,
+                  "lng" : -80.98724989999999
+               }
+            },
+            "location" : {
+               "lat" : 28.263933,
+               "lng" : -80.7214417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.791396,
+                  "lng" : -80.44637849999999
+               },
+               "southwest" : {
+                  "lat" : 27.822058,
+                  "lng" : -80.98724989999999
+               }
+            }
+         },
+         "place_id" : "ChIJbXb9O7z93YgRkWvSibvwmzI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

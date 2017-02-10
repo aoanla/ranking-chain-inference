@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wrangell",
+               "short_name" : "Wrangell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Petersburg Borough",
+               "short_name" : "Petersburg Borough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wrangell, AK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.494072,
+                  "lng" : -132.2193055
+               },
+               "southwest" : {
+                  "lat" : 56.3249061,
+                  "lng" : -132.3941715
+               }
+            },
+            "location" : {
+               "lat" : 56.4708333,
+               "lng" : -132.3766666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.494072,
+                  "lng" : -132.2193055
+               },
+               "southwest" : {
+                  "lat" : 56.3249061,
+                  "lng" : -132.3941715
+               }
+            }
+         },
+         "place_id" : "ChIJq8l0wDrKCFQRc9jhlV0bTc0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

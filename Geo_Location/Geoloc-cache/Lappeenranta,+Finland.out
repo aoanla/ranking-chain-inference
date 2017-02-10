@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lappeenranta",
+               "short_name" : "Lappeenranta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lappeenranta",
+               "short_name" : "Lappeenranta",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lappeenranta, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.2686983,
+                  "lng" : 28.77659379999999
+               },
+               "southwest" : {
+                  "lat" : 60.66649839999999,
+                  "lng" : 27.7096137
+               }
+            },
+            "location" : {
+               "lat" : 61.05499289999999,
+               "lng" : 28.1896628
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.268695,
+                  "lng" : 28.77659379999999
+               },
+               "southwest" : {
+                  "lat" : 60.66649839999999,
+                  "lng" : 27.7096137
+               }
+            }
+         },
+         "place_id" : "ChIJ2Z-rypaVkEYRlw-IqYCsZHY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

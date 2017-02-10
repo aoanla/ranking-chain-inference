@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tucson",
+               "short_name" : "Tucson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pima County",
+               "short_name" : "Pima County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tucson, AZ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.32016610000001,
+                  "lng" : -110.708204
+               },
+               "southwest" : {
+                  "lat" : 31.9916539,
+                  "lng" : -111.059406
+               }
+            },
+            "location" : {
+               "lat" : 32.2217429,
+               "lng" : -110.926479
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.32016610000001,
+                  "lng" : -110.708204
+               },
+               "southwest" : {
+                  "lat" : 31.9916539,
+                  "lng" : -111.059406
+               }
+            }
+         },
+         "place_id" : "ChIJK-0sC0Fl1oYRFccWTTgtw3M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

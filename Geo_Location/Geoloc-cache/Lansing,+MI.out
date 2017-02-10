@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lansing",
+               "short_name" : "Lansing",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ingham County",
+               "short_name" : "Ingham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lansing, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.76988009999999,
+                  "lng" : -84.41758100000001
+               },
+               "southwest" : {
+                  "lat" : 42.647483,
+                  "lng" : -84.701274
+               }
+            },
+            "location" : {
+               "lat" : 42.732535,
+               "lng" : -84.5555347
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.76988009999999,
+                  "lng" : -84.49382500000002
+               },
+               "southwest" : {
+                  "lat" : 42.647483,
+                  "lng" : -84.6242391
+               }
+            }
+         },
+         "place_id" : "ChIJN4wxfxzAIogRnp0CiSO2eEM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lansing Charter Township",
+               "short_name" : "Lansing Charter Twp",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ingham County",
+               "short_name" : "Ingham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lansing Charter Twp, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.76969589999999,
+                  "lng" : -84.483997
+               },
+               "southwest" : {
+                  "lat" : 42.6827878,
+                  "lng" : -84.603122
+               }
+            },
+            "location" : {
+               "lat" : 42.7563594,
+               "lng" : -84.52832669999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.76969589999999,
+                  "lng" : -84.507024
+               },
+               "southwest" : {
+                  "lat" : 42.7231061,
+                  "lng" : -84.53377100000002
+               }
+            }
+         },
+         "place_id" : "ChIJjwB05zzCIogRmmVFFK8_U1M",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Banner Elk",
+               "short_name" : "Banner Elk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Banner Elk",
+               "short_name" : "Banner Elk",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Avery County",
+               "short_name" : "Avery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28604",
+               "short_name" : "28604",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Banner Elk, NC 28604, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.1708889,
+                  "lng" : -81.858137
+               },
+               "southwest" : {
+                  "lat" : 36.142672,
+                  "lng" : -81.886895
+               }
+            },
+            "location" : {
+               "lat" : 36.1631817,
+               "lng" : -81.8715019
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1708889,
+                  "lng" : -81.858137
+               },
+               "southwest" : {
+                  "lat" : 36.142672,
+                  "lng" : -81.886895
+               }
+            }
+         },
+         "place_id" : "ChIJ8aNbOVaNUIgRepj6_LBCJE0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

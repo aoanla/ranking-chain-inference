@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Worcester",
+               "short_name" : "Worcester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester County",
+               "short_name" : "Worcester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Worcester, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3411789,
+                  "lng" : -71.7329668
+               },
+               "southwest" : {
+                  "lat" : 42.209691,
+                  "lng" : -71.88391709999999
+               }
+            },
+            "location" : {
+               "lat" : 42.2625932,
+               "lng" : -71.8022934
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3411789,
+                  "lng" : -71.7329668
+               },
+               "southwest" : {
+                  "lat" : 42.209691,
+                  "lng" : -71.88391709999999
+               }
+            }
+         },
+         "place_id" : "ChIJDYsqWlgG5IkRbU3Kf9h9E54",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hollister",
+               "short_name" : "Hollister",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Benito County",
+               "short_name" : "San Benito County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95023",
+               "short_name" : "95023",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hollister, CA 95023, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.9073141,
+                  "lng" : -121.3634559
+               },
+               "southwest" : {
+                  "lat" : 36.8195019,
+                  "lng" : -121.450356
+               }
+            },
+            "location" : {
+               "lat" : 36.8524545,
+               "lng" : -121.4016021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.9073141,
+                  "lng" : -121.3634559
+               },
+               "southwest" : {
+                  "lat" : 36.8195019,
+                  "lng" : -121.450356
+               }
+            }
+         },
+         "place_id" : "ChIJa5wY38n3kYARwDppwt50BAc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

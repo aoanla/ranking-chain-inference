@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sainte-Geneviève-des-Bois",
+               "short_name" : "Sainte-Geneviève-des-Bois",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essonne",
+               "short_name" : "Essonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sainte-Geneviève-des-Bois, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.665795,
+                  "lng" : 2.3564069
+               },
+               "southwest" : {
+                  "lat" : 48.62010100000001,
+                  "lng" : 2.2972779
+               }
+            },
+            "location" : {
+               "lat" : 48.64084159999999,
+               "lng" : 2.325921300000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.665795,
+                  "lng" : 2.3564069
+               },
+               "southwest" : {
+                  "lat" : 48.62010100000001,
+                  "lng" : 2.2972779
+               }
+            }
+         },
+         "place_id" : "ChIJtSy0gT3Z5UcRoEGLaMOCCwQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

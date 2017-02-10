@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lodi",
+               "short_name" : "Lodi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Joaquin County",
+               "short_name" : "San Joaquin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lodi, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.154942,
+                  "lng" : -121.2413109
+               },
+               "southwest" : {
+                  "lat" : 38.082454,
+                  "lng" : -121.40527
+               }
+            },
+            "location" : {
+               "lat" : 38.1341477,
+               "lng" : -121.2722194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.154942,
+                  "lng" : -121.2413109
+               },
+               "southwest" : {
+                  "lat" : 38.0938651,
+                  "lng" : -121.315965
+               }
+            }
+         },
+         "place_id" : "ChIJNTjFJtmhmoARRuhsu5jkrY4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

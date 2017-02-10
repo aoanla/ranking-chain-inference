@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mullingar",
+               "short_name" : "Mullingar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Westmeath",
+               "short_name" : "Westmeath",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Westmeath",
+               "short_name" : "Westmeath",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mullingar, Co. Westmeath, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.54669999999999,
+                  "lng" : -7.30012
+               },
+               "southwest" : {
+                  "lat" : 53.5054599,
+                  "lng" : -7.3877801
+               }
+            },
+            "location" : {
+               "lat" : 53.5259334,
+               "lng" : -7.3381378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.54669999999999,
+                  "lng" : -7.30012
+               },
+               "southwest" : {
+                  "lat" : 53.5054599,
+                  "lng" : -7.3877801
+               }
+            }
+         },
+         "place_id" : "ChIJIdcbyhHAXUgRgJQxl6nHAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antioch",
+               "short_name" : "Antioch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Contra Costa County",
+               "short_name" : "Contra Costa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antioch, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.029723,
+                  "lng" : -121.732248
+               },
+               "southwest" : {
+                  "lat" : 37.93251490000001,
+                  "lng" : -121.861171
+               }
+            },
+            "location" : {
+               "lat" : 38.0049214,
+               "lng" : -121.805789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.029723,
+                  "lng" : -121.732248
+               },
+               "southwest" : {
+                  "lat" : 37.93251490000001,
+                  "lng" : -121.861171
+               }
+            }
+         },
+         "place_id" : "ChIJ1aCvlWNXhYARWXWULDxGagU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

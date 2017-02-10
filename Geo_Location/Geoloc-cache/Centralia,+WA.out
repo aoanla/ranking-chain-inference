@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Centralia",
+               "short_name" : "Centralia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lewis County",
+               "short_name" : "Lewis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Centralia, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.75752689999999,
+                  "lng" : -122.9229711
+               },
+               "southwest" : {
+                  "lat" : 46.6915529,
+                  "lng" : -123.0088088
+               }
+            },
+            "location" : {
+               "lat" : 46.7162136,
+               "lng" : -122.9542972
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.75752689999999,
+                  "lng" : -122.9229711
+               },
+               "southwest" : {
+                  "lat" : 46.6915529,
+                  "lng" : -123.0088088
+               }
+            }
+         },
+         "place_id" : "ChIJnXleq1ZakVQRCmdEmRyQqvI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

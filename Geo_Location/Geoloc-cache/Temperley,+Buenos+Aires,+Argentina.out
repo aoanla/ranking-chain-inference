@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Temperley",
+               "short_name" : "Temperley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lomas de Zamora Partido",
+               "short_name" : "Lomas de Zamora Partido",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Temperley, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.7405994,
+                  "lng" : -58.3367265
+               },
+               "southwest" : {
+                  "lat" : -34.790596,
+                  "lng" : -58.4237517
+               }
+            },
+            "location" : {
+               "lat" : -34.7678337,
+               "lng" : -58.3792534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.7405994,
+                  "lng" : -58.3367265
+               },
+               "southwest" : {
+                  "lat" : -34.790596,
+                  "lng" : -58.4237517
+               }
+            }
+         },
+         "place_id" : "ChIJm1Fqu9HSvJURI_vsTW-mcUA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

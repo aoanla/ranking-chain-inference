@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lima",
+               "short_name" : "Lima",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lima",
+               "short_name" : "Lima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Peru",
+               "short_name" : "PE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lima, Peru",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -12.0308632,
+                  "lng" : -77.0020311
+               },
+               "southwest" : {
+                  "lat" : -12.0798252,
+                  "lng" : -77.0883395
+               }
+            },
+            "location" : {
+               "lat" : -12.046374,
+               "lng" : -77.04279339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -12.0308632,
+                  "lng" : -77.0020311
+               },
+               "southwest" : {
+                  "lat" : -12.0798252,
+                  "lng" : -77.0883395
+               }
+            }
+         },
+         "place_id" : "ChIJZ5ZTHtvIBZERKdp7oIpTRU8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

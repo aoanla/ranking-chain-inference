@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Exeter, Exeter, Devon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.76146490000001,
+                  "lng" : -3.456359
+               },
+               "southwest" : {
+                  "lat" : 50.6873915,
+                  "lng" : -3.570736
+               }
+            },
+            "location" : {
+               "lat" : 50.718412,
+               "lng" : -3.533899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.76146490000001,
+                  "lng" : -3.456359
+               },
+               "southwest" : {
+                  "lat" : 50.6873915,
+                  "lng" : -3.570736
+               }
+            }
+         },
+         "place_id" : "ChIJp41J1MRSbEgRHq3fayXjdqk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

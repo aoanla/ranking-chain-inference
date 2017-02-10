@@ -1,0 +1,167 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pamplona",
+               "short_name" : "Pamplona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pamplona",
+               "short_name" : "Pamplona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Santander",
+               "short_name" : "North Santander",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pamplona, Pamplona, North Santander, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.389900000000001,
+                  "lng" : -72.63516899999999
+               },
+               "southwest" : {
+                  "lat" : 7.354059100000001,
+                  "lng" : -72.665418
+               }
+            },
+            "location" : {
+               "lat" : 7.378229999999999,
+               "lng" : -72.6503369
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.389900000000001,
+                  "lng" : -72.63516899999999
+               },
+               "southwest" : {
+                  "lat" : 7.354059100000001,
+                  "lng" : -72.665418
+               }
+            }
+         },
+         "place_id" : "ChIJFQyqIheBaI4R1Ld9j-mQt4M",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pamplona",
+               "short_name" : "Pamplona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Norte de Santander",
+               "short_name" : "Norte de Santander",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pamplona, Norte de Santander, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.472057,
+                  "lng" : -72.5352791
+               },
+               "southwest" : {
+                  "lat" : 7.262998000000001,
+                  "lng" : -72.81795500000001
+               }
+            },
+            "location" : {
+               "lat" : 7.378229999999999,
+               "lng" : -72.6503369
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.472057,
+                  "lng" : -72.5352791
+               },
+               "southwest" : {
+                  "lat" : 7.262998000000001,
+                  "lng" : -72.81795500000001
+               }
+            }
+         },
+         "place_id" : "ChIJ2Su7Y8SAaI4R-IG_FAtTKcM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pamplona",
+               "short_name" : "Pamplona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Calixto",
+               "short_name" : "San Calixto",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Norte de Santander",
+               "short_name" : "Norte de Santander",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "547018",
+               "short_name" : "547018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pamplona, San Calixto, Norte de Santander, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 8.4511056,
+                  "lng" : -73.2156212
+               },
+               "southwest" : {
+                  "lat" : 8.444011399999999,
+                  "lng" : -73.22258939999999
+               }
+            },
+            "location" : {
+               "lat" : 8.447799999999999,
+               "lng" : -73.21968
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 8.4511056,
+                  "lng" : -73.2156212
+               },
+               "southwest" : {
+                  "lat" : 8.444011399999999,
+                  "lng" : -73.22258939999999
+               }
+            }
+         },
+         "place_id" : "ChIJaQUn88hpZ44RMhsQvMUgQYo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kahnawake 14",
+               "short_name" : "Kahnawake 14",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Roussillon Regional County Municipality",
+               "short_name" : "Roussillon Regional County Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "J0L",
+               "short_name" : "J0L",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kahnawake 14, QC J0L, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 45.410785,
+               "lng" : -73.68148699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4186176,
+                  "lng" : -73.6654796
+               },
+               "southwest" : {
+                  "lat" : 45.4029513,
+                  "lng" : -73.6974944
+               }
+            }
+         },
+         "place_id" : "ChIJnRosp48TyUwR6z1nI022InQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

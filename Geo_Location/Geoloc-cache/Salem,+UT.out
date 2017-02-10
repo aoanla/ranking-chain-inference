@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salem",
+               "short_name" : "Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Utah County",
+               "short_name" : "Utah County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salem, UT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.085387,
+                  "lng" : -111.6282961
+               },
+               "southwest" : {
+                  "lat" : 40.027409,
+                  "lng" : -111.7070379
+               }
+            },
+            "location" : {
+               "lat" : 40.0530105,
+               "lng" : -111.673536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.085387,
+                  "lng" : -111.6282961
+               },
+               "southwest" : {
+                  "lat" : 40.027409,
+                  "lng" : -111.7070379
+               }
+            }
+         },
+         "place_id" : "ChIJO-LUMsukTYcRti3Z-W5XcwU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

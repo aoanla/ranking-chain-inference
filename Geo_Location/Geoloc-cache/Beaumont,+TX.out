@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beaumont",
+               "short_name" : "Beaumont",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beaumont, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.189106,
+                  "lng" : -94.03058009999999
+               },
+               "southwest" : {
+                  "lat" : 29.973175,
+                  "lng" : -94.225236
+               }
+            },
+            "location" : {
+               "lat" : 30.080174,
+               "lng" : -94.1265562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.189106,
+                  "lng" : -94.03058009999999
+               },
+               "southwest" : {
+                  "lat" : 29.973175,
+                  "lng" : -94.225236
+               }
+            }
+         },
+         "place_id" : "ChIJnbGPPRjLPoYRHc1a3D6crv0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

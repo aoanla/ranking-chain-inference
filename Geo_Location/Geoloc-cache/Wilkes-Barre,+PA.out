@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wilkes-Barre",
+               "short_name" : "Wilkes-Barre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luzerne County",
+               "short_name" : "Luzerne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wilkes-Barre, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.2729811,
+                  "lng" : -75.8264389
+               },
+               "southwest" : {
+                  "lat" : 41.2216809,
+                  "lng" : -75.92574189999999
+               }
+            },
+            "location" : {
+               "lat" : 41.2459149,
+               "lng" : -75.88130749999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.2729811,
+                  "lng" : -75.8264389
+               },
+               "southwest" : {
+                  "lat" : 41.2216809,
+                  "lng" : -75.92574189999999
+               }
+            }
+         },
+         "place_id" : "ChIJpZYjoIoaxYkRErXlKabKdyo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

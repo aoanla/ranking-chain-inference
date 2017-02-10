@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "Barcelona",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "El Barcelonès",
+               "short_name" : "El Barcelonès",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "B",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalonia",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barcelona, Barcelona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4695761,
+                  "lng" : 2.2280099
+               },
+               "southwest" : {
+                  "lat" : 41.320004,
+                  "lng" : 2.0695258
+               }
+            },
+            "location" : {
+               "lat" : 41.3850639,
+               "lng" : 2.1734035
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4695761,
+                  "lng" : 2.2280099
+               },
+               "southwest" : {
+                  "lat" : 41.320004,
+                  "lng" : 2.0695258
+               }
+            }
+         },
+         "place_id" : "ChIJ5TCOcRaYpBIRCmZHTz37sEQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barcelona–El Prat Airport",
+               "short_name" : "Barcelona–El Prat Airport",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "El Prat de Llobregat",
+               "short_name" : "El Prat de Llobregat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barcelona",
+               "short_name" : "B",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08820",
+               "short_name" : "08820",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barcelona–El Prat Airport (BCN), 08820 El Prat de Llobregat, Barcelona, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 41.297445,
+               "lng" : 2.0832941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.29879398029151,
+                  "lng" : 2.084643080291502
+               },
+               "southwest" : {
+                  "lat" : 41.29609601970851,
+                  "lng" : 2.081945119708498
+               }
+            }
+         },
+         "place_id" : "ChIJpY58hGSepBIR15tv-0LpK_M",
+         "types" : [ "airport", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

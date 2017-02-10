@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Watertown",
+               "short_name" : "Watertown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13601",
+               "short_name" : "13601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Watertown, NY 13601, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.99584489999999,
+                  "lng" : -75.8545659
+               },
+               "southwest" : {
+                  "lat" : 43.948989,
+                  "lng" : -75.94801609999999
+               }
+            },
+            "location" : {
+               "lat" : 43.9747838,
+               "lng" : -75.91075649999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.99584489999999,
+                  "lng" : -75.8545659
+               },
+               "southwest" : {
+                  "lat" : 43.948989,
+                  "lng" : -75.94801609999999
+               }
+            }
+         },
+         "place_id" : "ChIJkdznNf1v2IkRS14I6ijAg0M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

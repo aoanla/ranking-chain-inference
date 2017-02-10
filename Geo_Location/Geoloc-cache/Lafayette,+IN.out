@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lafayette",
+               "short_name" : "Lafayette",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tippecanoe County",
+               "short_name" : "Tippecanoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lafayette, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4544791,
+                  "lng" : -86.7903268
+               },
+               "southwest" : {
+                  "lat" : 40.355483,
+                  "lng" : -86.92610499999999
+               }
+            },
+            "location" : {
+               "lat" : 40.4167022,
+               "lng" : -86.87528689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4544791,
+                  "lng" : -86.7903268
+               },
+               "southwest" : {
+                  "lat" : 40.355483,
+                  "lng" : -86.92610499999999
+               }
+            }
+         },
+         "place_id" : "ChIJreoqGRoAE4gR9R5P6NvtQaU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

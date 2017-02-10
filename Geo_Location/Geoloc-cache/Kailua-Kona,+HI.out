@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kailua-Kona",
+               "short_name" : "Kailua-Kona",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Kona",
+               "short_name" : "North Kona",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hawaii County",
+               "short_name" : "Hawaii County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kailua-Kona, HI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.709844,
+                  "lng" : -155.867633
+               },
+               "southwest" : {
+                  "lat" : 19.6188189,
+                  "lng" : -156.0330659
+               }
+            },
+            "location" : {
+               "lat" : 19.639994,
+               "lng" : -155.9969261
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.709844,
+                  "lng" : -155.867633
+               },
+               "southwest" : {
+                  "lat" : 19.6188189,
+                  "lng" : -156.0330659
+               }
+            }
+         },
+         "place_id" : "ChIJAbSRarIOVHkRp6UtiIMdkQc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Frederick",
+               "short_name" : "Frederick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "2, Frederick",
+               "short_name" : "2, Frederick",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Frederick County",
+               "short_name" : "Frederick County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Frederick, MD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.4885432,
+                  "lng" : -77.3602331
+               },
+               "southwest" : {
+                  "lat" : 39.392472,
+                  "lng" : -77.4781722
+               }
+            },
+            "location" : {
+               "lat" : 39.41426879999999,
+               "lng" : -77.4105409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.4885432,
+                  "lng" : -77.3602331
+               },
+               "southwest" : {
+                  "lat" : 39.392472,
+                  "lng" : -77.4781722
+               }
+            }
+         },
+         "place_id" : "ChIJ4669jAzFyYkRmRwRvb1HYto",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

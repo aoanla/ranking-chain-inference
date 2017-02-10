@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albuquerque",
+               "short_name" : "Albuquerque",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bernalillo County",
+               "short_name" : "Bernalillo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Albuquerque, NM, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2180539,
+                  "lng" : -106.4711629
+               },
+               "southwest" : {
+                  "lat" : 34.9467659,
+                  "lng" : -106.881796
+               }
+            },
+            "location" : {
+               "lat" : 35.0853336,
+               "lng" : -106.6055534
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2180539,
+                  "lng" : -106.4711629
+               },
+               "southwest" : {
+                  "lat" : 34.9467659,
+                  "lng" : -106.881796
+               }
+            }
+         },
+         "place_id" : "ChIJe4MJ090KIocR_fbZuM7408A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

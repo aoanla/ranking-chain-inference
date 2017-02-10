@@ -1,0 +1,133 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stamford",
+               "short_name" : "Stamford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stamford",
+               "short_name" : "Stamford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "South Kesteven District",
+               "short_name" : "South Kesteven District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "PE9",
+               "short_name" : "PE9",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stamford, Stamford, Lincolnshire PE9, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6672263,
+                  "lng" : -0.4479905
+               },
+               "southwest" : {
+                  "lat" : 52.6362368,
+                  "lng" : -0.5200537
+               }
+            },
+            "location" : {
+               "lat" : 52.65128199999999,
+               "lng" : -0.4802159999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6672263,
+                  "lng" : -0.4479905
+               },
+               "southwest" : {
+                  "lat" : 52.6362368,
+                  "lng" : -0.5200537
+               }
+            }
+         },
+         "place_id" : "ChIJi4HEZ_yFd0gRG4rrR6xM4KY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stamford",
+               "short_name" : "Stamford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alnwick",
+               "short_name" : "Alnwick",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Rennington",
+               "short_name" : "Rennington",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Northumberland",
+               "short_name" : "Northumberland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "NE66",
+               "short_name" : "NE66",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Stamford, Alnwick, Northumberland NE66, UK",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.46440699999999,
+               "lng" : -1.647762
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.46575598029149,
+                  "lng" : -1.646413019708498
+               },
+               "southwest" : {
+                  "lat" : 55.4630580197085,
+                  "lng" : -1.649110980291502
+               }
+            }
+         },
+         "place_id" : "ChIJN4lKHvgBfkgR7GAIebpu6RQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

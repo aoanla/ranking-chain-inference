@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wilmington",
+               "short_name" : "Wilmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Castle County",
+               "short_name" : "New Castle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wilmington, DE, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.77301,
+                  "lng" : -75.4705029
+               },
+               "southwest" : {
+                  "lat" : 39.686794,
+                  "lng" : -75.588466
+               }
+            },
+            "location" : {
+               "lat" : 39.7390721,
+               "lng" : -75.5397878
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.77301,
+                  "lng" : -75.4705029
+               },
+               "southwest" : {
+                  "lat" : 39.686794,
+                  "lng" : -75.588466
+               }
+            }
+         },
+         "place_id" : "ChIJb69GXBgPx4kRAIwwd1DaFoU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

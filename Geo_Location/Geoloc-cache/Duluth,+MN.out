@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Duluth",
+               "short_name" : "Duluth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Louis County",
+               "short_name" : "St Louis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Duluth, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8807361,
+                  "lng" : -91.92125449999999
+               },
+               "southwest" : {
+                  "lat" : 46.6492409,
+                  "lng" : -92.301192
+               }
+            },
+            "location" : {
+               "lat" : 46.78667189999999,
+               "lng" : -92.10048519999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8807361,
+                  "lng" : -91.92125449999999
+               },
+               "southwest" : {
+                  "lat" : 46.6492409,
+                  "lng" : -92.301192
+               }
+            }
+         },
+         "place_id" : "ChIJ_zcueH5SrlIRcgxY63a__ZA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

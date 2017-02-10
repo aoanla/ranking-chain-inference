@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orlando",
+               "short_name" : "Orlando",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orlando, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.6143519,
+                  "lng" : -81.22977
+               },
+               "southwest" : {
+                  "lat" : 28.3479859,
+                  "lng" : -81.50773
+               }
+            },
+            "location" : {
+               "lat" : 28.5383355,
+               "lng" : -81.3792365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.6143519,
+                  "lng" : -81.22977
+               },
+               "southwest" : {
+                  "lat" : 28.3479859,
+                  "lng" : -81.50773
+               }
+            }
+         },
+         "place_id" : "ChIJd7zN_thz54gRnr-lPAaywwo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

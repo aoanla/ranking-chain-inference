@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Faxon",
+               "short_name" : "Faxon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Comanche County",
+               "short_name" : "Comanche County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "73540",
+               "short_name" : "73540",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Faxon, OK 73540, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.464063,
+                  "lng" : -98.57486999999999
+               },
+               "southwest" : {
+                  "lat" : 34.4551749,
+                  "lng" : -98.5837238
+               }
+            },
+            "location" : {
+               "lat" : 34.4570243,
+               "lng" : -98.57894899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.464063,
+                  "lng" : -98.57486999999999
+               },
+               "southwest" : {
+                  "lat" : 34.4551749,
+                  "lng" : -98.5837238
+               }
+            }
+         },
+         "place_id" : "ChIJtbCxouTbrIcRks7sKUBmxSk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

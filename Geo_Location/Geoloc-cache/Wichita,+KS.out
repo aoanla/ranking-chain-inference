@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wichita",
+               "short_name" : "Wichita",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sedgwick County",
+               "short_name" : "Sedgwick County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wichita, KS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.8401999,
+                  "lng" : -97.153025
+               },
+               "southwest" : {
+                  "lat" : 37.489018,
+                  "lng" : -97.7343619
+               }
+            },
+            "location" : {
+               "lat" : 37.68717609999999,
+               "lng" : -97.33005299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.8401999,
+                  "lng" : -97.153025
+               },
+               "southwest" : {
+                  "lat" : 37.557822,
+                  "lng" : -97.53489200000001
+               }
+            }
+         },
+         "place_id" : "ChIJLRh_0mrbuocRPj3TdL_VlpM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

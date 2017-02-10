@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dakota City",
+               "short_name" : "Dakota City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Humboldt County",
+               "short_name" : "Humboldt County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dakota City, IA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.731663,
+                  "lng" : -94.188239
+               },
+               "southwest" : {
+                  "lat" : 42.7166349,
+                  "lng" : -94.2074669
+               }
+            },
+            "location" : {
+               "lat" : 42.7221935,
+               "lng" : -94.1971836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.731663,
+                  "lng" : -94.188239
+               },
+               "southwest" : {
+                  "lat" : 42.7166349,
+                  "lng" : -94.2074669
+               }
+            }
+         },
+         "place_id" : "ChIJp6tyZtlo8ocRaDVELIvQ9rI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

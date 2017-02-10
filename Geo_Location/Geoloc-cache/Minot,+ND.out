@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minot",
+               "short_name" : "Minot",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ward County",
+               "short_name" : "Ward County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Dakota",
+               "short_name" : "ND",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minot, ND, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.283041,
+                  "lng" : -101.1984389
+               },
+               "southwest" : {
+                  "lat" : 48.1916439,
+                  "lng" : -101.3429519
+               }
+            },
+            "location" : {
+               "lat" : 48.2329668,
+               "lng" : -101.2922906
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.283041,
+                  "lng" : -101.1984389
+               },
+               "southwest" : {
+                  "lat" : 48.1916439,
+                  "lng" : -101.3429519
+               }
+            }
+         },
+         "place_id" : "ChIJDX_O5Yq33lIRFkRzGzOQxbw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

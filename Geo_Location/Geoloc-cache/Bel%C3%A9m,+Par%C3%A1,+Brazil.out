@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belém",
+               "short_name" : "Belém",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Belém",
+               "short_name" : "Belém",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pará",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Belém, Belém - PA, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -1.0556714,
+                  "lng" : -48.328215
+               },
+               "southwest" : {
+                  "lat" : -1.4787161,
+                  "lng" : -48.5076007
+               }
+            },
+            "location" : {
+               "lat" : -1.4557549,
+               "lng" : -48.4901799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.0556714,
+                  "lng" : -48.328215
+               },
+               "southwest" : {
+                  "lat" : -1.4787161,
+                  "lng" : -48.5076007
+               }
+            }
+         },
+         "place_id" : "ChIJ4Wx1hK9hpJIRNUyGFQJUDVc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Região Metropolitana de Belém",
+               "short_name" : "Região Metropolitana de Belém",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Belém",
+               "short_name" : "Belém",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pará",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66912",
+               "short_name" : "66912",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Região Metropolitana de Belém, Belém - PA, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -1.455833,
+               "lng" : -48.503889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -1.454484019708498,
+                  "lng" : -48.5025400197085
+               },
+               "southwest" : {
+                  "lat" : -1.457181980291502,
+                  "lng" : -48.5052379802915
+               }
+            }
+         },
+         "place_id" : "ChIJM12qWfGOpJIRTwOB6kUytro",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

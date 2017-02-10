@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Weyburn",
+               "short_name" : "Weyburn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 2",
+               "short_name" : "Division No. 2",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Weyburn, SK, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.682619,
+                  "lng" : -103.824156
+               },
+               "southwest" : {
+                  "lat" : 49.639179,
+                  "lng" : -103.880823
+               }
+            },
+            "location" : {
+               "lat" : 49.6632836,
+               "lng" : -103.8532906
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.682619,
+                  "lng" : -103.824156
+               },
+               "southwest" : {
+                  "lat" : 49.639179,
+                  "lng" : -103.880823
+               }
+            }
+         },
+         "place_id" : "ChIJyYjGJJoPH1MR-jgfk3ftfsQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bilbao",
+               "short_name" : "Bilbao",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bilbao",
+               "short_name" : "Bilbao",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Greater Bilbao",
+               "short_name" : "Greater Bilbao",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Biscay",
+               "short_name" : "BI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Basque Country",
+               "short_name" : "PV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bilbao, Biscay, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.289146,
+                  "lng" : -2.8897629
+               },
+               "southwest" : {
+                  "lat" : 43.23750099999999,
+                  "lng" : -2.9773659
+               }
+            },
+            "location" : {
+               "lat" : 43.2630126,
+               "lng" : -2.9349852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.289146,
+                  "lng" : -2.8897629
+               },
+               "southwest" : {
+                  "lat" : 43.23750099999999,
+                  "lng" : -2.9773659
+               }
+            }
+         },
+         "place_id" : "ChIJuYlLZidOTg0RRaaVHsSsNGU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

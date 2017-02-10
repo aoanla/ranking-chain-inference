@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flensburg",
+               "short_name" : "FL",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Flensburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.8242402,
+                  "lng" : 9.507057399999999
+               },
+               "southwest" : {
+                  "lat" : 54.7519619,
+                  "lng" : 9.3571051
+               }
+            },
+            "location" : {
+               "lat" : 54.7937431,
+               "lng" : 9.4469964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.8242402,
+                  "lng" : 9.507057399999999
+               },
+               "southwest" : {
+                  "lat" : 54.7519619,
+                  "lng" : 9.3571051
+               }
+            }
+         },
+         "place_id" : "ChIJ6bkaGr1Cs0cRZ0ROgyxjz1s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

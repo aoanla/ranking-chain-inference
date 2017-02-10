@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halden",
+               "short_name" : "Halden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halden",
+               "short_name" : "Halden",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Østfold",
+               "short_name" : "Østfold",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halden, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.1508135,
+                  "lng" : 11.4639225
+               },
+               "southwest" : {
+                  "lat" : 59.1021111,
+                  "lng" : 11.3439195
+               }
+            },
+            "location" : {
+               "lat" : 59.13299639999999,
+               "lng" : 11.3874569
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.1508135,
+                  "lng" : 11.4639225
+               },
+               "southwest" : {
+                  "lat" : 59.1021111,
+                  "lng" : 11.3439195
+               }
+            }
+         },
+         "place_id" : "ChIJ45z55u4SREYRn7yzbSC-Ibc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sunshine Coast",
+               "short_name" : "Sunshine Coast",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sunshine Coast QLD, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.2315965,
+                  "lng" : 153.1508653
+               },
+               "southwest" : {
+                  "lat" : -26.9848898,
+                  "lng" : 152.5523469
+               }
+            },
+            "location" : {
+               "lat" : -26.6559759,
+               "lng" : 153.0918365
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.2315965,
+                  "lng" : 153.1508653
+               },
+               "southwest" : {
+                  "lat" : -26.9848898,
+                  "lng" : 152.5523469
+               }
+            }
+         },
+         "place_id" : "ChIJ7Uh9bbZ_k2sRUK_e81qjAgM",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

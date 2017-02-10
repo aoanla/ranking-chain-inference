@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fresno",
+               "short_name" : "Fresno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fresno County",
+               "short_name" : "Fresno County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fresno, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.908905,
+                  "lng" : -119.6546399
+               },
+               "southwest" : {
+                  "lat" : 36.66216190000001,
+                  "lng" : -119.934483
+               }
+            },
+            "location" : {
+               "lat" : 36.7468422,
+               "lng" : -119.7725868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.908905,
+                  "lng" : -119.6546399
+               },
+               "southwest" : {
+                  "lat" : 36.66216190000001,
+                  "lng" : -119.934483
+               }
+            }
+         },
+         "place_id" : "ChIJnU6eVOFdlIAREbijSWRAEns",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

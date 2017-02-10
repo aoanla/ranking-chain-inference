@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arnhem",
+               "short_name" : "Arnhem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arnhem",
+               "short_name" : "Arnhem",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gelderland",
+               "short_name" : "GE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arnhem, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0778176,
+                  "lng" : 5.9901518
+               },
+               "southwest" : {
+                  "lat" : 51.9334141,
+                  "lng" : 5.8030456
+               }
+            },
+            "location" : {
+               "lat" : 51.9851034,
+               "lng" : 5.898729599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0778176,
+                  "lng" : 5.9901518
+               },
+               "southwest" : {
+                  "lat" : 51.9334141,
+                  "lng" : 5.8030456
+               }
+            }
+         },
+         "place_id" : "ChIJcyKbzpG6x0cR18pz-eBaHBY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

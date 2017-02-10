@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bathurst",
+               "short_name" : "Bathurst",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2795",
+               "short_name" : "2795",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bathurst NSW 2795, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.4034184,
+                  "lng" : 149.5944655
+               },
+               "southwest" : {
+                  "lat" : -33.4341899,
+                  "lng" : 149.563564
+               }
+            },
+            "location" : {
+               "lat" : -33.4176529,
+               "lng" : 149.5810314
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.4034184,
+                  "lng" : 149.5944655
+               },
+               "southwest" : {
+                  "lat" : -33.4341899,
+                  "lng" : 149.563564
+               }
+            }
+         },
+         "place_id" : "ChIJ73m0BjPkEWsRYCJEkLQJBgU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bathurst",
+               "short_name" : "Bathurst",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2795",
+               "short_name" : "2795",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bathurst NSW 2795, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.318,
+                  "lng" : 149.6750201
+               },
+               "southwest" : {
+                  "lat" : -33.5301301,
+                  "lng" : 149.4185
+               }
+            },
+            "location" : {
+               "lat" : -33.4312085,
+               "lng" : 149.5411941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.318,
+                  "lng" : 149.6750201
+               },
+               "southwest" : {
+                  "lat" : -33.5301301,
+                  "lng" : 149.4185
+               }
+            }
+         },
+         "place_id" : "ChIJ8bgYLEsYEGsRkFtDkLQJBgQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

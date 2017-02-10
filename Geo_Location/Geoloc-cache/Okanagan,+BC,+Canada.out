@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Okanagan Lake",
+               "short_name" : "Okanagan Lake",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Okanagan Lake, British Columbia, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3490535,
+                  "lng" : -119.3059248
+               },
+               "southwest" : {
+                  "lat" : 49.5011613,
+                  "lng" : -119.7668457
+               }
+            },
+            "location" : {
+               "lat" : 49.83385,
+               "lng" : -119.5236098
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3490535,
+                  "lng" : -119.3059248
+               },
+               "southwest" : {
+                  "lat" : 49.5011613,
+                  "lng" : -119.7668457
+               }
+            }
+         },
+         "place_id" : "ChIJm6c_cXb0fVMRAlC8nKrwsBI",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

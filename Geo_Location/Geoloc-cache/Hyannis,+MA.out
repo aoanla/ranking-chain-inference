@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hyannis",
+               "short_name" : "Hyannis",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Barnstable",
+               "short_name" : "Barnstable",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barnstable County",
+               "short_name" : "Barnstable County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hyannis, Barnstable, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6650646,
+                  "lng" : -70.27082639999999
+               },
+               "southwest" : {
+                  "lat" : 41.6314151,
+                  "lng" : -70.30349649999999
+               }
+            },
+            "location" : {
+               "lat" : 41.6524911,
+               "lng" : -70.2881124
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6650646,
+                  "lng" : -70.27082639999999
+               },
+               "southwest" : {
+                  "lat" : 41.6314151,
+                  "lng" : -70.30349649999999
+               }
+            }
+         },
+         "place_id" : "ChIJVR-faLox-4kRc60mW7VAROY",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stratford",
+               "short_name" : "Stratford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Perth County",
+               "short_name" : "Perth County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stratford, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3989362,
+                  "lng" : -80.9422661
+               },
+               "southwest" : {
+                  "lat" : 43.338711,
+                  "lng" : -81.02622989999999
+               }
+            },
+            "location" : {
+               "lat" : 43.3700007,
+               "lng" : -80.98222860000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3989362,
+                  "lng" : -80.9422661
+               },
+               "southwest" : {
+                  "lat" : 43.338711,
+                  "lng" : -81.02622989999999
+               }
+            }
+         },
+         "place_id" : "ChIJs5e0kfmtLogR0B0jxyh7AwU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

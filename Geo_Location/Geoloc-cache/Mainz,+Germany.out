@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mainz",
+               "short_name" : "MZ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhineland-Palatinate",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mainz, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.0353212,
+                  "lng" : 8.343079299999999
+               },
+               "southwest" : {
+                  "lat" : 49.8954528,
+                  "lng" : 8.141981899999999
+               }
+            },
+            "location" : {
+               "lat" : 49.9928617,
+               "lng" : 8.247252599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0353212,
+                  "lng" : 8.343079299999999
+               },
+               "southwest" : {
+                  "lat" : 49.8954528,
+                  "lng" : 8.141981899999999
+               }
+            }
+         },
+         "place_id" : "ChIJeRPfMy6RvUcRoBvbENXUIgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

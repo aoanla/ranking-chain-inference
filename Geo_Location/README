@@ -1,0 +1,10 @@
+Tools to do Geolocation on FTS team data.
+The result is an "augmented" FTS datafile, which adds latitude and longitude fields to the csv.
+
+Lookups are done against the Google Maps Geolocation API - you will need a (free) Google Services API key to use this.
+(Lookups are also cached in the Geoloc-cache directory, which is provided here based on the run against the November dataset from FTS - 
+ so lookups against the API are only needed for "new" locations.)
+
+We also have a tool to calculate distances between two locations, in progress.
+
+Due to the way FTS teams are stored, you need to run the denormaliser on the FTS csv first, to add info to the B Team entries (which otherwise just reference their A teams in the original file).

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Plattsburgh",
+               "short_name" : "Plattsburgh",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clinton County",
+               "short_name" : "Clinton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Plattsburgh, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.725093,
+                  "lng" : -73.42993050000001
+               },
+               "southwest" : {
+                  "lat" : 44.667204,
+                  "lng" : -73.483924
+               }
+            },
+            "location" : {
+               "lat" : 44.6994873,
+               "lng" : -73.4529124
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.725093,
+                  "lng" : -73.42993050000001
+               },
+               "southwest" : {
+                  "lat" : 44.667204,
+                  "lng" : -73.483924
+               }
+            }
+         },
+         "place_id" : "ChIJ136l6Kg4ykwRFXRTxaHosLU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

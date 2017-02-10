@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minto",
+               "short_name" : "Minto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2566",
+               "short_name" : "2566",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Minto NSW 2566, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.0124662,
+                  "lng" : 150.8740405
+               },
+               "southwest" : {
+                  "lat" : -34.049574,
+                  "lng" : 150.8267633
+               }
+            },
+            "location" : {
+               "lat" : -34.0321932,
+               "lng" : 150.8485771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.0124662,
+                  "lng" : 150.8740405
+               },
+               "southwest" : {
+                  "lat" : -34.049574,
+                  "lng" : 150.8267633
+               }
+            }
+         },
+         "place_id" : "ChIJ_2fVPn3sEmsRYMEyFmh9AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

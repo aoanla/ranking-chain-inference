@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Temecula",
+               "short_name" : "Temecula",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riverside County",
+               "short_name" : "Riverside County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Temecula, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5548129,
+                  "lng" : -117.054222
+               },
+               "southwest" : {
+                  "lat" : 33.447929,
+                  "lng" : -117.1902671
+               }
+            },
+            "location" : {
+               "lat" : 33.4936391,
+               "lng" : -117.1483648
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5548129,
+                  "lng" : -117.054222
+               },
+               "southwest" : {
+                  "lat" : 33.447929,
+                  "lng" : -117.1902671
+               }
+            }
+         },
+         "place_id" : "ChIJI74a9VJi24ARqAY4oIgOvGg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

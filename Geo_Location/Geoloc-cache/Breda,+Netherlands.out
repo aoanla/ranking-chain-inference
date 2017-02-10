@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Breda",
+               "short_name" : "Breda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Breda",
+               "short_name" : "Breda",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Brabant",
+               "short_name" : "NB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Breda, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6431292,
+                  "lng" : 4.842613699999999
+               },
+               "southwest" : {
+                  "lat" : 51.4767298,
+                  "lng" : 4.6860692
+               }
+            },
+            "location" : {
+               "lat" : 51.5719149,
+               "lng" : 4.768323
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6431292,
+                  "lng" : 4.842613699999999
+               },
+               "southwest" : {
+                  "lat" : 51.4767298,
+                  "lng" : 4.6860692
+               }
+            }
+         },
+         "place_id" : "ChIJbdEXfrShxkcRQRvXhKJ-BeU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

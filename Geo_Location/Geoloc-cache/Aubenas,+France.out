@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aubenas",
+               "short_name" : "Aubenas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ardeche",
+               "short_name" : "Ardeche",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aubenas, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.640549,
+                  "lng" : 4.426898100000001
+               },
+               "southwest" : {
+                  "lat" : 44.5808549,
+                  "lng" : 4.361564899999999
+               }
+            },
+            "location" : {
+               "lat" : 44.620909,
+               "lng" : 4.389863
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.640549,
+                  "lng" : 4.426898100000001
+               },
+               "southwest" : {
+                  "lat" : 44.5808549,
+                  "lng" : 4.361564899999999
+               }
+            }
+         },
+         "place_id" : "ChIJtY9Ye-TftBIRndhXh1C1_tg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

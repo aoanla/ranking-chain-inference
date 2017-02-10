@@ -1,0 +1,530 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texarkana",
+               "short_name" : "Texarkana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bowie County",
+               "short_name" : "Bowie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Texarkana, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5014501,
+                  "lng" : -94.042886
+               },
+               "southwest" : {
+                  "lat" : 33.381386,
+                  "lng" : -94.14485479999999
+               }
+            },
+            "location" : {
+               "lat" : 33.425125,
+               "lng" : -94.04768820000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5014501,
+                  "lng" : -94.042886
+               },
+               "southwest" : {
+                  "lat" : 33.381386,
+                  "lng" : -94.14485479999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJV2SgwjJBNIYRcFvbYZI8WJ0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texarkana Street",
+               "short_name" : "Texarkana St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northeast Houston",
+               "short_name" : "Northeast Houston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77015",
+               "short_name" : "77015",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Texarkana St, Houston, TX 77015, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.7856661,
+                  "lng" : -95.161252
+               },
+               "southwest" : {
+                  "lat" : 29.784687,
+                  "lng" : -95.182289
+               }
+            },
+            "location" : {
+               "lat" : 29.7851601,
+               "lng" : -95.1719499
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7865255302915,
+                  "lng" : -95.161252
+               },
+               "southwest" : {
+                  "lat" : 29.7838275697085,
+                  "lng" : -95.182289
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJNycYI3ekQIYR33HTZ2m9p-Q",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texarkana Street",
+               "short_name" : "Texarkana St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northeast Houston",
+               "short_name" : "Northeast Houston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Houston",
+               "short_name" : "Houston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harris County",
+               "short_name" : "Harris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77020",
+               "short_name" : "77020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Texarkana St, Houston, TX 77020, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.7845656,
+                  "lng" : -95.2916022
+               },
+               "southwest" : {
+                  "lat" : 29.783912,
+                  "lng" : -95.30841799999999
+               }
+            },
+            "location" : {
+               "lat" : 29.7841481,
+               "lng" : -95.2997101
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7855877802915,
+                  "lng" : -95.2916022
+               },
+               "southwest" : {
+                  "lat" : 29.7828898197085,
+                  "lng" : -95.30841799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJC_kvfvq7QIYRDxD9kpCagcg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texarkana Avenue",
+               "short_name" : "Texarkana Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Texarkana",
+               "short_name" : "Texarkana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bowie County",
+               "short_name" : "Bowie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75501",
+               "short_name" : "75501",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Texarkana Ave, Texarkana, TX 75501, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.4154158,
+                  "lng" : -94.0720468
+               },
+               "southwest" : {
+                  "lat" : 33.4095681,
+                  "lng" : -94.07538249999999
+               }
+            },
+            "location" : {
+               "lat" : 33.4126096,
+               "lng" : -94.0740852
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4154158,
+                  "lng" : -94.0720468
+               },
+               "southwest" : {
+                  "lat" : 33.4095681,
+                  "lng" : -94.07538249999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJhTir7CtANIYRhCKzFUvZktg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texarkana Drive",
+               "short_name" : "Texarkana Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Magnolia",
+               "short_name" : "Magnolia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77354",
+               "short_name" : "77354",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Texarkana Dr, Magnolia, TX 77354, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.218256,
+                  "lng" : -95.7480626
+               },
+               "southwest" : {
+                  "lat" : 30.2173241,
+                  "lng" : -95.7518614
+               }
+            },
+            "location" : {
+               "lat" : 30.2179944,
+               "lng" : -95.7501111
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2191390302915,
+                  "lng" : -95.7480626
+               },
+               "southwest" : {
+                  "lat" : 30.21644106970851,
+                  "lng" : -95.7518614
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJw6FoX_XXRoYRI-wRU5oL2bo",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texarkana Place",
+               "short_name" : "Texarkana Pl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Northeast El Paso",
+               "short_name" : "Northeast El Paso",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "El Paso",
+               "short_name" : "El Paso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Paso County",
+               "short_name" : "El Paso County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "79924",
+               "short_name" : "79924",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Texarkana Pl, El Paso, TX 79924, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.926275,
+                  "lng" : -106.4167499
+               },
+               "southwest" : {
+                  "lat" : 31.92374,
+                  "lng" : -106.417322
+               }
+            },
+            "location" : {
+               "lat" : 31.925008,
+               "lng" : -106.417038
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9263564802915,
+                  "lng" : -106.4156869697085
+               },
+               "southwest" : {
+                  "lat" : 31.9236585197085,
+                  "lng" : -106.4183849302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3x5V_elT54YRI1nmpkU9z5s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texarkana Avenue",
+               "short_name" : "Texarkana Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Avinger",
+               "short_name" : "Avinger",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marion County",
+               "short_name" : "Marion County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75630",
+               "short_name" : "75630",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Texarkana Ave, Avinger, TX 75630, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.807844,
+                  "lng" : -94.5798518
+               },
+               "southwest" : {
+                  "lat" : 32.8069475,
+                  "lng" : -94.5798765
+               }
+            },
+            "location" : {
+               "lat" : 32.807844,
+               "lng" : -94.5798518
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.80874473029149,
+                  "lng" : -94.5785151697085
+               },
+               "southwest" : {
+                  "lat" : 32.80604676970849,
+                  "lng" : -94.5812131302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJoeAv--ZvNoYR-yRzoUKMUq4",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Old Texarkana Road",
+               "short_name" : "Old Texarkana Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Clarksville",
+               "short_name" : "Clarksville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Red River County",
+               "short_name" : "Red River County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75426",
+               "short_name" : "75426",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Old Texarkana Rd, Clarksville, TX 75426, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.6130451,
+                  "lng" : -95.0272734
+               },
+               "southwest" : {
+                  "lat" : 33.6101462,
+                  "lng" : -95.0403544
+               }
+            },
+            "location" : {
+               "lat" : 33.6110413,
+               "lng" : -95.0337926
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.6130451,
+                  "lng" : -95.0272734
+               },
+               "southwest" : {
+                  "lat" : 33.6101462,
+                  "lng" : -95.0403544
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9xuwtM6ANYYR5B9nwZVLGAA",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

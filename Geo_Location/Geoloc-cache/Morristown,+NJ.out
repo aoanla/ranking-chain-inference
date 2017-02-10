@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morristown",
+               "short_name" : "Morristown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morris County",
+               "short_name" : "Morris County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morristown, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.81836089999999,
+                  "lng" : -74.456181
+               },
+               "southwest" : {
+                  "lat" : 40.7802309,
+                  "lng" : -74.50144399999999
+               }
+            },
+            "location" : {
+               "lat" : 40.79676670000001,
+               "lng" : -74.4815438
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.81836089999999,
+                  "lng" : -74.456181
+               },
+               "southwest" : {
+                  "lat" : 40.7802309,
+                  "lng" : -74.50144399999999
+               }
+            }
+         },
+         "place_id" : "ChIJLSKWIZMJw4kRoSFvsb55sEM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

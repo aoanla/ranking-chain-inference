@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Little Rock",
+               "short_name" : "Little Rock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Big Rock Township",
+               "short_name" : "Big Rock Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pulaski County",
+               "short_name" : "Pulaski County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arkansas",
+               "short_name" : "AR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Little Rock, AR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.8219489,
+                  "lng" : -92.154944
+               },
+               "southwest" : {
+                  "lat" : 34.6260609,
+                  "lng" : -92.520911
+               }
+            },
+            "location" : {
+               "lat" : 34.7464809,
+               "lng" : -92.28959479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.8219489,
+                  "lng" : -92.154944
+               },
+               "southwest" : {
+                  "lat" : 34.6260609,
+                  "lng" : -92.520911
+               }
+            }
+         },
+         "place_id" : "ChIJm1YfoTSh0ocRF1vzDRD1BTQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

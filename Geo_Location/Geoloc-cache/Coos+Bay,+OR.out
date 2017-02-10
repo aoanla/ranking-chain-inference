@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coos Bay",
+               "short_name" : "Coos Bay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coos County",
+               "short_name" : "Coos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coos Bay, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4160245,
+                  "lng" : -124.1679077
+               },
+               "southwest" : {
+                  "lat" : 43.342974,
+                  "lng" : -124.284514
+               }
+            },
+            "location" : {
+               "lat" : 43.3665007,
+               "lng" : -124.2178903
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4160245,
+                  "lng" : -124.1679077
+               },
+               "southwest" : {
+                  "lat" : 43.342974,
+                  "lng" : -124.284514
+               }
+            }
+         },
+         "place_id" : "ChIJ4QRsHCuEw1QRKRLA3cf012c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

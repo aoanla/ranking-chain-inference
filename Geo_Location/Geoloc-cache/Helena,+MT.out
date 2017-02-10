@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Helena",
+               "short_name" : "Helena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lewis and Clark County",
+               "short_name" : "Lewis and Clark County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Helena, MT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.627493,
+                  "lng" : -111.948106
+               },
+               "southwest" : {
+                  "lat" : 46.55922289999999,
+                  "lng" : -112.0832819
+               }
+            },
+            "location" : {
+               "lat" : 46.5883707,
+               "lng" : -112.0245054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.627493,
+                  "lng" : -111.948106
+               },
+               "southwest" : {
+                  "lat" : 46.55922289999999,
+                  "lng" : -112.0832819
+               }
+            }
+         },
+         "place_id" : "ChIJTdvH7Q9RQ1MRFPf943EdTCE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

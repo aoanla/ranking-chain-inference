@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kiel",
+               "short_name" : "KI",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kiel, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.4329274,
+                  "lng" : 10.2186004
+               },
+               "southwest" : {
+                  "lat" : 54.2506983,
+                  "lng" : 10.0327536
+               }
+            },
+            "location" : {
+               "lat" : 54.3232927,
+               "lng" : 10.1227652
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.4329274,
+                  "lng" : 10.2186004
+               },
+               "southwest" : {
+                  "lat" : 54.2506983,
+                  "lng" : 10.0327536
+               }
+            }
+         },
+         "place_id" : "ChIJrZfujw1WskcRIANYxmOJJAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

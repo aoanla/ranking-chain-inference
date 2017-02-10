@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vannes",
+               "short_name" : "Vannes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morbihan",
+               "short_name" : "Morbihan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brittany",
+               "short_name" : "Brittany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vannes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6945089,
+                  "lng" : -2.681761
+               },
+               "southwest" : {
+                  "lat" : 47.620816,
+                  "lng" : -2.815186
+               }
+            },
+            "location" : {
+               "lat" : 47.658236,
+               "lng" : -2.760847
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6945089,
+                  "lng" : -2.681761
+               },
+               "southwest" : {
+                  "lat" : 47.620816,
+                  "lng" : -2.815186
+               }
+            }
+         },
+         "place_id" : "ChIJkeJ9w4QeEEgREz0jezBY87k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

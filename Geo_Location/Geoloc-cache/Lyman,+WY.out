@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lyman",
+               "short_name" : "Lyman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uinta County",
+               "short_name" : "Uinta County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82937",
+               "short_name" : "82937",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lyman, WY 82937, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.341111,
+                  "lng" : -110.258937
+               },
+               "southwest" : {
+                  "lat" : 41.3183189,
+                  "lng" : -110.338522
+               }
+            },
+            "location" : {
+               "lat" : 41.327451,
+               "lng" : -110.2929325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.341111,
+                  "lng" : -110.258937
+               },
+               "southwest" : {
+                  "lat" : 41.3183189,
+                  "lng" : -110.338522
+               }
+            }
+         },
+         "place_id" : "ChIJBWXGymZVUIcRLz63Ax3pCeM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

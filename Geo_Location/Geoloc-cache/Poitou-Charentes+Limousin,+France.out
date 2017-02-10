@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Limousin",
+               "short_name" : "Limousin",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Saint-Ciers-Champagne",
+               "short_name" : "Saint-Ciers-Champagne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Charente-Maritime",
+               "short_name" : "Charente-Maritime",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poitou-Charentes",
+               "short_name" : "PCh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17520",
+               "short_name" : "17520",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Limousin, 17520 Saint-Ciers-Champagne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.4488954,
+                  "lng" : -0.3131566
+               },
+               "southwest" : {
+                  "lat" : 45.4459275,
+                  "lng" : -0.3153038
+               }
+            },
+            "location" : {
+               "lat" : 45.4474859,
+               "lng" : -0.3142848
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.4488954,
+                  "lng" : -0.3128812197084979
+               },
+               "southwest" : {
+                  "lat" : 45.4459275,
+                  "lng" : -0.315579180291502
+               }
+            }
+         },
+         "place_id" : "ChIJSSNphLJCAEgRAcUaOnt8p2k",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

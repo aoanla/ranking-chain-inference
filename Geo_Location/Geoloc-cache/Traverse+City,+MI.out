@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traverse City",
+               "short_name" : "Traverse City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grand Traverse County",
+               "short_name" : "Grand Traverse County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Traverse City, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.7825729,
+                  "lng" : -85.550775
+               },
+               "southwest" : {
+                  "lat" : 44.7151419,
+                  "lng" : -85.65924
+               }
+            },
+            "location" : {
+               "lat" : 44.7630567,
+               "lng" : -85.62063169999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7825729,
+                  "lng" : -85.550775
+               },
+               "southwest" : {
+                  "lat" : 44.7151419,
+                  "lng" : -85.65924
+               }
+            }
+         },
+         "place_id" : "ChIJ3Sna17IyHogRIVZ0Pz_cv0c",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Traverse",
+               "short_name" : "Traverse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sherman Township",
+               "short_name" : "Sherman Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Keweenaw County",
+               "short_name" : "Keweenaw County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49913",
+               "short_name" : "49913",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Traverse, MI 49913, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.2552019,
+               "lng" : -88.2642762
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.2565508802915,
+                  "lng" : -88.2629272197085
+               },
+               "southwest" : {
+                  "lat" : 47.2538529197085,
+                  "lng" : -88.26562518029151
+               }
+            }
+         },
+         "place_id" : "ChIJJ4CxVsmQUE0RBQtwtQ-XzY4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

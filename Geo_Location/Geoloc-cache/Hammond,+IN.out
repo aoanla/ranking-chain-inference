@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hammond",
+               "short_name" : "Hammond",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Township",
+               "short_name" : "North Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lake County",
+               "short_name" : "Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hammond, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.7101001,
+                  "lng" : -87.432239
+               },
+               "southwest" : {
+                  "lat" : 41.5661349,
+                  "lng" : -87.525432
+               }
+            },
+            "location" : {
+               "lat" : 41.5833688,
+               "lng" : -87.5000412
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7101001,
+                  "lng" : -87.432239
+               },
+               "southwest" : {
+                  "lat" : 41.5661349,
+                  "lng" : -87.525432
+               }
+            }
+         },
+         "place_id" : "ChIJVf0uL_PeEYgRCBxieTCVQjs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

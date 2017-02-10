@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ogden",
+               "short_name" : "Ogden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Weber County",
+               "short_name" : "Weber County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ogden, UT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.2859429,
+                  "lng" : -111.919973
+               },
+               "southwest" : {
+                  "lat" : 41.1595078,
+                  "lng" : -112.0253749
+               }
+            },
+            "location" : {
+               "lat" : 41.223,
+               "lng" : -111.9738304
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.2859429,
+                  "lng" : -111.919973
+               },
+               "southwest" : {
+                  "lat" : 41.1595078,
+                  "lng" : -112.0253749
+               }
+            }
+         },
+         "place_id" : "ChIJe02c2pQOU4cRLLM0e9fcYQA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

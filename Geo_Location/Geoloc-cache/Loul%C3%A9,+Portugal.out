@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Loulé",
+               "short_name" : "Loulé",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Faro District",
+               "short_name" : "Faro District",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Portugal",
+               "short_name" : "PT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Loulé, Portugal",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2150943,
+                  "lng" : -7.942201700000001
+               },
+               "southwest" : {
+                  "lat" : 37.0961758,
+                  "lng" : -8.114844699999999
+               }
+            },
+            "location" : {
+               "lat" : 37.1379187,
+               "lng" : -8.020216
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2150943,
+                  "lng" : -7.942201700000001
+               },
+               "southwest" : {
+                  "lat" : 37.0961758,
+                  "lng" : -8.114844699999999
+               }
+            }
+         },
+         "place_id" : "ChIJkTRI3SmxGg0RY14FaR4uG6c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

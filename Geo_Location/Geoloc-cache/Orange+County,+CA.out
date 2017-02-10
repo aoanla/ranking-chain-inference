@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orange County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.94751189999999,
+                  "lng" : -117.4129869
+               },
+               "southwest" : {
+                  "lat" : 33.3865263,
+                  "lng" : -118.1163782
+               }
+            },
+            "location" : {
+               "lat" : 33.7174708,
+               "lng" : -117.8311428
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.94751189999999,
+                  "lng" : -117.4129869
+               },
+               "southwest" : {
+                  "lat" : 33.3865263,
+                  "lng" : -118.1163782
+               }
+            }
+         },
+         "place_id" : "ChIJz_fVVFyS3IARB9bwj2HDpt4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

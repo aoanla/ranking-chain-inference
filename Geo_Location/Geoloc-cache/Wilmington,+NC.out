@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wilmington",
+               "short_name" : "Wilmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wilmington",
+               "short_name" : "Wilmington",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "New Hanover County",
+               "short_name" : "New Hanover County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wilmington, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.2670259,
+                  "lng" : -77.7868489
+               },
+               "southwest" : {
+                  "lat" : 34.1472459,
+                  "lng" : -77.95630319999999
+               }
+            },
+            "location" : {
+               "lat" : 34.2257255,
+               "lng" : -77.9447102
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2670259,
+                  "lng" : -77.7868489
+               },
+               "southwest" : {
+                  "lat" : 34.1472459,
+                  "lng" : -77.95630319999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1a7rDaL1qYkRMjAJhDhJZl4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

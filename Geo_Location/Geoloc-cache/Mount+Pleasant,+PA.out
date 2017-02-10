@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mount Pleasant",
+               "short_name" : "Mt Pleasant",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Westmoreland County",
+               "short_name" : "Westmoreland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15666",
+               "short_name" : "15666",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mt Pleasant, PA 15666, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1672069,
+                  "lng" : -79.52852799999999
+               },
+               "southwest" : {
+                  "lat" : 40.1403909,
+                  "lng" : -79.555649
+               }
+            },
+            "location" : {
+               "lat" : 40.1489607,
+               "lng" : -79.54114969999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1672069,
+                  "lng" : -79.52852799999999
+               },
+               "southwest" : {
+                  "lat" : 40.1403909,
+                  "lng" : -79.555649
+               }
+            }
+         },
+         "place_id" : "ChIJ2zeNExgoNYgR5x8S2wIJv6k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

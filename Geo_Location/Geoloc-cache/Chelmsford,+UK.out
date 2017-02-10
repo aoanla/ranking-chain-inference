@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chelmsford",
+               "short_name" : "Chelmsford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chelmsford",
+               "short_name" : "Chelmsford",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chelmsford, Essex, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.76199450000001,
+                  "lng" : 0.5233852
+               },
+               "southwest" : {
+                  "lat" : 51.6897874,
+                  "lng" : 0.4348426
+               }
+            },
+            "location" : {
+               "lat" : 51.7355868,
+               "lng" : 0.4685497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.76199450000001,
+                  "lng" : 0.5233852
+               },
+               "southwest" : {
+                  "lat" : 51.6897874,
+                  "lng" : 0.4348426
+               }
+            }
+         },
+         "place_id" : "ChIJ4-uRIcOS2EcR8KrKPx6v0q4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

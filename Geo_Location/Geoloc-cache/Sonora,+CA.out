@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonora",
+               "short_name" : "Sonora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tuolumne County",
+               "short_name" : "Tuolumne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95370",
+               "short_name" : "95370",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sonora, CA 95370, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.003293,
+                  "lng" : -120.3589231
+               },
+               "southwest" : {
+                  "lat" : 37.9647949,
+                  "lng" : -120.396741
+               }
+            },
+            "location" : {
+               "lat" : 37.9829496,
+               "lng" : -120.3821724
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.003293,
+                  "lng" : -120.3589231
+               },
+               "southwest" : {
+                  "lat" : 37.9647949,
+                  "lng" : -120.396741
+               }
+            }
+         },
+         "place_id" : "ChIJ-QviC9DFkIARd0cldvYH2BY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rock Springs",
+               "short_name" : "Rock Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sweetwater County",
+               "short_name" : "Sweetwater County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82901",
+               "short_name" : "82901",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rock Springs, WY 82901, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6476959,
+                  "lng" : -109.042179
+               },
+               "southwest" : {
+                  "lat" : 41.560209,
+                  "lng" : -109.2910111
+               }
+            },
+            "location" : {
+               "lat" : 41.58746439999999,
+               "lng" : -109.2029043
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6476959,
+                  "lng" : -109.1845941
+               },
+               "southwest" : {
+                  "lat" : 41.560209,
+                  "lng" : -109.2910111
+               }
+            }
+         },
+         "place_id" : "ChIJGYvC9ehYWocRcDcwJ4H-JQc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

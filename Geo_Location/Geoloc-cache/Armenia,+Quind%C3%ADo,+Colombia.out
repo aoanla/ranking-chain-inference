@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Armenia",
+               "short_name" : "Armenia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Armenia",
+               "short_name" : "Armenia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quindio",
+               "short_name" : "Quindio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Armenia, Armenia, Quindio, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.582116,
+                  "lng" : -75.6417201
+               },
+               "southwest" : {
+                  "lat" : 4.502427,
+                  "lng" : -75.7193791
+               }
+            },
+            "location" : {
+               "lat" : 4.535000399999999,
+               "lng" : -75.6756888
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.582116,
+                  "lng" : -75.6417201
+               },
+               "southwest" : {
+                  "lat" : 4.502427,
+                  "lng" : -75.7193791
+               }
+            }
+         },
+         "place_id" : "ChIJwTtl5q31OI4RCIhduUrKxsI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Armenia",
+               "short_name" : "Armenia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quindio",
+               "short_name" : "Quindio",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Armenia, Quindio, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.587852,
+                  "lng" : -75.63252
+               },
+               "southwest" : {
+                  "lat" : 4.394825,
+                  "lng" : -75.7970471
+               }
+            },
+            "location" : {
+               "lat" : 4.535092,
+               "lng" : -75.67315599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.587852,
+                  "lng" : -75.63252
+               },
+               "southwest" : {
+                  "lat" : 4.394825,
+                  "lng" : -75.7970471
+               }
+            }
+         },
+         "place_id" : "ChIJL2WGT471OI4REQUgersu05A",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lake Havasu City",
+               "short_name" : "Lake Havasu City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mohave County",
+               "short_name" : "Mohave County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lake Havasu City, AZ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.589585,
+                  "lng" : -114.2461449
+               },
+               "southwest" : {
+                  "lat" : 34.4302939,
+                  "lng" : -114.375789
+               }
+            },
+            "location" : {
+               "lat" : 34.483901,
+               "lng" : -114.3224548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.589585,
+                  "lng" : -114.2461449
+               },
+               "southwest" : {
+                  "lat" : 34.4302939,
+                  "lng" : -114.375789
+               }
+            }
+         },
+         "place_id" : "ChIJI-CJ7hby0YAR4tMqt8-D3pg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

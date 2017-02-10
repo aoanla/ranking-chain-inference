@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chapet",
+               "short_name" : "Chapet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yvelines",
+               "short_name" : "Yvelines",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chapet, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.9835769,
+                  "lng" : 1.955788
+               },
+               "southwest" : {
+                  "lat" : 48.95267,
+                  "lng" : 1.92076
+               }
+            },
+            "location" : {
+               "lat" : 48.967085,
+               "lng" : 1.933828
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.9835769,
+                  "lng" : 1.955788
+               },
+               "southwest" : {
+                  "lat" : 48.95267,
+                  "lng" : 1.92076
+               }
+            }
+         },
+         "place_id" : "ChIJK1gXbouN5kcRIWvSPDEfYMM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

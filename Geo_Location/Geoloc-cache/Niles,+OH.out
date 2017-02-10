@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niles",
+               "short_name" : "Niles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Weathersfield Township",
+               "short_name" : "Weathersfield Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Trumbull County",
+               "short_name" : "Trumbull County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niles, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.220051,
+                  "lng" : -80.717052
+               },
+               "southwest" : {
+                  "lat" : 41.156617,
+                  "lng" : -80.78810279999999
+               }
+            },
+            "location" : {
+               "lat" : 41.1828353,
+               "lng" : -80.76535799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.220051,
+                  "lng" : -80.717052
+               },
+               "southwest" : {
+                  "lat" : 41.156617,
+                  "lng" : -80.78810279999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0wAWEx3hM4gRUEW-MJoOGgc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

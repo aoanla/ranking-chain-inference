@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orcet",
+               "short_name" : "Orcet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puy-de-Dome",
+               "short_name" : "Puy-de-Dome",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne",
+               "short_name" : "Auvergne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orcet, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.722869,
+                  "lng" : 3.195341
+               },
+               "southwest" : {
+                  "lat" : 45.69245799999999,
+                  "lng" : 3.1545519
+               }
+            },
+            "location" : {
+               "lat" : 45.7032079,
+               "lng" : 3.169033
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.722869,
+                  "lng" : 3.195341
+               },
+               "southwest" : {
+                  "lat" : 45.69245799999999,
+                  "lng" : 3.1545519
+               }
+            }
+         },
+         "place_id" : "ChIJJUWZVKsC90cRsLzly688CQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

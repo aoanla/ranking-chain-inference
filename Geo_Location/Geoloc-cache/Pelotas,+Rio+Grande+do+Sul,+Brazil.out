@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pelotas",
+               "short_name" : "Pelotas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pelotas",
+               "short_name" : "Pelotas",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pelotas, Pelotas - RS, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.4585649,
+                  "lng" : -52.2069857
+               },
+               "southwest" : {
+                  "lat" : -31.7907765,
+                  "lng" : -52.4574509
+               }
+            },
+            "location" : {
+               "lat" : -31.7653989,
+               "lng" : -52.3375886
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.4585649,
+                  "lng" : -52.2069857
+               },
+               "southwest" : {
+                  "lat" : -31.7907765,
+                  "lng" : -52.4574509
+               }
+            }
+         },
+         "place_id" : "ChIJR2R5rZFJEJURT2S9wa60upk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

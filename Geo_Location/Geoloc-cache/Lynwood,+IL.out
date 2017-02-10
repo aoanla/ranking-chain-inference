@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lynwood",
+               "short_name" : "Lynwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bloom Township",
+               "short_name" : "Bloom Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cook County",
+               "short_name" : "Cook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lynwood, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5429501,
+                  "lng" : -87.52502699999999
+               },
+               "southwest" : {
+                  "lat" : 41.4946209,
+                  "lng" : -87.58731089999999
+               }
+            },
+            "location" : {
+               "lat" : 41.5265677,
+               "lng" : -87.54751349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5429501,
+                  "lng" : -87.52502699999999
+               },
+               "southwest" : {
+                  "lat" : 41.4946209,
+                  "lng" : -87.58731089999999
+               }
+            }
+         },
+         "place_id" : "ChIJz1LrsJMeDogRBjs7J9-9mrU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

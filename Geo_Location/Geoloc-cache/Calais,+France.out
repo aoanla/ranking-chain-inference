@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calais",
+               "short_name" : "Calais",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pas-de-Calais",
+               "short_name" : "Pas-de-Calais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nord-Pas-de-Calais",
+               "short_name" : "Nord-Pas-de-Calais",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calais, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9818821,
+                  "lng" : 1.9320691
+               },
+               "southwest" : {
+                  "lat" : 50.9218889,
+                  "lng" : 1.805843
+               }
+            },
+            "location" : {
+               "lat" : 50.95129000000001,
+               "lng" : 1.858686
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9818821,
+                  "lng" : 1.9320691
+               },
+               "southwest" : {
+                  "lat" : 50.9218889,
+                  "lng" : 1.805843
+               }
+            }
+         },
+         "place_id" : "ChIJY-Px13U_3EcR9HnSjODZvqw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

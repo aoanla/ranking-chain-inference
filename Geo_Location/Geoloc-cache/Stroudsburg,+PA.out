@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stroudsburg",
+               "short_name" : "Stroudsburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stroudsburg, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.997698,
+                  "lng" : -75.1792408
+               },
+               "southwest" : {
+                  "lat" : 40.9746108,
+                  "lng" : -75.215715
+               }
+            },
+            "location" : {
+               "lat" : 40.9867609,
+               "lng" : -75.1946248
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.997698,
+                  "lng" : -75.1792408
+               },
+               "southwest" : {
+                  "lat" : 40.9746108,
+                  "lng" : -75.215715
+               }
+            }
+         },
+         "place_id" : "ChIJK_k6aEyIxIkROWwQpvv45qw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

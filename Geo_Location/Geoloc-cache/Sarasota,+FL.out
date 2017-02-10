@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarasota",
+               "short_name" : "Sarasota",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sarasota County",
+               "short_name" : "Sarasota County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sarasota, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.3891221,
+                  "lng" : -82.478641
+               },
+               "southwest" : {
+                  "lat" : 27.293016,
+                  "lng" : -82.58909969999999
+               }
+            },
+            "location" : {
+               "lat" : 27.3364347,
+               "lng" : -82.53065269999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.3891221,
+                  "lng" : -82.478641
+               },
+               "southwest" : {
+                  "lat" : 27.293016,
+                  "lng" : -82.58909969999999
+               }
+            }
+         },
+         "place_id" : "ChIJK8KyneY3w4gR2RVXHR00NeM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

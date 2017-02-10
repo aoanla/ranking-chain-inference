@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palmerston North",
+               "short_name" : "Palmerston North",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palmerston North City",
+               "short_name" : "Palmerston North City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manawatu-Wanganui",
+               "short_name" : "Manawatu-Wanganui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palmerston North, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -40.288726,
+                  "lng" : 175.7071963
+               },
+               "southwest" : {
+                  "lat" : -40.417773,
+                  "lng" : 175.552863
+               }
+            },
+            "location" : {
+               "lat" : -40.3523065,
+               "lng" : 175.6082145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -40.288726,
+                  "lng" : 175.7071963
+               },
+               "southwest" : {
+                  "lat" : -40.417773,
+                  "lng" : 175.552863
+               }
+            }
+         },
+         "place_id" : "ChIJg0SjvZ-tQW0RFZmiQ2HvAAU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palmerston North",
+               "short_name" : "Palmerston North",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Palmerston North",
+               "short_name" : "Palmerston North",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palmerston North City",
+               "short_name" : "Palmerston North City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manawatu-Wanganui",
+               "short_name" : "Manawatu-Wanganui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palmerston North, Palmerston North, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -40.3332207,
+                  "lng" : 175.6288149
+               },
+               "southwest" : {
+                  "lat" : -40.363482,
+                  "lng" : 175.596375
+               }
+            },
+            "location" : {
+               "lat" : -40.3523065,
+               "lng" : 175.6082145
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -40.3332207,
+                  "lng" : 175.6288149
+               },
+               "southwest" : {
+                  "lat" : -40.363482,
+                  "lng" : 175.596375
+               }
+            }
+         },
+         "place_id" : "ChIJ6zKT_9eyQW0RIPSiQ2HvAAU",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

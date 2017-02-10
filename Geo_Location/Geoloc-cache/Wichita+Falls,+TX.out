@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wichita Falls",
+               "short_name" : "Wichita Falls",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wichita County",
+               "short_name" : "Wichita County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wichita Falls, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.9964111,
+                  "lng" : -98.42433779999999
+               },
+               "southwest" : {
+                  "lat" : 33.8356488,
+                  "lng" : -98.61438
+               }
+            },
+            "location" : {
+               "lat" : 33.9137085,
+               "lng" : -98.49338729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.9964111,
+                  "lng" : -98.42433779999999
+               },
+               "southwest" : {
+                  "lat" : 33.8356488,
+                  "lng" : -98.61438
+               }
+            }
+         },
+         "place_id" : "ChIJ9dpicJIgU4YRAFLq78v6Bh0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

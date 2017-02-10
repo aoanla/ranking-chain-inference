@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greeley",
+               "short_name" : "Greeley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Weld County",
+               "short_name" : "Weld County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greeley, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.4812181,
+                  "lng" : -104.6191429
+               },
+               "southwest" : {
+                  "lat" : 40.3774919,
+                  "lng" : -104.907386
+               }
+            },
+            "location" : {
+               "lat" : 40.4233142,
+               "lng" : -104.7091322
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.4812181,
+                  "lng" : -104.6191429
+               },
+               "southwest" : {
+                  "lat" : 40.3774919,
+                  "lng" : -104.907386
+               }
+            }
+         },
+         "place_id" : "ChIJeV6vyIahbocRHxIKToC6z9I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valenciennes",
+               "short_name" : "Valenciennes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nord",
+               "short_name" : "Nord",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nord-Pas-de-Calais",
+               "short_name" : "Nord-Pas-de-Calais",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valenciennes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.387521,
+                  "lng" : 3.552205
+               },
+               "southwest" : {
+                  "lat" : 50.336551,
+                  "lng" : 3.476158
+               }
+            },
+            "location" : {
+               "lat" : 50.357113,
+               "lng" : 3.518332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.387521,
+                  "lng" : 3.552205
+               },
+               "southwest" : {
+                  "lat" : 50.336551,
+                  "lng" : 3.476158
+               }
+            }
+         },
+         "place_id" : "ChIJswm0aMftwkcRlPT9C-zc9LU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

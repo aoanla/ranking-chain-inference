@@ -1,0 +1,103 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hobart",
+               "short_name" : "Hobart",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hobart TAS, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.6171196,
+                  "lng" : 147.6128634
+               },
+               "southwest" : {
+                  "lat" : -43.0666637,
+                  "lng" : 147.1478068
+               }
+            },
+            "location" : {
+               "lat" : -42.881903,
+               "lng" : 147.323814
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.6171196,
+                  "lng" : 147.6128634
+               },
+               "southwest" : {
+                  "lat" : -43.0666637,
+                  "lng" : 147.1478068
+               }
+            }
+         },
+         "place_id" : "ChIJp8-59JMKbqoREOfd0E3JAwQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hobart",
+               "short_name" : "Hobart",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hobart TAS, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.8732209,
+                  "lng" : 147.3415007
+               },
+               "southwest" : {
+                  "lat" : -42.8915612,
+                  "lng" : 147.3156812
+               }
+            },
+            "location" : {
+               "lat" : -42.8819032,
+               "lng" : 147.3238148
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.8732209,
+                  "lng" : 147.3415007
+               },
+               "southwest" : {
+                  "lat" : -42.8915612,
+                  "lng" : 147.3156812
+               }
+            }
+         },
+         "place_id" : "ChIJ7c8s5YR1bqoRMBXe0E3JAwU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chattanooga",
+               "short_name" : "Chattanooga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton County",
+               "short_name" : "Hamilton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chattanooga, TN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2136671,
+                  "lng" : -85.0517979
+               },
+               "southwest" : {
+                  "lat" : 34.9829239,
+                  "lng" : -85.425584
+               }
+            },
+            "location" : {
+               "lat" : 35.0456297,
+               "lng" : -85.30968009999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2136671,
+                  "lng" : -85.0517979
+               },
+               "southwest" : {
+                  "lat" : 34.9829239,
+                  "lng" : -85.425584
+               }
+            }
+         },
+         "place_id" : "ChIJheeDikBgYIgRqiiHiR8mcSQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

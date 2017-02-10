@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbus",
+               "short_name" : "Columbus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Columbus Township",
+               "short_name" : "Columbus Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bartholomew County",
+               "short_name" : "Bartholomew County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Columbus, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.27451689999999,
+                  "lng" : -85.793013
+               },
+               "southwest" : {
+                  "lat" : 39.1205919,
+                  "lng" : -86.006024
+               }
+            },
+            "location" : {
+               "lat" : 39.2014404,
+               "lng" : -85.92137959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.27451689999999,
+                  "lng" : -85.850871
+               },
+               "southwest" : {
+                  "lat" : 39.1205919,
+                  "lng" : -86.006024
+               }
+            }
+         },
+         "place_id" : "ChIJUcmGLEiga4gRUtdjJBg-mVg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

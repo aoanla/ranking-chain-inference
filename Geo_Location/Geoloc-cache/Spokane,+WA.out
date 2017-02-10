@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spokane",
+               "short_name" : "Spokane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Spokane County",
+               "short_name" : "Spokane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spokane, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.758489,
+                  "lng" : -117.3038439
+               },
+               "southwest" : {
+                  "lat" : 47.5871919,
+                  "lng" : -117.520456
+               }
+            },
+            "location" : {
+               "lat" : 47.6587802,
+               "lng" : -117.4260466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.758489,
+                  "lng" : -117.3038439
+               },
+               "southwest" : {
+                  "lat" : 47.5871919,
+                  "lng" : -117.520456
+               }
+            }
+         },
+         "place_id" : "ChIJ5ee7MFwYnlQRsdmEC9bJ_N0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

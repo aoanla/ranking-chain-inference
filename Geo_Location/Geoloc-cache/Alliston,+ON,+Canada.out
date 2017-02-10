@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alliston",
+               "short_name" : "Alliston",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "New Tecumseth",
+               "short_name" : "New Tecumseth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Simcoe County",
+               "short_name" : "Simcoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alliston, New Tecumseth, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.1774217,
+                  "lng" : -79.8268836
+               },
+               "southwest" : {
+                  "lat" : 44.1361959,
+                  "lng" : -79.89243619999999
+               }
+            },
+            "location" : {
+               "lat" : 44.1539514,
+               "lng" : -79.8691544
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.1774217,
+                  "lng" : -79.8268836
+               },
+               "southwest" : {
+                  "lat" : 44.1361959,
+                  "lng" : -79.89243619999999
+               }
+            }
+         },
+         "place_id" : "ChIJMdlSl5XuKogREOSVzfncFfw",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

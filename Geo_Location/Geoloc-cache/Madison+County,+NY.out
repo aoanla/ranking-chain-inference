@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madison County",
+               "short_name" : "Madison County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madison County, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1852191,
+                  "lng" : -75.23954089999999
+               },
+               "southwest" : {
+                  "lat" : 42.723844,
+                  "lng" : -75.9935043
+               }
+            },
+            "location" : {
+               "lat" : 42.98059749999999,
+               "lng" : -75.8069082
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1852191,
+                  "lng" : -75.23954089999999
+               },
+               "southwest" : {
+                  "lat" : 42.723844,
+                  "lng" : -75.9935043
+               }
+            }
+         },
+         "place_id" : "ChIJpYx_UTz82IkRrJ2tqWgCM0w",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

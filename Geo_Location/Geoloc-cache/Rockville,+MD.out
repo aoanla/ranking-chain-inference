@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rockville",
+               "short_name" : "Rockville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "4",
+               "short_name" : "4",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rockville, MD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.120714,
+                  "lng" : -77.0919957
+               },
+               "southwest" : {
+                  "lat" : 39.053153,
+                  "lng" : -77.20030179999999
+               }
+            },
+            "location" : {
+               "lat" : 39.0839973,
+               "lng" : -77.1527578
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.120714,
+                  "lng" : -77.0919957
+               },
+               "southwest" : {
+                  "lat" : 39.053153,
+                  "lng" : -77.20030179999999
+               }
+            }
+         },
+         "place_id" : "ChIJFZHj_iwqtokRJN_J2RC-pew",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

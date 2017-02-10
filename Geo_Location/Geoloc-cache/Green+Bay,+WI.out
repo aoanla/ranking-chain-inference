@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Green Bay",
+               "short_name" : "Green Bay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brown County",
+               "short_name" : "Brown County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Green Bay, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.574659,
+                  "lng" : -87.84117310000001
+               },
+               "southwest" : {
+                  "lat" : 44.4712319,
+                  "lng" : -88.139816
+               }
+            },
+            "location" : {
+               "lat" : 44.51915899999999,
+               "lng" : -88.01982599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.574659,
+                  "lng" : -87.84117310000001
+               },
+               "southwest" : {
+                  "lat" : 44.4712319,
+                  "lng" : -88.139816
+               }
+            }
+         },
+         "place_id" : "ChIJ84CzCejiAogRcfXcFFIEcGM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

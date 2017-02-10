@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lake City",
+               "short_name" : "Lake City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Columbia County",
+               "short_name" : "Columbia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lake City, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.246528,
+                  "lng" : -82.60948789999999
+               },
+               "southwest" : {
+                  "lat" : 30.1565289,
+                  "lng" : -82.710306
+               }
+            },
+            "location" : {
+               "lat" : 30.1896756,
+               "lng" : -82.63928989999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.246528,
+                  "lng" : -82.60948789999999
+               },
+               "southwest" : {
+                  "lat" : 30.1565289,
+                  "lng" : -82.710306
+               }
+            }
+         },
+         "place_id" : "ChIJs-NwfmU574gROmbcppdM2FA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

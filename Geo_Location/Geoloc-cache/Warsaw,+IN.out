@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warsaw",
+               "short_name" : "Warsaw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne Township",
+               "short_name" : "Wayne Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kosciusko County",
+               "short_name" : "Kosciusko County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Warsaw, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.290284,
+                  "lng" : -85.78231079999999
+               },
+               "southwest" : {
+                  "lat" : 41.20487199999999,
+                  "lng" : -85.89125709999999
+               }
+            },
+            "location" : {
+               "lat" : 41.2381,
+               "lng" : -85.8530469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.290284,
+                  "lng" : -85.78231079999999
+               },
+               "southwest" : {
+                  "lat" : 41.20487199999999,
+                  "lng" : -85.89125709999999
+               }
+            }
+         },
+         "place_id" : "ChIJZ7-cQiycFogRAMhnvFnmkbU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

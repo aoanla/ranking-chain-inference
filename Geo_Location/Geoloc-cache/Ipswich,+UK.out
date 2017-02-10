@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ipswich, Suffolk, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0944549,
+                  "lng" : 1.23249
+               },
+               "southwest" : {
+                  "lat" : 52.0207549,
+                  "lng" : 1.0954993
+               }
+            },
+            "location" : {
+               "lat" : 52.056736,
+               "lng" : 1.14822
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0944549,
+                  "lng" : 1.23249
+               },
+               "southwest" : {
+                  "lat" : 52.0207549,
+                  "lng" : 1.0954993
+               }
+            }
+         },
+         "place_id" : "ChIJh9jVHoYH2UcRqUItfazD3TM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

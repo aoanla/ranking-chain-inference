@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Huntington",
+               "short_name" : "Huntington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cabell County",
+               "short_name" : "Cabell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Huntington, WV, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.439347,
+                  "lng" : -82.3531929
+               },
+               "southwest" : {
+                  "lat" : 38.3759941,
+                  "lng" : -82.5306789
+               }
+            },
+            "location" : {
+               "lat" : 38.4192496,
+               "lng" : -82.44515400000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.439347,
+                  "lng" : -82.3531929
+               },
+               "southwest" : {
+                  "lat" : 38.3759941,
+                  "lng" : -82.5306789
+               }
+            }
+         },
+         "place_id" : "ChIJtTAkearjRYgR1FFA7Wg1cdM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

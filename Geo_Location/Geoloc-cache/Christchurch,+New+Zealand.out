@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Christchurch",
+               "short_name" : "Christchurch",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Christchurch City",
+               "short_name" : "Christchurch City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Canterbury",
+               "short_name" : "Canterbury",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Christchurch, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -43.3907893,
+                  "lng" : 172.80892
+               },
+               "southwest" : {
+                  "lat" : -43.6354841,
+                  "lng" : 172.3892344
+               }
+            },
+            "location" : {
+               "lat" : -43.5320544,
+               "lng" : 172.6362254
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -43.3907893,
+                  "lng" : 172.80892
+               },
+               "southwest" : {
+                  "lat" : -43.6354841,
+                  "lng" : 172.3892344
+               }
+            }
+         },
+         "place_id" : "ChIJAe3FY0gvMm0RRZl5hIbvAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

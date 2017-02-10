@@ -1,0 +1,236 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexicali",
+               "short_name" : "Mexicali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mexicali",
+               "short_name" : "Mexicali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baja California",
+               "short_name" : "B.C.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexicali, Baja California, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6723463,
+                  "lng" : -115.3417969
+               },
+               "southwest" : {
+                  "lat" : 32.5541784,
+                  "lng" : -115.5587851
+               }
+            },
+            "location" : {
+               "lat" : 32.6245389,
+               "lng" : -115.4522623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6723463,
+                  "lng" : -115.3417969
+               },
+               "southwest" : {
+                  "lat" : 32.5541784,
+                  "lng" : -115.5587851
+               }
+            }
+         },
+         "place_id" : "ChIJ0913qAxw14ARmvXN5aAzANQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baja California",
+               "short_name" : "Baja California",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mexicali",
+               "short_name" : "Mexicali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mexicali",
+               "short_name" : "Mexicali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baja California",
+               "short_name" : "B.C.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baja California, Mexicali, B.C., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6625424,
+                  "lng" : -115.5056719
+               },
+               "southwest" : {
+                  "lat" : 32.647158,
+                  "lng" : -115.5226313
+               }
+            },
+            "location" : {
+               "lat" : 32.6529464,
+               "lng" : -115.5162942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6625424,
+                  "lng" : -115.5056719
+               },
+               "southwest" : {
+                  "lat" : 32.647158,
+                  "lng" : -115.5226313
+               }
+            }
+         },
+         "place_id" : "ChIJgwIVr9B614ARl2ZarZ27R9Y",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexicali",
+               "short_name" : "Mexicali",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mexicali",
+               "short_name" : "Mexicali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mexicali",
+               "short_name" : "Mexicali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baja California",
+               "short_name" : "B.C.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexicali, Mexicali, B.C., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6042987,
+                  "lng" : -115.3852924
+               },
+               "southwest" : {
+                  "lat" : 32.5998763,
+                  "lng" : -115.3928321
+               }
+            },
+            "location" : {
+               "lat" : 32.601761,
+               "lng" : -115.3896809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6042987,
+                  "lng" : -115.3852924
+               },
+               "southwest" : {
+                  "lat" : 32.5998763,
+                  "lng" : -115.3928321
+               }
+            }
+         },
+         "place_id" : "ChIJQVefDa5214ARGaFuXMwvb4E",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mexicali",
+               "short_name" : "Mexicali",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rosarito",
+               "short_name" : "Rosarito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Playas de Rosarito",
+               "short_name" : "Playas de Rosarito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baja California",
+               "short_name" : "B.C.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mexicali, Rosarito, B.C., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.3562161,
+                  "lng" : -117.0593386
+               },
+               "southwest" : {
+                  "lat" : 32.3555888,
+                  "lng" : -117.0674833
+               }
+            },
+            "location" : {
+               "lat" : 32.3558167,
+               "lng" : -117.0615714
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.35725143029151,
+                  "lng" : -117.0593386
+               },
+               "southwest" : {
+                  "lat" : 32.35455346970851,
+                  "lng" : -117.0674833
+               }
+            }
+         },
+         "place_id" : "ChIJV0QSapwx2YARvjW_SiZHONI",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

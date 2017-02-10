@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jamestown",
+               "short_name" : "Jamestown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stutsman County",
+               "short_name" : "Stutsman County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Dakota",
+               "short_name" : "ND",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jamestown, ND, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.942924,
+                  "lng" : -98.61514179999999
+               },
+               "southwest" : {
+                  "lat" : 46.877392,
+                  "lng" : -98.75866889999999
+               }
+            },
+            "location" : {
+               "lat" : 46.9105438,
+               "lng" : -98.7084357
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.942924,
+                  "lng" : -98.61514179999999
+               },
+               "southwest" : {
+                  "lat" : 46.877392,
+                  "lng" : -98.75866889999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0YjlUAsT0FIRV4vNrO_n7As",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

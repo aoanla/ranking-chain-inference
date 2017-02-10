@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taylor",
+               "short_name" : "Taylor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taylor, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.269879,
+                  "lng" : -83.228123
+               },
+               "southwest" : {
+                  "lat" : 42.1812819,
+                  "lng" : -83.30899889999999
+               }
+            },
+            "location" : {
+               "lat" : 42.240872,
+               "lng" : -83.2696509
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.269879,
+                  "lng" : -83.228123
+               },
+               "southwest" : {
+                  "lat" : 42.1812819,
+                  "lng" : -83.30899889999999
+               }
+            }
+         },
+         "place_id" : "ChIJKbJx90dIO4gRGbTPPFxEGuk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Muskegon",
+               "short_name" : "Muskegon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Muskegon County",
+               "short_name" : "Muskegon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Muskegon, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.269701,
+                  "lng" : -86.16936
+               },
+               "southwest" : {
+                  "lat" : 43.2033791,
+                  "lng" : -86.343694
+               }
+            },
+            "location" : {
+               "lat" : 43.2341813,
+               "lng" : -86.24839209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.269701,
+                  "lng" : -86.16936
+               },
+               "southwest" : {
+                  "lat" : 43.2033791,
+                  "lng" : -86.343694
+               }
+            }
+         },
+         "place_id" : "ChIJ2Z49qcN8GYgRQCX3NJE1fiQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

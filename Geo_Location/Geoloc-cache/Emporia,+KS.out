@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Emporia",
+               "short_name" : "Emporia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lyon County",
+               "short_name" : "Lyon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66801",
+               "short_name" : "66801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Emporia, KS 66801, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.44070809999999,
+                  "lng" : -96.140525
+               },
+               "southwest" : {
+                  "lat" : 38.317932,
+                  "lng" : -96.24206079999999
+               }
+            },
+            "location" : {
+               "lat" : 38.403903,
+               "lng" : -96.18166260000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.44070809999999,
+                  "lng" : -96.140525
+               },
+               "southwest" : {
+                  "lat" : 38.380589,
+                  "lng" : -96.24206079999999
+               }
+            }
+         },
+         "place_id" : "ChIJ9-X7fi5MuYcRzfoqjTSrIhk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amboise",
+               "short_name" : "Amboise",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Indre-et-Loire",
+               "short_name" : "Indre-et-Loire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre",
+               "short_name" : "Centre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amboise, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4283639,
+                  "lng" : 1.063712
+               },
+               "southwest" : {
+                  "lat" : 47.364118,
+                  "lng" : 0.9353378
+               }
+            },
+            "location" : {
+               "lat" : 47.413326,
+               "lng" : 0.9844069999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4283639,
+                  "lng" : 1.063712
+               },
+               "southwest" : {
+                  "lat" : 47.364118,
+                  "lng" : 0.9353378
+               }
+            }
+         },
+         "place_id" : "ChIJNSgPb5q1_EcRAJQ4BdfIDQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

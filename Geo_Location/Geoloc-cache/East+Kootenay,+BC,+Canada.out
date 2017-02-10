@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "East Kootenay",
+               "short_name" : "East Kootenay",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "East Kootenay, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.331535,
+                  "lng" : -114.0542211
+               },
+               "southwest" : {
+                  "lat" : 48.998869,
+                  "lng" : -116.7950441
+               }
+            },
+            "location" : {
+               "lat" : 50.12841050000001,
+               "lng" : -115.7568033
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.331535,
+                  "lng" : -114.0542211
+               },
+               "southwest" : {
+                  "lat" : 48.998869,
+                  "lng" : -116.7950441
+               }
+            }
+         },
+         "place_id" : "ChIJ66y6QPmielMRW58O3sj8jS0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

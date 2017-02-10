@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kingsford",
+               "short_name" : "Kingsford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dickinson County",
+               "short_name" : "Dickinson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kingsford, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.822783,
+                  "lng" : -88.06651909999999
+               },
+               "southwest" : {
+                  "lat" : 45.7847041,
+                  "lng" : -88.13621209999999
+               }
+            },
+            "location" : {
+               "lat" : 45.7949561,
+               "lng" : -88.0720706
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.822783,
+                  "lng" : -88.06651909999999
+               },
+               "southwest" : {
+                  "lat" : 45.7847041,
+                  "lng" : -88.13621209999999
+               }
+            }
+         },
+         "place_id" : "ChIJs1njBaRMUk0RdT6awsk4-GU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

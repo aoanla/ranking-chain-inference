@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hayfork",
+               "short_name" : "Hayfork",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trinity County",
+               "short_name" : "Trinity County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hayfork, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.712443,
+                  "lng" : -122.9684039
+               },
+               "southwest" : {
+                  "lat" : 40.4638599,
+                  "lng" : -123.3001701
+               }
+            },
+            "location" : {
+               "lat" : 40.5543106,
+               "lng" : -123.1830839
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.712443,
+                  "lng" : -122.9684039
+               },
+               "southwest" : {
+                  "lat" : 40.4638599,
+                  "lng" : -123.3001701
+               }
+            }
+         },
+         "place_id" : "ChIJs_s8BnSg01QR2JAV0nz8So0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

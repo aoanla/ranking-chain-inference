@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marietta",
+               "short_name" : "Marietta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cobb County",
+               "short_name" : "Cobb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marietta, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0011701,
+                  "lng" : -84.4679379
+               },
+               "southwest" : {
+                  "lat" : 33.8956108,
+                  "lng" : -84.616806
+               }
+            },
+            "location" : {
+               "lat" : 33.95260200000001,
+               "lng" : -84.5499327
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0011701,
+                  "lng" : -84.4679379
+               },
+               "southwest" : {
+                  "lat" : 33.8956108,
+                  "lng" : -84.616806
+               }
+            }
+         },
+         "place_id" : "ChIJXQZHhpYQ9YgRgemOMsZWh7E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

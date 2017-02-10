@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cannes",
+               "short_name" : "Cannes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alpes-Maritimes",
+               "short_name" : "Alpes-Maritimes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cannes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.574851,
+                  "lng" : 7.074204
+               },
+               "southwest" : {
+                  "lat" : 43.499718,
+                  "lng" : 6.9447059
+               }
+            },
+            "location" : {
+               "lat" : 43.552847,
+               "lng" : 7.017369
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.574851,
+                  "lng" : 7.057732
+               },
+               "southwest" : {
+                  "lat" : 43.5346531,
+                  "lng" : 6.9447059
+               }
+            }
+         },
+         "place_id" : "ChIJ__8MU4CBzhIRIJ6X_aUZCAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

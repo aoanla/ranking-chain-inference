@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montgomery",
+               "short_name" : "Montgomery",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montgomery, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.4376769,
+                  "lng" : -86.07220509999999
+               },
+               "southwest" : {
+                  "lat" : 32.249921,
+                  "lng" : -86.41986989999999
+               }
+            },
+            "location" : {
+               "lat" : 32.3668052,
+               "lng" : -86.2999689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.4376769,
+                  "lng" : -86.07220509999999
+               },
+               "southwest" : {
+                  "lat" : 32.249921,
+                  "lng" : -86.41986989999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-YHUsJSBjogR_4VCNR1RG44",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

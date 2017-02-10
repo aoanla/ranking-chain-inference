@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Longwy",
+               "short_name" : "Longwy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lorraine",
+               "short_name" : "Lorraine",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Meurthe-et-Moselle",
+               "short_name" : "Meurthe-et-Moselle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alsace-Champagne-Ardenne-Lorraine",
+               "short_name" : "Alsace-Champagne-Ardenne-Lorraine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Longwy, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.536903,
+                  "lng" : 5.78839
+               },
+               "southwest" : {
+                  "lat" : 49.506574,
+                  "lng" : 5.745898
+               }
+            },
+            "location" : {
+               "lat" : 49.51991899999999,
+               "lng" : 5.761773
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.536903,
+                  "lng" : 5.78839
+               },
+               "southwest" : {
+                  "lat" : 49.506574,
+                  "lng" : 5.745898
+               }
+            }
+         },
+         "place_id" : "ChIJY5Z3Y3HI6kcRQPo6mrlfCgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

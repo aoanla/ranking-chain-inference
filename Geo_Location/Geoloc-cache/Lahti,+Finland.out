@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lahti",
+               "short_name" : "Lahti",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lahti, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.1029709,
+                  "lng" : 26.1691146
+               },
+               "southwest" : {
+                  "lat" : 60.8866914,
+                  "lng" : 25.5407804
+               }
+            },
+            "location" : {
+               "lat" : 60.98267490000001,
+               "lng" : 25.6612096
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.1029709,
+                  "lng" : 26.1691146
+               },
+               "southwest" : {
+                  "lat" : 60.8866914,
+                  "lng" : 25.5407804
+               }
+            }
+         },
+         "place_id" : "ChIJk3Zq1TAojkYR0LRLVVG1AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

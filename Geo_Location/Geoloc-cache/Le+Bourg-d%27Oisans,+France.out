@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Le Bourg-d'Oisans",
+               "short_name" : "Le Bourg-d'Oisans",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isere",
+               "short_name" : "Isere",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Le Bourg-d'Oisans, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.121303,
+                  "lng" : 6.0801219
+               },
+               "southwest" : {
+                  "lat" : 44.935585,
+                  "lng" : 5.975634899999999
+               }
+            },
+            "location" : {
+               "lat" : 45.051951,
+               "lng" : 6.030063999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.121303,
+                  "lng" : 6.0801219
+               },
+               "southwest" : {
+                  "lat" : 44.935585,
+                  "lng" : 5.975634899999999
+               }
+            }
+         },
+         "place_id" : "ChIJPRszQRtsikcRbtbm4mHBfig",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Acassuso",
+               "short_name" : "Acassuso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Isidro Partido",
+               "short_name" : "San Isidro Partido",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Acassuso, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.4669427,
+                  "lng" : -58.4855464
+               },
+               "southwest" : {
+                  "lat" : -34.4887999,
+                  "lng" : -58.5158156
+               }
+            },
+            "location" : {
+               "lat" : -34.4773612,
+               "lng" : -58.4992702
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.4669427,
+                  "lng" : -58.4855464
+               },
+               "southwest" : {
+                  "lat" : -34.4887999,
+                  "lng" : -58.5158156
+               }
+            }
+         },
+         "place_id" : "ChIJIYUQ5U6wvJUR_Wt0bqs61pw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

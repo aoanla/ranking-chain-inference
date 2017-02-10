@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Odense",
+               "short_name" : "Odense",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Odense Municipality",
+               "short_name" : "Odense Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Region Syddanmark",
+               "short_name" : "Region Syddanmark",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Odense, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.4803016,
+                  "lng" : 10.576853
+               },
+               "southwest" : {
+                  "lat" : 55.288194,
+                  "lng" : 10.2187859
+               }
+            },
+            "location" : {
+               "lat" : 55.40375599999999,
+               "lng" : 10.40237
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.4803016,
+                  "lng" : 10.576853
+               },
+               "southwest" : {
+                  "lat" : 55.288194,
+                  "lng" : 10.2187859
+               }
+            }
+         },
+         "place_id" : "ChIJwSSXQjXZTEYR7PUvO9U0Hjs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

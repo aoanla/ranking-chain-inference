@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ward Cove",
+               "short_name" : "Ward Cove",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ketchikan Gateway",
+               "short_name" : "Ketchikan Gateway",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99901",
+               "short_name" : "99901",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ward Cove, AK 99901, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 55.4119444,
+               "lng" : -131.7227778
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.41827800000001,
+                  "lng" : -131.7067704
+               },
+               "southwest" : {
+                  "lat" : 55.4056098,
+                  "lng" : -131.7387852
+               }
+            }
+         },
+         "place_id" : "ChIJKYSNZe8mDFQRBpign15sT2I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

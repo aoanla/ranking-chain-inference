@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Londrina",
+               "short_name" : "Londrina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Londrina",
+               "short_name" : "Londrina",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Londrina, Londrina - PR, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.2411239,
+                  "lng" : -51.0924221
+               },
+               "southwest" : {
+                  "lat" : -23.4014352,
+                  "lng" : -51.23782199999999
+               }
+            },
+            "location" : {
+               "lat" : -23.3044524,
+               "lng" : -51.1695824
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.2411239,
+                  "lng" : -51.0924221
+               },
+               "southwest" : {
+                  "lat" : -23.4014352,
+                  "lng" : -51.23782199999999
+               }
+            }
+         },
+         "place_id" : "ChIJbVivV1pD65QRcfkUxqURrCM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

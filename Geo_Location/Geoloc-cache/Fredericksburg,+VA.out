@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fredericksburg",
+               "short_name" : "Fredericksburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fredericksburg, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.32629319999999,
+                  "lng" : -77.44708799999999
+               },
+               "southwest" : {
+                  "lat" : 38.270245,
+                  "lng" : -77.53268609999999
+               }
+            },
+            "location" : {
+               "lat" : 38.3031837,
+               "lng" : -77.4605399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.32629319999999,
+                  "lng" : -77.44708799999999
+               },
+               "southwest" : {
+                  "lat" : 38.270245,
+                  "lng" : -77.53268609999999
+               }
+            }
+         },
+         "place_id" : "ChIJJeDquuvBtokRoZGmIQpFpn8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

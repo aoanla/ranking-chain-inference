@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avignon",
+               "short_name" : "Avignon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vaucluse",
+               "short_name" : "Vaucluse",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Avignon, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9966409,
+                  "lng" : 4.927226
+               },
+               "southwest" : {
+                  "lat" : 43.8864731,
+                  "lng" : 4.739279
+               }
+            },
+            "location" : {
+               "lat" : 43.94931700000001,
+               "lng" : 4.805528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9966409,
+                  "lng" : 4.927226
+               },
+               "southwest" : {
+                  "lat" : 43.8864731,
+                  "lng" : 4.739279
+               }
+            }
+         },
+         "place_id" : "ChIJB528OYfrtRIRNnsd-m6bQuY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avignon",
+               "short_name" : "Avignon",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Neung-sur-Beuvron",
+               "short_name" : "Neung-sur-Beuvron",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loir-et-Cher",
+               "short_name" : "Loir-et-Cher",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre",
+               "short_name" : "Centre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "41210",
+               "short_name" : "41210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avignon, 41210 Neung-sur-Beuvron, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.513874,
+               "lng" : 1.817713
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5152229802915,
+                  "lng" : 1.819061980291502
+               },
+               "southwest" : {
+                  "lat" : 47.51252501970851,
+                  "lng" : 1.816364019708498
+               }
+            }
+         },
+         "place_id" : "ChIJtzgv1QnO5EcRwXqoRtjIDSY",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

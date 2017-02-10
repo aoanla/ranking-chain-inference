@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cookeville",
+               "short_name" : "Cookeville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Putnam County",
+               "short_name" : "Putnam County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cookeville, TN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.199162,
+                  "lng" : -85.44136709999999
+               },
+               "southwest" : {
+                  "lat" : 36.0804659,
+                  "lng" : -85.58981899999999
+               }
+            },
+            "location" : {
+               "lat" : 36.162839,
+               "lng" : -85.5016423
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.199162,
+                  "lng" : -85.44136709999999
+               },
+               "southwest" : {
+                  "lat" : 36.0804659,
+                  "lng" : -85.58981899999999
+               }
+            }
+         },
+         "place_id" : "ChIJWUzxDKcYZ4gRHV5A6ufMTi8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

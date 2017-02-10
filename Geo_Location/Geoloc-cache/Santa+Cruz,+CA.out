@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Cruz",
+               "short_name" : "Santa Cruz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Cruz County",
+               "short_name" : "Santa Cruz County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Cruz, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.0108489,
+                  "lng" : -121.9862189
+               },
+               "southwest" : {
+                  "lat" : 36.9480203,
+                  "lng" : -122.1087411
+               }
+            },
+            "location" : {
+               "lat" : 36.9741171,
+               "lng" : -122.0307963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.0108489,
+                  "lng" : -121.9862189
+               },
+               "southwest" : {
+                  "lat" : 36.9480203,
+                  "lng" : -122.077272
+               }
+            }
+         },
+         "place_id" : "ChIJSdU2fBtEjoARhfnXKksQylI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

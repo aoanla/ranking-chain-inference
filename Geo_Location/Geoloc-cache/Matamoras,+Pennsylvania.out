@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Matamoras",
+               "short_name" : "Matamoras",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pike County",
+               "short_name" : "Pike County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Matamoras, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.376784,
+                  "lng" : -74.6895018
+               },
+               "southwest" : {
+                  "lat" : 41.3575909,
+                  "lng" : -74.710526
+               }
+            },
+            "location" : {
+               "lat" : 41.3687049,
+               "lng" : -74.70016319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.376784,
+                  "lng" : -74.6895018
+               },
+               "southwest" : {
+                  "lat" : 41.3575909,
+                  "lng" : -74.710526
+               }
+            }
+         },
+         "place_id" : "ChIJQy9YE1hPw4kRDzP9fX_WIos",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

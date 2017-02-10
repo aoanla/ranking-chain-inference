@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbia",
+               "short_name" : "Columbia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boone County",
+               "short_name" : "Boone County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Columbia, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.02944,
+                  "lng" : -92.22819400000002
+               },
+               "southwest" : {
+                  "lat" : 38.863548,
+                  "lng" : -92.4334839
+               }
+            },
+            "location" : {
+               "lat" : 38.9517053,
+               "lng" : -92.3340724
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.02944,
+                  "lng" : -92.22819400000002
+               },
+               "southwest" : {
+                  "lat" : 38.863548,
+                  "lng" : -92.4334839
+               }
+            }
+         },
+         "place_id" : "ChIJyYKBu_Or3IcRIG-9ui1pEaA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

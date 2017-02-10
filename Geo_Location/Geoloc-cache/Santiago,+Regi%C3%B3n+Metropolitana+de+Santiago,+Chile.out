@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Santiago",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Santiago Province",
+               "short_name" : "Santiago Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santiago Metropolitan Region",
+               "short_name" : "Santiago Metropolitan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago, Santiago Metropolitan Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.2713874,
+                  "lng" : -70.42678069999999
+               },
+               "southwest" : {
+                  "lat" : -33.6741885,
+                  "lng" : -70.8328819
+               }
+            },
+            "location" : {
+               "lat" : -33.4488897,
+               "lng" : -70.66926549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.2713874,
+                  "lng" : -70.42678069999999
+               },
+               "southwest" : {
+                  "lat" : -33.6741885,
+                  "lng" : -70.8328819
+               }
+            }
+         },
+         "place_id" : "ChIJL68lBEHFYpYRMQkPQDzVdYQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Santiago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Santiago",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Santiago Province",
+               "short_name" : "Santiago Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santiago Metropolitan Region",
+               "short_name" : "Santiago Metropolitan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago, Santiago, Santiago Metropolitan Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.425617,
+                  "lng" : -70.6251297
+               },
+               "southwest" : {
+                  "lat" : -33.4811177,
+                  "lng" : -70.7332574
+               }
+            },
+            "location" : {
+               "lat" : -33.4378305,
+               "lng" : -70.6504492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.425617,
+                  "lng" : -70.6251297
+               },
+               "southwest" : {
+                  "lat" : -33.4811177,
+                  "lng" : -70.7332574
+               }
+            }
+         },
+         "place_id" : "ChIJuzrymgbQYpYRl0jtCfRZnYc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

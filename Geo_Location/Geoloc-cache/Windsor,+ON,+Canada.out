@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Windsor",
+               "short_name" : "Windsor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Essex County",
+               "short_name" : "Essex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Windsor, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3518283,
+                  "lng" : -82.89094
+               },
+               "southwest" : {
+                  "lat" : 42.233569,
+                  "lng" : -83.114824
+               }
+            },
+            "location" : {
+               "lat" : 42.3149367,
+               "lng" : -83.03636329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3518283,
+                  "lng" : -82.89094
+               },
+               "southwest" : {
+                  "lat" : 42.233569,
+                  "lng" : -83.114824
+               }
+            }
+         },
+         "place_id" : "ChIJa4hPtcEqO4gRUdz8J5XUbLY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

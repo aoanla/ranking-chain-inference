@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lancaster",
+               "short_name" : "Lancaster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Worcester County",
+               "short_name" : "Worcester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lancaster, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5337898,
+                  "lng" : -71.62613899999999
+               },
+               "southwest" : {
+                  "lat" : 42.4103481,
+                  "lng" : -71.727648
+               }
+            },
+            "location" : {
+               "lat" : 42.4556452,
+               "lng" : -71.6731242
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5337898,
+                  "lng" : -71.62613899999999
+               },
+               "southwest" : {
+                  "lat" : 42.4103481,
+                  "lng" : -71.727648
+               }
+            }
+         },
+         "place_id" : "ChIJSYaqpXLu44kRSF8h8Aa6FMg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

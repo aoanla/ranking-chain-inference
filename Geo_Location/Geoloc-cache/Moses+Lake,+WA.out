@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moses Lake",
+               "short_name" : "Moses Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grant County",
+               "short_name" : "Grant County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98837",
+               "short_name" : "98837",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moses Lake, WA 98837, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.20475589999999,
+                  "lng" : -119.187665
+               },
+               "southwest" : {
+                  "lat" : 47.058512,
+                  "lng" : -119.347815
+               }
+            },
+            "location" : {
+               "lat" : 47.1301417,
+               "lng" : -119.2780771
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.20475589999999,
+                  "lng" : -119.187665
+               },
+               "southwest" : {
+                  "lat" : 47.058512,
+                  "lng" : -119.347815
+               }
+            }
+         },
+         "place_id" : "ChIJ27vfjjU_mVQRJCDl7OXrUD8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

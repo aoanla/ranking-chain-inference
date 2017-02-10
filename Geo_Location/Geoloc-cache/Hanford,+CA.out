@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanford",
+               "short_name" : "Hanford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kings County",
+               "short_name" : "Kings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93230",
+               "short_name" : "93230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanford, CA 93230, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.371886,
+                  "lng" : -119.6008429
+               },
+               "southwest" : {
+                  "lat" : 36.26574,
+                  "lng" : -119.691012
+               }
+            },
+            "location" : {
+               "lat" : 36.3274502,
+               "lng" : -119.6456844
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.371886,
+                  "lng" : -119.6008429
+               },
+               "southwest" : {
+                  "lat" : 36.26574,
+                  "lng" : -119.691012
+               }
+            }
+         },
+         "place_id" : "ChIJU3qvGXvDlIARkPRjxeSnFhs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

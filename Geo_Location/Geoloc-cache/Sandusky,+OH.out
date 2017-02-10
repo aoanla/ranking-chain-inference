@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sandusky",
+               "short_name" : "Sandusky",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sandusky, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.4932509,
+                  "lng" : -82.617723
+               },
+               "southwest" : {
+                  "lat" : 41.4166429,
+                  "lng" : -82.78653510000001
+               }
+            },
+            "location" : {
+               "lat" : 41.4489396,
+               "lng" : -82.7079605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.4932509,
+                  "lng" : -82.617723
+               },
+               "southwest" : {
+                  "lat" : 41.4166429,
+                  "lng" : -82.78653510000001
+               }
+            }
+         },
+         "place_id" : "ChIJR0Ueq2BBOogRDzISZpCEKv8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

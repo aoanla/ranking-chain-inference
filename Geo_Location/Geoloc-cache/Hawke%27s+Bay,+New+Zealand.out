@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hawke's Bay",
+               "short_name" : "Hawke's Bay",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hawke's Bay, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.1752186,
+                  "lng" : 178.0018181
+               },
+               "southwest" : {
+                  "lat" : -40.440783,
+                  "lng" : 175.8300119
+               }
+            },
+            "location" : {
+               "lat" : -39.7711616,
+               "lng" : 176.7416374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.1752186,
+                  "lng" : 178.0018181
+               },
+               "southwest" : {
+                  "lat" : -40.440783,
+                  "lng" : 175.8300119
+               }
+            }
+         },
+         "place_id" : "ChIJwYEchkOzaW0RZyhYJpjiVAQ",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

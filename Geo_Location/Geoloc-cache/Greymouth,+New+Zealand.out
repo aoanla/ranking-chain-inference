@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greymouth",
+               "short_name" : "Greymouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Coast",
+               "short_name" : "West Coast",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greymouth, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.4204161,
+                  "lng" : 171.2276887
+               },
+               "southwest" : {
+                  "lat" : -42.5640081,
+                  "lng" : 171.12675
+               }
+            },
+            "location" : {
+               "lat" : -42.4503925,
+               "lng" : 171.2107623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.4204161,
+                  "lng" : 171.2276887
+               },
+               "southwest" : {
+                  "lat" : -42.5640081,
+                  "lng" : 171.12675
+               }
+            }
+         },
+         "place_id" : "ChIJUxDVTdk_L20RoHJ5hIbvAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

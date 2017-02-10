@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gaston County",
+               "short_name" : "Gaston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gaston County, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.4196161,
+                  "lng" : -80.9265005
+               },
+               "southwest" : {
+                  "lat" : 35.1499043,
+                  "lng" : -81.4565049
+               }
+            },
+            "location" : {
+               "lat" : 35.2895651,
+               "lng" : -81.20781640000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.4196161,
+                  "lng" : -80.9265005
+               },
+               "southwest" : {
+                  "lat" : 35.1499043,
+                  "lng" : -81.4565049
+               }
+            }
+         },
+         "place_id" : "ChIJyf9pG3e8VogRlFrxMCkszws",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

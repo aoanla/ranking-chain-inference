@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "The City of Brighton and Hove",
+               "short_name" : "The City of Brighton and Hove",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton, The City of Brighton and Hove, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8735837,
+                  "lng" : -0.03626
+               },
+               "southwest" : {
+                  "lat" : 50.801257,
+                  "lng" : -0.1761194
+               }
+            },
+            "location" : {
+               "lat" : 50.82253000000001,
+               "lng" : -0.137163
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8735837,
+                  "lng" : -0.03626
+               },
+               "southwest" : {
+                  "lat" : 50.801257,
+                  "lng" : -0.1761194
+               }
+            }
+         },
+         "place_id" : "ChIJZ0Ep9gmFdUgR-Q59cnqvxpw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

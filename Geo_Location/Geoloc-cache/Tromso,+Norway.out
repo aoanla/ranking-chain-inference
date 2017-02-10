@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tromsø",
+               "short_name" : "Tromsø",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tromsø",
+               "short_name" : "Tromsø",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Troms",
+               "short_name" : "Troms",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tromsø, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 69.71491589999999,
+                  "lng" : 19.0877596
+               },
+               "southwest" : {
+                  "lat" : 69.61553959999999,
+                  "lng" : 18.7477398
+               }
+            },
+            "location" : {
+               "lat" : 69.6492047,
+               "lng" : 18.9553238
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 69.71491589999999,
+                  "lng" : 19.0877596
+               },
+               "southwest" : {
+                  "lat" : 69.61553959999999,
+                  "lng" : 18.7477398
+               }
+            }
+         },
+         "place_id" : "ChIJ_XE7bFLExEUR075ujoXKPQI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

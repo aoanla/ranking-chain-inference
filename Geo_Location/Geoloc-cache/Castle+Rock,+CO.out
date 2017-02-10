@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Castle Rock",
+               "short_name" : "Castle Rock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Douglas County",
+               "short_name" : "Douglas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Castle Rock, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.43541,
+                  "lng" : -104.7617269
+               },
+               "southwest" : {
+                  "lat" : 39.311666,
+                  "lng" : -104.92019
+               }
+            },
+            "location" : {
+               "lat" : 39.3722121,
+               "lng" : -104.8560902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.43541,
+                  "lng" : -104.7617269
+               },
+               "southwest" : {
+                  "lat" : 39.311666,
+                  "lng" : -104.92019
+               }
+            }
+         },
+         "place_id" : "ChIJR7Q6zwWXbIcRmjlcGxR63GE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

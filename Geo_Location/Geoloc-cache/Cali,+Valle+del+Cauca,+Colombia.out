@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cali",
+               "short_name" : "Cali",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cali",
+               "short_name" : "Cali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valle del Cauca",
+               "short_name" : "Valle del Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cali, Cali, Valle del Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.505554,
+                  "lng" : -76.46082489999999
+               },
+               "southwest" : {
+                  "lat" : 3.2845748,
+                  "lng" : -76.590503
+               }
+            },
+            "location" : {
+               "lat" : 3.4516467,
+               "lng" : -76.5319854
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.505554,
+                  "lng" : -76.46082489999999
+               },
+               "southwest" : {
+                  "lat" : 3.2845748,
+                  "lng" : -76.590503
+               }
+            }
+         },
+         "place_id" : "ChIJ8bNLzPCmMI4RaGGuUum1Dx8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

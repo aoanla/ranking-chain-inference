@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hackettstown",
+               "short_name" : "Hackettstown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warren County",
+               "short_name" : "Warren County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hackettstown, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8825498,
+                  "lng" : -74.801917
+               },
+               "southwest" : {
+                  "lat" : 40.8280519,
+                  "lng" : -74.8504519
+               }
+            },
+            "location" : {
+               "lat" : 40.8539879,
+               "lng" : -74.8290555
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8825498,
+                  "lng" : -74.801917
+               },
+               "southwest" : {
+                  "lat" : 40.8280519,
+                  "lng" : -74.8504519
+               }
+            }
+         },
+         "place_id" : "ChIJa2-_bAqDw4kRMhdg4epA_mw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

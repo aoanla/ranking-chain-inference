@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Holden",
+               "short_name" : "Holden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 10",
+               "short_name" : "Division No. 10",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T0B",
+               "short_name" : "T0B",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Holden, AB T0B, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.23748870000001,
+                  "lng" : -112.2214419
+               },
+               "southwest" : {
+                  "lat" : 53.2228266,
+                  "lng" : -112.2459034
+               }
+            },
+            "location" : {
+               "lat" : 53.23291709999999,
+               "lng" : -112.2347437
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.23748870000001,
+                  "lng" : -112.2214419
+               },
+               "southwest" : {
+                  "lat" : 53.2228266,
+                  "lng" : -112.2459034
+               }
+            }
+         },
+         "place_id" : "ChIJOwej0PCHClMRfE6ygLVTP4M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

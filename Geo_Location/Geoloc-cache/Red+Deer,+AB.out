@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Red Deer",
+               "short_name" : "Red Deer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 8",
+               "short_name" : "Division No. 8",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Red Deer, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.317656,
+                  "lng" : -113.7421919
+               },
+               "southwest" : {
+                  "lat" : 52.215776,
+                  "lng" : -113.8659931
+               }
+            },
+            "location" : {
+               "lat" : 52.2681118,
+               "lng" : -113.8112386
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.317656,
+                  "lng" : -113.7421919
+               },
+               "southwest" : {
+                  "lat" : 52.215776,
+                  "lng" : -113.8659931
+               }
+            }
+         },
+         "place_id" : "ChIJmZIRRylUdFMRsEQWRJCjAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taft",
+               "short_name" : "Taft",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kern County",
+               "short_name" : "Kern County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taft, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.158541,
+                  "lng" : -119.3759489
+               },
+               "southwest" : {
+                  "lat" : 35.0934269,
+                  "lng" : -119.4919179
+               }
+            },
+            "location" : {
+               "lat" : 35.1424671,
+               "lng" : -119.4565078
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.158541,
+                  "lng" : -119.3759489
+               },
+               "southwest" : {
+                  "lat" : 35.0934269,
+                  "lng" : -119.4919179
+               }
+            }
+         },
+         "place_id" : "ChIJbXV0To826oARE6j5ba_oxxI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

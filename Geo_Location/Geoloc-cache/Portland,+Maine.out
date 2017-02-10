@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cumberland County",
+               "short_name" : "Cumberland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portland, ME, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.727658,
+                  "lng" : -70.087632
+               },
+               "southwest" : {
+                  "lat" : 43.6321469,
+                  "lng" : -70.3460949
+               }
+            },
+            "location" : {
+               "lat" : 43.66147100000001,
+               "lng" : -70.2553259
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.727658,
+                  "lng" : -70.17608299999999
+               },
+               "southwest" : {
+                  "lat" : 43.6321469,
+                  "lng" : -70.3460949
+               }
+            }
+         },
+         "place_id" : "ChIJLe6wqnKcskwRKfpyM7W2nX4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

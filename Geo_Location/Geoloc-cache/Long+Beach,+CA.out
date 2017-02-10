@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Long Beach",
+               "short_name" : "Long Beach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Long Beach, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.8854591,
+                  "lng" : -118.063253
+               },
+               "southwest" : {
+                  "lat" : 33.7230778,
+                  "lng" : -118.248966
+               }
+            },
+            "location" : {
+               "lat" : 33.7700504,
+               "lng" : -118.1937395
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.8854591,
+                  "lng" : -118.063253
+               },
+               "southwest" : {
+                  "lat" : 33.7230778,
+                  "lng" : -118.248966
+               }
+            }
+         },
+         "place_id" : "ChIJWdeZQOjKwoARqo8qxPo6AKE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

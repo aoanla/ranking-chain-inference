@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Easton",
+               "short_name" : "Easton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northampton County",
+               "short_name" : "Northampton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Easton, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7166069,
+                  "lng" : -75.1902099
+               },
+               "southwest" : {
+                  "lat" : 40.641134,
+                  "lng" : -75.283022
+               }
+            },
+            "location" : {
+               "lat" : 40.688432,
+               "lng" : -75.22073229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7166069,
+                  "lng" : -75.1902099
+               },
+               "southwest" : {
+                  "lat" : 40.641134,
+                  "lng" : -75.283022
+               }
+            }
+         },
+         "place_id" : "ChIJX1hwGIJrxIkRK8iPdCcyIDc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

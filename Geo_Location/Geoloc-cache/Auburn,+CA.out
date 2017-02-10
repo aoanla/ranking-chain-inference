@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auburn",
+               "short_name" : "Auburn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Placer County",
+               "short_name" : "Placer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Auburn, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.95656890000001,
+                  "lng" : -121.0526921
+               },
+               "southwest" : {
+                  "lat" : 38.8586509,
+                  "lng" : -121.112321
+               }
+            },
+            "location" : {
+               "lat" : 38.8965654,
+               "lng" : -121.0768901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.934044,
+                  "lng" : -121.0526921
+               },
+               "southwest" : {
+                  "lat" : 38.8586509,
+                  "lng" : -121.112321
+               }
+            }
+         },
+         "place_id" : "ChIJn6V1VSgFm4ARcHgsMwuxAjk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

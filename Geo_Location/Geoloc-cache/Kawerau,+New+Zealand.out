@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kawerau",
+               "short_name" : "Kawerau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bay Of Plenty",
+               "short_name" : "Bay Of Plenty",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kawerau, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.05325089999999,
+                  "lng" : 176.7392697
+               },
+               "southwest" : {
+                  "lat" : -38.1151501,
+                  "lng" : 176.642642
+               }
+            },
+            "location" : {
+               "lat" : -38.0846351,
+               "lng" : 176.6989753
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.05325089999999,
+                  "lng" : 176.7392697
+               },
+               "southwest" : {
+                  "lat" : -38.1151501,
+                  "lng" : 176.642642
+               }
+            }
+         },
+         "place_id" : "ChIJrQ0ENZTvbm0RUNSiQ2HvAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

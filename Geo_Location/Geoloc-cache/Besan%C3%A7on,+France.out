@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Besançon",
+               "short_name" : "Besançon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Doubs",
+               "short_name" : "Doubs",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Franche-Comté",
+               "short_name" : "Franche-Comté",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Besançon, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.3197439,
+                  "lng" : 6.0836499
+               },
+               "southwest" : {
+                  "lat" : 47.2006871,
+                  "lng" : 5.9408869
+               }
+            },
+            "location" : {
+               "lat" : 47.237829,
+               "lng" : 6.024053899999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.3197439,
+                  "lng" : 6.0836499
+               },
+               "southwest" : {
+                  "lat" : 47.2006871,
+                  "lng" : 5.9408869
+               }
+            }
+         },
+         "place_id" : "ChIJCxPu8PpijUcRMO0TszTOCQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

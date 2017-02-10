@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alamogordo",
+               "short_name" : "Alamogordo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Otero County",
+               "short_name" : "Otero County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "88310",
+               "short_name" : "88310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alamogordo, NM 88310, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.947558,
+                  "lng" : -105.9176909
+               },
+               "southwest" : {
+                  "lat" : 32.81874190000001,
+                  "lng" : -106.016858
+               }
+            },
+            "location" : {
+               "lat" : 32.8995325,
+               "lng" : -105.960265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.947558,
+                  "lng" : -105.9176909
+               },
+               "southwest" : {
+                  "lat" : 32.81874190000001,
+                  "lng" : -106.016858
+               }
+            }
+         },
+         "place_id" : "ChIJUdRzImNQ4IYRvWALmI8FB3k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

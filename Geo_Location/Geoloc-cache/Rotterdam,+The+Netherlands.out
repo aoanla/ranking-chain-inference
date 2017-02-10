@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rotterdam",
+               "short_name" : "Rotterdam",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Government of Rotterdam",
+               "short_name" : "Government of Rotterdam",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rotterdam, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.9943107,
+                  "lng" : 4.6013004
+               },
+               "southwest" : {
+                  "lat" : 51.8616338,
+                  "lng" : 4.379512200000001
+               }
+            },
+            "location" : {
+               "lat" : 51.9244201,
+               "lng" : 4.4777325
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.9943107,
+                  "lng" : 4.6013004
+               },
+               "southwest" : {
+                  "lat" : 51.8616338,
+                  "lng" : 4.379512200000001
+               }
+            }
+         },
+         "place_id" : "ChIJfcRUX2C3xUcRhUtelay7KVI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

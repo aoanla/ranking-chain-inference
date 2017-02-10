@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sudbury",
+               "short_name" : "Sudbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Sudbury Division",
+               "short_name" : "Greater Sudbury Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sudbury, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.973266,
+                  "lng" : -80.5608197
+               },
+               "southwest" : {
+                  "lat" : 46.19565,
+                  "lng" : -81.59745409999999
+               }
+            },
+            "location" : {
+               "lat" : 46.522099,
+               "lng" : -80.9530353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.973266,
+                  "lng" : -80.5608197
+               },
+               "southwest" : {
+                  "lat" : 46.19565,
+                  "lng" : -81.59745409999999
+               }
+            }
+         },
+         "place_id" : "ChIJ7TLxxjb_Lk0R-Iych7jVjWY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sudbury",
+               "short_name" : "Sudbury",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Sudbury",
+               "short_name" : "Sudbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Sudbury Division",
+               "short_name" : "Greater Sudbury Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sudbury, Sudbury, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5372929,
+                  "lng" : -80.89375299999999
+               },
+               "southwest" : {
+                  "lat" : 46.417532,
+                  "lng" : -81.0762254
+               }
+            },
+            "location" : {
+               "lat" : 46.4895938,
+               "lng" : -80.99183499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5372929,
+                  "lng" : -80.89375299999999
+               },
+               "southwest" : {
+                  "lat" : 46.417532,
+                  "lng" : -81.0762254
+               }
+            }
+         },
+         "place_id" : "ChIJpQfPY5UAL00RLNb6pK2th1w",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

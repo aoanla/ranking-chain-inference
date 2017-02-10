@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kenai",
+               "short_name" : "Kenai",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kenai Peninsula Borough",
+               "short_name" : "Kenai Peninsula Borough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kenai, AK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.60370080000001,
+                  "lng" : -151.072172
+               },
+               "southwest" : {
+                  "lat" : 60.51613709999999,
+                  "lng" : -151.3355083
+               }
+            },
+            "location" : {
+               "lat" : 60.55444439999999,
+               "lng" : -151.2583333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.60370080000001,
+                  "lng" : -151.072172
+               },
+               "southwest" : {
+                  "lat" : 60.51613709999999,
+                  "lng" : -151.3355083
+               }
+            }
+         },
+         "place_id" : "ChIJo00hchtxxlYRPYZarP-Fjao",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

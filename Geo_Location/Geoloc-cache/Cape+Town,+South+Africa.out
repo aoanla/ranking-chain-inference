@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cape Town",
+               "short_name" : "Cape Town",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cape Town",
+               "short_name" : "Cape Town",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cape Town",
+               "short_name" : "Cape Town",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Cape",
+               "short_name" : "WC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cape Town, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.47127,
+                  "lng" : 19.00467
+               },
+               "southwest" : {
+                  "lat" : -34.3587022,
+                  "lng" : 18.3074488
+               }
+            },
+            "location" : {
+               "lat" : -33.9248685,
+               "lng" : 18.4240553
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.47127,
+                  "lng" : 19.00467
+               },
+               "southwest" : {
+                  "lat" : -34.3587022,
+                  "lng" : 18.3074488
+               }
+            }
+         },
+         "place_id" : "ChIJ1-4miA9QzB0Rh6ooKPzhf2g",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cape Town",
+               "short_name" : "Cape Town",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Cape Town",
+               "short_name" : "Cape Town",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cape Town",
+               "short_name" : "Cape Town",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cape Town",
+               "short_name" : "Cape Town",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Western Cape",
+               "short_name" : "WC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "South Africa",
+               "short_name" : "ZA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cape Town, Cape Town, South Africa",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.8899498,
+                  "lng" : 18.5413949
+               },
+               "southwest" : {
+                  "lat" : -33.969091,
+                  "lng" : 18.3690399
+               }
+            },
+            "location" : {
+               "lat" : -33.924741,
+               "lng" : 18.4241074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.8899498,
+                  "lng" : 18.5413949
+               },
+               "southwest" : {
+                  "lat" : -33.969091,
+                  "lng" : 18.3690399
+               }
+            }
+         },
+         "place_id" : "ChIJd6gCp-5dzB0RcInnRigFn0A",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Canmore",
+               "short_name" : "Canmore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 15",
+               "short_name" : "Division No. 15",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Canmore, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1333848,
+                  "lng" : -115.221727
+               },
+               "southwest" : {
+                  "lat" : 50.99984689999999,
+                  "lng" : -115.43177
+               }
+            },
+            "location" : {
+               "lat" : 51.0747378,
+               "lng" : -115.3599592
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1333848,
+                  "lng" : -115.221727
+               },
+               "southwest" : {
+                  "lat" : 50.99984689999999,
+                  "lng" : -115.43177
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJMWNFlZXFcFMRLmkenl8xtkY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

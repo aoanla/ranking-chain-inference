@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester",
+               "short_name" : "Chester",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chester, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.371274,
+                  "lng" : -74.2494111
+               },
+               "southwest" : {
+                  "lat" : 41.313785,
+                  "lng" : -74.29885299999999
+               }
+            },
+            "location" : {
+               "lat" : 41.3625937,
+               "lng" : -74.27126129999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.371274,
+                  "lng" : -74.2494111
+               },
+               "southwest" : {
+                  "lat" : 41.313785,
+                  "lng" : -74.29885299999999
+               }
+            }
+         },
+         "place_id" : "ChIJLWNJFeIow4kRgoKq4UxDqJY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,349 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cancún",
+               "short_name" : "Cancún",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benito Juárez",
+               "short_name" : "Benito Juárez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cancún, Quintana Roo, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.2129226,
+                  "lng" : -86.74095389999999
+               },
+               "southwest" : {
+                  "lat" : 21.0299675,
+                  "lng" : -86.95792659999999
+               }
+            },
+            "location" : {
+               "lat" : 21.161908,
+               "lng" : -86.85152789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.2129226,
+                  "lng" : -86.74095389999999
+               },
+               "southwest" : {
+                  "lat" : 21.0299675,
+                  "lng" : -86.95792659999999
+               }
+            }
+         },
+         "place_id" : "ChIJ21P2rgUrTI8Ris1fYjy3Ms4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cancun",
+               "short_name" : "Cancun",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isla Mujeres",
+               "short_name" : "Isla Mujeres",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cancun, Q.R., Mexico",
+         "geometry" : {
+            "location" : {
+               "lat" : 21.523585,
+               "lng" : -87.0475998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.5249339802915,
+                  "lng" : -87.04625081970849
+               },
+               "southwest" : {
+                  "lat" : 21.5222360197085,
+                  "lng" : -87.0489487802915
+               }
+            }
+         },
+         "place_id" : "ChIJe-6yK0K3TY8RDSHrw19GY-0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "México",
+               "short_name" : "México",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cancún",
+               "short_name" : "Cancún",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "México, Cancún, Q.R., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.1472188,
+                  "lng" : -86.86099159999999
+               },
+               "southwest" : {
+                  "lat" : 21.1400245,
+                  "lng" : -86.8614961
+               }
+            },
+            "location" : {
+               "lat" : 21.143755,
+               "lng" : -86.8612012
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.1472188,
+                  "lng" : -86.8598948697085
+               },
+               "southwest" : {
+                  "lat" : 21.1400245,
+                  "lng" : -86.8625928302915
+               }
+            }
+         },
+         "place_id" : "ChIJfU96650rTI8R8JtzWfY2uzA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Quintana Roo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Cancún",
+               "short_name" : "Cancún",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benito Juárez",
+               "short_name" : "Benito Juárez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quintana Roo, Cancún, Q.R., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.1241516,
+                  "lng" : -86.95380179999999
+               },
+               "southwest" : {
+                  "lat" : 21.1227416,
+                  "lng" : -86.9565906
+               }
+            },
+            "location" : {
+               "lat" : 21.1233935,
+               "lng" : -86.9552578
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.1247955802915,
+                  "lng" : -86.95380179999999
+               },
+               "southwest" : {
+                  "lat" : 21.12209761970849,
+                  "lng" : -86.9565906
+               }
+            }
+         },
+         "place_id" : "ChIJTbXP207UTY8RDKdPviTOv6M",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Quintana Roo",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gastronómicos",
+               "short_name" : "Gastronómicos",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "77",
+               "short_name" : "77",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Cancún",
+               "short_name" : "Cancún",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77528",
+               "short_name" : "77528",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Quintana Roo, Gastronómicos, 77, 77528 Cancún, Q.R., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.198464,
+                  "lng" : -86.8252432
+               },
+               "southwest" : {
+                  "lat" : 21.1981617,
+                  "lng" : -86.82673290000001
+               }
+            },
+            "location" : {
+               "lat" : 21.1984194,
+               "lng" : -86.82626619999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.19966183029151,
+                  "lng" : -86.8246390697085
+               },
+               "southwest" : {
+                  "lat" : 21.1969638697085,
+                  "lng" : -86.82733703029152
+               }
+            }
+         },
+         "place_id" : "ChIJm4yjISksTI8R2EICT9iPBYg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cancun",
+               "short_name" : "Cancun",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Cancún",
+               "short_name" : "Cancún",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benito Juárez",
+               "short_name" : "Benito Juárez",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Quintana Roo",
+               "short_name" : "Q.R.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "77527",
+               "short_name" : "77527",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cancun, 77527 Cancún, Q.R., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.1909438,
+                  "lng" : -86.818884
+               },
+               "southwest" : {
+                  "lat" : 21.1894268,
+                  "lng" : -86.8211092
+               }
+            },
+            "location" : {
+               "lat" : 21.1902642,
+               "lng" : -86.81983749999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.1915342802915,
+                  "lng" : -86.81864761970849
+               },
+               "southwest" : {
+                  "lat" : 21.1888363197085,
+                  "lng" : -86.82134558029149
+               }
+            }
+         },
+         "place_id" : "ChIJG2zCzp0uTI8RPyrscZ0DTZc",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

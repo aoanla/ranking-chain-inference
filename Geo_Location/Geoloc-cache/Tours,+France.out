@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tours",
+               "short_name" : "Tours",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Indre-et-Loire",
+               "short_name" : "Indre-et-Loire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre",
+               "short_name" : "Centre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tours, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.439593,
+                  "lng" : 0.7370949999999999
+               },
+               "southwest" : {
+                  "lat" : 47.348942,
+                  "lng" : 0.6527849
+               }
+            },
+            "location" : {
+               "lat" : 47.394144,
+               "lng" : 0.68484
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.439593,
+                  "lng" : 0.7370949999999999
+               },
+               "southwest" : {
+                  "lat" : 47.348942,
+                  "lng" : 0.6527849
+               }
+            }
+         },
+         "place_id" : "ChIJVZqXSrPV_EcRMIQ4BdfIDQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

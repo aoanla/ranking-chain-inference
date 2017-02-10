@@ -1,0 +1,177 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tijuana",
+               "short_name" : "Tijuana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tijuana",
+               "short_name" : "Tijuana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baja California",
+               "short_name" : "B.C.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tijuana, Baja California, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5556323,
+                  "lng" : -116.7713995
+               },
+               "southwest" : {
+                  "lat" : 32.43826750000001,
+                  "lng" : -117.1242079
+               }
+            },
+            "location" : {
+               "lat" : 32.5149469,
+               "lng" : -117.0382471
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5556323,
+                  "lng" : -116.7713995
+               },
+               "southwest" : {
+                  "lat" : 32.43826750000001,
+                  "lng" : -117.1242079
+               }
+            }
+         },
+         "place_id" : "ChIJ03tYJgI52YARViTmpK9LchQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baja California",
+               "short_name" : "Baja California",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tijuana",
+               "short_name" : "Tijuana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tijuana",
+               "short_name" : "Tijuana",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baja California",
+               "short_name" : "B.C.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baja California, Tijuana, B.C., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.4729742,
+                  "lng" : -116.9333411
+               },
+               "southwest" : {
+                  "lat" : 32.4697928,
+                  "lng" : -116.9382617
+               }
+            },
+            "location" : {
+               "lat" : 32.4715715,
+               "lng" : -116.9355674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.4729742,
+                  "lng" : -116.9333411
+               },
+               "southwest" : {
+                  "lat" : 32.4697928,
+                  "lng" : -116.9382617
+               }
+            }
+         },
+         "place_id" : "ChIJB77FVwA52YARZFw9_0kwUP8",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tijuana",
+               "short_name" : "Tijuana",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Rosarito",
+               "short_name" : "Rosarito",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Playas de Rosarito",
+               "short_name" : "Playas de Rosarito",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baja California",
+               "short_name" : "B.C.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tijuana, Rosarito, B.C., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.3582331,
+                  "lng" : -117.0591292
+               },
+               "southwest" : {
+                  "lat" : 32.3571927,
+                  "lng" : -117.0687746
+               }
+            },
+            "location" : {
+               "lat" : 32.3576019,
+               "lng" : -117.0637781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.3590618802915,
+                  "lng" : -117.0591292
+               },
+               "southwest" : {
+                  "lat" : 32.3563639197085,
+                  "lng" : -117.0687746
+               }
+            }
+         },
+         "place_id" : "ChIJPWg0U5wx2YARLnGsrWI8y-s",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

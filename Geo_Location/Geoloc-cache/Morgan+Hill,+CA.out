@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morgan Hill",
+               "short_name" : "Morgan Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morgan Hill, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.1697171,
+                  "lng" : -121.583347
+               },
+               "southwest" : {
+                  "lat" : 37.0883659,
+                  "lng" : -121.6965581
+               }
+            },
+            "location" : {
+               "lat" : 37.1305012,
+               "lng" : -121.6543901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.1697171,
+                  "lng" : -121.583347
+               },
+               "southwest" : {
+                  "lat" : 37.0883659,
+                  "lng" : -121.6965581
+               }
+            }
+         },
+         "place_id" : "ChIJbZ7QsR8ejoAR1VyJID7pEmg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

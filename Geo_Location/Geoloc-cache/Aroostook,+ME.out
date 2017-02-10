@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aroostook County",
+               "short_name" : "Aroostook County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aroostook County, ME, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.4596734,
+                  "lng" : -67.750422
+               },
+               "southwest" : {
+                  "lat" : 45.5731191,
+                  "lng" : -70.0232302
+               }
+            },
+            "location" : {
+               "lat" : 46.819941,
+               "lng" : -68.47660639999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.4596734,
+                  "lng" : -67.750422
+               },
+               "southwest" : {
+                  "lat" : 45.5731191,
+                  "lng" : -70.0232302
+               }
+            }
+         },
+         "place_id" : "ChIJR0o-4wB0u0wR-XN_UxJDe7A",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

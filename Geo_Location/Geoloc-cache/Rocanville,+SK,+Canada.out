@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rocanville",
+               "short_name" : "Rocanville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 5",
+               "short_name" : "Division No. 5",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S0A",
+               "short_name" : "S0A",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rocanville, SK S0A, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3874461,
+                  "lng" : -101.671397
+               },
+               "southwest" : {
+                  "lat" : 50.372694,
+                  "lng" : -101.70783
+               }
+            },
+            "location" : {
+               "lat" : 50.3818369,
+               "lng" : -101.7006262
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3874461,
+                  "lng" : -101.671397
+               },
+               "southwest" : {
+                  "lat" : 50.372694,
+                  "lng" : -101.70783
+               }
+            }
+         },
+         "place_id" : "ChIJ94ODkLU_4VIR5f2VmPbE2Vk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

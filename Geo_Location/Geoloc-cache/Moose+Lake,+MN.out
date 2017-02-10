@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moose Lake",
+               "short_name" : "Moose Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carlton County",
+               "short_name" : "Carlton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55767",
+               "short_name" : "55767",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moose Lake, MN 55767, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.461681,
+                  "lng" : -92.7400579
+               },
+               "southwest" : {
+                  "lat" : 46.425579,
+                  "lng" : -92.803332
+               }
+            },
+            "location" : {
+               "lat" : 46.4513889,
+               "lng" : -92.7666667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.461681,
+                  "lng" : -92.7400579
+               },
+               "southwest" : {
+                  "lat" : 46.425579,
+                  "lng" : -92.803332
+               }
+            }
+         },
+         "place_id" : "ChIJM3XEXtfnsVIRqmQ8WwujgX0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

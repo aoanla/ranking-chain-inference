@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Enterprise",
+               "short_name" : "Enterprise",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coffee County",
+               "short_name" : "Coffee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "36330",
+               "short_name" : "36330",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Enterprise, AL 36330, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.385786,
+                  "lng" : -85.777789
+               },
+               "southwest" : {
+                  "lat" : 31.261921,
+                  "lng" : -85.889932
+               }
+            },
+            "location" : {
+               "lat" : 31.3151708,
+               "lng" : -85.85521609999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.385786,
+                  "lng" : -85.777789
+               },
+               "southwest" : {
+                  "lat" : 31.261921,
+                  "lng" : -85.889932
+               }
+            }
+         },
+         "place_id" : "ChIJ9ylrrIFukogRue4ePrg44qU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

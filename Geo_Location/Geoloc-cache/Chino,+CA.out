@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chino",
+               "short_name" : "Chino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chino, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.047811,
+                  "lng" : -117.5995851
+               },
+               "southwest" : {
+                  "lat" : 33.9250139,
+                  "lng" : -117.735889
+               }
+            },
+            "location" : {
+               "lat" : 34.0122346,
+               "lng" : -117.688944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.047811,
+                  "lng" : -117.5995851
+               },
+               "southwest" : {
+                  "lat" : 33.9250139,
+                  "lng" : -117.735889
+               }
+            }
+         },
+         "place_id" : "ChIJJ4l8PSkzw4ARhWfdoJje2j8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Phoenix",
+               "short_name" : "Phoenix",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maricopa County",
+               "short_name" : "Maricopa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Phoenix, AZ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.92057,
+                  "lng" : -111.926046
+               },
+               "southwest" : {
+                  "lat" : 33.29025980000001,
+                  "lng" : -112.324056
+               }
+            },
+            "location" : {
+               "lat" : 33.4483771,
+               "lng" : -112.0740373
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.92057,
+                  "lng" : -111.926046
+               },
+               "southwest" : {
+                  "lat" : 33.29025980000001,
+                  "lng" : -112.324056
+               }
+            }
+         },
+         "place_id" : "ChIJy3mhUO0SK4cRrBtKNfjHaYw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

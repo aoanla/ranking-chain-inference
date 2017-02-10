@@ -1,0 +1,152 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salem",
+               "short_name" : "Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salem, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.324293,
+                  "lng" : -80.013363
+               },
+               "southwest" : {
+                  "lat" : 37.252635,
+                  "lng" : -80.1204899
+               }
+            },
+            "location" : {
+               "lat" : 37.2934681,
+               "lng" : -80.05476259999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.324293,
+                  "lng" : -80.013363
+               },
+               "southwest" : {
+                  "lat" : 37.252635,
+                  "lng" : -80.1204899
+               }
+            }
+         },
+         "place_id" : "ChIJV4DQVTQKTYgRAQsEhbWuRVo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salem",
+               "short_name" : "Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "4, Newport",
+               "short_name" : "4, Newport",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Page County",
+               "short_name" : "Page County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "22835",
+               "short_name" : "22835",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Salem, VA 22835, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.64417,
+               "lng" : -78.54806000000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.64551898029149,
+                  "lng" : -78.54671101970851
+               },
+               "southwest" : {
+                  "lat" : 38.64282101970849,
+                  "lng" : -78.54940898029152
+               }
+            }
+         },
+         "place_id" : "ChIJ-3oKvDxRtIkRJg9emDxn_nI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salem",
+               "short_name" : "Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "23456",
+               "short_name" : "23456",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Salem, VA 23456, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 36.788689,
+               "lng" : -76.125694
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.79003798029149,
+                  "lng" : -76.12434501970849
+               },
+               "southwest" : {
+                  "lat" : 36.78734001970849,
+                  "lng" : -76.12704298029151
+               }
+            }
+         },
+         "place_id" : "ChIJ83U3DK6_uokRQ5lIH6FIupQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

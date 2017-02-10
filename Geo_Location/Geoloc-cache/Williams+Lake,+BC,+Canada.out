@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Williams Lake",
+               "short_name" : "Williams Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cariboo D",
+               "short_name" : "Cariboo D",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cariboo",
+               "short_name" : "Cariboo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Williams Lake, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.19878199999999,
+                  "lng" : -122.0232589
+               },
+               "southwest" : {
+                  "lat" : 52.099752,
+                  "lng" : -122.2014168
+               }
+            },
+            "location" : {
+               "lat" : 52.1416736,
+               "lng" : -122.1416885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.19878199999999,
+                  "lng" : -122.0232589
+               },
+               "southwest" : {
+                  "lat" : 52.099752,
+                  "lng" : -122.2014168
+               }
+            }
+         },
+         "place_id" : "ChIJNVwK4lujgFMRACJ7KhU1AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

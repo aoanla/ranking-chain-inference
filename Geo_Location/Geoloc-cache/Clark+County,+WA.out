@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clark County",
+               "short_name" : "Clark County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Clark County, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.05875210000001,
+                  "lng" : -122.2447319
+               },
+               "southwest" : {
+                  "lat" : 45.5485875,
+                  "lng" : -122.7893571
+               }
+            },
+            "location" : {
+               "lat" : 45.7466471,
+               "lng" : -122.5194378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.05875210000001,
+                  "lng" : -122.2447319
+               },
+               "southwest" : {
+                  "lat" : 45.5485875,
+                  "lng" : -122.7893571
+               }
+            }
+         },
+         "place_id" : "ChIJuW5y4XbKlVQR7A8AxglSPVI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

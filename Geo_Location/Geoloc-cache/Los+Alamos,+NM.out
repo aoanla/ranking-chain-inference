@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Los Alamos",
+               "short_name" : "Los Alamos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Alamos County",
+               "short_name" : "Los Alamos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87544",
+               "short_name" : "87544",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Los Alamos, NM 87544, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.913289,
+                  "lng" : -106.2453951
+               },
+               "southwest" : {
+                  "lat" : 35.8705559,
+                  "lng" : -106.334687
+               }
+            },
+            "location" : {
+               "lat" : 35.8800364,
+               "lng" : -106.3031138
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.913289,
+                  "lng" : -106.2453951
+               },
+               "southwest" : {
+                  "lat" : 35.8705559,
+                  "lng" : -106.334687
+               }
+            }
+         },
+         "place_id" : "ChIJp2R93axsGIcRPa2AtTB3YuI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

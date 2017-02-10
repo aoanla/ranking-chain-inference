@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fairbanks",
+               "short_name" : "Fairbanks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fairbanks North Star",
+               "short_name" : "Fairbanks North Star",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fairbanks, AK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.87821889999999,
+                  "lng" : -147.5241601
+               },
+               "southwest" : {
+                  "lat" : 64.77851,
+                  "lng" : -147.8138451
+               }
+            },
+            "location" : {
+               "lat" : 64.8377778,
+               "lng" : -147.7163889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.87821889999999,
+                  "lng" : -147.5241601
+               },
+               "southwest" : {
+                  "lat" : 64.77851,
+                  "lng" : -147.8138451
+               }
+            }
+         },
+         "place_id" : "ChIJqWX9Z09FMlEROvf-CeAF2LM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

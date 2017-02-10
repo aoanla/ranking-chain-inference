@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gastonia",
+               "short_name" : "Gastonia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gastonia",
+               "short_name" : "Gastonia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gaston County",
+               "short_name" : "Gaston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gastonia, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.3120259,
+                  "lng" : -81.08298479999999
+               },
+               "southwest" : {
+                  "lat" : 35.161407,
+                  "lng" : -81.3212899
+               }
+            },
+            "location" : {
+               "lat" : 35.262082,
+               "lng" : -81.18730049999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.3120259,
+                  "lng" : -81.08298479999999
+               },
+               "southwest" : {
+                  "lat" : 35.161407,
+                  "lng" : -81.3212899
+               }
+            }
+         },
+         "place_id" : "ChIJ7XUN2yGWVogRc9lZLpjisiQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

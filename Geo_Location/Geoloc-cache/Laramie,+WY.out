@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Laramie",
+               "short_name" : "Laramie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Laramie, WY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.336008,
+                  "lng" : -105.5279969
+               },
+               "southwest" : {
+                  "lat" : 41.277327,
+                  "lng" : -105.697316
+               }
+            },
+            "location" : {
+               "lat" : 41.3113669,
+               "lng" : -105.5911007
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.336008,
+                  "lng" : -105.5279969
+               },
+               "southwest" : {
+                  "lat" : 41.277327,
+                  "lng" : -105.697316
+               }
+            }
+         },
+         "place_id" : "ChIJeZvajveEaIcRk-XEoffBiY4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

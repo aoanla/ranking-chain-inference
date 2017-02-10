@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Rochelle",
+               "short_name" : "La Rochelle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Charente-Maritime",
+               "short_name" : "Charente-Maritime",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poitou-Charentes",
+               "short_name" : "PCh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Rochelle, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.1909488,
+                  "lng" : -1.1110521
+               },
+               "southwest" : {
+                  "lat" : 46.133163,
+                  "lng" : -1.24147
+               }
+            },
+            "location" : {
+               "lat" : 46.160329,
+               "lng" : -1.151139
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.1909488,
+                  "lng" : -1.1110521
+               },
+               "southwest" : {
+                  "lat" : 46.133163,
+                  "lng" : -1.24147
+               }
+            }
+         },
+         "place_id" : "ChIJdT0lyYNTAUgRQJbuYJLTBQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

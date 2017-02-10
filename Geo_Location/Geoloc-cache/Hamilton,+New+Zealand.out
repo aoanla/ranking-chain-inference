@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton City",
+               "short_name" : "Hamilton City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Waikato",
+               "short_name" : "Waikato",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hamilton, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.704092,
+                  "lng" : 175.3455766
+               },
+               "southwest" : {
+                  "lat" : -37.846191,
+                  "lng" : 175.184271
+               }
+            },
+            "location" : {
+               "lat" : -37.7870012,
+               "lng" : 175.279253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.704092,
+                  "lng" : 175.3455766
+               },
+               "southwest" : {
+                  "lat" : -37.846191,
+                  "lng" : 175.184271
+               }
+            }
+         },
+         "place_id" : "ChIJITamh3QibW0RA5miQ2HvAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Regina",
+               "short_name" : "Regina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Regina, SK, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5207396,
+                  "lng" : -104.4924259
+               },
+               "southwest" : {
+                  "lat" : 50.3964489,
+                  "lng" : -104.7783923
+               }
+            },
+            "location" : {
+               "lat" : 50.4452112,
+               "lng" : -104.6188944
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5207396,
+                  "lng" : -104.4924259
+               },
+               "southwest" : {
+                  "lat" : 50.3964489,
+                  "lng" : -104.7783923
+               }
+            }
+         },
+         "place_id" : "ChIJ6z2l-0AeHFMRsVR7t5YySjU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

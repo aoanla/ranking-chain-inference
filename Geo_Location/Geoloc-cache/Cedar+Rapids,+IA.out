@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cedar Rapids",
+               "short_name" : "Cedar Rapids",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Linn County",
+               "short_name" : "Linn County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cedar Rapids, IA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.0686969,
+                  "lng" : -91.5508061
+               },
+               "southwest" : {
+                  "lat" : 41.8615811,
+                  "lng" : -91.774548
+               }
+            },
+            "location" : {
+               "lat" : 41.9778795,
+               "lng" : -91.6656232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.0686969,
+                  "lng" : -91.5508061
+               },
+               "southwest" : {
+                  "lat" : 41.8615811,
+                  "lng" : -91.774548
+               }
+            }
+         },
+         "place_id" : "ChIJUUIvoHpf5IcRwN3mLENg7lU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

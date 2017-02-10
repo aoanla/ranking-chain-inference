@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durham",
+               "short_name" : "Durham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Grey",
+               "short_name" : "West Grey",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Grey County",
+               "short_name" : "Grey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durham, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.1869224,
+                  "lng" : -80.78261429999999
+               },
+               "southwest" : {
+                  "lat" : 44.1624531,
+                  "lng" : -80.85245470000001
+               }
+            },
+            "location" : {
+               "lat" : 44.1763254,
+               "lng" : -80.81850059999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.1869224,
+                  "lng" : -80.78261429999999
+               },
+               "southwest" : {
+                  "lat" : 44.1624531,
+                  "lng" : -80.85245470000001
+               }
+            }
+         },
+         "place_id" : "ChIJe0RN2QaIKYgRVqcsceJoQgw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

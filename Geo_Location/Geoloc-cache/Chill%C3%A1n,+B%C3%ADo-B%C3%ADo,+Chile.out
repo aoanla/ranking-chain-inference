@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chillán",
+               "short_name" : "Chillán",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chillán",
+               "short_name" : "Chillán",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ñuble Province",
+               "short_name" : "Ñuble Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bío Bío Region",
+               "short_name" : "Bío Bío Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chillán, Chillán, Bío Bío Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.5822474,
+                  "lng" : -72.05805459999999
+               },
+               "southwest" : {
+                  "lat" : -36.6427323,
+                  "lng" : -72.1493689
+               }
+            },
+            "location" : {
+               "lat" : -36.6062618,
+               "lng" : -72.10233509999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.5822474,
+                  "lng" : -72.05805459999999
+               },
+               "southwest" : {
+                  "lat" : -36.6427323,
+                  "lng" : -72.1493689
+               }
+            }
+         },
+         "place_id" : "ChIJWQLwtsLXaJYRqC4J8cSE_hQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

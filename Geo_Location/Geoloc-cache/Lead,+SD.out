@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lead",
+               "short_name" : "Lead",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lawrence County",
+               "short_name" : "Lawrence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Dakota",
+               "short_name" : "SD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lead, SD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.363129,
+                  "lng" : -103.7376561
+               },
+               "southwest" : {
+                  "lat" : 44.3418369,
+                  "lng" : -103.7876409
+               }
+            },
+            "location" : {
+               "lat" : 44.3522065,
+               "lng" : -103.7651984
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.363129,
+                  "lng" : -103.7376561
+               },
+               "southwest" : {
+                  "lat" : 44.3418369,
+                  "lng" : -103.7876409
+               }
+            }
+         },
+         "place_id" : "ChIJZQXcOqulMlMRyXnWT9W0U8o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

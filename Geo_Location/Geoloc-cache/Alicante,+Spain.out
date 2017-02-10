@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alicante",
+               "short_name" : "Alicante",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alicante",
+               "short_name" : "Alicante",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "L'Alacantí",
+               "short_name" : "L'Alacantí",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Alicante",
+               "short_name" : "A",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valencian Community",
+               "short_name" : "Valencian Community",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alicante, Alicante, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.3909328,
+                  "lng" : -0.4034191
+               },
+               "southwest" : {
+                  "lat" : 38.32474879999999,
+                  "lng" : -0.5416291999999999
+               }
+            },
+            "location" : {
+               "lat" : 38.3459963,
+               "lng" : -0.4906855
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.3909328,
+                  "lng" : -0.4034191
+               },
+               "southwest" : {
+                  "lat" : 38.32474879999999,
+                  "lng" : -0.5416291999999999
+               }
+            }
+         },
+         "place_id" : "ChIJS6udO9o1Yg0R44ELrHKofR0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alicante Airport",
+               "short_name" : "Alicante Airport",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "L'Altet",
+               "short_name" : "L'Altet",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alicante",
+               "short_name" : "A",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Comunidad Valenciana",
+               "short_name" : "Comunidad Valenciana",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03195",
+               "short_name" : "03195",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alicante Airport (ALC), 03195 L'Altet, Alicante, Spain",
+         "geometry" : {
+            "location" : {
+               "lat" : 38.285483,
+               "lng" : -0.560056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2868319802915,
+                  "lng" : -0.558707019708498
+               },
+               "southwest" : {
+                  "lat" : 38.2841340197085,
+                  "lng" : -0.5614049802915021
+               }
+            }
+         },
+         "place_id" : "ChIJM9oQTcZKYg0R8b65Jd5Fstw",
+         "types" : [ "airport", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

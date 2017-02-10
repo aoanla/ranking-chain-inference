@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Port Alberni",
+               "short_name" : "Port Alberni",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alberni-Clayoquot",
+               "short_name" : "Alberni-Clayoquot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Port Alberni, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.275251,
+                  "lng" : -124.7605159
+               },
+               "southwest" : {
+                  "lat" : 49.2158605,
+                  "lng" : -124.8537748
+               }
+            },
+            "location" : {
+               "lat" : 49.2338882,
+               "lng" : -124.8055494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.275251,
+                  "lng" : -124.7605159
+               },
+               "southwest" : {
+                  "lat" : 49.2158605,
+                  "lng" : -124.8537748
+               }
+            }
+         },
+         "place_id" : "ChIJzxlE2jb3iFQRbYW5o8BhcIE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

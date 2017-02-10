@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Footscray",
+               "short_name" : "West Footscray",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3012",
+               "short_name" : "3012",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Footscray VIC 3012, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.7894525,
+                  "lng" : 144.8863628
+               },
+               "southwest" : {
+                  "lat" : -37.81369960000001,
+                  "lng" : 144.8599136
+               }
+            },
+            "location" : {
+               "lat" : -37.7974041,
+               "lng" : 144.8777308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.7894525,
+                  "lng" : 144.8863628
+               },
+               "southwest" : {
+                  "lat" : -37.81369960000001,
+                  "lng" : 144.8599136
+               }
+            }
+         },
+         "place_id" : "ChIJ6QvqCP9d1moRwNeMIXVWBAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

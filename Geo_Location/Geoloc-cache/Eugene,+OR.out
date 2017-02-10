@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eugene",
+               "short_name" : "Eugene",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lane County",
+               "short_name" : "Lane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eugene, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.13261989999999,
+                  "lng" : -123.0366989
+               },
+               "southwest" : {
+                  "lat" : 43.9887109,
+                  "lng" : -123.208402
+               }
+            },
+            "location" : {
+               "lat" : 44.0520691,
+               "lng" : -123.0867536
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.13261989999999,
+                  "lng" : -123.0366989
+               },
+               "southwest" : {
+                  "lat" : 43.9887109,
+                  "lng" : -123.208402
+               }
+            }
+         },
+         "place_id" : "ChIJGRlQrLAZwVQRTYlDSolh7Fc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

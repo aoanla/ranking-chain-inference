@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guadalajara",
+               "short_name" : "Guadalajara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guadalajara",
+               "short_name" : "Guadalajara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jalisco",
+               "short_name" : "Jal.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guadalajara, Jalisco, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.7438464,
+                  "lng" : -103.2637617
+               },
+               "southwest" : {
+                  "lat" : 20.6037373,
+                  "lng" : -103.4070646
+               }
+            },
+            "location" : {
+               "lat" : 20.6596988,
+               "lng" : -103.3496092
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.7438464,
+                  "lng" : -103.2637617
+               },
+               "southwest" : {
+                  "lat" : 20.6037373,
+                  "lng" : -103.4070646
+               }
+            }
+         },
+         "place_id" : "ChIJm9MvtYyxKIQRUFeGvwKTPdY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

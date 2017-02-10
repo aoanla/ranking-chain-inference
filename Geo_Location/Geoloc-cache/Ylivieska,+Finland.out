@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ylivieska",
+               "short_name" : "Ylivieska",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ylivieska sub-region",
+               "short_name" : "Ylivieska sub-region",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84100",
+               "short_name" : "84100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "84100 Ylivieska, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 64.07211509999999,
+               "lng" : 24.5341779
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.07699339999999,
+                  "lng" : 24.5501853
+               },
+               "southwest" : {
+                  "lat" : 64.06723599999999,
+                  "lng" : 24.5181705
+               }
+            }
+         },
+         "place_id" : "ChIJMYFMoEshgUYRn3u__wyWgbw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

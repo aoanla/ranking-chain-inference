@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aix-en-Provence",
+               "short_name" : "Aix-en-Provence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhone",
+               "short_name" : "Bouches-du-Rhone",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aix-en-Provence, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.62598,
+                  "lng" : 5.506365
+               },
+               "southwest" : {
+                  "lat" : 43.445968,
+                  "lng" : 5.269528999999999
+               }
+            },
+            "location" : {
+               "lat" : 43.529742,
+               "lng" : 5.447426999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.62598,
+                  "lng" : 5.506365
+               },
+               "southwest" : {
+                  "lat" : 43.445968,
+                  "lng" : 5.269528999999999
+               }
+            }
+         },
+         "place_id" : "ChIJWRK5BKONyRIRo4i2yL5TuVw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Celaya",
+               "short_name" : "Celaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Celaya",
+               "short_name" : "Celaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Gto.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Celaya, Gto., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.5819438,
+                  "lng" : -100.7679692
+               },
+               "southwest" : {
+                  "lat" : 20.4751569,
+                  "lng" : -100.8677695
+               }
+            },
+            "location" : {
+               "lat" : 20.5279612,
+               "lng" : -100.8112885
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.5819438,
+                  "lng" : -100.7679692
+               },
+               "southwest" : {
+                  "lat" : 20.4751569,
+                  "lng" : -100.8677695
+               }
+            }
+         },
+         "place_id" : "ChIJdcZgHmS6LIQRRyd9mq3Tj5k",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Guanajuato",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Celaya",
+               "short_name" : "Celaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Celaya",
+               "short_name" : "Celaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Gto.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "38010",
+               "short_name" : "38010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Guanajuato, 38010 Celaya, Gto., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.5514181,
+                  "lng" : -100.8072774
+               },
+               "southwest" : {
+                  "lat" : 20.5464531,
+                  "lng" : -100.8109353
+               }
+            },
+            "location" : {
+               "lat" : 20.5494131,
+               "lng" : -100.8091728
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.5514181,
+                  "lng" : -100.8072774
+               },
+               "southwest" : {
+                  "lat" : 20.5464531,
+                  "lng" : -100.8109353
+               }
+            }
+         },
+         "place_id" : "ChIJI6s-A6W6LIQRMDjHBRt4ue0",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint James",
+               "short_name" : "St James",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Smithtown",
+               "short_name" : "Smithtown",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Suffolk County",
+               "short_name" : "Suffolk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St James, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9085619,
+                  "lng" : -73.1311479
+               },
+               "southwest" : {
+                  "lat" : 40.855136,
+                  "lng" : -73.1765771
+               }
+            },
+            "location" : {
+               "lat" : 40.8754335,
+               "lng" : -73.1526623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9085619,
+                  "lng" : -73.1311479
+               },
+               "southwest" : {
+                  "lat" : 40.855136,
+                  "lng" : -73.1765771
+               }
+            }
+         },
+         "place_id" : "ChIJA3oRIhI56IkR-caf2n77kTY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

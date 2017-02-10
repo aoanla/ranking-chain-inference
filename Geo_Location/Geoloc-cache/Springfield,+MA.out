@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Springfield",
+               "short_name" : "Springfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampden County",
+               "short_name" : "Hampden County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Springfield, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1620859,
+                  "lng" : -72.471149
+               },
+               "southwest" : {
+                  "lat" : 42.063595,
+                  "lng" : -72.6215339
+               }
+            },
+            "location" : {
+               "lat" : 42.1014831,
+               "lng" : -72.589811
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1620859,
+                  "lng" : -72.471149
+               },
+               "southwest" : {
+                  "lat" : 42.063595,
+                  "lng" : -72.6215339
+               }
+            }
+         },
+         "place_id" : "ChIJH7jkCCzm5okRvaq5QdoIGB0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

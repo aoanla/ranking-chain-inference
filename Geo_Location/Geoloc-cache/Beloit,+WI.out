@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beloit",
+               "short_name" : "Beloit",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rock County",
+               "short_name" : "Rock County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Beloit, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.568611,
+                  "lng" : -88.945065
+               },
+               "southwest" : {
+                  "lat" : 42.495759,
+                  "lng" : -89.080945
+               }
+            },
+            "location" : {
+               "lat" : 42.5083482,
+               "lng" : -89.03177649999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.568611,
+                  "lng" : -88.945065
+               },
+               "southwest" : {
+                  "lat" : 42.495759,
+                  "lng" : -89.080945
+               }
+            }
+         },
+         "place_id" : "ChIJ3wrNBSChCIgRyyKJ9Kc_fjw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chambéry",
+               "short_name" : "Chambéry",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Savoie",
+               "short_name" : "Savoie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chambéry, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.61643,
+                  "lng" : 5.9414459
+               },
+               "southwest" : {
+                  "lat" : 45.548009,
+                  "lng" : 5.871260899999999
+               }
+            },
+            "location" : {
+               "lat" : 45.564601,
+               "lng" : 5.917781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.61643,
+                  "lng" : 5.9414459
+               },
+               "southwest" : {
+                  "lat" : 45.548009,
+                  "lng" : 5.871260899999999
+               }
+            }
+         },
+         "place_id" : "ChIJY19pCFeoi0cRnIk9ps8awtU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

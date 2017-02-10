@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Binghamton",
+               "short_name" : "Binghamton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Broome County",
+               "short_name" : "Broome County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Binghamton, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.131775,
+                  "lng" : -75.85702289999999
+               },
+               "southwest" : {
+                  "lat" : 42.07186189999999,
+                  "lng" : -75.9501499
+               }
+            },
+            "location" : {
+               "lat" : 42.09868669999999,
+               "lng" : -75.91797380000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.131775,
+                  "lng" : -75.85702289999999
+               },
+               "southwest" : {
+                  "lat" : 42.07186189999999,
+                  "lng" : -75.9501499
+               }
+            }
+         },
+         "place_id" : "ChIJ0bet33Lv2okRfzPt9wOXjwY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Niort",
+               "short_name" : "Niort",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Deux-Sevres",
+               "short_name" : "Deux-Sevres",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poitou-Charentes",
+               "short_name" : "PCh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Niort, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.373016,
+                  "lng" : -0.380402
+               },
+               "southwest" : {
+                  "lat" : 46.281737,
+                  "lng" : -0.54221
+               }
+            },
+            "location" : {
+               "lat" : 46.323716,
+               "lng" : -0.4647769999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.373016,
+                  "lng" : -0.380402
+               },
+               "southwest" : {
+                  "lat" : 46.281737,
+                  "lng" : -0.54221
+               }
+            }
+         },
+         "place_id" : "ChIJ9YbWETIwB0gRwCroYJLTBQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

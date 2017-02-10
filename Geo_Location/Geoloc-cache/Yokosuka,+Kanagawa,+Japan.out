@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yokosuka",
+               "short_name" : "Yokosuka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kanagawa Prefecture",
+               "short_name" : "Kanagawa Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yokosuka, Kanagawa Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.3303694,
+                  "lng" : 139.7472642
+               },
+               "southwest" : {
+                  "lat" : 35.1899996,
+                  "lng" : 139.5766085
+               }
+            },
+            "location" : {
+               "lat" : 35.2813412,
+               "lng" : 139.6722005
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.3303694,
+                  "lng" : 139.7472642
+               },
+               "southwest" : {
+                  "lat" : 35.1899996,
+                  "lng" : 139.5766085
+               }
+            }
+         },
+         "place_id" : "ChIJV56GCpc_GGARP2fZpDHiIFI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

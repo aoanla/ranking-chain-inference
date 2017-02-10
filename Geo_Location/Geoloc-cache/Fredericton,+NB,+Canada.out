@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fredericton",
+               "short_name" : "Fredericton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York County",
+               "short_name" : "York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Brunswick",
+               "short_name" : "NB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fredericton, NB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.022143,
+                  "lng" : -66.549753
+               },
+               "southwest" : {
+                  "lat" : 45.868781,
+                  "lng" : -66.78339389999999
+               }
+            },
+            "location" : {
+               "lat" : 45.9635895,
+               "lng" : -66.6431151
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.022143,
+                  "lng" : -66.549753
+               },
+               "southwest" : {
+                  "lat" : 45.868781,
+                  "lng" : -66.78339389999999
+               }
+            }
+         },
+         "place_id" : "ChIJK_uYpAsipEwRtF1Beikv3uc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

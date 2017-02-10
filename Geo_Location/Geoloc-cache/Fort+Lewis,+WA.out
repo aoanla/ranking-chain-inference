@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Lewis",
+               "short_name" : "Fort Lewis",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "2202",
+               "short_name" : "2202",
+               "types" : [ "street_number" ]
+            },
+            {
+               "long_name" : "Liggett Avenue",
+               "short_name" : "Liggett Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Lewis Mcchord",
+               "short_name" : "Lewis Mcchord",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pierce County",
+               "short_name" : "Pierce County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "98433",
+               "short_name" : "98433",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fort Lewis, 2202 Liggett Ave, Lewis Mcchord, WA 98433, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.0888109,
+               "lng" : -122.6024836
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.09015988029149,
+                  "lng" : -122.6011346197085
+               },
+               "southwest" : {
+                  "lat" : 47.0874619197085,
+                  "lng" : -122.6038325802915
+               }
+            }
+         },
+         "place_id" : "ChIJ1VGuDv8FkVQROnUqQ4JC-MM",
+         "types" : [ "local_government_office", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

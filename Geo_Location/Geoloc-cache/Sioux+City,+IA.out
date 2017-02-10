@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sioux City",
+               "short_name" : "Sioux City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Woodbury County",
+               "short_name" : "Woodbury County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sioux City, IA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.565428,
+                  "lng" : -96.302499
+               },
+               "southwest" : {
+                  "lat" : 42.3822938,
+                  "lng" : -96.49899689999999
+               }
+            },
+            "location" : {
+               "lat" : 42.4999942,
+               "lng" : -96.40030689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.565428,
+                  "lng" : -96.302499
+               },
+               "southwest" : {
+                  "lat" : 42.3822938,
+                  "lng" : -96.49899689999999
+               }
+            }
+         },
+         "place_id" : "ChIJCVJtRzZ5kocRjExonssKmCE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

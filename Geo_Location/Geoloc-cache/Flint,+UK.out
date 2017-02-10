@@ -1,0 +1,177 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Flintshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.35624079999999,
+                  "lng" : -2.9202759
+               },
+               "southwest" : {
+                  "lat" : 53.0721259,
+                  "lng" : -3.4005971
+               }
+            },
+            "location" : {
+               "lat" : 53.1668658,
+               "lng" : -3.1418908
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.35624079999999,
+                  "lng" : -2.9202759
+               },
+               "southwest" : {
+                  "lat" : 53.0721259,
+                  "lng" : -3.4005971
+               }
+            }
+         },
+         "place_id" : "ChIJa62Y31DVZEgRAGq22Ew29rU",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flint",
+               "short_name" : "Flint",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Flint",
+               "short_name" : "Flint",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Flint",
+               "short_name" : "Flint",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH6",
+               "short_name" : "CH6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Flint, Flint CH6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2546544,
+                  "lng" : -3.1196326
+               },
+               "southwest" : {
+                  "lat" : 53.2337672,
+                  "lng" : -3.1546031
+               }
+            },
+            "location" : {
+               "lat" : 53.248236,
+               "lng" : -3.13577
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2546544,
+                  "lng" : -3.1196326
+               },
+               "southwest" : {
+                  "lat" : 53.2337672,
+                  "lng" : -3.1546031
+               }
+            }
+         },
+         "place_id" : "ChIJq46ByoDQekgRDCknXrx6rhw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flint",
+               "short_name" : "Flint",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Flintshire",
+               "short_name" : "Flintshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "CH6",
+               "short_name" : "CH6",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Flint, Flintshire CH6, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.2690917,
+                  "lng" : -3.0769101
+               },
+               "southwest" : {
+                  "lat" : 53.2146886,
+                  "lng" : -3.1882431
+               }
+            },
+            "location" : {
+               "lat" : 53.236283,
+               "lng" : -3.1312942
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.2690917,
+                  "lng" : -3.0769101
+               },
+               "southwest" : {
+                  "lat" : 53.2146886,
+                  "lng" : -3.1882431
+               }
+            }
+         },
+         "place_id" : "ChIJaUILA97QekgRLFFtcFJT_uI",
+         "types" : [ "postal_town" ]
+      }
+   ],
+   "status" : "OK"
+}

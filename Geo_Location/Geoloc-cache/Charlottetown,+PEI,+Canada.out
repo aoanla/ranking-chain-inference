@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charlottetown",
+               "short_name" : "Charlottetown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queens County",
+               "short_name" : "Queens County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Prince Edward Island",
+               "short_name" : "PE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Charlottetown, PE, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3064694,
+                  "lng" : -63.082202
+               },
+               "southwest" : {
+                  "lat" : 46.2272263,
+                  "lng" : -63.1966701
+               }
+            },
+            "location" : {
+               "lat" : 46.23824,
+               "lng" : -63.13107040000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3064694,
+                  "lng" : -63.082202
+               },
+               "southwest" : {
+                  "lat" : 46.2272263,
+                  "lng" : -63.1966701
+               }
+            }
+         },
+         "place_id" : "ChIJxYN_1N1SXksRJ5tRn7h3V1o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

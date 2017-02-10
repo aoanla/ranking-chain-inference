@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tempe",
+               "short_name" : "Tempe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maricopa County",
+               "short_name" : "Maricopa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tempe, AZ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.463984,
+                  "lng" : -111.8772261
+               },
+               "southwest" : {
+                  "lat" : 33.3198608,
+                  "lng" : -111.978976
+               }
+            },
+            "location" : {
+               "lat" : 33.4255104,
+               "lng" : -111.9400054
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.463984,
+                  "lng" : -111.8772261
+               },
+               "southwest" : {
+                  "lat" : 33.3198608,
+                  "lng" : -111.978976
+               }
+            }
+         },
+         "place_id" : "ChIJ44CqppgIK4cRH7QsOa1K3aI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

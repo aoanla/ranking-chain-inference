@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lille",
+               "short_name" : "Lille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nord",
+               "short_name" : "Nord",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nord-Pas-de-Calais",
+               "short_name" : "Nord-Pas-de-Calais",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lille, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.661248,
+                  "lng" : 3.1263549
+               },
+               "southwest" : {
+                  "lat" : 50.600887,
+                  "lng" : 2.967966
+               }
+            },
+            "location" : {
+               "lat" : 50.62925,
+               "lng" : 3.057256
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.661248,
+                  "lng" : 3.1263549
+               },
+               "southwest" : {
+                  "lat" : 50.600887,
+                  "lng" : 2.967966
+               }
+            }
+         },
+         "place_id" : "ChIJEW4ls3nVwkcRYGNkgT7xCgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rennes",
+               "short_name" : "Rennes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ille-et-Vilaine",
+               "short_name" : "Ille-et-Vilaine",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brittany",
+               "short_name" : "Brittany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rennes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1549701,
+                  "lng" : -1.624367
+               },
+               "southwest" : {
+                  "lat" : 48.076861,
+                  "lng" : -1.752542
+               }
+            },
+            "location" : {
+               "lat" : 48.117266,
+               "lng" : -1.6777926
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1549701,
+                  "lng" : -1.624367
+               },
+               "southwest" : {
+                  "lat" : 48.076861,
+                  "lng" : -1.752542
+               }
+            }
+         },
+         "place_id" : "ChIJhZDWpy_eDkgRMKvkNs2lDAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

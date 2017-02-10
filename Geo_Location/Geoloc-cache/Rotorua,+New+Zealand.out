@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rotorua",
+               "short_name" : "Rotorua",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rotorua District",
+               "short_name" : "Rotorua District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bay Of Plenty",
+               "short_name" : "Bay Of Plenty",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rotorua, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.0344076,
+                  "lng" : 176.4421939
+               },
+               "southwest" : {
+                  "lat" : -38.2816122,
+                  "lng" : 176.166792
+               }
+            },
+            "location" : {
+               "lat" : -38.1368478,
+               "lng" : 176.2497461
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.0344076,
+                  "lng" : 176.4421939
+               },
+               "southwest" : {
+                  "lat" : -38.2816122,
+                  "lng" : 176.166792
+               }
+            }
+         },
+         "place_id" : "ChIJK7L2gj2Ybm0RMZmjQ2HvAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,55 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stamford Road",
+               "short_name" : "Stamford Rd",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Rutland",
+               "short_name" : "Rutland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stamford Rd, Rutland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6599712,
+                  "lng" : -0.5295664999999999
+               },
+               "southwest" : {
+                  "lat" : 52.6571521,
+                  "lng" : -0.553271
+               }
+            },
+            "location" : {
+               "lat" : 52.6588159,
+               "lng" : -0.5413915
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6599712,
+                  "lng" : -0.5295664999999999
+               },
+               "southwest" : {
+                  "lat" : 52.6571521,
+                  "lng" : -0.553271
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJiRTAqF-Id0gR6P7mi9vkxsg",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

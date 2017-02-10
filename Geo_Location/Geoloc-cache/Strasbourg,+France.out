@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Strasbourg",
+               "short_name" : "Strasbourg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alsace",
+               "short_name" : "Alsace",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Bas-Rhin",
+               "short_name" : "Bas-Rhin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alsace-Champagne-Ardenne-Lorraine",
+               "short_name" : "Alsace-Champagne-Ardenne-Lorraine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Strasbourg, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.6462221,
+                  "lng" : 7.836045099999999
+               },
+               "southwest" : {
+                  "lat" : 48.492005,
+                  "lng" : 7.688142900000001
+               }
+            },
+            "location" : {
+               "lat" : 48.5734053,
+               "lng" : 7.752111299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.6462221,
+                  "lng" : 7.836045099999999
+               },
+               "southwest" : {
+                  "lat" : 48.492005,
+                  "lng" : 7.688142900000001
+               }
+            }
+         },
+         "place_id" : "ChIJwbIYXknIlkcRHyTnGDFIGpc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

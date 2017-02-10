@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Syracuse",
+               "short_name" : "Syracuse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Onondaga County",
+               "short_name" : "Onondaga County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Syracuse, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0861018,
+                  "lng" : -76.07408409999999
+               },
+               "southwest" : {
+                  "lat" : 42.984366,
+                  "lng" : -76.20447600000001
+               }
+            },
+            "location" : {
+               "lat" : 43.0481221,
+               "lng" : -76.14742439999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0861018,
+                  "lng" : -76.07408409999999
+               },
+               "southwest" : {
+                  "lat" : 42.984366,
+                  "lng" : -76.20447600000001
+               }
+            }
+         },
+         "place_id" : "ChIJDZqXv5vz2YkRRZWt1-IM1QA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hobbs",
+               "short_name" : "Hobbs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lea County",
+               "short_name" : "Lea County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hobbs, NM, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7873529,
+                  "lng" : -103.094786
+               },
+               "southwest" : {
+                  "lat" : 32.667563,
+                  "lng" : -103.230924
+               }
+            },
+            "location" : {
+               "lat" : 32.7026116,
+               "lng" : -103.1360403
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7873529,
+                  "lng" : -103.094786
+               },
+               "southwest" : {
+                  "lat" : 32.667563,
+                  "lng" : -103.230924
+               }
+            }
+         },
+         "place_id" : "ChIJ3at8vwOV_IYRgGiP8qBRIrQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

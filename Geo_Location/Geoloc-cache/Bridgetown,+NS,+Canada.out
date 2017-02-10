@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bridgetown",
+               "short_name" : "Bridgetown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Annapolis County",
+               "short_name" : "Annapolis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bridgetown, NS, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8535751,
+                  "lng" : -65.2660612
+               },
+               "southwest" : {
+                  "lat" : 44.832154,
+                  "lng" : -65.31079249999999
+               }
+            },
+            "location" : {
+               "lat" : 44.8418357,
+               "lng" : -65.2883507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8535751,
+                  "lng" : -65.2660612
+               },
+               "southwest" : {
+                  "lat" : 44.832154,
+                  "lng" : -65.31079249999999
+               }
+            }
+         },
+         "place_id" : "ChIJ30yraUgFWEsRsQxD8SSka3E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

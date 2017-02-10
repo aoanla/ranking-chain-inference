@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Terre Haute",
+               "short_name" : "Terre Haute",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vigo County",
+               "short_name" : "Vigo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Terre Haute, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.52853590000001,
+                  "lng" : -87.276917
+               },
+               "southwest" : {
+                  "lat" : 39.4015709,
+                  "lng" : -87.46972079999999
+               }
+            },
+            "location" : {
+               "lat" : 39.4667034,
+               "lng" : -87.41390919999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.52853590000001,
+                  "lng" : -87.276917
+               },
+               "southwest" : {
+                  "lat" : 39.4015709,
+                  "lng" : -87.46972079999999
+               }
+            }
+         },
+         "place_id" : "ChIJ79yRikdlbYgRiO_jX2eoP4A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hastings",
+               "short_name" : "Hastings",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barry County",
+               "short_name" : "Barry County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49058",
+               "short_name" : "49058",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hastings, MI 49058, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.6687776,
+                  "lng" : -85.265621
+               },
+               "southwest" : {
+                  "lat" : 42.6317459,
+                  "lng" : -85.314222
+               }
+            },
+            "location" : {
+               "lat" : 42.6458682,
+               "lng" : -85.29084030000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6687776,
+                  "lng" : -85.265621
+               },
+               "southwest" : {
+                  "lat" : 42.6317459,
+                  "lng" : -85.314222
+               }
+            }
+         },
+         "place_id" : "ChIJrUMUsHs9GIgRhro5GZ-bmo8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

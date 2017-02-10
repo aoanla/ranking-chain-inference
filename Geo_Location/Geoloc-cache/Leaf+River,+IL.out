@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leaf River",
+               "short_name" : "Leaf River",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leaf River Township",
+               "short_name" : "Leaf River Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ogle County",
+               "short_name" : "Ogle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "61047",
+               "short_name" : "61047",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Leaf River, IL 61047, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1302359,
+                  "lng" : -89.3943098
+               },
+               "southwest" : {
+                  "lat" : 42.117464,
+                  "lng" : -89.413839
+               }
+            },
+            "location" : {
+               "lat" : 42.1255813,
+               "lng" : -89.4037206
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1302359,
+                  "lng" : -89.3943098
+               },
+               "southwest" : {
+                  "lat" : 42.117464,
+                  "lng" : -89.413839
+               }
+            }
+         },
+         "place_id" : "ChIJi1RMhINYCIgRXRNhpcJAVO8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

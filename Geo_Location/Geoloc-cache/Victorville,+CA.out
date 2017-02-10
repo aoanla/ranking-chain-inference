@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victorville",
+               "short_name" : "Victorville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Victorville, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.644937,
+                  "lng" : -117.2538789
+               },
+               "southwest" : {
+                  "lat" : 34.435648,
+                  "lng" : -117.4689739
+               }
+            },
+            "location" : {
+               "lat" : 34.5362184,
+               "lng" : -117.2927641
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.644937,
+                  "lng" : -117.2538789
+               },
+               "southwest" : {
+                  "lat" : 34.435648,
+                  "lng" : -117.4689739
+               }
+            }
+         },
+         "place_id" : "ChIJedLdY1pkw4ARdjT0JVkRlQ0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

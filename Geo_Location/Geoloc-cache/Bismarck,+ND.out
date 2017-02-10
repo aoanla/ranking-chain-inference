@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bismarck",
+               "short_name" : "Bismarck",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burleigh County",
+               "short_name" : "Burleigh County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Dakota",
+               "short_name" : "ND",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bismarck, ND, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8670479,
+                  "lng" : -100.688513
+               },
+               "southwest" : {
+                  "lat" : 46.751104,
+                  "lng" : -100.8455962
+               }
+            },
+            "location" : {
+               "lat" : 46.8083268,
+               "lng" : -100.7837392
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8670479,
+                  "lng" : -100.688513
+               },
+               "southwest" : {
+                  "lat" : 46.751104,
+                  "lng" : -100.8455962
+               }
+            }
+         },
+         "place_id" : "ChIJY-nYVxKD11IRk8q7-RK9qsw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

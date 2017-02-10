@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bellingham",
+               "short_name" : "Bellingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Whatcom County",
+               "short_name" : "Whatcom County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bellingham, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.81878400000001,
+                  "lng" : -122.398049
+               },
+               "southwest" : {
+                  "lat" : 48.6886873,
+                  "lng" : -122.524571
+               }
+            },
+            "location" : {
+               "lat" : 48.74908,
+               "lng" : -122.4781473
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.81878400000001,
+                  "lng" : -122.398049
+               },
+               "southwest" : {
+                  "lat" : 48.6886873,
+                  "lng" : -122.524571
+               }
+            }
+         },
+         "place_id" : "ChIJF4dF8i6WhVQR8OA5zamcetU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

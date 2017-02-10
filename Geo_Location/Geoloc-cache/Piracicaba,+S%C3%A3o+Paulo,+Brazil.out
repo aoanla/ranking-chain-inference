@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Piracicaba",
+               "short_name" : "Piracicaba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Piracicaba",
+               "short_name" : "Piracicaba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Piracicaba, Piracicaba - SP, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.6432728,
+                  "lng" : -47.5046825
+               },
+               "southwest" : {
+                  "lat" : -22.7859985,
+                  "lng" : -47.7389819
+               }
+            },
+            "location" : {
+               "lat" : -22.7342864,
+               "lng" : -47.6480644
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.6432728,
+                  "lng" : -47.5046825
+               },
+               "southwest" : {
+                  "lat" : -22.7859985,
+                  "lng" : -47.7389819
+               }
+            }
+         },
+         "place_id" : "ChIJO51MT8ExxpQRHDTcEwDDDic",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cortland",
+               "short_name" : "Cortland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cortland County",
+               "short_name" : "Cortland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13045",
+               "short_name" : "13045",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cortland, NY 13045, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.614509,
+                  "lng" : -76.15468489999999
+               },
+               "southwest" : {
+                  "lat" : 42.585547,
+                  "lng" : -76.20049000000002
+               }
+            },
+            "location" : {
+               "lat" : 42.6011813,
+               "lng" : -76.1804843
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.614509,
+                  "lng" : -76.15468489999999
+               },
+               "southwest" : {
+                  "lat" : 42.585547,
+                  "lng" : -76.20049000000002
+               }
+            }
+         },
+         "place_id" : "ChIJbWempXhs2okRG-d_0saD07U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

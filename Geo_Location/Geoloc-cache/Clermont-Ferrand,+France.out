@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clermont-Ferrand",
+               "short_name" : "Clermont-Ferrand",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puy-de-Dome",
+               "short_name" : "Puy-de-Dome",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auvergne",
+               "short_name" : "Auvergne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Clermont-Ferrand, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8183739,
+                  "lng" : 3.172156
+               },
+               "southwest" : {
+                  "lat" : 45.755755,
+                  "lng" : 3.053296
+               }
+            },
+            "location" : {
+               "lat" : 45.77722199999999,
+               "lng" : 3.087025
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8183739,
+                  "lng" : 3.172156
+               },
+               "southwest" : {
+                  "lat" : 45.755755,
+                  "lng" : 3.053296
+               }
+            }
+         },
+         "place_id" : "ChIJB4Uuf90b90cRIm-gOGAwlDk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Templeton",
+               "short_name" : "Templeton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Luis Obispo County",
+               "short_name" : "San Luis Obispo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Templeton, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.589209,
+                  "lng" : -120.687606
+               },
+               "southwest" : {
+                  "lat" : 35.531976,
+                  "lng" : -120.751135
+               }
+            },
+            "location" : {
+               "lat" : 35.5496939,
+               "lng" : -120.7060049
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.589209,
+                  "lng" : -120.687606
+               },
+               "southwest" : {
+                  "lat" : 35.531976,
+                  "lng" : -120.751135
+               }
+            }
+         },
+         "place_id" : "ChIJ995QW6rE7IARnn5hQOho-VM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

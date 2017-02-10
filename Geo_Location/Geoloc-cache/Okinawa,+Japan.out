@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Okinawa Prefecture",
+               "short_name" : "Okinawa Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Okinawa Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8854933,
+                  "lng" : 131.3320097
+               },
+               "southwest" : {
+                  "lat" : 24.0458042,
+                  "lng" : 122.933796
+               }
+            },
+            "location" : {
+               "lat" : 26.2124013,
+               "lng" : 127.6809317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0954091,
+                  "lng" : 128.335389
+               },
+               "southwest" : {
+                  "lat" : 26.0745831,
+                  "lng" : 127.0993165
+               }
+            }
+         },
+         "place_id" : "ChIJ51ur7mJw9TQR79H9hnJhuzU",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

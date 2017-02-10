@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kokomo",
+               "short_name" : "Kokomo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Center Township",
+               "short_name" : "Center Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Howard County",
+               "short_name" : "Howard County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kokomo, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5346509,
+                  "lng" : -86.09136389999999
+               },
+               "southwest" : {
+                  "lat" : 40.4188701,
+                  "lng" : -86.18439309999999
+               }
+            },
+            "location" : {
+               "lat" : 40.486427,
+               "lng" : -86.13360329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5346509,
+                  "lng" : -86.09136389999999
+               },
+               "southwest" : {
+                  "lat" : 40.4188701,
+                  "lng" : -86.18439309999999
+               }
+            }
+         },
+         "place_id" : "ChIJ8Y2rfTSEFIgRKb3e6RyxuCA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bedford",
+               "short_name" : "Bedford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bedford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3229384,
+                  "lng" : -0.2407452
+               },
+               "southwest" : {
+                  "lat" : 52.0545323,
+                  "lng" : -0.6687744
+               }
+            },
+            "location" : {
+               "lat" : 52.1359735,
+               "lng" : -0.4666565
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3229384,
+                  "lng" : -0.2407452
+               },
+               "southwest" : {
+                  "lat" : 52.0545323,
+                  "lng" : -0.6687744
+               }
+            }
+         },
+         "place_id" : "ChIJpQ1uuWG3d0gREKjDu6gcDgM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

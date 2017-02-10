@@ -1,0 +1,103 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melbourne",
+               "short_name" : "Melbourne",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Melbourne VIC, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.4598457,
+                  "lng" : 145.76474
+               },
+               "southwest" : {
+                  "lat" : -38.2607199,
+                  "lng" : 144.3944921
+               }
+            },
+            "location" : {
+               "lat" : -37.814107,
+               "lng" : 144.96328
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.4598457,
+                  "lng" : 145.76474
+               },
+               "southwest" : {
+                  "lat" : -38.2607199,
+                  "lng" : 144.3944921
+               }
+            }
+         },
+         "place_id" : "ChIJ90260rVG1moRkM2MIXVWBAQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Melbourne",
+               "short_name" : "Melbourne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Melbourne VIC, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.7994893,
+                  "lng" : 144.9890618
+               },
+               "southwest" : {
+                  "lat" : -37.8546255,
+                  "lng" : 144.9514222
+               }
+            },
+            "location" : {
+               "lat" : -37.8142155,
+               "lng" : 144.9632307
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.7994893,
+                  "lng" : 144.9890618
+               },
+               "southwest" : {
+                  "lat" : -37.8546255,
+                  "lng" : 144.9514222
+               }
+            }
+         },
+         "place_id" : "ChIJgf0RD69C1moR4OeMIXVWBAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

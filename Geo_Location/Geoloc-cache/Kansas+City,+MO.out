@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kansas City",
+               "short_name" : "KCMO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jackson County",
+               "short_name" : "Jackson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kansas City, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.356662,
+                  "lng" : -94.38552199999999
+               },
+               "southwest" : {
+                  "lat" : 38.827176,
+                  "lng" : -94.765917
+               }
+            },
+            "location" : {
+               "lat" : 39.0997265,
+               "lng" : -94.5785667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.356662,
+                  "lng" : -94.38552199999999
+               },
+               "southwest" : {
+                  "lat" : 38.827176,
+                  "lng" : -94.765917
+               }
+            }
+         },
+         "place_id" : "ChIJl5npr173wIcRolGqauYlhVU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rosario",
+               "short_name" : "Rosario",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rosario Department",
+               "short_name" : "Rosario Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santa Fe Province",
+               "short_name" : "Santa Fe Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rosario, Santa Fe Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.8704196,
+                  "lng" : -60.61438270000001
+               },
+               "southwest" : {
+                  "lat" : -33.0341873,
+                  "lng" : -60.7819327
+               }
+            },
+            "location" : {
+               "lat" : -32.9442426,
+               "lng" : -60.65053880000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.8704196,
+                  "lng" : -60.61438270000001
+               },
+               "southwest" : {
+                  "lat" : -33.0341873,
+                  "lng" : -60.7819327
+               }
+            }
+         },
+         "place_id" : "ChIJW9fXNZNTtpURV6VYAumGQOw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Terrace",
+               "short_name" : "Terrace",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kitimat-Stikine",
+               "short_name" : "Kitimat-Stikine",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Terrace, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.5434659,
+                  "lng" : -128.5131051
+               },
+               "southwest" : {
+                  "lat" : 54.439477,
+                  "lng" : -128.6609471
+               }
+            },
+            "location" : {
+               "lat" : 54.5181925,
+               "lng" : -128.603154
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5434659,
+                  "lng" : -128.5131051
+               },
+               "southwest" : {
+                  "lat" : 54.439477,
+                  "lng" : -128.6609471
+               }
+            }
+         },
+         "place_id" : "ChIJZUgP85SZdFQRUoqRGR1KijE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

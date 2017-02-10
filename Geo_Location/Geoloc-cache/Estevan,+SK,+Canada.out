@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Estevan",
+               "short_name" : "Estevan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 1",
+               "short_name" : "Division No. 1",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Estevan, SK, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1617559,
+                  "lng" : -102.946687
+               },
+               "southwest" : {
+                  "lat" : 49.11724700000001,
+                  "lng" : -103.0174609
+               }
+            },
+            "location" : {
+               "lat" : 49.1390842,
+               "lng" : -102.9914807
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1617559,
+                  "lng" : -102.946687
+               },
+               "southwest" : {
+                  "lat" : 49.11724700000001,
+                  "lng" : -103.0174609
+               }
+            }
+         },
+         "place_id" : "ChIJlRiHODw9IFMRRDUE5-uqK58",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

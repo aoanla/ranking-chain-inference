@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maitland",
+               "short_name" : "Maitland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maitland NSW, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.7184198,
+                  "lng" : 151.5755362
+               },
+               "southwest" : {
+                  "lat" : -32.7546939,
+                  "lng" : 151.5304797
+               }
+            },
+            "location" : {
+               "lat" : -32.7336636,
+               "lng" : 151.5576677
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.7184198,
+                  "lng" : 151.5755362
+               },
+               "southwest" : {
+                  "lat" : -32.7546939,
+                  "lng" : 151.5304797
+               }
+            }
+         },
+         "place_id" : "ChIJddSU9NZFc2sRAPAyFmh9AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

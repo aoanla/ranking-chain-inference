@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seminole",
+               "short_name" : "Seminole",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pinellas County",
+               "short_name" : "Pinellas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Seminole, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.875832,
+                  "lng" : -82.7538411
+               },
+               "southwest" : {
+                  "lat" : 27.809372,
+                  "lng" : -82.817027
+               }
+            },
+            "location" : {
+               "lat" : 27.8397466,
+               "lng" : -82.79121339999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.875832,
+                  "lng" : -82.7538411
+               },
+               "southwest" : {
+                  "lat" : 27.809372,
+                  "lng" : -82.817027
+               }
+            }
+         },
+         "place_id" : "ChIJUeyXlDv7wogR9Ieu_I0eGSU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

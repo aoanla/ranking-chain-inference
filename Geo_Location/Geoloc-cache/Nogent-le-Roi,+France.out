@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nogent-le-Roi",
+               "short_name" : "Nogent-le-Roi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Eure-et-Loir",
+               "short_name" : "Eure-et-Loir",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre",
+               "short_name" : "Centre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nogent-le-Roi, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.656342,
+                  "lng" : 1.551157
+               },
+               "southwest" : {
+                  "lat" : 48.606632,
+                  "lng" : 1.490031
+               }
+            },
+            "location" : {
+               "lat" : 48.647832,
+               "lng" : 1.530432
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.656342,
+                  "lng" : 1.551157
+               },
+               "southwest" : {
+                  "lat" : 48.606632,
+                  "lng" : 1.490031
+               }
+            }
+         },
+         "place_id" : "ChIJzYECQxMD5EcRMV84d8rZeGI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

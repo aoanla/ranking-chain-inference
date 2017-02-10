@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chatham",
+               "short_name" : "Chatham",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Chatham-Kent",
+               "short_name" : "Chatham-Kent",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chatham-Kent Division",
+               "short_name" : "Chatham-Kent Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chatham, Chatham-Kent, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.436101,
+                  "lng" : -82.14966389999999
+               },
+               "southwest" : {
+                  "lat" : 42.3687599,
+                  "lng" : -82.2473122
+               }
+            },
+            "location" : {
+               "lat" : 42.4048018,
+               "lng" : -82.1910376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.436101,
+                  "lng" : -82.14966389999999
+               },
+               "southwest" : {
+                  "lat" : 42.3687599,
+                  "lng" : -82.2473122
+               }
+            }
+         },
+         "place_id" : "ChIJXSyTgFj4L4gRs6Or4_a0eEU",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

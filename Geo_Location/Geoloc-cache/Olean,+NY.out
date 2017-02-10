@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Olean",
+               "short_name" : "Olean",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cattaraugus County",
+               "short_name" : "Cattaraugus County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14760",
+               "short_name" : "14760",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Olean, NY 14760, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1047011,
+                  "lng" : -78.400519
+               },
+               "southwest" : {
+                  "lat" : 42.0612359,
+                  "lng" : -78.463365
+               }
+            },
+            "location" : {
+               "lat" : 42.083639,
+               "lng" : -78.42992699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1047011,
+                  "lng" : -78.400519
+               },
+               "southwest" : {
+                  "lat" : 42.0612359,
+                  "lng" : -78.463365
+               }
+            }
+         },
+         "place_id" : "ChIJW33Gh_9w0okRB4eBI5O6jb8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elmira",
+               "short_name" : "Elmira",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chemung County",
+               "short_name" : "Chemung County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Elmira, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.120203,
+                  "lng" : -76.77671099999999
+               },
+               "southwest" : {
+                  "lat" : 42.064651,
+                  "lng" : -76.842274
+               }
+            },
+            "location" : {
+               "lat" : 42.0897965,
+               "lng" : -76.80773379999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.120203,
+                  "lng" : -76.77671099999999
+               },
+               "southwest" : {
+                  "lat" : 42.064651,
+                  "lng" : -76.842274
+               }
+            }
+         },
+         "place_id" : "ChIJ4_IXPTsV0IkRvzo6JjBm_Eg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

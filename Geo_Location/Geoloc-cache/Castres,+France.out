@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Castres",
+               "short_name" : "Castres",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarn",
+               "short_name" : "Tarn",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Castres, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.67037699999999,
+                  "lng" : 2.333271
+               },
+               "southwest" : {
+                  "lat" : 43.556026,
+                  "lng" : 2.15636
+               }
+            },
+            "location" : {
+               "lat" : 43.606214,
+               "lng" : 2.241295
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.67037699999999,
+                  "lng" : 2.333271
+               },
+               "southwest" : {
+                  "lat" : 43.556026,
+                  "lng" : 2.15636
+               }
+            }
+         },
+         "place_id" : "ChIJgcUlS94RrhIRIO07L5z2BgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

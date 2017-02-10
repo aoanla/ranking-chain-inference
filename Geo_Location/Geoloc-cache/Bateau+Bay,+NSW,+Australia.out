@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bateau Bay",
+               "short_name" : "Bateau Bay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2261",
+               "short_name" : "2261",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bateau Bay NSW 2261, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.3687724,
+                  "lng" : 151.4867708
+               },
+               "southwest" : {
+                  "lat" : -33.4012346,
+                  "lng" : 151.4536474
+               }
+            },
+            "location" : {
+               "lat" : -33.3890903,
+               "lng" : 151.4733274
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.3687724,
+                  "lng" : 151.4867708
+               },
+               "southwest" : {
+                  "lat" : -33.4012346,
+                  "lng" : 151.4536474
+               }
+            }
+         },
+         "place_id" : "ChIJayOglHHPcmsRgNYyFmh9AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

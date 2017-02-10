@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Margaret River",
+               "short_name" : "Margaret River",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6285",
+               "short_name" : "6285",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Margaret River WA 6285, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.9227093,
+                  "lng" : 115.1122588
+               },
+               "southwest" : {
+                  "lat" : -34.0105749,
+                  "lng" : 114.9935984
+               }
+            },
+            "location" : {
+               "lat" : -33.9536762,
+               "lng" : 115.0735653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.9227093,
+                  "lng" : 115.1122588
+               },
+               "southwest" : {
+                  "lat" : -34.0105749,
+                  "lng" : 114.9935984
+               }
+            }
+         },
+         "place_id" : "ChIJUWmsThmtLyoREA56JDj2AAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sussex County",
+               "short_name" : "Sussex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Delaware",
+               "short_name" : "DE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sussex County, DE, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9617409,
+                  "lng" : -75.04869339999999
+               },
+               "southwest" : {
+                  "lat" : 38.451018,
+                  "lng" : -75.7227549
+               }
+            },
+            "location" : {
+               "lat" : 38.65308410000001,
+               "lng" : -75.4344727
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9617409,
+                  "lng" : -75.04869339999999
+               },
+               "southwest" : {
+                  "lat" : 38.451018,
+                  "lng" : -75.7227549
+               }
+            }
+         },
+         "place_id" : "ChIJaWUVnA-PuIkRzxJPFm9RUIg",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

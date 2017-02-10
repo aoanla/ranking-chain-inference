@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Huntington Beach",
+               "short_name" : "Huntington Beach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Huntington Beach, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7557289,
+                  "lng" : -117.9405911
+               },
+               "southwest" : {
+                  "lat" : 33.6289541,
+                  "lng" : -118.0825195
+               }
+            },
+            "location" : {
+               "lat" : 33.660297,
+               "lng" : -117.9992265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7557289,
+                  "lng" : -117.9405911
+               },
+               "southwest" : {
+                  "lat" : 33.6289541,
+                  "lng" : -118.0825195
+               }
+            }
+         },
+         "place_id" : "ChIJtSrI-SIk3YARATtmpMmF7UU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

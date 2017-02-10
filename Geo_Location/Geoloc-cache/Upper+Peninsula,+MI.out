@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Upper Peninsula of Michigan",
+               "short_name" : "Upper Peninsula of Michigan",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            }
+         ],
+         "formatted_address" : "Upper Peninsula of Michigan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.3060628,
+                  "lng" : -83.4335579
+               },
+               "southwest" : {
+                  "lat" : 45.0764339,
+                  "lng" : -90.4181358
+               }
+            },
+            "location" : {
+               "lat" : 46.5374764,
+               "lng" : -87.3952109
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.3060628,
+                  "lng" : -83.4335579
+               },
+               "southwest" : {
+                  "lat" : 45.0764339,
+                  "lng" : -90.4181358
+               }
+            }
+         },
+         "place_id" : "ChIJjzSFP2HfVk0RuLMH88eBmH0",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

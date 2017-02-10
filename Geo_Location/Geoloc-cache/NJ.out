@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Jersey, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.357423,
+                  "lng" : -73.9024391
+               },
+               "southwest" : {
+                  "lat" : 38.9285589,
+                  "lng" : -75.5597921
+               }
+            },
+            "location" : {
+               "lat" : 40.0583238,
+               "lng" : -74.4056612
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.357423,
+                  "lng" : -73.9024391
+               },
+               "southwest" : {
+                  "lat" : 38.9286032,
+                  "lng" : -75.5597921
+               }
+            }
+         },
+         "place_id" : "ChIJn0AAnpX7wIkRjW0_-Ad70iw",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hull",
+               "short_name" : "Hull",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hull, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.8132502,
+                  "lng" : -0.2413964
+               },
+               "southwest" : {
+                  "lat" : 53.71951499999999,
+                  "lng" : -0.4225751
+               }
+            },
+            "location" : {
+               "lat" : 53.7456709,
+               "lng" : -0.3367413
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.8132502,
+                  "lng" : -0.2413964
+               },
+               "southwest" : {
+                  "lat" : 53.71951499999999,
+                  "lng" : -0.4225751
+               }
+            }
+         },
+         "place_id" : "ChIJrWABfI8g1kcR_zDxgp1-RG0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

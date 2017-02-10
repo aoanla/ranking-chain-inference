@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Clio",
+               "short_name" : "Clio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Genesee County",
+               "short_name" : "Genesee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48420",
+               "short_name" : "48420",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Clio, MI 48420, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.18475,
+                  "lng" : -83.72466299999999
+               },
+               "southwest" : {
+                  "lat" : 43.166022,
+                  "lng" : -83.7521309
+               }
+            },
+            "location" : {
+               "lat" : 43.1775256,
+               "lng" : -83.73412739999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.18475,
+                  "lng" : -83.72466299999999
+               },
+               "southwest" : {
+                  "lat" : 43.166022,
+                  "lng" : -83.7521309
+               }
+            }
+         },
+         "place_id" : "ChIJ1QTS12KPI4gRr7haat6LUQs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

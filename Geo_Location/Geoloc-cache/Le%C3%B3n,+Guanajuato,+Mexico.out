@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Leon",
+               "short_name" : "Leon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "León",
+               "short_name" : "León",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Gto.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Leon, Guanajuato, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.2134227,
+                  "lng" : -101.5617887
+               },
+               "southwest" : {
+                  "lat" : 21.0304049,
+                  "lng" : -101.7702342
+               }
+            },
+            "location" : {
+               "lat" : 21.1250077,
+               "lng" : -101.6859605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.2134227,
+                  "lng" : -101.5617887
+               },
+               "southwest" : {
+                  "lat" : 21.0304049,
+                  "lng" : -101.7702342
+               }
+            }
+         },
+         "place_id" : "ChIJIefm1v--K4QRJ0OlYeyVbWA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

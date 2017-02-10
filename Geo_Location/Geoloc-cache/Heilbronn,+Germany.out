@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heilbronn",
+               "short_name" : "Heilbronn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stuttgart",
+               "short_name" : "Süd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Heilbronn, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.20972769999999,
+                  "lng" : 9.301967299999999
+               },
+               "southwest" : {
+                  "lat" : 49.0928881,
+                  "lng" : 9.044608799999999
+               }
+            },
+            "location" : {
+               "lat" : 49.1426929,
+               "lng" : 9.210879
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.20972769999999,
+                  "lng" : 9.301967299999999
+               },
+               "southwest" : {
+                  "lat" : 49.0928881,
+                  "lng" : 9.044608799999999
+               }
+            }
+         },
+         "place_id" : "ChIJ0VFNsJcomEcRcJAJjTz9HwQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

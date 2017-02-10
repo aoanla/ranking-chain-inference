@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dallas, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.0237921,
+                  "lng" : -96.4637379
+               },
+               "southwest" : {
+                  "lat" : 32.617537,
+                  "lng" : -96.9989413
+               }
+            },
+            "location" : {
+               "lat" : 32.7766642,
+               "lng" : -96.79698789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0237921,
+                  "lng" : -96.4637379
+               },
+               "southwest" : {
+                  "lat" : 32.617537,
+                  "lng" : -96.9989413
+               }
+            }
+         },
+         "place_id" : "ChIJS5dFe_cZTIYRj2dH9qSb7Lk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sonoma",
+               "short_name" : "Sonoma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sonoma County",
+               "short_name" : "Sonoma County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95476",
+               "short_name" : "95476",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sonoma, CA 95476, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.3075908,
+                  "lng" : -122.416089
+               },
+               "southwest" : {
+                  "lat" : 38.2745959,
+                  "lng" : -122.48211
+               }
+            },
+            "location" : {
+               "lat" : 38.291859,
+               "lng" : -122.4580356
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.3075908,
+                  "lng" : -122.43369
+               },
+               "southwest" : {
+                  "lat" : 38.2745959,
+                  "lng" : -122.48211
+               }
+            }
+         },
+         "place_id" : "ChIJd517gUOshYARReDmDiHtgAM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

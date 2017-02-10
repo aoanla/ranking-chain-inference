@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Powell River",
+               "short_name" : "Powell River",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Powell River",
+               "short_name" : "Powell River",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Powell River, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.908119,
+                  "lng" : -124.487039
+               },
+               "southwest" : {
+                  "lat" : 49.8001807,
+                  "lng" : -124.5990975
+               }
+            },
+            "location" : {
+               "lat" : 49.8352352,
+               "lng" : -124.5247062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.908119,
+                  "lng" : -124.487039
+               },
+               "southwest" : {
+                  "lat" : 49.8001807,
+                  "lng" : -124.5990975
+               }
+            }
+         },
+         "place_id" : "ChIJQ65_ICfyh1QRI4a1OKn5iyU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

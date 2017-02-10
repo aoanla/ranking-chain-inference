@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Airdrie",
+               "short_name" : "Airdrie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rocky View County",
+               "short_name" : "Rocky View No. 44",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Airdrie, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3292709,
+                  "lng" : -113.9232445
+               },
+               "southwest" : {
+                  "lat" : 51.24171550000001,
+                  "lng" : -114.0798856
+               }
+            },
+            "location" : {
+               "lat" : 51.2917005,
+               "lng" : -114.0143635
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3292709,
+                  "lng" : -113.9232445
+               },
+               "southwest" : {
+                  "lat" : 51.24171550000001,
+                  "lng" : -114.0798856
+               }
+            }
+         },
+         "place_id" : "ChIJAx6evGhfcVMR9WIuaZPhHwk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

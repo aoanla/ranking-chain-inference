@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palm Desert",
+               "short_name" : "Palm Desert",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Riverside County",
+               "short_name" : "Riverside County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palm Desert, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.8103629,
+                  "lng" : -116.302079
+               },
+               "southwest" : {
+                  "lat" : 33.670671,
+                  "lng" : -116.425925
+               }
+            },
+            "location" : {
+               "lat" : 33.7222445,
+               "lng" : -116.3744556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.8103629,
+                  "lng" : -116.302079
+               },
+               "southwest" : {
+                  "lat" : 33.670671,
+                  "lng" : -116.425925
+               }
+            }
+         },
+         "place_id" : "ChIJN8Kl8i782oARdUavho9GuS4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

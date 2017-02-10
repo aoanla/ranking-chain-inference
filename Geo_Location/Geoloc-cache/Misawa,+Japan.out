@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Misawa",
+               "short_name" : "Misawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aomori Prefecture",
+               "short_name" : "Aomori Prefecture",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Japan",
+               "short_name" : "JP",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Misawa, Aomori Prefecture, Japan",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8861614,
+                  "lng" : 141.4443106
+               },
+               "southwest" : {
+                  "lat" : 40.6597607,
+                  "lng" : 141.3067056
+               }
+            },
+            "location" : {
+               "lat" : 40.6831337,
+               "lng" : 141.3689761
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8861614,
+                  "lng" : 141.4443106
+               },
+               "southwest" : {
+                  "lat" : 40.6597607,
+                  "lng" : 141.3067056
+               }
+            }
+         },
+         "place_id" : "ChIJM6-m1hWenF8RA8I5z2WUrUc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

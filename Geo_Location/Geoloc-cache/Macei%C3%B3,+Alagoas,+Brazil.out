@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maceió",
+               "short_name" : "Maceió",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maceió",
+               "short_name" : "Maceió",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alagoas",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maceió, Maceió - AL, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -9.471764,
+                  "lng" : -35.5577322
+               },
+               "southwest" : {
+                  "lat" : -9.715121399999999,
+                  "lng" : -35.8156249
+               }
+            },
+            "location" : {
+               "lat" : -9.6498487,
+               "lng" : -35.7089492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -9.471764,
+                  "lng" : -35.5577322
+               },
+               "southwest" : {
+                  "lat" : -9.715121399999999,
+                  "lng" : -35.8156249
+               }
+            }
+         },
+         "place_id" : "ChIJSYho1vxGAQcRU3bgQ1tyLO4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

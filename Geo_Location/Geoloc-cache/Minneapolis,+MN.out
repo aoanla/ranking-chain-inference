@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Minneapolis",
+               "short_name" : "Minneapolis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hennepin County",
+               "short_name" : "Hennepin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Minneapolis, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.05125,
+                  "lng" : -93.193794
+               },
+               "southwest" : {
+                  "lat" : 44.890144,
+                  "lng" : -93.32916299999999
+               }
+            },
+            "location" : {
+               "lat" : 44.977753,
+               "lng" : -93.2650108
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.05125,
+                  "lng" : -93.193794
+               },
+               "southwest" : {
+                  "lat" : 44.890144,
+                  "lng" : -93.32916299999999
+               }
+            }
+         },
+         "place_id" : "ChIJvbt3k5Azs1IRB-56L4TJn5M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

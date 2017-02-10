@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Downingtown",
+               "short_name" : "Downingtown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chester County",
+               "short_name" : "Chester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19335",
+               "short_name" : "19335",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Downingtown, PA 19335, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0213229,
+                  "lng" : -75.67575789999999
+               },
+               "southwest" : {
+                  "lat" : 39.995422,
+                  "lng" : -75.7271459
+               }
+            },
+            "location" : {
+               "lat" : 40.0064958,
+               "lng" : -75.7032742
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0213229,
+                  "lng" : -75.67575789999999
+               },
+               "southwest" : {
+                  "lat" : 39.995422,
+                  "lng" : -75.7271459
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJiz4CrZL1xokRvv3UW6ox-iY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

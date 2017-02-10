@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Carlos de Bariloche",
+               "short_name" : "San Carlos de Bariloche",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bariloche",
+               "short_name" : "Bariloche",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Río Negro",
+               "short_name" : "Río Negro",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Carlos de Bariloche, Río Negro, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.068724,
+                  "lng" : -71.18855289999999
+               },
+               "southwest" : {
+                  "lat" : -41.2011185,
+                  "lng" : -71.49127609999999
+               }
+            },
+            "location" : {
+               "lat" : -41.1334722,
+               "lng" : -71.31027779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.068724,
+                  "lng" : -71.18855289999999
+               },
+               "southwest" : {
+                  "lat" : -41.2011185,
+                  "lng" : -71.49127609999999
+               }
+            }
+         },
+         "place_id" : "ChIJ5WDIIBV7GpYRZZp7y5euEII",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

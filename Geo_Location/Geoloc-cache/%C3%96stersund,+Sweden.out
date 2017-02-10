@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Östersund",
+               "short_name" : "Östersund",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Östersund",
+               "short_name" : "Östersund",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Jamtland County",
+               "short_name" : "Jamtland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Östersund, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.2289599,
+                  "lng" : 14.7924026
+               },
+               "southwest" : {
+                  "lat" : 63.1217461,
+                  "lng" : 14.5108614
+               }
+            },
+            "location" : {
+               "lat" : 63.1766832,
+               "lng" : 14.6360681
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.2289599,
+                  "lng" : 14.7924026
+               },
+               "southwest" : {
+                  "lat" : 63.1217461,
+                  "lng" : 14.5108614
+               }
+            }
+         },
+         "place_id" : "ChIJkTD51Ea4b0YR3tzPMz3C3ko",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

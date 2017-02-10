@@ -1,0 +1,188 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan City of Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Naples, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.9159348,
+                  "lng" : 14.3537148
+               },
+               "southwest" : {
+                  "lat" : 40.7920363,
+                  "lng" : 14.1394899
+               }
+            },
+            "location" : {
+               "lat" : 40.8517746,
+               "lng" : 14.2681244
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.9159348,
+                  "lng" : 14.3537148
+               },
+               "southwest" : {
+                  "lat" : 40.7920363,
+                  "lng" : 14.1394899
+               }
+            }
+         },
+         "place_id" : "ChIJ6_p622YIOxMRfriMZcxDOtI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nola",
+               "short_name" : "Nola",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan City of Naples",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Naples, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8764789,
+                  "lng" : 14.520785
+               },
+               "southwest" : {
+                  "lat" : 40.8757361,
+                  "lng" : 14.5181075
+               }
+            },
+            "location" : {
+               "lat" : 40.87613410000001,
+               "lng" : 14.5198315
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.87745648029149,
+                  "lng" : 14.5207952302915
+               },
+               "southwest" : {
+                  "lat" : 40.87475851970849,
+                  "lng" : 14.5180972697085
+               }
+            }
+         },
+         "place_id" : "ChIJRw3rhP-wOxMRP2qkGuYBOxo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Naples International Airport",
+               "short_name" : "Naples International Airport",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Viale F. Ruffo di Calabria",
+               "short_name" : "Viale F. Ruffo di Calabria",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Napoli",
+               "short_name" : "Napoli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Naples",
+               "short_name" : "Naples",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Napoli",
+               "short_name" : "NA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Campania",
+               "short_name" : "Campania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "80144",
+               "short_name" : "80144",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Naples International Airport (NAP), Viale F. Ruffo di Calabria, 80144 Napoli, Italy",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.8829943,
+               "lng" : 14.2865792
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8843432802915,
+                  "lng" : 14.2879281802915
+               },
+               "southwest" : {
+                  "lat" : 40.8816453197085,
+                  "lng" : 14.2852302197085
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ49mGiR6oOxMRbTXJpovFSL8",
+         "types" : [ "airport", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

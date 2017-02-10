@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Amarillo",
+               "short_name" : "Amarillo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Potter County",
+               "short_name" : "Potter County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Amarillo, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2944749,
+                  "lng" : -101.6536839
+               },
+               "southwest" : {
+                  "lat" : 35.109459,
+                  "lng" : -101.956197
+               }
+            },
+            "location" : {
+               "lat" : 35.2219971,
+               "lng" : -101.8312969
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2944749,
+                  "lng" : -101.6536839
+               },
+               "southwest" : {
+                  "lat" : 35.109459,
+                  "lng" : -101.956197
+               }
+            }
+         },
+         "place_id" : "ChIJA89FstRIAYcRr9I2aBzR89A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

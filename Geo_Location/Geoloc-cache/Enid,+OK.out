@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Enid",
+               "short_name" : "Enid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Garfield County",
+               "short_name" : "Garfield County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Enid, OK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.4668008,
+                  "lng" : -97.76503600000001
+               },
+               "southwest" : {
+                  "lat" : 36.3187109,
+                  "lng" : -97.984534
+               }
+            },
+            "location" : {
+               "lat" : 36.3955891,
+               "lng" : -97.8783911
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4668008,
+                  "lng" : -97.76503600000001
+               },
+               "southwest" : {
+                  "lat" : 36.3187109,
+                  "lng" : -97.984534
+               }
+            }
+         },
+         "place_id" : "ChIJQe7IrezUr4cRmqOryA_MwNM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

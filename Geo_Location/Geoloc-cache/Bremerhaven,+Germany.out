@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bremerhaven",
+               "short_name" : "Bremerhaven",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bremerhaven",
+               "short_name" : "Bremerhaven",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bremen",
+               "short_name" : "HB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bremerhaven, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6102323,
+                  "lng" : 8.659149899999999
+               },
+               "southwest" : {
+                  "lat" : 53.4757836,
+                  "lng" : 8.506426299999999
+               }
+            },
+            "location" : {
+               "lat" : 53.5395845,
+               "lng" : 8.5809424
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6102323,
+                  "lng" : 8.659149899999999
+               },
+               "southwest" : {
+                  "lat" : 53.4757836,
+                  "lng" : 8.506426299999999
+               }
+            }
+         },
+         "place_id" : "ChIJYU4gxBGxtkcRoHMAY3fPJgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

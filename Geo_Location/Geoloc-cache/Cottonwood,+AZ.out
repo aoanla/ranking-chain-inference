@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cottonwood",
+               "short_name" : "Cottonwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yavapai County",
+               "short_name" : "Yavapai County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cottonwood, AZ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.765032,
+                  "lng" : -111.9487811
+               },
+               "southwest" : {
+                  "lat" : 34.6495469,
+                  "lng" : -112.0529471
+               }
+            },
+            "location" : {
+               "lat" : 34.7391876,
+               "lng" : -112.0098791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.765032,
+                  "lng" : -111.9487811
+               },
+               "southwest" : {
+                  "lat" : 34.6495469,
+                  "lng" : -112.0529471
+               }
+            }
+         },
+         "place_id" : "ChIJec7xtwsFLYcRcDfqDFDAAgc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

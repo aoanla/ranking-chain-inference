@@ -1,0 +1,231 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Heroica Veracruz",
+               "short_name" : "Heroica Veracruz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Veracruz",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Ver.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Heroica Veracruz, Ver., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2264809,
+                  "lng" : -96.11820159999999
+               },
+               "southwest" : {
+                  "lat" : 19.1310527,
+                  "lng" : -96.23446749999999
+               }
+            },
+            "location" : {
+               "lat" : 19.173773,
+               "lng" : -96.1342241
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2264809,
+                  "lng" : -96.11820159999999
+               },
+               "southwest" : {
+                  "lat" : 19.1310527,
+                  "lng" : -96.23446749999999
+               }
+            }
+         },
+         "place_id" : "ChIJxXjKRUJBw4URmwE26ULWpBg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Veracruz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boca del Río",
+               "short_name" : "Boca del Río",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Ver.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Veracruz, Ver., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.171703,
+                  "lng" : -96.09329009999999
+               },
+               "southwest" : {
+                  "lat" : 19.1104965,
+                  "lng" : -96.14253099999999
+               }
+            },
+            "location" : {
+               "lat" : 19.1400064,
+               "lng" : -96.11559319999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.171703,
+                  "lng" : -96.09329009999999
+               },
+               "southwest" : {
+                  "lat" : 19.1104965,
+                  "lng" : -96.14253099999999
+               }
+            }
+         },
+         "place_id" : "ChIJzfFZNwRBw4URp8dCXkLjdjQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Escundido",
+               "short_name" : "El Escundido",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jesús Carranza",
+               "short_name" : "Jesús Carranza",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Ver.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Escundido, Ver., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 17.2408052,
+                  "lng" : -94.759655
+               },
+               "southwest" : {
+                  "lat" : 17.2371779,
+                  "lng" : -94.76293799999999
+               }
+            },
+            "location" : {
+               "lat" : 17.2389524,
+               "lng" : -94.76106900000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 17.2408052,
+                  "lng" : -94.759655
+               },
+               "southwest" : {
+                  "lat" : 17.2371779,
+                  "lng" : -94.76293799999999
+               }
+            }
+         },
+         "place_id" : "ChIJB6LI2Chg6oUR_uu9U3TdvEo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Veracruz",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Xalapa Enríquez",
+               "short_name" : "Xalapa Enríquez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Xalapa",
+               "short_name" : "Xalapa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Ver.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "91020",
+               "short_name" : "91020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Veracruz, 91020 Xalapa Enríquez, Ver., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5430806,
+                  "lng" : -96.92602529999999
+               },
+               "southwest" : {
+                  "lat" : 19.5366706,
+                  "lng" : -96.93341389999999
+               }
+            },
+            "location" : {
+               "lat" : 19.5392771,
+               "lng" : -96.9294958
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5430806,
+                  "lng" : -96.92602529999999
+               },
+               "southwest" : {
+                  "lat" : 19.5366706,
+                  "lng" : -96.93341389999999
+               }
+            }
+         },
+         "place_id" : "ChIJrZ1KpgUu24URdttg8SmE03A",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

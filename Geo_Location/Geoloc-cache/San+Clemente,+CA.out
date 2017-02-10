@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Clemente",
+               "short_name" : "San Clemente",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Clemente, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.486827,
+                  "lng" : -117.5704029
+               },
+               "southwest" : {
+                  "lat" : 33.3865263,
+                  "lng" : -117.666384
+               }
+            },
+            "location" : {
+               "lat" : 33.4269728,
+               "lng" : -117.6119925
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.486827,
+                  "lng" : -117.5704029
+               },
+               "southwest" : {
+                  "lat" : 33.3865263,
+                  "lng" : -117.666384
+               }
+            }
+         },
+         "place_id" : "ChIJn1YpWVv03IARv3vMFEgFJjo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cloverdale",
+               "short_name" : "Cloverdale",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Surrey",
+               "short_name" : "Surrey",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Vancouver",
+               "short_name" : "Greater Vancouver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cloverdale, Surrey, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1337211,
+                  "lng" : -122.712187
+               },
+               "southwest" : {
+                  "lat" : 49.1041046,
+                  "lng" : -122.7734191
+               }
+            },
+            "location" : {
+               "lat" : 49.1115339,
+               "lng" : -122.7349425
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1337211,
+                  "lng" : -122.712187
+               },
+               "southwest" : {
+                  "lat" : 49.1041046,
+                  "lng" : -122.7734191
+               }
+            }
+         },
+         "place_id" : "ChIJQ5iTERjFhVQR1LOMZ1QuE6c",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

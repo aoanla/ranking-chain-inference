@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Modesto",
+               "short_name" : "Modesto",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stanislaus County",
+               "short_name" : "Stanislaus County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Modesto, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.7118177,
+                  "lng" : -120.9028043
+               },
+               "southwest" : {
+                  "lat" : 37.594752,
+                  "lng" : -121.0745019
+               }
+            },
+            "location" : {
+               "lat" : 37.63909719999999,
+               "lng" : -120.9968782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.7118177,
+                  "lng" : -120.9028043
+               },
+               "southwest" : {
+                  "lat" : 37.594752,
+                  "lng" : -121.0745019
+               }
+            }
+         },
+         "place_id" : "ChIJUV989PZTkIARK2M3xDK6lL8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

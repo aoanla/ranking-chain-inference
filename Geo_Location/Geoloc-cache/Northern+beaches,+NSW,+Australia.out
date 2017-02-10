@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northern Beaches",
+               "short_name" : "Northern Beaches",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northern Beaches, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.5782388,
+                  "lng" : 151.3426361
+               },
+               "southwest" : {
+                  "lat" : -33.8236611,
+                  "lng" : 151.2250465
+               }
+            },
+            "location" : {
+               "lat" : -33.7097041,
+               "lng" : 151.2685382
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.5782388,
+                  "lng" : 151.3426361
+               },
+               "southwest" : {
+                  "lat" : -33.8236611,
+                  "lng" : 151.2250465
+               }
+            }
+         },
+         "place_id" : "ChIJ2ZdX3qBVDWsRRnew59TgLBg",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

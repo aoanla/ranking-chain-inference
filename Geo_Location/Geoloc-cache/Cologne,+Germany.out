@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cologne",
+               "short_name" : "Cologne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cologne",
+               "short_name" : "K",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cologne, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.08496299999999,
+                  "lng" : 7.1620628
+               },
+               "southwest" : {
+                  "lat" : 50.8295269,
+                  "lng" : 6.7725819
+               }
+            },
+            "location" : {
+               "lat" : 50.937531,
+               "lng" : 6.9602786
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.08496299999999,
+                  "lng" : 7.1620628
+               },
+               "southwest" : {
+                  "lat" : 50.8295269,
+                  "lng" : 6.7725819
+               }
+            }
+         },
+         "place_id" : "ChIJ5S-raZElv0cR8HcqSvxgJwQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

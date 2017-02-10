@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pocatello",
+               "short_name" : "Pocatello",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bannock County",
+               "short_name" : "Bannock County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pocatello, ID, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.932958,
+                  "lng" : -112.360301
+               },
+               "southwest" : {
+                  "lat" : 42.804238,
+                  "lng" : -112.6317161
+               }
+            },
+            "location" : {
+               "lat" : 42.8713032,
+               "lng" : -112.4455344
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.924897,
+                  "lng" : -112.360301
+               },
+               "southwest" : {
+                  "lat" : 42.804238,
+                  "lng" : -112.496035
+               }
+            }
+         },
+         "place_id" : "ChIJDZvQ1SBPVVMRsDnOhCRqDAc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

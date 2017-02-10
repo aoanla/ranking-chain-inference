@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rimouski",
+               "short_name" : "Rimouski",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rimouski-Neigette",
+               "short_name" : "Rimouski-Neigette",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rimouski, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.5286169,
+                  "lng" : -68.3317691
+               },
+               "southwest" : {
+                  "lat" : 48.27903310000001,
+                  "lng" : -68.8210533
+               }
+            },
+            "location" : {
+               "lat" : 48.4389803,
+               "lng" : -68.53497040000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.5286169,
+                  "lng" : -68.3317691
+               },
+               "southwest" : {
+                  "lat" : 48.27903310000001,
+                  "lng" : -68.8210533
+               }
+            }
+         },
+         "place_id" : "ChIJ01lVDQfZlUwRfaT0R7pf2mE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

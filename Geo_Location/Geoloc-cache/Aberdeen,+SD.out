@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aberdeen",
+               "short_name" : "Aberdeen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brown County",
+               "short_name" : "Brown County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Dakota",
+               "short_name" : "SD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57401",
+               "short_name" : "57401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Aberdeen, SD 57401, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.495622,
+                  "lng" : -98.39220189999999
+               },
+               "southwest" : {
+                  "lat" : 45.430076,
+                  "lng" : -98.5264821
+               }
+            },
+            "location" : {
+               "lat" : 45.4646985,
+               "lng" : -98.4864829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.495622,
+                  "lng" : -98.39220189999999
+               },
+               "southwest" : {
+                  "lat" : 45.430076,
+                  "lng" : -98.5264821
+               }
+            }
+         },
+         "place_id" : "ChIJt_FLNpFE0lIRNazHz_PrUDA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

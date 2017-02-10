@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Penrith",
+               "short_name" : "Penrith",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2750",
+               "short_name" : "2750",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Penrith NSW 2750, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.7264654,
+                  "lng" : 150.7178774
+               },
+               "southwest" : {
+                  "lat" : -33.7640464,
+                  "lng" : 150.6615251
+               }
+            },
+            "location" : {
+               "lat" : -33.7521785,
+               "lng" : 150.6910467
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.7264654,
+                  "lng" : 150.7178774
+               },
+               "southwest" : {
+                  "lat" : -33.7640464,
+                  "lng" : 150.6615251
+               }
+            }
+         },
+         "place_id" : "ChIJe0LzS2KPEmsRQMYyFmh9AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

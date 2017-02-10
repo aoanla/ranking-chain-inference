@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mankato",
+               "short_name" : "Mankato",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Blue Earth County",
+               "short_name" : "Blue Earth County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mankato, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.2413669,
+                  "lng" : -93.90607890000001
+               },
+               "southwest" : {
+                  "lat" : 44.12559599999999,
+                  "lng" : -94.0488249
+               }
+            },
+            "location" : {
+               "lat" : 44.1635775,
+               "lng" : -93.99939959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2413669,
+                  "lng" : -93.90607890000001
+               },
+               "southwest" : {
+                  "lat" : 44.12559599999999,
+                  "lng" : -94.0488249
+               }
+            }
+         },
+         "place_id" : "ChIJaYUeBKYw9IcR0E7GWl88Ewc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

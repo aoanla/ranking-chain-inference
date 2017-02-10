@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kodiak",
+               "short_name" : "Kodiak",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kodiak Island",
+               "short_name" : "Kodiak Island",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kodiak, AK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.8134941,
+                  "lng" : -152.355668
+               },
+               "southwest" : {
+                  "lat" : 57.7716679,
+                  "lng" : -152.45228
+               }
+            },
+            "location" : {
+               "lat" : 57.79000000000001,
+               "lng" : -152.4072222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.8134941,
+                  "lng" : -152.355668
+               },
+               "southwest" : {
+                  "lat" : 57.7716679,
+                  "lng" : -152.45228
+               }
+            }
+         },
+         "place_id" : "ChIJj4GuoG_E6lYRc-TW-0wnKW0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

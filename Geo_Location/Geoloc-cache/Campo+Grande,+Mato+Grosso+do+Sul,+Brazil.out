@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Campo Grande",
+               "short_name" : "Campo Grande",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Campo Grande",
+               "short_name" : "Campo Grande",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mato Grosso do Sul",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Campo Grande, Campo Grande - MS, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.3709172,
+                  "lng" : -54.5050064
+               },
+               "southwest" : {
+                  "lat" : -20.5912824,
+                  "lng" : -54.76606169999999
+               }
+            },
+            "location" : {
+               "lat" : -20.4697105,
+               "lng" : -54.6201211
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.3709172,
+                  "lng" : -54.5050064
+               },
+               "southwest" : {
+                  "lat" : -20.5912824,
+                  "lng" : -54.76606169999999
+               }
+            }
+         },
+         "place_id" : "ChIJJ58ra3LmhpQRwdKEvJ5GqPU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vila Nova Campo Grande",
+               "short_name" : "Vila Nova Campo Grande",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Campo Grande",
+               "short_name" : "Campo Grande",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Campo Grande",
+               "short_name" : "Campo Grande",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mato Grosso do Sul",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vila Nova Campo Grande, Campo Grande - MS, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.4516881,
+                  "lng" : -54.66902839999999
+               },
+               "southwest" : {
+                  "lat" : -20.4972329,
+                  "lng" : -54.7243826
+               }
+            },
+            "location" : {
+               "lat" : -20.4632596,
+               "lng" : -54.6943918
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.4516881,
+                  "lng" : -54.66902839999999
+               },
+               "southwest" : {
+                  "lat" : -20.4972329,
+                  "lng" : -54.7243826
+               }
+            }
+         },
+         "place_id" : "ChIJf0r0wNXmhpQR5vNsxxTuij0",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

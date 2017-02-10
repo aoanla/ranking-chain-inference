@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Skegness",
+               "short_name" : "Skegness",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Lindsey District",
+               "short_name" : "East Lindsey District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Skegness, Lincolnshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1800438,
+                  "lng" : 0.3551988
+               },
+               "southwest" : {
+                  "lat" : 53.1175572,
+                  "lng" : 0.2985805
+               }
+            },
+            "location" : {
+               "lat" : 53.146403,
+               "lng" : 0.337881
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1800438,
+                  "lng" : 0.3551988
+               },
+               "southwest" : {
+                  "lat" : 53.1175572,
+                  "lng" : 0.2985805
+               }
+            }
+         },
+         "place_id" : "ChIJC-IbJsTG10cReMqBe2G-nPY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

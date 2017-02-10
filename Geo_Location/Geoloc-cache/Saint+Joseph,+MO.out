@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Joseph",
+               "short_name" : "St Joseph",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington Township",
+               "short_name" : "Washington Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Buchanan County",
+               "short_name" : "Buchanan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Joseph, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8212599,
+                  "lng" : -94.7433389
+               },
+               "southwest" : {
+                  "lat" : 39.6972151,
+                  "lng" : -94.89902910000001
+               }
+            },
+            "location" : {
+               "lat" : 39.7674578,
+               "lng" : -94.84668099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8212599,
+                  "lng" : -94.7433389
+               },
+               "southwest" : {
+                  "lat" : 39.6972151,
+                  "lng" : -94.89902910000001
+               }
+            }
+         },
+         "place_id" : "ChIJcSUuk04awIcRqHHTW3mWdeY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

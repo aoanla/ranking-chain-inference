@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Corvallis",
+               "short_name" : "Corvallis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benton County",
+               "short_name" : "Benton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Corvallis, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.606254,
+                  "lng" : -123.2308399
+               },
+               "southwest" : {
+                  "lat" : 44.5196909,
+                  "lng" : -123.3362331
+               }
+            },
+            "location" : {
+               "lat" : 44.5645659,
+               "lng" : -123.2620435
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.606254,
+                  "lng" : -123.2308399
+               },
+               "southwest" : {
+                  "lat" : 44.5196909,
+                  "lng" : -123.3362331
+               }
+            }
+         },
+         "place_id" : "ChIJfdcUqp1AwFQRvsC9Io-ADdc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

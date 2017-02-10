@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cumberland",
+               "short_name" : "Cumberland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allegany County",
+               "short_name" : "Allegany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cumberland, MD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.685536,
+                  "lng" : -78.710869
+               },
+               "southwest" : {
+                  "lat" : 39.619198,
+                  "lng" : -78.81237279999999
+               }
+            },
+            "location" : {
+               "lat" : 39.6528654,
+               "lng" : -78.7625185
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.685536,
+                  "lng" : -78.710869
+               },
+               "southwest" : {
+                  "lat" : 39.619198,
+                  "lng" : -78.81237279999999
+               }
+            }
+         },
+         "place_id" : "ChIJKQGUscSOyokR4hRwWJaM3Js",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

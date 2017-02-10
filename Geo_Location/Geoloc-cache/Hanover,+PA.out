@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanover",
+               "short_name" : "Hanover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York County",
+               "short_name" : "York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17331",
+               "short_name" : "17331",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanover, PA 17331, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.832415,
+                  "lng" : -76.9633379
+               },
+               "southwest" : {
+                  "lat" : 39.7910258,
+                  "lng" : -76.999944
+               }
+            },
+            "location" : {
+               "lat" : 39.8006553,
+               "lng" : -76.9830358
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.832415,
+                  "lng" : -76.9633379
+               },
+               "southwest" : {
+                  "lat" : 39.7910258,
+                  "lng" : -76.999944
+               }
+            }
+         },
+         "place_id" : "ChIJ39YEeSRayIkRW6rFcX0-Hzk",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanover",
+               "short_name" : "Hanover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hanover Township",
+               "short_name" : "Hanover Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Northampton County",
+               "short_name" : "Northampton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "18017",
+               "short_name" : "18017",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hanover, PA 18017, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 40.6617641,
+               "lng" : -75.41240359999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6631130802915,
+                  "lng" : -75.41105461970848
+               },
+               "southwest" : {
+                  "lat" : 40.6604151197085,
+                  "lng" : -75.4137525802915
+               }
+            }
+         },
+         "place_id" : "ChIJZf6jN10_xIkR0SPfRo7FMlg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

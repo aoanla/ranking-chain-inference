@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Liverpool",
+               "short_name" : "Liverpool",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Merseyside",
+               "short_name" : "Merseyside",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Liverpool, Merseyside, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.503907,
+                  "lng" : -2.8129382
+               },
+               "southwest" : {
+                  "lat" : 53.335905,
+                  "lng" : -3.0087541
+               }
+            },
+            "location" : {
+               "lat" : 53.4083714,
+               "lng" : -2.9915726
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.503907,
+                  "lng" : -2.8129382
+               },
+               "southwest" : {
+                  "lat" : 53.335905,
+                  "lng" : -3.0087541
+               }
+            }
+         },
+         "place_id" : "ChIJt2BwZIrfekgRAW4XP28E3EI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stuttgart",
+               "short_name" : "Stuttgart",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stuttgart",
+               "short_name" : "Süd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stuttgart, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.86639940000001,
+                  "lng" : 9.3158251
+               },
+               "southwest" : {
+                  "lat" : 48.6920187,
+                  "lng" : 9.0386053
+               }
+            },
+            "location" : {
+               "lat" : 48.7758459,
+               "lng" : 9.1829321
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.86639940000001,
+                  "lng" : 9.3158251
+               },
+               "southwest" : {
+                  "lat" : 48.6920187,
+                  "lng" : 9.0386053
+               }
+            }
+         },
+         "place_id" : "ChIJ04-twTTbmUcR5M-RdxzB1Xk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

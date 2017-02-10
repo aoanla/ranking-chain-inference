@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reykjavík",
+               "short_name" : "RVK",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Capital Region",
+               "short_name" : "Capital Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Iceland",
+               "short_name" : "IS",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reykjavík, Iceland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.17507019999999,
+                  "lng" : -21.7183826
+               },
+               "southwest" : {
+                  "lat" : 64.0898138,
+                  "lng" : -21.9865021
+               }
+            },
+            "location" : {
+               "lat" : 64.12652059999999,
+               "lng" : -21.8174393
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.17507019999999,
+                  "lng" : -21.7183826
+               },
+               "southwest" : {
+                  "lat" : 64.0898138,
+                  "lng" : -21.9865021
+               }
+            }
+         },
+         "place_id" : "ChIJw-3c7rl01kgRcWDSMKIskew",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bryson City",
+               "short_name" : "Bryson City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Charleston",
+               "short_name" : "Charleston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Swain County",
+               "short_name" : "Swain County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28713",
+               "short_name" : "28713",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bryson City, NC 28713, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.4404239,
+                  "lng" : -83.421171
+               },
+               "southwest" : {
+                  "lat" : 35.4110879,
+                  "lng" : -83.4686679
+               }
+            },
+            "location" : {
+               "lat" : 35.4309291,
+               "lng" : -83.4473809
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.4404239,
+                  "lng" : -83.421171
+               },
+               "southwest" : {
+                  "lat" : 35.4110879,
+                  "lng" : -83.4686679
+               }
+            }
+         },
+         "place_id" : "ChIJVSryz11IWYgRhXebKK3DiYQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

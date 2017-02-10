@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Geneva",
+               "short_name" : "Geneva",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ontario County",
+               "short_name" : "Ontario County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14456",
+               "short_name" : "14456",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Geneva, NY 14456, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.89046,
+                  "lng" : -76.963307
+               },
+               "southwest" : {
+                  "lat" : 42.8378389,
+                  "lng" : -77.0112639
+               }
+            },
+            "location" : {
+               "lat" : 42.8679836,
+               "lng" : -76.985557
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.89046,
+                  "lng" : -76.963307
+               },
+               "southwest" : {
+                  "lat" : 42.8378389,
+                  "lng" : -77.0112639
+               }
+            }
+         },
+         "place_id" : "ChIJURyjMLnE0IkRfU_wjTzRXhk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

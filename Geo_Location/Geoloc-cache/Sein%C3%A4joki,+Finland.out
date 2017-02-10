@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Seinäjoki",
+               "short_name" : "Seinäjoki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seinäjoki",
+               "short_name" : "Seinäjoki",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Seinäjoki",
+               "short_name" : "Seinäjoki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Southern Ostrobothnia",
+               "short_name" : "Southern Ostrobothnia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "60100",
+               "short_name" : "60100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "60100 Seinäjoki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 62.794543,
+               "lng" : 22.8278264
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.7996438,
+                  "lng" : 22.8438338
+               },
+               "southwest" : {
+                  "lat" : 62.7894413,
+                  "lng" : 22.811819
+               }
+            }
+         },
+         "place_id" : "ChIJFze2f_guhkYRUL91PNZGAQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lawton",
+               "short_name" : "Lawton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Comanche County",
+               "short_name" : "Comanche County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lawton, OK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.6943509,
+                  "lng" : -98.314426
+               },
+               "southwest" : {
+                  "lat" : 34.51117,
+                  "lng" : -98.5364139
+               }
+            },
+            "location" : {
+               "lat" : 34.6035669,
+               "lng" : -98.39592909999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.6943509,
+                  "lng" : -98.314426
+               },
+               "southwest" : {
+                  "lat" : 34.51117,
+                  "lng" : -98.5364139
+               }
+            }
+         },
+         "place_id" : "ChIJRQ0hWeIerYcRUk5y8sb6LGE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

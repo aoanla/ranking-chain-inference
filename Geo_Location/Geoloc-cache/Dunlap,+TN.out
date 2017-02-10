@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunlap",
+               "short_name" : "Dunlap",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sequatchie County",
+               "short_name" : "Sequatchie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37327",
+               "short_name" : "37327",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dunlap, TN 37327, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.413953,
+                  "lng" : -85.3611289
+               },
+               "southwest" : {
+                  "lat" : 35.3316091,
+                  "lng" : -85.415859
+               }
+            },
+            "location" : {
+               "lat" : 35.3714575,
+               "lng" : -85.3905209
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.413953,
+                  "lng" : -85.3611289
+               },
+               "southwest" : {
+                  "lat" : 35.3316091,
+                  "lng" : -85.415859
+               }
+            }
+         },
+         "place_id" : "ChIJEQVtitzuYIgRKYqmNSbJ3Xc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morganton",
+               "short_name" : "Morganton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morganton",
+               "short_name" : "Morganton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Burke County",
+               "short_name" : "Burke County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "28655",
+               "short_name" : "28655",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Morganton, NC 28655, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.783836,
+                  "lng" : -81.645549
+               },
+               "southwest" : {
+                  "lat" : 35.695958,
+                  "lng" : -81.80050589999999
+               }
+            },
+            "location" : {
+               "lat" : 35.7454071,
+               "lng" : -81.6848188
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.783836,
+                  "lng" : -81.645549
+               },
+               "southwest" : {
+                  "lat" : 35.695958,
+                  "lng" : -81.80050589999999
+               }
+            }
+         },
+         "place_id" : "ChIJvcRSeifOUIgRg4YB5KITZ90",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

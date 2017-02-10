@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kapiti Coast District",
+               "short_name" : "Kapiti Coast District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wellington",
+               "short_name" : "Wellington",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kapiti Coast District, Wellington, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -40.4655807,
+                  "lng" : 175.6891316
+               },
+               "southwest" : {
+                  "lat" : -41.1147877,
+                  "lng" : 174.8684254
+               }
+            },
+            "location" : {
+               "lat" : -40.8233475,
+               "lng" : 175.3136218
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -40.4655807,
+                  "lng" : 175.6891316
+               },
+               "southwest" : {
+                  "lat" : -41.1147877,
+                  "lng" : 174.8684254
+               }
+            }
+         },
+         "place_id" : "ChIJN8q_BraUQG0RAKyiQ2HvAAQ",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

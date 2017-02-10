@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abilene",
+               "short_name" : "Abilene",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dickinson County",
+               "short_name" : "Dickinson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "67410",
+               "short_name" : "67410",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Abilene, KS 67410, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9480571,
+                  "lng" : -97.1996169
+               },
+               "southwest" : {
+                  "lat" : 38.8960089,
+                  "lng" : -97.2635059
+               }
+            },
+            "location" : {
+               "lat" : 38.9172216,
+               "lng" : -97.21390940000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9480571,
+                  "lng" : -97.1996169
+               },
+               "southwest" : {
+                  "lat" : 38.8960089,
+                  "lng" : -97.2635059
+               }
+            }
+         },
+         "place_id" : "ChIJAfv223rwvIcR4U1fC62JsWs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

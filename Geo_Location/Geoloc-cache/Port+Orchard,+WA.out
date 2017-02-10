@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Port Orchard",
+               "short_name" : "Port Orchard",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kitsap County",
+               "short_name" : "Kitsap County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Port Orchard, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5485317,
+                  "lng" : -122.6020129
+               },
+               "southwest" : {
+                  "lat" : 47.495458,
+                  "lng" : -122.6887981
+               }
+            },
+            "location" : {
+               "lat" : 47.5403732,
+               "lng" : -122.6362492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5485317,
+                  "lng" : -122.6020129
+               },
+               "southwest" : {
+                  "lat" : 47.495458,
+                  "lng" : -122.6748949
+               }
+            }
+         },
+         "place_id" : "ChIJAf0-gSs2kFQRzEmmusVGO3s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

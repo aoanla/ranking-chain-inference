@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sherbrooke",
+               "short_name" : "Sherbrooke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Région-Sherbrookoise",
+               "short_name" : "La Région-Sherbrookoise",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Québec",
+               "short_name" : "QC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sherbrooke, QC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.533256,
+                  "lng" : -71.802458
+               },
+               "southwest" : {
+                  "lat" : 45.300932,
+                  "lng" : -72.1458049
+               }
+            },
+            "location" : {
+               "lat" : 45.4009928,
+               "lng" : -71.8824288
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.533256,
+                  "lng" : -71.802458
+               },
+               "southwest" : {
+                  "lat" : 45.300932,
+                  "lng" : -72.1458049
+               }
+            }
+         },
+         "place_id" : "ChIJ_8s11wyzt0wRZwdc0iGNGvE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

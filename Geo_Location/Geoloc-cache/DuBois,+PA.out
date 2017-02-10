@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DuBois",
+               "short_name" : "DuBois",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clearfield County",
+               "short_name" : "Clearfield County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15801",
+               "short_name" : "15801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "DuBois, PA 15801, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.13731,
+                  "lng" : -78.7292619
+               },
+               "southwest" : {
+                  "lat" : 41.1021548,
+                  "lng" : -78.78536609999999
+               }
+            },
+            "location" : {
+               "lat" : 41.1210115,
+               "lng" : -78.7583257
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.13731,
+                  "lng" : -78.7292619
+               },
+               "southwest" : {
+                  "lat" : 41.1021548,
+                  "lng" : -78.78536609999999
+               }
+            }
+         },
+         "place_id" : "ChIJh5XiW_DzzIkRT0zfZC9DdBQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

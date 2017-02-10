@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Calafell",
+               "short_name" : "Calafell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Baix Penedès",
+               "short_name" : "El Baix Penedès",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Tarragona",
+               "short_name" : "T",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Catalunya",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Calafell, Tarragona, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.2068955,
+                  "lng" : 1.5807655
+               },
+               "southwest" : {
+                  "lat" : 41.18428040000001,
+                  "lng" : 1.5492663
+               }
+            },
+            "location" : {
+               "lat" : 41.1938386,
+               "lng" : 1.5664556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.2068955,
+                  "lng" : 1.5807655
+               },
+               "southwest" : {
+                  "lat" : 41.18428040000001,
+                  "lng" : 1.5492663
+               }
+            }
+         },
+         "place_id" : "ChIJ--ho-Y-LoxIRMcmklYeN1eU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

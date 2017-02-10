@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prince George",
+               "short_name" : "Prince George",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fraser-Fort George",
+               "short_name" : "Fraser-Fort George",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prince George, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.0408749,
+                  "lng" : -122.6040601
+               },
+               "southwest" : {
+                  "lat" : 53.812922,
+                  "lng" : -122.900777
+               }
+            },
+            "location" : {
+               "lat" : 53.9170641,
+               "lng" : -122.7496693
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.0408749,
+                  "lng" : -122.6040601
+               },
+               "southwest" : {
+                  "lat" : 53.812922,
+                  "lng" : -122.900777
+               }
+            }
+         },
+         "place_id" : "ChIJ6Q9Z7_eYiFMRUDB7KhU1AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

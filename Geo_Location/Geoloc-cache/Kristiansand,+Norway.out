@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kristiansand",
+               "short_name" : "Kristiansand",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kristiansand",
+               "short_name" : "Kristiansand",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vest-Agder",
+               "short_name" : "Vest-Agder",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kristiansand, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.2066083,
+                  "lng" : 8.1064863
+               },
+               "southwest" : {
+                  "lat" : 58.0993469,
+                  "lng" : 7.911937299999999
+               }
+            },
+            "location" : {
+               "lat" : 58.15991189999999,
+               "lng" : 8.0182064
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.2066083,
+                  "lng" : 8.1064863
+               },
+               "southwest" : {
+                  "lat" : 58.0993469,
+                  "lng" : 7.911937299999999
+               }
+            }
+         },
+         "place_id" : "ChIJW3pg1VgCOEYRpFgcyG8NDN8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

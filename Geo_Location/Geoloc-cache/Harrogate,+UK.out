@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harrogate",
+               "short_name" : "Harrogate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Borough of Harrogate",
+               "short_name" : "Borough of Harrogate",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "North Yorkshire",
+               "short_name" : "North Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harrogate, North Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.02287130000001,
+                  "lng" : -1.4763866
+               },
+               "southwest" : {
+                  "lat" : 53.9651617,
+                  "lng" : -1.5814429
+               }
+            },
+            "location" : {
+               "lat" : 53.99212,
+               "lng" : -1.541812
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.02287130000001,
+                  "lng" : -1.4763866
+               },
+               "southwest" : {
+                  "lat" : 53.9651617,
+                  "lng" : -1.5814429
+               }
+            }
+         },
+         "place_id" : "ChIJAb11cSNOeUgR_6TeqvuEwAM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bundaberg",
+               "short_name" : "Bundaberg",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4670",
+               "short_name" : "4670",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bundaberg QLD 4670, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -24.7295757,
+                  "lng" : 152.4685043
+               },
+               "southwest" : {
+                  "lat" : -24.9950643,
+                  "lng" : 152.1938779
+               }
+            },
+            "location" : {
+               "lat" : -24.8653911,
+               "lng" : 152.3487394
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -24.7295757,
+                  "lng" : 152.4685043
+               },
+               "southwest" : {
+                  "lat" : -24.9950643,
+                  "lng" : 152.1938779
+               }
+            }
+         },
+         "place_id" : "ChIJo9lkBj-562sRwNcgf_HuAAQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bundaberg",
+               "short_name" : "Bundaberg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4670",
+               "short_name" : "4670",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bundaberg QLD 4670, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -24.8612798,
+                  "lng" : 152.359466
+               },
+               "southwest" : {
+                  "lat" : -24.8739852,
+                  "lng" : 152.3439078
+               }
+            },
+            "location" : {
+               "lat" : -24.8649629,
+               "lng" : 152.348653
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -24.8612798,
+                  "lng" : 152.359466
+               },
+               "southwest" : {
+                  "lat" : -24.8739852,
+                  "lng" : 152.3439078
+               }
+            }
+         },
+         "place_id" : "ChIJU1lsDkq562sRwAshf_HuAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

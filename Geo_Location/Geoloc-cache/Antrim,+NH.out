@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Antrim",
+               "short_name" : "Antrim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hillsborough County",
+               "short_name" : "Hillsborough County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Antrim, NH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.104689,
+                  "lng" : -71.908564
+               },
+               "southwest" : {
+                  "lat" : 43.00511789999999,
+                  "lng" : -72.0589128
+               }
+            },
+            "location" : {
+               "lat" : 43.0308557,
+               "lng" : -71.9389194
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.104689,
+                  "lng" : -71.908564
+               },
+               "southwest" : {
+                  "lat" : 43.00511789999999,
+                  "lng" : -72.0589128
+               }
+            }
+         },
+         "place_id" : "ChIJP_WLJxaH4YkRvq5XCrDzSHM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

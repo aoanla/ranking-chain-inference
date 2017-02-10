@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterford",
+               "short_name" : "Waterford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterford City",
+               "short_name" : "Waterford City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Waterford",
+               "short_name" : "Waterford",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waterford, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.27019989999999,
+                  "lng" : -7.0548699
+               },
+               "southwest" : {
+                  "lat" : 52.22481,
+                  "lng" : -7.171189999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.2593197,
+               "lng" : -7.110070299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.27019989999999,
+                  "lng" : -7.0548699
+               },
+               "southwest" : {
+                  "lat" : 52.22481,
+                  "lng" : -7.171189999999999
+               }
+            }
+         },
+         "place_id" : "ChIJTeTZY5zGQkgR-7lni4iBu8U",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterford Airport",
+               "short_name" : "Waterford Airport",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Killowen",
+               "short_name" : "Killowen",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Waterford",
+               "short_name" : "Waterford",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Waterford",
+               "short_name" : "Waterford",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waterford Airport (WAT), Killowen, Co. Waterford, Ireland",
+         "geometry" : {
+            "location" : {
+               "lat" : 52.18672300000001,
+               "lng" : -7.086347
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.18807198029151,
+                  "lng" : -7.084998019708498
+               },
+               "southwest" : {
+                  "lat" : 52.18537401970851,
+                  "lng" : -7.087695980291502
+               }
+            }
+         },
+         "place_id" : "ChIJmQlaSpzBQkgRXTfFICwndNw",
+         "types" : [ "airport", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

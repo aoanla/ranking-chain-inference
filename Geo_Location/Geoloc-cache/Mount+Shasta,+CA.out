@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mount Shasta",
+               "short_name" : "Mt Shasta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Siskiyou County",
+               "short_name" : "Siskiyou County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96067",
+               "short_name" : "96067",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mt Shasta, CA 96067, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3489719,
+                  "lng" : -122.2871191
+               },
+               "southwest" : {
+                  "lat" : 41.2886839,
+                  "lng" : -122.3478021
+               }
+            },
+            "location" : {
+               "lat" : 41.3098746,
+               "lng" : -122.3105666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3489719,
+                  "lng" : -122.2871191
+               },
+               "southwest" : {
+                  "lat" : 41.2886839,
+                  "lng" : -122.3478021
+               }
+            }
+         },
+         "place_id" : "ChIJQQgCJdPgzVQRB4ZLyAEtao4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

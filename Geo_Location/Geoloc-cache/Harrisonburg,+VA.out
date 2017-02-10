@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harrisonburg",
+               "short_name" : "Harrisonburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harrisonburg, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.489258,
+                  "lng" : -78.82425289999999
+               },
+               "southwest" : {
+                  "lat" : 38.389363,
+                  "lng" : -78.91811190000001
+               }
+            },
+            "location" : {
+               "lat" : 38.4495688,
+               "lng" : -78.8689155
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.489258,
+                  "lng" : -78.82425289999999
+               },
+               "southwest" : {
+                  "lat" : 38.389363,
+                  "lng" : -78.91811190000001
+               }
+            }
+         },
+         "place_id" : "ChIJVXEHP8OStIkRX3u92rllTgg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Creil",
+               "short_name" : "Creil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oise",
+               "short_name" : "Oise",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Picardy",
+               "short_name" : "Picardy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Creil, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.274503,
+                  "lng" : 2.515101
+               },
+               "southwest" : {
+                  "lat" : 49.236745,
+                  "lng" : 2.4532709
+               }
+            },
+            "location" : {
+               "lat" : 49.2576872,
+               "lng" : 2.4783913
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.274503,
+                  "lng" : 2.515101
+               },
+               "southwest" : {
+                  "lat" : 49.236745,
+                  "lng" : 2.4532709
+               }
+            }
+         },
+         "place_id" : "ChIJ0ekK8vhJ5kcREEVkgT7xCgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

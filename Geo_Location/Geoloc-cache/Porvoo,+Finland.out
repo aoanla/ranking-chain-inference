@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Porvoo",
+               "short_name" : "Porvoo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Porvoo",
+               "short_name" : "Porvoo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Uusimaa",
+               "short_name" : "Uusimaa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Porvoo, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.5511467,
+                  "lng" : 26.1274976
+               },
+               "southwest" : {
+                  "lat" : 60.0482894,
+                  "lng" : 25.3500369
+               }
+            },
+            "location" : {
+               "lat" : 60.3931919,
+               "lng" : 25.6652739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.5511467,
+                  "lng" : 26.127492
+               },
+               "southwest" : {
+                  "lat" : 60.0482894,
+                  "lng" : 25.3500369
+               }
+            }
+         },
+         "place_id" : "ChIJXZFklC70kUYR57eAlK-GEu0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

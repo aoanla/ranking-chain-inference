@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Littleton",
+               "short_name" : "Littleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Arapahoe County",
+               "short_name" : "Arapahoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Littleton, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.629955,
+                  "lng" : -104.972789
+               },
+               "southwest" : {
+                  "lat" : 39.5353591,
+                  "lng" : -105.111985
+               }
+            },
+            "location" : {
+               "lat" : 39.613321,
+               "lng" : -105.0166498
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.629955,
+                  "lng" : -104.972789
+               },
+               "southwest" : {
+                  "lat" : 39.561924,
+                  "lng" : -105.061999
+               }
+            }
+         },
+         "place_id" : "ChIJKzvi-z98a4cRwDzWrumXBQc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

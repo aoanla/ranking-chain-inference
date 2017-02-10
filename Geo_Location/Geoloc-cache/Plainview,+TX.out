@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Plainview",
+               "short_name" : "Plainview",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hale County",
+               "short_name" : "Hale County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "79072",
+               "short_name" : "79072",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Plainview, TX 79072, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.232436,
+                  "lng" : -101.661122
+               },
+               "southwest" : {
+                  "lat" : 34.15607,
+                  "lng" : -101.760264
+               }
+            },
+            "location" : {
+               "lat" : 34.1847936,
+               "lng" : -101.7068417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.232436,
+                  "lng" : -101.661122
+               },
+               "southwest" : {
+                  "lat" : 34.15607,
+                  "lng" : -101.760264
+               }
+            }
+         },
+         "place_id" : "ChIJI89JfxzmAYcRDwKe3-LbijU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Plainview",
+               "short_name" : "Plainview",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jones County",
+               "short_name" : "Jones County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "79553",
+               "short_name" : "79553",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Plainview, TX 79553, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 32.8653884,
+               "lng" : -99.95370869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8667373802915,
+                  "lng" : -99.95235971970848
+               },
+               "southwest" : {
+                  "lat" : 32.8640394197085,
+                  "lng" : -99.9550576802915
+               }
+            }
+         },
+         "place_id" : "ChIJ25zP64bNVYYR52wOvRVvOw4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

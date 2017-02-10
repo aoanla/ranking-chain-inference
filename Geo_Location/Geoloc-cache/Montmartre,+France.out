@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montmartre",
+               "short_name" : "Montmartre",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "18th arrondissement",
+               "short_name" : "18th arrondissement",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Paris",
+               "short_name" : "Paris",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75018",
+               "short_name" : "75018",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Montmartre, 75018 Paris, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.8899191,
+                  "lng" : 2.3481131
+               },
+               "southwest" : {
+                  "lat" : 48.8824973,
+                  "lng" : 2.3276854
+               }
+            },
+            "location" : {
+               "lat" : 48.8867148,
+               "lng" : 2.3388895
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.8899191,
+                  "lng" : 2.3481131
+               },
+               "southwest" : {
+                  "lat" : 48.8824973,
+                  "lng" : 2.3276854
+               }
+            }
+         },
+         "place_id" : "ChIJ1fXA1ERu5kcRcIbgA4VK1H0",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

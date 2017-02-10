@@ -1,0 +1,162 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wangaratta",
+               "short_name" : "Wangaratta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3677",
+               "short_name" : "3677",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wangaratta VIC 3677, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.3243239,
+                  "lng" : 146.3710429
+               },
+               "southwest" : {
+                  "lat" : -36.4064307,
+                  "lng" : 146.266021
+               }
+            },
+            "location" : {
+               "lat" : -36.3543294,
+               "lng" : 146.3256568
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.3243239,
+                  "lng" : 146.3710429
+               },
+               "southwest" : {
+                  "lat" : -36.4064307,
+                  "lng" : 146.266021
+               }
+            }
+         },
+         "place_id" : "ChIJA94s8pfbJmsRUNOgMKR5BQU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wangaratta",
+               "short_name" : "Wangaratta",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wangaratta VIC, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.2890676,
+                  "lng" : 146.417643
+               },
+               "southwest" : {
+                  "lat" : -36.5094831,
+                  "lng" : 146.2045463
+               }
+            },
+            "location" : {
+               "lat" : -36.3852798,
+               "lng" : 146.2705802
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.2890676,
+                  "lng" : 146.417643
+               },
+               "southwest" : {
+                  "lat" : -36.5094831,
+                  "lng" : 146.2045463
+               }
+            }
+         },
+         "place_id" : "ChIJ79p8FT7cJmsRcFigMKR5BQQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warracknabeal",
+               "short_name" : "Warracknabeal",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3393",
+               "short_name" : "3393",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Warracknabeal VIC 3393, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.1529561,
+                  "lng" : 142.5314331
+               },
+               "southwest" : {
+                  "lat" : -36.3102792,
+                  "lng" : 142.310388
+               }
+            },
+            "location" : {
+               "lat" : -36.25324680000001,
+               "lng" : 142.3944798
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.1529561,
+                  "lng" : 142.5314331
+               },
+               "southwest" : {
+                  "lat" : -36.3102792,
+                  "lng" : 142.310388
+               }
+            }
+         },
+         "place_id" : "ChIJi13SA__rz2oR8LWgMKR5BQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

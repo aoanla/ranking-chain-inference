@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brunswick",
+               "short_name" : "Brunswick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Medina County",
+               "short_name" : "Medina County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brunswick, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.2764499,
+                  "lng" : -81.78492799999999
+               },
+               "southwest" : {
+                  "lat" : 41.216194,
+                  "lng" : -81.8606729
+               }
+            },
+            "location" : {
+               "lat" : 41.2381096,
+               "lng" : -81.8418006
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.2764499,
+                  "lng" : -81.78492799999999
+               },
+               "southwest" : {
+                  "lat" : 41.216194,
+                  "lng" : -81.8606729
+               }
+            }
+         },
+         "place_id" : "ChIJk_CH8cfAMIgRZirx4y0FyrE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

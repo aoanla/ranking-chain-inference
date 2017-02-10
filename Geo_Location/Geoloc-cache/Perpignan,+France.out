@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Perpignan",
+               "short_name" : "Perpignan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pyrénées-Orientales",
+               "short_name" : "Pyrénées-Orientales",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Languedoc-Roussillon",
+               "short_name" : "Languedoc-Roussillon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Perpignan, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.74884600000001,
+                  "lng" : 2.982721
+               },
+               "southwest" : {
+                  "lat" : 42.6492561,
+                  "lng" : 2.8262821
+               }
+            },
+            "location" : {
+               "lat" : 42.6886591,
+               "lng" : 2.8948332
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.74884600000001,
+                  "lng" : 2.982721
+               },
+               "southwest" : {
+                  "lat" : 42.6492561,
+                  "lng" : 2.8262821
+               }
+            }
+         },
+         "place_id" : "ChIJ_Yj9gE5usBIRT93yIGUwgxw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

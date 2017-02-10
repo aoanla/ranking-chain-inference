@@ -1,0 +1,44 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -17.4983293,
+                  "lng" : -66.4169643
+               },
+               "southwest" : {
+                  "lat" : -55.9805353,
+                  "lng" : -109.4548805
+               }
+            },
+            "location" : {
+               "lat" : -35.675147,
+               "lng" : -71.542969
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -17.4983293,
+                  "lng" : -66.4169643
+               },
+               "southwest" : {
+                  "lat" : -55.9805353,
+                  "lng" : -75.69619720000001
+               }
+            }
+         },
+         "place_id" : "ChIJL68lBEHFYpYRHbkCERPhBQU",
+         "types" : [ "country", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

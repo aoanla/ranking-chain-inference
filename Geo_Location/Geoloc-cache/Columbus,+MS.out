@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbus",
+               "short_name" : "Columbus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lowndes County",
+               "short_name" : "Lowndes County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Columbus, MS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5578169,
+                  "lng" : -88.363079
+               },
+               "southwest" : {
+                  "lat" : 33.4563899,
+                  "lng" : -88.4893436
+               }
+            },
+            "location" : {
+               "lat" : 33.4956744,
+               "lng" : -88.4272627
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5578169,
+                  "lng" : -88.363079
+               },
+               "southwest" : {
+                  "lat" : 33.4563899,
+                  "lng" : -88.4893436
+               }
+            }
+         },
+         "place_id" : "ChIJ0YN-TtvrhogRSUwqnWInmWo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

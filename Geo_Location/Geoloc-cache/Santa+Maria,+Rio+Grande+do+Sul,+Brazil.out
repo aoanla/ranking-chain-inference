@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Maria",
+               "short_name" : "Santa Maria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Maria",
+               "short_name" : "Santa Maria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Maria, Santa Maria - RS, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.6538231,
+                  "lng" : -53.51371779999999
+               },
+               "southwest" : {
+                  "lat" : -29.7867645,
+                  "lng" : -53.8951702
+               }
+            },
+            "location" : {
+               "lat" : -29.6873064,
+               "lng" : -53.81547690000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.6538231,
+                  "lng" : -53.51371779999999
+               },
+               "southwest" : {
+                  "lat" : -29.7867645,
+                  "lng" : -53.8951702
+               }
+            }
+         },
+         "place_id" : "ChIJM5WLSkPKA5UR2aTX5JbMXWM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

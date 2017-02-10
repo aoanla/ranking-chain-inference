@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yakima",
+               "short_name" : "Yakima",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yakima County",
+               "short_name" : "Yakima County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yakima, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6308409,
+                  "lng" : -120.460401
+               },
+               "southwest" : {
+                  "lat" : 46.55728089999999,
+                  "lng" : -120.6357791
+               }
+            },
+            "location" : {
+               "lat" : 46.6020711,
+               "lng" : -120.5058987
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6308409,
+                  "lng" : -120.460401
+               },
+               "southwest" : {
+                  "lat" : 46.55728089999999,
+                  "lng" : -120.6357791
+               }
+            }
+         },
+         "place_id" : "ChIJ_0QW0F1il1QRS3uecQ6GOxo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

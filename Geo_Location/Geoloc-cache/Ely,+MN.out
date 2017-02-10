@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ely",
+               "short_name" : "Ely",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Louis County",
+               "short_name" : "St Louis County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "55731",
+               "short_name" : "55731",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ely, MN 55731, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.91895299999999,
+                  "lng" : -91.83008
+               },
+               "southwest" : {
+                  "lat" : 47.8902499,
+                  "lng" : -91.8807867
+               }
+            },
+            "location" : {
+               "lat" : 47.9032372,
+               "lng" : -91.86708729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.91895299999999,
+                  "lng" : -91.83008
+               },
+               "southwest" : {
+                  "lat" : 47.8902499,
+                  "lng" : -91.8807867
+               }
+            }
+         },
+         "place_id" : "ChIJ2fq-EQewpVIRfoEiNT3Oa5U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

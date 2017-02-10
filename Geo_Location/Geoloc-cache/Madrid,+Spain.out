@@ -1,0 +1,208 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Área Metropolitalitana y Corredor del Henares",
+               "short_name" : "Área Metropolitalitana y Corredor del Henares",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Madrid",
+               "short_name" : "M",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Community of Madrid",
+               "short_name" : "Community of Madrid",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madrid, Madrid, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.5638447,
+                  "lng" : -3.5249115
+               },
+               "southwest" : {
+                  "lat" : 40.3120639,
+                  "lng" : -3.8341618
+               }
+            },
+            "location" : {
+               "lat" : 40.4167754,
+               "lng" : -3.7037902
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.5638447,
+                  "lng" : -3.5249115
+               },
+               "southwest" : {
+                  "lat" : 40.3120639,
+                  "lng" : -3.8341618
+               }
+            }
+         },
+         "place_id" : "ChIJgTwKgJcpQg0RaSKMYcHeNsQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madrid",
+               "short_name" : "Madrid",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trijueque",
+               "short_name" : "Trijueque",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "La Alcarria",
+               "short_name" : "La Alcarria",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Guadalajara",
+               "short_name" : "Guadalajara",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla-La Mancha",
+               "short_name" : "CM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19192",
+               "short_name" : "19192",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "19192 Madrid, Guadalajara, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7967415,
+                  "lng" : -2.9496916
+               },
+               "southwest" : {
+                  "lat" : 40.7859553,
+                  "lng" : -2.9629679
+               }
+            },
+            "location" : {
+               "lat" : 40.79143790000001,
+               "lng" : -2.9562873
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7967415,
+                  "lng" : -2.9496916
+               },
+               "southwest" : {
+                  "lat" : 40.7859553,
+                  "lng" : -2.9629679
+               }
+            }
+         },
+         "place_id" : "ChIJRYN0OMgPQw0R-dC_KCmEZO4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madrid de las Caderechas",
+               "short_name" : "Madrid de las Caderechas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rucandio",
+               "short_name" : "Rucandio",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "La Bureba",
+               "short_name" : "La Bureba",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Burgos",
+               "short_name" : "Burgos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Castilla y León",
+               "short_name" : "CL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "09593",
+               "short_name" : "09593",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "09593 Madrid de las Caderechas, Burgos, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.77213210000001,
+                  "lng" : -3.538175
+               },
+               "southwest" : {
+                  "lat" : 42.7694126,
+                  "lng" : -3.5414953
+               }
+            },
+            "location" : {
+               "lat" : 42.7705252,
+               "lng" : -3.5404748
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.77213210000001,
+                  "lng" : -3.538175
+               },
+               "southwest" : {
+                  "lat" : 42.7694126,
+                  "lng" : -3.5414953
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJAdKKGQBHTw0RV4YavoM1xUw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

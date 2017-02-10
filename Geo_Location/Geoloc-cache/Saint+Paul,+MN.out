@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Paul",
+               "short_name" : "St Paul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ramsey County",
+               "short_name" : "Ramsey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Paul, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.992016,
+                  "lng" : -93.00431979999999
+               },
+               "southwest" : {
+                  "lat" : 44.88739899999999,
+                  "lng" : -93.207787
+               }
+            },
+            "location" : {
+               "lat" : 44.9537029,
+               "lng" : -93.08995779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.992016,
+                  "lng" : -93.00431979999999
+               },
+               "southwest" : {
+                  "lat" : 44.88739899999999,
+                  "lng" : -93.207787
+               }
+            }
+         },
+         "place_id" : "ChIJnzfp5M7UslIRKS7aP9KRcsg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

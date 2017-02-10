@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abbotsford",
+               "short_name" : "Abbotsford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fraser Valley",
+               "short_name" : "Fraser Valley",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Abbotsford, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.1718,
+                  "lng" : -122.072512
+               },
+               "southwest" : {
+                  "lat" : 49.002291,
+                  "lng" : -122.462825
+               }
+            },
+            "location" : {
+               "lat" : 49.054587,
+               "lng" : -122.328026
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.1718,
+                  "lng" : -122.072512
+               },
+               "southwest" : {
+                  "lat" : 49.002291,
+                  "lng" : -122.462825
+               }
+            }
+         },
+         "place_id" : "ChIJg7dqcMY1hFQRYAV7KhU1AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Round Rock",
+               "short_name" : "Round Rock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Williamson County",
+               "short_name" : "Williamson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Round Rock, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.584496,
+                  "lng" : -97.590564
+               },
+               "southwest" : {
+                  "lat" : 30.4684358,
+                  "lng" : -97.75547299999999
+               }
+            },
+            "location" : {
+               "lat" : 30.5082551,
+               "lng" : -97.67889599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.584496,
+                  "lng" : -97.590564
+               },
+               "southwest" : {
+                  "lat" : 30.4684358,
+                  "lng" : -97.75547299999999
+               }
+            }
+         },
+         "place_id" : "ChIJ5yIt7aTRRIYREEvg7VlyIQc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,10 @@
+import sys
+import math
+i=float(sys.argv[1])
+j=float(sys.argv[2])
+
+rat=math.exp(10.32*(i-j))
+
+share=rat/(rat+1.0)
+
+print "Ratio: %f\tShare: %f" % (rat,share) 

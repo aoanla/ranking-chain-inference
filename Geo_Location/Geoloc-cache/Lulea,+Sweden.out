@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Luleå",
+               "short_name" : "Luleå",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Luleå",
+               "short_name" : "Luleå",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Norrbotten County",
+               "short_name" : "Norrbotten County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Luleå, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 65.629758,
+                  "lng" : 22.3051211
+               },
+               "southwest" : {
+                  "lat" : 65.5444445,
+                  "lng" : 22.057593
+               }
+            },
+            "location" : {
+               "lat" : 65.584819,
+               "lng" : 22.1567026
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.629758,
+                  "lng" : 22.3051211
+               },
+               "southwest" : {
+                  "lat" : 65.5444445,
+                  "lng" : 22.057593
+               }
+            }
+         },
+         "place_id" : "ChIJZ7jo0hRjf0YRIIaM3gZFAwQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Providence",
+               "short_name" : "Providence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Providence County",
+               "short_name" : "Providence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhode Island",
+               "short_name" : "RI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Providence, RI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.861571,
+                  "lng" : -71.3696939
+               },
+               "southwest" : {
+                  "lat" : 41.772414,
+                  "lng" : -71.472667
+               }
+            },
+            "location" : {
+               "lat" : 41.8239891,
+               "lng" : -71.4128343
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.861571,
+                  "lng" : -71.3696939
+               },
+               "southwest" : {
+                  "lat" : 41.772414,
+                  "lng" : -71.472667
+               }
+            }
+         },
+         "place_id" : "ChIJXXN-Q-BE5IkRJ7azSE1832k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

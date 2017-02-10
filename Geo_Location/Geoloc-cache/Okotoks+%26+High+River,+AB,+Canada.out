@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "High River",
+               "short_name" : "High River",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "High River, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5955749,
+                  "lng" : -113.827996
+               },
+               "southwest" : {
+                  "lat" : 50.5646311,
+                  "lng" : -113.905477
+               }
+            },
+            "location" : {
+               "lat" : 50.5801021,
+               "lng" : -113.8707312
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5955749,
+                  "lng" : -113.827996
+               },
+               "southwest" : {
+                  "lat" : 50.5646311,
+                  "lng" : -113.905477
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9UvMHxaVcVMRAA5RQ5CjAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

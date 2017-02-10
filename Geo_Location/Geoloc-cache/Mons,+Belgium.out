@@ -1,0 +1,211 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mons",
+               "short_name" : "Mons",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hainaut",
+               "short_name" : "HT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Walloon Region",
+               "short_name" : "Walloon Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mons, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.51379,
+                  "lng" : 4.08487
+               },
+               "southwest" : {
+                  "lat" : 50.3777601,
+                  "lng" : 3.8545399
+               }
+            },
+            "location" : {
+               "lat" : 50.4542408,
+               "lng" : 3.956659
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.51379,
+                  "lng" : 4.08487
+               },
+               "southwest" : {
+                  "lat" : 50.3777601,
+                  "lng" : 3.8545399
+               }
+            }
+         },
+         "place_id" : "ChIJ-4xXplhFwkcRkGxNL6uZAAQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mons",
+               "short_name" : "Mons",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Mons",
+               "short_name" : "Mons",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hainaut",
+               "short_name" : "HT",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Walloon Region",
+               "short_name" : "Walloon Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7000",
+               "short_name" : "7000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mons, 7000 Mons, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.4542165,
+               "lng" : 3.9566904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4555654802915,
+                  "lng" : 3.958039380291502
+               },
+               "southwest" : {
+                  "lat" : 50.45286751970851,
+                  "lng" : 3.955341419708498
+               }
+            }
+         },
+         "place_id" : "ChIJRULkpfpPwkcRi9B0hUS8fZ8",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bergen",
+               "short_name" : "Bergen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vlaams-Brabant",
+               "short_name" : "VB",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vlaanderen",
+               "short_name" : "Vlaanderen",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3450",
+               "short_name" : "3450",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "3450 Bergen, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.89331,
+               "lng" : 5.0889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8946589802915,
+                  "lng" : 5.090248980291502
+               },
+               "southwest" : {
+                  "lat" : 50.8919610197085,
+                  "lng" : 5.087551019708497
+               }
+            }
+         },
+         "place_id" : "ChIJ0dOrW44VwUcRbVm8FxaZ5gs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bergen",
+               "short_name" : "Bergen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Antwerpen",
+               "short_name" : "AN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vlaanderen",
+               "short_name" : "Vlaanderen",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2322",
+               "short_name" : "2322",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "2322 Bergen, Belgium",
+         "geometry" : {
+            "location" : {
+               "lat" : 51.44296,
+               "lng" : 4.77062
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4443089802915,
+                  "lng" : 4.771968980291502
+               },
+               "southwest" : {
+                  "lat" : 51.4416110197085,
+                  "lng" : 4.769271019708498
+               }
+            }
+         },
+         "place_id" : "ChIJjzNR6EimxkcR7AGG9p-41uE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

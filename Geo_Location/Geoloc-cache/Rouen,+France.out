@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rouen",
+               "short_name" : "Rouen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-Maritime",
+               "short_name" : "Seine-Maritime",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Upper Normandy",
+               "short_name" : "Upper Normandy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rouen, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.465241,
+                  "lng" : 1.152109
+               },
+               "southwest" : {
+                  "lat" : 49.4172921,
+                  "lng" : 1.0310008
+               }
+            },
+            "location" : {
+               "lat" : 49.44323199999999,
+               "lng" : 1.099971
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.465241,
+                  "lng" : 1.152109
+               },
+               "southwest" : {
+                  "lat" : 49.4172921,
+                  "lng" : 1.0310008
+               }
+            }
+         },
+         "place_id" : "ChIJq_pxynbe4EcR1pOfpO-rHD0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

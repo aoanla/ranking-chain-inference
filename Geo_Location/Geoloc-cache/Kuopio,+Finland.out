@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kuopio",
+               "short_name" : "Kuopio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kuopio, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.40109589999999,
+                  "lng" : 28.4576294
+               },
+               "southwest" : {
+                  "lat" : 62.59535959999999,
+                  "lng" : 26.8977337
+               }
+            },
+            "location" : {
+               "lat" : 62.89796999999999,
+               "lng" : 27.6781725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.40109589999999,
+                  "lng" : 28.4576294
+               },
+               "southwest" : {
+                  "lat" : 62.5953783,
+                  "lng" : 26.8977337
+               }
+            }
+         },
+         "place_id" : "ChIJ88T-r4qwhEYRwPbfnn33tuc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

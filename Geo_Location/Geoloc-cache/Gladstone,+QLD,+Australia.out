@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gladstone",
+               "short_name" : "Gladstone",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4680",
+               "short_name" : "4680",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gladstone QLD 4680, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.8330383,
+                  "lng" : 151.2647861
+               },
+               "southwest" : {
+                  "lat" : -23.8518016,
+                  "lng" : 151.2320986
+               }
+            },
+            "location" : {
+               "lat" : -23.8487083,
+               "lng" : 151.2597998
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.8330383,
+                  "lng" : 151.2647861
+               },
+               "southwest" : {
+                  "lat" : -23.8518016,
+                  "lng" : 151.2320986
+               }
+            }
+         },
+         "place_id" : "ChIJKXqhrYl0wmsRYA4hf_HuAAU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gladstone",
+               "short_name" : "Gladstone",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4680",
+               "short_name" : "4680",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gladstone QLD 4680, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.7525748,
+                  "lng" : 151.3944536
+               },
+               "southwest" : {
+                  "lat" : -23.9478901,
+                  "lng" : 151.1571365
+               }
+            },
+            "location" : {
+               "lat" : -23.8512076,
+               "lng" : 151.2636368
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.7525748,
+                  "lng" : 151.3944536
+               },
+               "southwest" : {
+                  "lat" : -23.9478901,
+                  "lng" : 151.1571365
+               }
+            }
+         },
+         "place_id" : "ChIJMRTeuKF1wmsR0Ncgf_HuAAQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

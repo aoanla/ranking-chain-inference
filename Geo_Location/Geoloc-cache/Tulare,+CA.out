@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tulare",
+               "short_name" : "Tulare",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tulare County",
+               "short_name" : "Tulare County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93274",
+               "short_name" : "93274",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tulare, CA 93274, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.2476798,
+                  "lng" : -119.2958041
+               },
+               "southwest" : {
+                  "lat" : 36.1234639,
+                  "lng" : -119.392845
+               }
+            },
+            "location" : {
+               "lat" : 36.2077288,
+               "lng" : -119.3473379
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.2476798,
+                  "lng" : -119.2958041
+               },
+               "southwest" : {
+                  "lat" : 36.1234639,
+                  "lng" : -119.392845
+               }
+            }
+         },
+         "place_id" : "ChIJt8TyvUIrlYART-SdytxFQdE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vila Velha",
+               "short_name" : "Vila Velha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vila Velha",
+               "short_name" : "Vila Velha",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Espírito Santo",
+               "short_name" : "ES",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vila Velha, Vila Velha - ES, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.3201202,
+                  "lng" : -40.2668183
+               },
+               "southwest" : {
+                  "lat" : -20.5363879,
+                  "lng" : -40.4838252
+               }
+            },
+            "location" : {
+               "lat" : -20.3477821,
+               "lng" : -40.2949528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.3201202,
+                  "lng" : -40.2668183
+               },
+               "southwest" : {
+                  "lat" : -20.5363879,
+                  "lng" : -40.4838252
+               }
+            }
+         },
+         "place_id" : "ChIJ8WtdmbIXuAARsQT5Tx6lmvY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

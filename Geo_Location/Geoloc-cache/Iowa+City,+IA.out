@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Iowa City",
+               "short_name" : "Iowa City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Johnson County",
+               "short_name" : "Johnson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Iowa City, IA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.695543,
+                  "lng" : -91.46304689999999
+               },
+               "southwest" : {
+                  "lat" : 41.5985629,
+                  "lng" : -91.61567989999999
+               }
+            },
+            "location" : {
+               "lat" : 41.6611277,
+               "lng" : -91.5301683
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.695543,
+                  "lng" : -91.46304689999999
+               },
+               "southwest" : {
+                  "lat" : 41.5985629,
+                  "lng" : -91.61567989999999
+               }
+            }
+         },
+         "place_id" : "ChIJF4ggasFB5IcRsIIFh2cYcW0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

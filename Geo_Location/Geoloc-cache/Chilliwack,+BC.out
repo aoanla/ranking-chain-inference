@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chilliwack",
+               "short_name" : "Chilliwack",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fraser Valley",
+               "short_name" : "Fraser Valley",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chilliwack, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.22886,
+                  "lng" : -121.7772151
+               },
+               "southwest" : {
+                  "lat" : 49.045613,
+                  "lng" : -122.122498
+               }
+            },
+            "location" : {
+               "lat" : 49.1579401,
+               "lng" : -121.9514666
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.22886,
+                  "lng" : -121.7772151
+               },
+               "southwest" : {
+                  "lat" : 49.045613,
+                  "lng" : -122.122498
+               }
+            }
+         },
+         "place_id" : "ChIJp_PpdZ0_hFQRMKL50m84SR0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

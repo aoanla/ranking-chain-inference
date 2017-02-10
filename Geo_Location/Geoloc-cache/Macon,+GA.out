@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Macon",
+               "short_name" : "Macon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bibb County",
+               "short_name" : "Bibb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Macon, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8997851,
+                  "lng" : -83.54859789999999
+               },
+               "southwest" : {
+                  "lat" : 32.765651,
+                  "lng" : -83.7397409
+               }
+            },
+            "location" : {
+               "lat" : 32.8406946,
+               "lng" : -83.6324022
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.899785,
+                  "lng" : -83.54859789999999
+               },
+               "southwest" : {
+                  "lat" : 32.765651,
+                  "lng" : -83.7397409
+               }
+            }
+         },
+         "place_id" : "ChIJDeOBiEv484gRoaS_8Tx9se4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

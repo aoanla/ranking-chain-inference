@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whanganui",
+               "short_name" : "Whanganui",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Whanganui",
+               "short_name" : "Whanganui",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wanganui District",
+               "short_name" : "Wanganui District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manawatu-Wanganui",
+               "short_name" : "Manawatu-Wanganui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4500",
+               "short_name" : "4500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whanganui, Whanganui 4500, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.9103208,
+                  "lng" : 175.0601468
+               },
+               "southwest" : {
+                  "lat" : -39.94151129999999,
+                  "lng" : 175.035922
+               }
+            },
+            "location" : {
+               "lat" : -39.9300887,
+               "lng" : 175.0478901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.9103208,
+                  "lng" : 175.0601468
+               },
+               "southwest" : {
+                  "lat" : -39.94151129999999,
+                  "lng" : 175.035922
+               }
+            }
+         },
+         "place_id" : "ChIJxRXzarcDQG0RABijQ2HvAAU",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whanganui",
+               "short_name" : "Whanganui",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wanganui District",
+               "short_name" : "Wanganui District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manawatu-Wanganui",
+               "short_name" : "Manawatu-Wanganui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Whanganui, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.8775097,
+                  "lng" : 175.0983813
+               },
+               "southwest" : {
+                  "lat" : -39.97440599999999,
+                  "lng" : 174.9603971
+               }
+            },
+            "location" : {
+               "lat" : -39.9300887,
+               "lng" : 175.0478901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.8775097,
+                  "lng" : 175.0983813
+               },
+               "southwest" : {
+                  "lat" : -39.97440599999999,
+                  "lng" : 174.9603971
+               }
+            }
+         },
+         "place_id" : "ChIJS2N2fnS4am0RMpmjQ2HvAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

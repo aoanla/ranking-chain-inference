@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Curitiba",
+               "short_name" : "Curitiba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Paraná",
+               "short_name" : "PR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Curitiba, Curitiba - State of Paraná, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            },
+            "location" : {
+               "lat" : -25.4289541,
+               "lng" : -49.267137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -25.346995,
+                  "lng" : -49.1897635
+               },
+               "southwest" : {
+                  "lat" : -25.6432382,
+                  "lng" : -49.38983289999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3bPNUVPj3JQRCejLuqVrL20",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

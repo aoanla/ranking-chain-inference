@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Myers",
+               "short_name" : "Fort Myers",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lee County",
+               "short_name" : "Lee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Myers, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.6801512,
+                  "lng" : -81.75081790000002
+               },
+               "southwest" : {
+                  "lat" : 26.5478199,
+                  "lng" : -81.91377799999999
+               }
+            },
+            "location" : {
+               "lat" : 26.640628,
+               "lng" : -81.87230839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.6801512,
+                  "lng" : -81.75081790000002
+               },
+               "southwest" : {
+                  "lat" : 26.5478199,
+                  "lng" : -81.91377799999999
+               }
+            }
+         },
+         "place_id" : "ChIJKVSoiQFC24gRiiW6ClMIKcY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

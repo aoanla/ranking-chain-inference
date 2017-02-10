@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Smith",
+               "short_name" : "Fort Smith",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sebastian County",
+               "short_name" : "Sebastian County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arkansas",
+               "short_name" : "AR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Smith, AR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.449995,
+                  "lng" : -94.25236409999999
+               },
+               "southwest" : {
+                  "lat" : 35.26350600000001,
+                  "lng" : -94.43558999999999
+               }
+            },
+            "location" : {
+               "lat" : 35.3859242,
+               "lng" : -94.39854749999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.449995,
+                  "lng" : -94.25236409999999
+               },
+               "southwest" : {
+                  "lat" : 35.26350600000001,
+                  "lng" : -94.43558999999999
+               }
+            }
+         },
+         "place_id" : "ChIJj3azjrpMyocRivorFdK3te8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

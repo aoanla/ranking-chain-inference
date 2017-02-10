@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Key West",
+               "short_name" : "Key West",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "33040",
+               "short_name" : "33040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Key West, FL 33040, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 24.5726451,
+                  "lng" : -81.747945
+               },
+               "southwest" : {
+                  "lat" : 24.5440965,
+                  "lng" : -81.8125788
+               }
+            },
+            "location" : {
+               "lat" : 24.5550593,
+               "lng" : -81.7799871
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 24.5726451,
+                  "lng" : -81.747945
+               },
+               "southwest" : {
+                  "lat" : 24.5440965,
+                  "lng" : -81.8125788
+               }
+            }
+         },
+         "place_id" : "ChIJdyOVrTSx0YgRXjtGdy_pzj8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

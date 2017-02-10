@@ -1,0 +1,226 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Washington Township",
+               "short_name" : "Washington Township",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucester County",
+               "short_name" : "Gloucester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Washington Township, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8049059,
+                  "lng" : -75.0152531
+               },
+               "southwest" : {
+                  "lat" : 39.7075988,
+                  "lng" : -75.129509
+               }
+            },
+            "location" : {
+               "lat" : 39.7561387,
+               "lng" : -75.07279559999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8049059,
+                  "lng" : -75.0152531
+               },
+               "southwest" : {
+                  "lat" : 39.7075988,
+                  "lng" : -75.129509
+               }
+            }
+         },
+         "place_id" : "ChIJjXZ3qVrRxokRmVC_UjSOT_U",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warren County",
+               "short_name" : "Warren County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "07882",
+               "short_name" : "07882",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Washington, NJ 07882, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.768524,
+                  "lng" : -74.96210599999999
+               },
+               "southwest" : {
+                  "lat" : 40.7446541,
+                  "lng" : -74.99938109999999
+               }
+            },
+            "location" : {
+               "lat" : 40.7584326,
+               "lng" : -74.9793378
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.768524,
+                  "lng" : -74.96210599999999
+               },
+               "southwest" : {
+                  "lat" : 40.7446541,
+                  "lng" : -74.99938109999999
+               }
+            }
+         },
+         "place_id" : "ChIJCTnnNlF_w4kRL5poBO8YOY8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Township of Washington",
+               "short_name" : "Township of Washington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bergen County",
+               "short_name" : "Bergen County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Township of Washington, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.0044751,
+                  "lng" : -74.0462491
+               },
+               "southwest" : {
+                  "lat" : 40.9670909,
+                  "lng" : -74.080117
+               }
+            },
+            "location" : {
+               "lat" : 40.9912886,
+               "lng" : -74.0597897
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.0044751,
+                  "lng" : -74.0462491
+               },
+               "southwest" : {
+                  "lat" : 40.9670909,
+                  "lng" : -74.080117
+               }
+            }
+         },
+         "place_id" : "ChIJWy4kCBflwokRj4nqWVMBCU8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Washington",
+               "short_name" : "Washington",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Burlington County",
+               "short_name" : "Burlington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Washington, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.7692399,
+                  "lng" : -74.4291229
+               },
+               "southwest" : {
+                  "lat" : 39.5559699,
+                  "lng" : -74.72421500000002
+               }
+            },
+            "location" : {
+               "lat" : 39.6991324,
+               "lng" : -74.5697617
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7692399,
+                  "lng" : -74.4291229
+               },
+               "southwest" : {
+                  "lat" : 39.5559699,
+                  "lng" : -74.72421500000002
+               }
+            }
+         },
+         "place_id" : "ChIJkbh1SdojwYkRTMIna635RVE",
+         "types" : [ "administrative_area_level_3", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

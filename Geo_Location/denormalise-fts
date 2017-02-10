@@ -1,0 +1,20 @@
+#!/bin/bash
+#diffmax=1583.2490575469328
+#ratiomax=10.200928998384029
+
+
+IFS=$'\n' 
+for i in `cat $1`
+do 
+	IFS='|' read -r -a arr <<< "$i"
+	if [ '' != "${arr[7]}" ] #if there's a parent id, then we take the shortname from it
+		then
+		#echo ${arr[7]}
+		tmp=`egrep "^${arr[7]}\|" $1`
+		arr[2]=`echo $tmp| cut -d'|' -f 3`
+		arr[5]=`echo $tmp| cut -d'|' -f 6`
+	fi
+	unset IFS
+	#print out the array, joined by | s, using printf's "repeat format as many times as needed for args" behaviour"
+	printf "%s|" "${arr[@]}" | cut -d "," -f 1-${#arr[@]} | tr -d $'\r' | sed 's/|$//'
+done

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Renfrew",
+               "short_name" : "Renfrew",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Renfrew County",
+               "short_name" : "Renfrew County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Renfrew, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.493716,
+                  "lng" : -76.6321009
+               },
+               "southwest" : {
+                  "lat" : 45.4517209,
+                  "lng" : -76.71540300000001
+               }
+            },
+            "location" : {
+               "lat" : 45.4749199,
+               "lng" : -76.6877186
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.493716,
+                  "lng" : -76.6321009
+               },
+               "southwest" : {
+                  "lat" : 45.4517209,
+                  "lng" : -76.71540300000001
+               }
+            }
+         },
+         "place_id" : "ChIJqx-h9ZDW00wRbBp9dx6znd8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

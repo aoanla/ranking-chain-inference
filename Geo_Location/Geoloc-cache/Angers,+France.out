@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Angers",
+               "short_name" : "Angers",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maine-et-Loire",
+               "short_name" : "Maine-et-Loire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Angers, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5263839,
+                  "lng" : -0.508143
+               },
+               "southwest" : {
+                  "lat" : 47.43739300000001,
+                  "lng" : -0.617726
+               }
+            },
+            "location" : {
+               "lat" : 47.478419,
+               "lng" : -0.5631659999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5263839,
+                  "lng" : -0.508143
+               },
+               "southwest" : {
+                  "lat" : 47.43739300000001,
+                  "lng" : -0.617726
+               }
+            }
+         },
+         "place_id" : "ChIJnY7lANp4CEgRMJwNHlI3DQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

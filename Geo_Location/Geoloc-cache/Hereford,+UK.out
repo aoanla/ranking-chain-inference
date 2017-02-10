@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hereford",
+               "short_name" : "Hereford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hereford",
+               "short_name" : "Hereford",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Hereford",
+               "short_name" : "Hereford",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Herefordshire",
+               "short_name" : "Herefordshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hereford, Hereford, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0771019,
+                  "lng" : -2.6725242
+               },
+               "southwest" : {
+                  "lat" : 52.0283901,
+                  "lng" : -2.7747453
+               }
+            },
+            "location" : {
+               "lat" : 52.05639799999999,
+               "lng" : -2.715974
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0771019,
+                  "lng" : -2.6725242
+               },
+               "southwest" : {
+                  "lat" : 52.0283901,
+                  "lng" : -2.7747453
+               }
+            }
+         },
+         "place_id" : "ChIJQVNuqiXUb0gRlmw8_UuanNU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

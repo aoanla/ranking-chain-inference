@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ibagué",
+               "short_name" : "Ibagué",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ibague",
+               "short_name" : "Ibague",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tolima",
+               "short_name" : "Tolima",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ibagué, Ibague, Tolima, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.467374,
+                  "lng" : -75.101591
+               },
+               "southwest" : {
+                  "lat" : 4.357205,
+                  "lng" : -75.27196409999999
+               }
+            },
+            "location" : {
+               "lat" : 4.444675999999999,
+               "lng" : -75.24243799999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.467374,
+                  "lng" : -75.101591
+               },
+               "southwest" : {
+                  "lat" : 4.357205,
+                  "lng" : -75.27196409999999
+               }
+            }
+         },
+         "place_id" : "ChIJX01fEZHEOI4RHkDSWTjkyuA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

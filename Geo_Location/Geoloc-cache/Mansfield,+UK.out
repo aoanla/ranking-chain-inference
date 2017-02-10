@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mansfield",
+               "short_name" : "Mansfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mansfield District",
+               "short_name" : "Mansfield District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Nottinghamshire",
+               "short_name" : "Nottinghamshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mansfield, Nottinghamshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.1652442,
+                  "lng" : -1.1375816
+               },
+               "southwest" : {
+                  "lat" : 53.1120038,
+                  "lng" : -1.2494289
+               }
+            },
+            "location" : {
+               "lat" : 53.147195,
+               "lng" : -1.198674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.1652442,
+                  "lng" : -1.1375816
+               },
+               "southwest" : {
+                  "lat" : 53.1120038,
+                  "lng" : -1.2494289
+               }
+            }
+         },
+         "place_id" : "ChIJF3uDAwGWeUgRKnyFAlnn2o0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

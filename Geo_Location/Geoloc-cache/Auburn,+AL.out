@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auburn",
+               "short_name" : "Auburn",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lee County",
+               "short_name" : "Lee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Auburn, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.730713,
+                  "lng" : -85.404466
+               },
+               "southwest" : {
+                  "lat" : 32.5250929,
+                  "lng" : -85.572597
+               }
+            },
+            "location" : {
+               "lat" : 32.6098566,
+               "lng" : -85.48078249999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.730713,
+                  "lng" : -85.404466
+               },
+               "southwest" : {
+                  "lat" : 32.5250929,
+                  "lng" : -85.572597
+               }
+            }
+         },
+         "place_id" : "ChIJg_ibsy_xjIgRWJPTNZKRJcs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

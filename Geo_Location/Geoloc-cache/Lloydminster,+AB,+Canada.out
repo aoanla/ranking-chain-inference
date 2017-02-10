@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lloydminster",
+               "short_name" : "Lloydminster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 10",
+               "short_name" : "Division No. 10",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lloydminster, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.322285,
+                  "lng" : -109.9548708
+               },
+               "southwest" : {
+                  "lat" : 53.2480249,
+                  "lng" : -110.091307
+               }
+            },
+            "location" : {
+               "lat" : 53.2779625,
+               "lng" : -110.0061451
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.322285,
+                  "lng" : -109.9548708
+               },
+               "southwest" : {
+                  "lat" : 53.2480249,
+                  "lng" : -110.091307
+               }
+            }
+         },
+         "place_id" : "ChIJw-2qDm6uCVMRNMbtbNqtKAY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

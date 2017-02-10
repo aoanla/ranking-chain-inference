@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pictou County",
+               "short_name" : "Pictou County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pictou County, NS, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.8292043,
+                  "lng" : -62.0914381
+               },
+               "southwest" : {
+                  "lat" : 45.2761,
+                  "lng" : -63.1534473
+               }
+            },
+            "location" : {
+               "lat" : 45.5776091,
+               "lng" : -62.65109419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.8292043,
+                  "lng" : -62.0914381
+               },
+               "southwest" : {
+                  "lat" : 45.2761,
+                  "lng" : -63.1534473
+               }
+            }
+         },
+         "place_id" : "ChIJjdUm5gRXXEsRJnAFCugR0S4",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

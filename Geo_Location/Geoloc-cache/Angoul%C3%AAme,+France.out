@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Angoulême",
+               "short_name" : "Angoulême",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Charente",
+               "short_name" : "Charente",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poitou-Charentes",
+               "short_name" : "PCh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Angoulême, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.67162889999999,
+                  "lng" : 0.190439
+               },
+               "southwest" : {
+                  "lat" : 45.620013,
+                  "lng" : 0.09963989999999999
+               }
+            },
+            "location" : {
+               "lat" : 45.648377,
+               "lng" : 0.1562369
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.67162889999999,
+                  "lng" : 0.190439
+               },
+               "southwest" : {
+                  "lat" : 45.620013,
+                  "lng" : 0.09963989999999999
+               }
+            }
+         },
+         "place_id" : "ChIJmcQrA4Ut_kcR8MDuYJLTBQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

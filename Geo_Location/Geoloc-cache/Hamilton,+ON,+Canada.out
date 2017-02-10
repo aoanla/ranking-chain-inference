@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton Division",
+               "short_name" : "Hamilton Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hamilton, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4710569,
+                  "lng" : -79.6221594
+               },
+               "southwest" : {
+                  "lat" : 43.0505639,
+                  "lng" : -80.24870709999999
+               }
+            },
+            "location" : {
+               "lat" : 43.25002080000001,
+               "lng" : -79.8660914
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4710569,
+                  "lng" : -79.6221594
+               },
+               "southwest" : {
+                  "lat" : 43.0505639,
+                  "lng" : -80.24870709999999
+               }
+            }
+         },
+         "place_id" : "ChIJj3feJ2yYLIgRIQ7f2Fbuais",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

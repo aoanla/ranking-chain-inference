@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orangeville",
+               "short_name" : "Orangeville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dufferin County",
+               "short_name" : "Dufferin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orangeville, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.9349519,
+                  "lng" : -80.06132579999999
+               },
+               "southwest" : {
+                  "lat" : 43.889315,
+                  "lng" : -80.14593189999999
+               }
+            },
+            "location" : {
+               "lat" : 43.9199788,
+               "lng" : -80.0943113
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.9349519,
+                  "lng" : -80.06132579999999
+               },
+               "southwest" : {
+                  "lat" : 43.889315,
+                  "lng" : -80.14593189999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-SO9kHKqK4gRHF7E8QP2MII",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sweetwater",
+               "short_name" : "Sweetwater",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nolan County",
+               "short_name" : "Nolan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "79556",
+               "short_name" : "79556",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sweetwater, TX 79556, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5010369,
+                  "lng" : -100.355625
+               },
+               "southwest" : {
+                  "lat" : 32.4323,
+                  "lng" : -100.4674129
+               }
+            },
+            "location" : {
+               "lat" : 32.4709519,
+               "lng" : -100.4059384
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5010369,
+                  "lng" : -100.355625
+               },
+               "southwest" : {
+                  "lat" : 32.4323,
+                  "lng" : -100.4674129
+               }
+            }
+         },
+         "place_id" : "ChIJDze_qtgPVoYRW7f3kp2O4dk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

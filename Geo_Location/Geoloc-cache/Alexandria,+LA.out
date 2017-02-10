@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alexandria",
+               "short_name" : "Alexandria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rapides Parish",
+               "short_name" : "Rapides Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Alexandria, LA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.359834,
+                  "lng" : -92.398535
+               },
+               "southwest" : {
+                  "lat" : 31.2318481,
+                  "lng" : -92.56615789999999
+               }
+            },
+            "location" : {
+               "lat" : 31.3112936,
+               "lng" : -92.4451371
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.359834,
+                  "lng" : -92.398535
+               },
+               "southwest" : {
+                  "lat" : 31.2318481,
+                  "lng" : -92.56615789999999
+               }
+            }
+         },
+         "place_id" : "ChIJ48z_6UlNJYYR__cT5Nld5sE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

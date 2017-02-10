@@ -1,0 +1,124 @@
+# Licensed by aoanla under https://creativecommons.org/licenses/by-nc-sa/4.0/
+import parse_fts_csv as pfc
+import time
+import numpy as np
+import networkx
+import matplotlib.pyplot as plt
+import scipy.optimize as optimize
+import sys
+#or use matplotlib's implementation: http://matplotlib.org/api/mlab_api.html#matplotlib.mlab.PCA
+#import princomp as pcpa
+#import sklearn.decomposition as deco
+###parameters
+##date limits
+
+print sys.argv[1]
+
+print sys.argv[3:]
+
+#sys.exit()
+
+datelim = time.mktime(time.strptime(sys.argv[1], "%d %b %y"))   #end of sample training secords
+datestart = datelim - 12*28*24*60*60 # 9 months = time for largest stable group to form / minimum number of total connected groups to be reached with this dataset
+#datestart = datelim - 4*28*24*60*60 # 6 months, testing smaller sample size effects
+
+datetest = datelim + 60*60*24*1 #1 month after datelim, end of testing records
+
+
+##source data
+teamfile = "flattrackstats_teams_2016-12-02.csv"
+#teamfile = "top40.csv"
+#boutfiles = ["flattrackstats_bouts_2016-11-01.csv", "fts-additional-1.cvs", "fts-additional-2.cvs", "fts-additional-3.cvs", "fts-additional-4.cvs", "fts-additional-5.cvs", "fts-additional-6.cvs","fts-additional-7.cvs","fts-additional-8.cvs","fts-additional-9.cvs","fts-additional-10.cvs"]
+boutfiles = ["flattrackstats_bouts_2016-12-02.csv",]
+
+###sequencing
+##initialisation
+teams_in = pfc.import_teams(teamfile)
+bouts_in = pfc.import_bouts(boutfiles) #second factor is Laplace/Keener ratio perturbation
+print len(bouts_in)
+##selection
+teams_winnowed = pfc.select_teams(teams_in,genuses=sys.argv[3:])
+(bouts_out,boutgraph,names) = pfc.select_bouts_weighted(bouts_in,teams_winnowed,datestart,datelim,datetest,weight=sys.argv[2],bidir=True)
+
+print len(bouts_out[0])
+
+##subgraph selection
+
+#select largest subgraph - we've changed this to return the actual subgraphs!!
+subgraphs = pfc.process_subgraphs_2_directed(boutgraph, teams_winnowed)
+smax = {}
+subgraphs.sort(reverse=True, key = len )
+
+
+print "Teams"
+print len(subgraphs[0].nodes())
+#sys.exit(1)
+
+#print subgraphs[0].nodes()
+#print '3409' in subgraphs[0].nodes()
+
+# subgraphs[0] is now the dict of the teams in the largest group as id:{name,type etc} dict
+
+# potentially, we don't want the "maximal boutgraph" as got below - we may want to weight edges, merge parallel edges (for example, as weighted sum of logscoreratio by recency)
+
+#for example, this is the adjacency matrix for the maximal subgraph
+#adj_matrix = networkx.adjacency_matrix(subgraphs[0])
+
+
+#networkx.shortest_path_length(G, weight='weight'
+
+def energy(posvector,tindex,G):
+	energy = 0
+	for e in G.edges(data=True):
+		sep = posvector[tindex[e[0]]] - posvector[tindex[e[1]]]
+		#sep = abs(sep) #"undirected" difference - springs that can freely rotate on mounting
+		diverge = abs(sep - e[2]['weight'])
+		energy += diverge*diverge * np.exp(-2*e[2]['kfactor'])
+		#energy += np.exp(diverge*diverge -2*e[2]['kfactor']) #"exponential spring"
+	return energy
+
+def force(posvector,tindex,G):
+	forces = np.zeros(len(posvector))
+	for e in G.edges(data=True):
+		sep = posvector[tindex[e[0]]] - posvector[tindex[e[1]]] #positive if e[0] is "bigger" than e[1]
+		fsep = sep
+		#fsep = abs(sep)
+		diverge = fsep - e[2]['weight'] #positive if we're further apart than we need to be
+		f01 = diverge * 2 * np.exp(-e[2]['kfactor']) #if we're bigger, and we need to be closer, f points negative
+		forces[tindex[e[0]]] += f01
+		#forces[tindex[e[1]]] -= f01 #because balanced reaction
+	return forces 
+
+
+#initial positions
+scalefactor = 7 #scaling for distribution - for logscoreratio, I guess 7 (=factor of 1000 in strongest to weakest)
+posvector = np.random.random(len(subgraphs[0].nodes())) * scalefactor
+
+tindex = { n[1]:n[0] for n in zip(range(len(subgraphs[0].nodes())),subgraphs[0].nodes()) }
+
+#minimise the energy, using the first derivative (the forces):
+
+#res = optimize.minimize(energy,posvector, args=(tindex,subgraphs[0]), method = 'BFGS', jac = force)
+res = optimize.minimize(energy,posvector,args=(tindex,subgraphs[0]), method = 'Powell', jac = False)
+
+#optimise using GA style approach
+#bounds = np.repeat( ( (0,8), ), len(subgraphs[0].nodes()), axis=0)
+#res = optimize.differential_evolution(energy,bounds,args = (tindex,subgraphs[0]))
+
+print res
+
+scores = res.x
+
+scores -= min(scores)
+
+names_out = [teams_winnowed[n][0] for n in subgraphs[0].nodes()]
+numbers_out = [n for n in subgraphs[0].nodes()]
+ordering = sorted(zip(numbers_out,names_out,scores),key= lambda x: x[1])
+#ordering2 = sorted(zip(numbers_out, scores), key= lambda x:x[1])
+
+def printer(x):
+	print '|'.join([str(i) for i in x])
+
+print "Optimised result"
+[ printer(o) for o in ordering ]
+

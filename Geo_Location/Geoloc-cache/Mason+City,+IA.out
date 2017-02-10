@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mason City",
+               "short_name" : "Mason City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cerro Gordo County",
+               "short_name" : "Cerro Gordo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "50401",
+               "short_name" : "50401",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mason City, IA 50401, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1841158,
+                  "lng" : -93.112528
+               },
+               "southwest" : {
+                  "lat" : 43.10434009999999,
+                  "lng" : -93.28043599999999
+               }
+            },
+            "location" : {
+               "lat" : 43.1535728,
+               "lng" : -93.20103669999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1841158,
+                  "lng" : -93.112528
+               },
+               "southwest" : {
+                  "lat" : 43.10434009999999,
+                  "lng" : -93.28043599999999
+               }
+            }
+         },
+         "place_id" : "ChIJOUGasz8H8YcRAV7QK6iZMa0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

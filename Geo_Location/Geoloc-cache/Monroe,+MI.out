@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monroe",
+               "short_name" : "Monroe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Monroe, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9508681,
+                  "lng" : -83.3337076
+               },
+               "southwest" : {
+                  "lat" : 41.8870283,
+                  "lng" : -83.442172
+               }
+            },
+            "location" : {
+               "lat" : 41.9164343,
+               "lng" : -83.3977101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9508681,
+                  "lng" : -83.3337076
+               },
+               "southwest" : {
+                  "lat" : 41.8870283,
+                  "lng" : -83.442172
+               }
+            }
+         },
+         "place_id" : "ChIJzSvMsqZvO4gRMdLw-Y87_xo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

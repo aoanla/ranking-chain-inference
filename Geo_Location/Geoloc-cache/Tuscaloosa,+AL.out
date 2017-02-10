@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tuscaloosa",
+               "short_name" : "Tuscaloosa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tuscaloosa County",
+               "short_name" : "Tuscaloosa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tuscaloosa, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.4588661,
+                  "lng" : -87.2426289
+               },
+               "southwest" : {
+                  "lat" : 33.114897,
+                  "lng" : -87.66158890000001
+               }
+            },
+            "location" : {
+               "lat" : 33.2098407,
+               "lng" : -87.56917349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.4588661,
+                  "lng" : -87.2426289
+               },
+               "southwest" : {
+                  "lat" : 33.114897,
+                  "lng" : -87.66158890000001
+               }
+            }
+         },
+         "place_id" : "ChIJZ0DCkS6viIgRWCuJFv37q6w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

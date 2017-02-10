@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flint",
+               "short_name" : "Flint",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Genesee County",
+               "short_name" : "Genesee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Flint, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.079336,
+                  "lng" : -83.6205449
+               },
+               "southwest" : {
+                  "lat" : 42.945636,
+                  "lng" : -83.772285
+               }
+            },
+            "location" : {
+               "lat" : 43.0125274,
+               "lng" : -83.6874562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.079336,
+                  "lng" : -83.6205449
+               },
+               "southwest" : {
+                  "lat" : 42.945636,
+                  "lng" : -83.772285
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJF3OXpft4I4gRa2gzjgk6hcE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

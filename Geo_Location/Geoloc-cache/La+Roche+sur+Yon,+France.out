@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Roche-sur-Yon",
+               "short_name" : "La Roche-sur-Yon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vendee",
+               "short_name" : "Vendee",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pays de la Loire",
+               "short_name" : "Pays de la Loire",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Roche-sur-Yon, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.7208659,
+                  "lng" : -1.3229069
+               },
+               "southwest" : {
+                  "lat" : 46.611022,
+                  "lng" : -1.509457
+               }
+            },
+            "location" : {
+               "lat" : 46.670511,
+               "lng" : -1.426442
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.7208659,
+                  "lng" : -1.3229069
+               },
+               "southwest" : {
+                  "lat" : 46.611022,
+                  "lng" : -1.509457
+               }
+            }
+         },
+         "place_id" : "ChIJK8bObYYvBEgRcLIJHlI3DQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

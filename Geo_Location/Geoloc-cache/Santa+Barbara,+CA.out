@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Barbara",
+               "short_name" : "Santa Barbara",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Barbara County",
+               "short_name" : "Santa Barbara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santa Barbara, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.4611451,
+                  "lng" : -119.6399201
+               },
+               "southwest" : {
+                  "lat" : 34.3952424,
+                  "lng" : -119.859791
+               }
+            },
+            "location" : {
+               "lat" : 34.4208305,
+               "lng" : -119.6981901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.4611451,
+                  "lng" : -119.6399201
+               },
+               "southwest" : {
+                  "lat" : 34.3952424,
+                  "lng" : -119.7642139
+               }
+            }
+         },
+         "place_id" : "ChIJ1YMtb8cU6YARSHa612Q60cg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

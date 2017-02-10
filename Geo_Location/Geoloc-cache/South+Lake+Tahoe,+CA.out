@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Lake Tahoe",
+               "short_name" : "South Lake Tahoe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Dorado County",
+               "short_name" : "El Dorado County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96150",
+               "short_name" : "96150",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South Lake Tahoe, CA 96150, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.9640315,
+                  "lng" : -119.931802
+               },
+               "southwest" : {
+                  "lat" : 38.881414,
+                  "lng" : -120.0252271
+               }
+            },
+            "location" : {
+               "lat" : 38.939926,
+               "lng" : -119.9771868
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.9640315,
+                  "lng" : -119.931802
+               },
+               "southwest" : {
+                  "lat" : 38.881414,
+                  "lng" : -120.0252271
+               }
+            }
+         },
+         "place_id" : "ChIJ4U-l7omFmYARjpEj-0YvG90",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

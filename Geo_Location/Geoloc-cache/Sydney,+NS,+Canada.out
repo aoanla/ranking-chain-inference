@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sydney",
+               "short_name" : "Sydney",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cape Breton",
+               "short_name" : "Cape Breton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cape Breton Regional Municipality",
+               "short_name" : "Cape Breton Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sydney, NS, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.179116,
+                  "lng" : -60.14502220000001
+               },
+               "southwest" : {
+                  "lat" : 46.10615689999999,
+                  "lng" : -60.2134963
+               }
+            },
+            "location" : {
+               "lat" : 46.1367899,
+               "lng" : -60.19422399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.179116,
+                  "lng" : -60.14502220000001
+               },
+               "southwest" : {
+                  "lat" : 46.10615689999999,
+                  "lng" : -60.2134963
+               }
+            }
+         },
+         "place_id" : "ChIJFTRyfjb7Z0sRh4Awe5tTg6c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

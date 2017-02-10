@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hatfield",
+               "short_name" : "Hatfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "19440",
+               "short_name" : "19440",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hatfield, PA 19440, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.2871911,
+                  "lng" : -75.28840599999999
+               },
+               "southwest" : {
+                  "lat" : 40.267057,
+                  "lng" : -75.30768089999999
+               }
+            },
+            "location" : {
+               "lat" : 40.27982739999999,
+               "lng" : -75.2993417
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.2871911,
+                  "lng" : -75.28840599999999
+               },
+               "southwest" : {
+                  "lat" : 40.267057,
+                  "lng" : -75.30768089999999
+               }
+            }
+         },
+         "place_id" : "ChIJL9Mge5-hxokR0DZmza1UHAc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

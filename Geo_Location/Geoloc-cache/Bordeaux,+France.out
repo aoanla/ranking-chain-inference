@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bordeaux",
+               "short_name" : "Bordeaux",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gironde",
+               "short_name" : "Gironde",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bordeaux, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.91670389999999,
+                  "lng" : -0.5333089999999999
+               },
+               "southwest" : {
+                  "lat" : 44.810752,
+                  "lng" : -0.638973
+               }
+            },
+            "location" : {
+               "lat" : 44.837789,
+               "lng" : -0.57918
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.91670389999999,
+                  "lng" : -0.5333089999999999
+               },
+               "southwest" : {
+                  "lat" : 44.810752,
+                  "lng" : -0.638973
+               }
+            }
+         },
+         "place_id" : "ChIJgcpR9-gnVQ0RiXo5ewOGY3k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

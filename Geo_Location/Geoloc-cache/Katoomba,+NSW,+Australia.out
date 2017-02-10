@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Katoomba",
+               "short_name" : "Katoomba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2780",
+               "short_name" : "2780",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Katoomba NSW 2780, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.671588,
+                  "lng" : 150.3302147
+               },
+               "southwest" : {
+                  "lat" : -33.7370092,
+                  "lng" : 150.271155
+               }
+            },
+            "location" : {
+               "lat" : -33.7149546,
+               "lng" : 150.3114074
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.671588,
+                  "lng" : 150.3302147
+               },
+               "southwest" : {
+                  "lat" : -33.7370092,
+                  "lng" : 150.271155
+               }
+            }
+         },
+         "place_id" : "ChIJrf08OilsEmsR4NQyFmh9AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

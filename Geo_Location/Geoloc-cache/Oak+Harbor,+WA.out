@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oak Harbor",
+               "short_name" : "Oak Harbor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Island County",
+               "short_name" : "Island County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oak Harbor, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.325708,
+                  "lng" : -122.555688
+               },
+               "southwest" : {
+                  "lat" : 48.2676631,
+                  "lng" : -122.700239
+               }
+            },
+            "location" : {
+               "lat" : 48.2931559,
+               "lng" : -122.6432245
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.325708,
+                  "lng" : -122.555688
+               },
+               "southwest" : {
+                  "lat" : 48.2676631,
+                  "lng" : -122.700239
+               }
+            }
+         },
+         "place_id" : "ChIJ55lMneJhhVQRHwv_XjEGqYo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

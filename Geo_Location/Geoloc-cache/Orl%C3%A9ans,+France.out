@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orléans",
+               "short_name" : "Orléans",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loiret",
+               "short_name" : "Loiret",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Centre",
+               "short_name" : "Centre",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orléans, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.9335359,
+                  "lng" : 1.9486769
+               },
+               "southwest" : {
+                  "lat" : 47.813296,
+                  "lng" : 1.8757401
+               }
+            },
+            "location" : {
+               "lat" : 47.902964,
+               "lng" : 1.909251
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.9335359,
+                  "lng" : 1.9486769
+               },
+               "southwest" : {
+                  "lat" : 47.813296,
+                  "lng" : 1.8757401
+               }
+            }
+         },
+         "place_id" : "ChIJ44bzndTk5EcRKYDDeeR9uZ4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

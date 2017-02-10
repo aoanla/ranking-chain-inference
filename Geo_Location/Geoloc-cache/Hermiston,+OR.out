@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hermiston",
+               "short_name" : "Hermiston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Umatilla County",
+               "short_name" : "Umatilla County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hermiston, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.864776,
+                  "lng" : -119.2486049
+               },
+               "southwest" : {
+                  "lat" : 45.806069,
+                  "lng" : -119.3266296
+               }
+            },
+            "location" : {
+               "lat" : 45.8404101,
+               "lng" : -119.2894605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.864776,
+                  "lng" : -119.2486049
+               },
+               "southwest" : {
+                  "lat" : 45.806069,
+                  "lng" : -119.3266296
+               }
+            }
+         },
+         "place_id" : "ChIJ19IpbgK5olQRuzzWC_EG6oI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

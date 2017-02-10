@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "York",
+               "short_name" : "York",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "York County",
+               "short_name" : "York County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "York, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.9910931,
+                  "lng" : -76.6991889
+               },
+               "southwest" : {
+                  "lat" : 39.942798,
+                  "lng" : -76.76259
+               }
+            },
+            "location" : {
+               "lat" : 39.9625984,
+               "lng" : -76.727745
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.9910931,
+                  "lng" : -76.6991889
+               },
+               "southwest" : {
+                  "lat" : 39.942798,
+                  "lng" : -76.76259
+               }
+            }
+         },
+         "place_id" : "ChIJYYWuV8GLyIkRzRPyXur6rBo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

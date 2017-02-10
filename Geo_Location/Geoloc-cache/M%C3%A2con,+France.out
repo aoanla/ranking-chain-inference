@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mâcon",
+               "short_name" : "Mâcon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saône-et-Loire",
+               "short_name" : "Saône-et-Loire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Burgundy",
+               "short_name" : "Burgundy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mâcon, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.37965390000001,
+                  "lng" : 4.858684999999999
+               },
+               "southwest" : {
+                  "lat" : 46.27343399999999,
+                  "lng" : 4.757991
+               }
+            },
+            "location" : {
+               "lat" : 46.3068839,
+               "lng" : 4.828730999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.37965390000001,
+                  "lng" : 4.858684999999999
+               },
+               "southwest" : {
+                  "lat" : 46.27343399999999,
+                  "lng" : 4.757991
+               }
+            }
+         },
+         "place_id" : "ChIJU94_UxBu80cRkOQOszTOCQQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mâcon",
+               "short_name" : "Mâcon",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Saint-Martin-de-la-Mer",
+               "short_name" : "Saint-Martin-de-la-Mer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Côte-d'Or",
+               "short_name" : "Côte-d'Or",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bourgogne",
+               "short_name" : "Bourgogne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21210",
+               "short_name" : "21210",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mâcon, 21210 Saint-Martin-de-la-Mer, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 47.243303,
+               "lng" : 4.242399
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.24465198029151,
+                  "lng" : 4.243747980291502
+               },
+               "southwest" : {
+                  "lat" : 47.24195401970851,
+                  "lng" : 4.241050019708497
+               }
+            }
+         },
+         "place_id" : "ChIJ6zQzgoUP8kcRsf27sTXOCSY",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

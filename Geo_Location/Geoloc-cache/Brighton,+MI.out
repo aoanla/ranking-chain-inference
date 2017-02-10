@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brighton",
+               "short_name" : "Brighton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Livingston County",
+               "short_name" : "Livingston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brighton, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.551464,
+                  "lng" : -83.7634619
+               },
+               "southwest" : {
+                  "lat" : 42.5073409,
+                  "lng" : -83.8107418
+               }
+            },
+            "location" : {
+               "lat" : 42.5294773,
+               "lng" : -83.7802214
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.551464,
+                  "lng" : -83.7634619
+               },
+               "southwest" : {
+                  "lat" : 42.5073409,
+                  "lng" : -83.8107418
+               }
+            }
+         },
+         "place_id" : "ChIJy6Le2ZNPI4gRYhf_ull1mEE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

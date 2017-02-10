@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southeastern",
+               "short_name" : "Southeastern",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Galien",
+               "short_name" : "Galien",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Galien Township",
+               "short_name" : "Galien Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Berrien County",
+               "short_name" : "Berrien County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49113",
+               "short_name" : "49113",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Southeastern, Galien, MI 49113, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8021926,
+                  "lng" : -86.496262
+               },
+               "southwest" : {
+                  "lat" : 41.7991239,
+                  "lng" : -86.50488919999999
+               }
+            },
+            "location" : {
+               "lat" : 41.801105,
+               "lng" : -86.50051239999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8021926,
+                  "lng" : -86.496262
+               },
+               "southwest" : {
+                  "lat" : 41.7991239,
+                  "lng" : -86.50488919999999
+               }
+            }
+         },
+         "place_id" : "ChIJoyisxEwhEYgR12ZkNTEbSCw",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

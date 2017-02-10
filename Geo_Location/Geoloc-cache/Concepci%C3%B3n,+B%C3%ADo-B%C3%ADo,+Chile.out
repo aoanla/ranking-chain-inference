@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Concepción",
+               "short_name" : "Concepción",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Concepción",
+               "short_name" : "Concepción",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Concepción Province",
+               "short_name" : "Concepción Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bío Bío Region",
+               "short_name" : "Bío Bío Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Concepción, Concepción, Bío Bío Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.76354250000001,
+                  "lng" : -72.98195799999999
+               },
+               "southwest" : {
+                  "lat" : -36.8890559,
+                  "lng" : -73.0841332
+               }
+            },
+            "location" : {
+               "lat" : -36.8201352,
+               "lng" : -73.0443904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.76354250000001,
+                  "lng" : -72.98195799999999
+               },
+               "southwest" : {
+                  "lat" : -36.8890559,
+                  "lng" : -73.0841332
+               }
+            }
+         },
+         "place_id" : "ChIJO8a70s21aZYRmCYhUrc3y0Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

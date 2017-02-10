@@ -1,0 +1,315 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turin",
+               "short_name" : "Turin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Turin",
+               "short_name" : "Turin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Metropolitan City of Turin",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piedmont",
+               "short_name" : "Piedmont",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turin, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.1335014,
+                  "lng" : 7.7623282
+               },
+               "southwest" : {
+                  "lat" : 45.00677659999999,
+                  "lng" : 7.5778502
+               }
+            },
+            "location" : {
+               "lat" : 45.070312,
+               "lng" : 7.686856499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.1335014,
+                  "lng" : 7.7623282
+               },
+               "southwest" : {
+                  "lat" : 45.00677659999999,
+                  "lng" : 7.5778502
+               }
+            }
+         },
+         "place_id" : "ChIJJb4YZBJtiEcRv3ec1gP4A4k",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Leinì",
+               "short_name" : "Leinì",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Città Metropolitana di Torino",
+               "short_name" : "TO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Piemonte",
+               "short_name" : "Piemonte",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "10040",
+               "short_name" : "10040",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "10040 Torino, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2133261,
+                  "lng" : 7.731815300000001
+               },
+               "southwest" : {
+                  "lat" : 45.211545,
+                  "lng" : 7.729573
+               }
+            },
+            "location" : {
+               "lat" : 45.21208780000001,
+               "lng" : 7.7309388
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.21378453029151,
+                  "lng" : 7.732043130291503
+               },
+               "southwest" : {
+                  "lat" : 45.21108656970851,
+                  "lng" : 7.729345169708498
+               }
+            }
+         },
+         "place_id" : "ChIJU-amWjFliEcRxGcvegfhUIc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torino di Sangro",
+               "short_name" : "Torino di Sangro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torino di Sangro",
+               "short_name" : "Torino di Sangro",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Chieti",
+               "short_name" : "CH",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Abruzzo",
+               "short_name" : "Abruzzo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "66020",
+               "short_name" : "66020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "66020 Torino di Sangro CH, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1994154,
+                  "lng" : 14.549027
+               },
+               "southwest" : {
+                  "lat" : 42.1816603,
+                  "lng" : 14.5381913
+               }
+            },
+            "location" : {
+               "lat" : 42.1852556,
+               "lng" : 14.53967
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1994154,
+                  "lng" : 14.549027
+               },
+               "southwest" : {
+                  "lat" : 42.1816603,
+                  "lng" : 14.5381913
+               }
+            }
+         },
+         "place_id" : "ChIJzYq-pcDjMBMRUU_jCTxa09M",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torino di Sangro Marina",
+               "short_name" : "Torino di Sangro Marina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Torino di Sangro",
+               "short_name" : "Torino di Sangro",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Chieti",
+               "short_name" : "CH",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Abruzzo",
+               "short_name" : "Abruzzo",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Torino di Sangro Marina CH, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2333968,
+                  "lng" : 14.5615788
+               },
+               "southwest" : {
+                  "lat" : 42.2241149,
+                  "lng" : 14.5447481
+               }
+            },
+            "location" : {
+               "lat" : 42.23149050000001,
+               "lng" : 14.5476195
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2333968,
+                  "lng" : 14.5615788
+               },
+               "southwest" : {
+                  "lat" : 42.2241149,
+                  "lng" : 14.5447481
+               }
+            }
+         },
+         "place_id" : "ChIJSfbqjxXiMBMR5FIynwNbdbU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Torino",
+               "short_name" : "Torino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jolanda di Savoia",
+               "short_name" : "Jolanda di Savoia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Provincia di Ferrara",
+               "short_name" : "FE",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Emilia-Romagna",
+               "short_name" : "Emilia-Romagna",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Italy",
+               "short_name" : "IT",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "44037",
+               "short_name" : "44037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "44037 Torino, Italy",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8895886,
+                  "lng" : 11.9922367
+               },
+               "southwest" : {
+                  "lat" : 44.8877558,
+                  "lng" : 11.990635
+               }
+            },
+            "location" : {
+               "lat" : 44.88877919999999,
+               "lng" : 11.9911579
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8900211802915,
+                  "lng" : 11.9927848302915
+               },
+               "southwest" : {
+                  "lat" : 44.8873232197085,
+                  "lng" : 11.9900868697085
+               }
+            }
+         },
+         "place_id" : "ChIJI0Q4_bNmfkcR1z-WhIPtv08",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Enderby",
+               "short_name" : "Enderby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Okanagan",
+               "short_name" : "North Okanagan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Enderby, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.5702541,
+                  "lng" : -119.1235259
+               },
+               "southwest" : {
+                  "lat" : 50.5431941,
+                  "lng" : -119.162845
+               }
+            },
+            "location" : {
+               "lat" : 50.5508499,
+               "lng" : -119.1396705
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.5702541,
+                  "lng" : -119.1235259
+               },
+               "southwest" : {
+                  "lat" : 50.5431941,
+                  "lng" : -119.162845
+               }
+            }
+         },
+         "place_id" : "ChIJpQIMQDaIflMR2JNbJVnRYhk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

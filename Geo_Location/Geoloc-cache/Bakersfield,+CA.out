@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bakersfield",
+               "short_name" : "Bakersfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kern County",
+               "short_name" : "Kern County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bakersfield, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.4479751,
+                  "lng" : -118.7723409
+               },
+               "southwest" : {
+                  "lat" : 35.193979,
+                  "lng" : -119.265033
+               }
+            },
+            "location" : {
+               "lat" : 35.3732921,
+               "lng" : -119.0187125
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.4479751,
+                  "lng" : -118.7723409
+               },
+               "southwest" : {
+                  "lat" : 35.193979,
+                  "lng" : -119.265033
+               }
+            }
+         },
+         "place_id" : "ChIJDcuUuchr6oARyHT-mAkMNlk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

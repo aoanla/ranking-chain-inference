@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Limoges",
+               "short_name" : "Limoges",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haute-Vienne",
+               "short_name" : "Haute-Vienne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Limousin",
+               "short_name" : "Limousin",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Limoges, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.928607,
+                  "lng" : 1.317546
+               },
+               "southwest" : {
+                  "lat" : 45.788675,
+                  "lng" : 1.146249
+               }
+            },
+            "location" : {
+               "lat" : 45.83361900000001,
+               "lng" : 1.261105
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.928607,
+                  "lng" : 1.317546
+               },
+               "southwest" : {
+                  "lat" : 45.788675,
+                  "lng" : 1.146249
+               }
+            }
+         },
+         "place_id" : "ChIJYQRo5q80-UcREU02WTFKvhA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

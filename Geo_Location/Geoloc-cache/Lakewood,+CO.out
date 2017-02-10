@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lakewood",
+               "short_name" : "Lakewood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lakewood, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.761955,
+                  "lng" : -105.053173
+               },
+               "southwest" : {
+                  "lat" : 39.61830390000001,
+                  "lng" : -105.199324
+               }
+            },
+            "location" : {
+               "lat" : 39.7047095,
+               "lng" : -105.0813734
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.761955,
+                  "lng" : -105.053173
+               },
+               "southwest" : {
+                  "lat" : 39.61830390000001,
+                  "lng" : -105.199324
+               }
+            }
+         },
+         "place_id" : "ChIJt3LdXG-Ba4cRl87Q8fpdkJ4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

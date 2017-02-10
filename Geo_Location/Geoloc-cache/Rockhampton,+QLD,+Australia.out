@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rockhampton",
+               "short_name" : "Rockhampton",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rockhampton QLD, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.218883,
+                  "lng" : 150.6130505
+               },
+               "southwest" : {
+                  "lat" : -23.4624372,
+                  "lng" : 150.4270013
+               }
+            },
+            "location" : {
+               "lat" : -23.3779152,
+               "lng" : 150.5101026
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.218883,
+                  "lng" : 150.6130505
+               },
+               "southwest" : {
+                  "lat" : -23.4624372,
+                  "lng" : 150.4270013
+               }
+            }
+         },
+         "place_id" : "ChIJyxiXi5oAw2sRUJQgf_HuAAQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rockhampton",
+               "short_name" : "Rockhampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4700",
+               "short_name" : "4700",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rockhampton QLD 4700, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.3690381,
+                  "lng" : 150.5213431
+               },
+               "southwest" : {
+                  "lat" : -23.3899448,
+                  "lng" : 150.4994917
+               }
+            },
+            "location" : {
+               "lat" : -23.3776546,
+               "lng" : 150.5099759
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.3690381,
+                  "lng" : 150.5213431
+               },
+               "southwest" : {
+                  "lat" : -23.3899448,
+                  "lng" : 150.4994917
+               }
+            }
+         },
+         "place_id" : "ChIJHQZ8RqIAw2sRMAAhf_HuAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

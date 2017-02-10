@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Penobscot County",
+               "short_name" : "Penobscot County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maine",
+               "short_name" : "ME",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bangor, ME, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.88146889999999,
+                  "lng" : -68.7189697
+               },
+               "southwest" : {
+                  "lat" : 44.7778699,
+                  "lng" : -68.85918079999999
+               }
+            },
+            "location" : {
+               "lat" : 44.80118210000001,
+               "lng" : -68.77781379999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.88146889999999,
+                  "lng" : -68.7189697
+               },
+               "southwest" : {
+                  "lat" : 44.7778699,
+                  "lng" : -68.85918079999999
+               }
+            }
+         },
+         "place_id" : "ChIJvSkREEZLrkwRd3avp7AYCU0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

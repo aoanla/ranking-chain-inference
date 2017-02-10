@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DeKalb",
+               "short_name" : "DeKalb",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "DeKalb Township",
+               "short_name" : "Dekalb Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "DeKalb County",
+               "short_name" : "Dekalb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "DeKalb, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.971772,
+                  "lng" : -88.694661
+               },
+               "southwest" : {
+                  "lat" : 41.8845818,
+                  "lng" : -88.79795
+               }
+            },
+            "location" : {
+               "lat" : 41.9294736,
+               "lng" : -88.75036469999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.971772,
+                  "lng" : -88.694661
+               },
+               "southwest" : {
+                  "lat" : 41.8845818,
+                  "lng" : -88.79795
+               }
+            }
+         },
+         "place_id" : "ChIJWyI0akMqD4gRMdOJ7g8sV2E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

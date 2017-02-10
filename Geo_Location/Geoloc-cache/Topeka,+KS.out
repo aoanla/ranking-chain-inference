@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Topeka",
+               "short_name" : "Topeka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shawnee County",
+               "short_name" : "Shawnee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Topeka, KS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.10926500000001,
+                  "lng" : -95.603799
+               },
+               "southwest" : {
+                  "lat" : 38.916844,
+                  "lng" : -95.812263
+               }
+            },
+            "location" : {
+               "lat" : 39.0558235,
+               "lng" : -95.68901849999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.10926500000001,
+                  "lng" : -95.603799
+               },
+               "southwest" : {
+                  "lat" : 38.916844,
+                  "lng" : -95.812263
+               }
+            }
+         },
+         "place_id" : "ChIJKXrs2uQCv4cR8KfjatDnK74",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

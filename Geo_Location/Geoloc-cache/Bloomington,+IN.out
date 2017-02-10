@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bloomington",
+               "short_name" : "Bloomington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bloomington, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.22107,
+                  "lng" : -86.47129409999999
+               },
+               "southwest" : {
+                  "lat" : 39.1213559,
+                  "lng" : -86.592398
+               }
+            },
+            "location" : {
+               "lat" : 39.165325,
+               "lng" : -86.52638569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.22107,
+                  "lng" : -86.47129409999999
+               },
+               "southwest" : {
+                  "lat" : 39.1213559,
+                  "lng" : -86.592398
+               }
+            }
+         },
+         "place_id" : "ChIJ59iDtPZdbIgR2TOtiy2RGuk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

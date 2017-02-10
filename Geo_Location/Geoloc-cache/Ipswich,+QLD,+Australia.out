@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ipswich",
+               "short_name" : "Ipswich",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4305",
+               "short_name" : "4305",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ipswich QLD 4305, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.6102708,
+                  "lng" : 152.7716411
+               },
+               "southwest" : {
+                  "lat" : -27.6364312,
+                  "lng" : 152.7485096
+               }
+            },
+            "location" : {
+               "lat" : -27.6140934,
+               "lng" : 152.7584716
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.6102708,
+                  "lng" : 152.7716411
+               },
+               "southwest" : {
+                  "lat" : -27.6364312,
+                  "lng" : 152.7485096
+               }
+            }
+         },
+         "place_id" : "ChIJF8nOI8u1lmsREIze81qjAgU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

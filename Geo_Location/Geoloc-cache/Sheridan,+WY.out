@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sheridan",
+               "short_name" : "Sheridan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sheridan County",
+               "short_name" : "Sheridan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82801",
+               "short_name" : "82801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sheridan, WY 82801, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.831207,
+                  "lng" : -106.913123
+               },
+               "southwest" : {
+                  "lat" : 44.74783,
+                  "lng" : -107.0232359
+               }
+            },
+            "location" : {
+               "lat" : 44.7971939,
+               "lng" : -106.9561791
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.831207,
+                  "lng" : -106.913123
+               },
+               "southwest" : {
+                  "lat" : 44.74783,
+                  "lng" : -107.0232359
+               }
+            }
+         },
+         "place_id" : "ChIJZa1vPJT6NVMRe9URe_5HOik",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

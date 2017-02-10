@@ -1,0 +1,125 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gisborne District",
+               "short_name" : "Gisborne District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gisborne, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.6219639,
+                  "lng" : 178.115354
+               },
+               "southwest" : {
+                  "lat" : -38.710757,
+                  "lng" : 177.9373069
+               }
+            },
+            "location" : {
+               "lat" : -38.662334,
+               "lng" : 178.017649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.6219639,
+                  "lng" : 178.115354
+               },
+               "southwest" : {
+                  "lat" : -38.710757,
+                  "lng" : 177.9373069
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJl6ywQZzAZW0RB5miQ2HvAAU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gisborne District",
+               "short_name" : "Gisborne District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Gisborne",
+               "short_name" : "Gisborne",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4010",
+               "short_name" : "4010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gisborne, Gisborne 4010, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.6512891,
+                  "lng" : 178.0298388
+               },
+               "southwest" : {
+                  "lat" : -38.6725019,
+                  "lng" : 178.0042416
+               }
+            },
+            "location" : {
+               "lat" : -38.662334,
+               "lng" : 178.017649
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.6512891,
+                  "lng" : 178.0298388
+               },
+               "southwest" : {
+                  "lat" : -38.6725019,
+                  "lng" : 178.0042416
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJwXGe_CN4Zm0RkMWiQ2HvAAU",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

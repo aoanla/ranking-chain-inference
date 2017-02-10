@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunedin",
+               "short_name" : "Dunedin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dunedin City",
+               "short_name" : "Dunedin City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Otago",
+               "short_name" : "Otago",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dunedin, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -45.811635,
+                  "lng" : 170.6836916
+               },
+               "southwest" : {
+                  "lat" : -45.9337525,
+                  "lng" : 170.370546
+               }
+            },
+            "location" : {
+               "lat" : -45.8787605,
+               "lng" : 170.5027976
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -45.811635,
+                  "lng" : 170.6836916
+               },
+               "southwest" : {
+                  "lat" : -45.9337525,
+                  "lng" : 170.370546
+               }
+            }
+         },
+         "place_id" : "ChIJPVFfD-DkK6gRQZl5hIbvAAU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dunedin",
+               "short_name" : "Dunedin",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dunedin",
+               "short_name" : "Dunedin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dunedin City",
+               "short_name" : "Dunedin City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Otago",
+               "short_name" : "Otago",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dunedin, Dunedin, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -45.8646985,
+                  "lng" : 170.5386176
+               },
+               "southwest" : {
+                  "lat" : -45.8912148,
+                  "lng" : 170.4847183
+               }
+            },
+            "location" : {
+               "lat" : -45.8787605,
+               "lng" : 170.5027976
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -45.8646985,
+                  "lng" : 170.5386176
+               },
+               "southwest" : {
+                  "lat" : -45.8912148,
+                  "lng" : 170.4847183
+               }
+            }
+         },
+         "place_id" : "ChIJ89UFlBasLqgR8Gl5hIbvAAU",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

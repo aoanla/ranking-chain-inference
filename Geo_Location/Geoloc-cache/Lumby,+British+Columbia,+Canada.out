@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lumby",
+               "short_name" : "Lumby",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Okanagan",
+               "short_name" : "North Okanagan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V0E",
+               "short_name" : "V0E",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lumby, BC V0E, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.260545,
+                  "lng" : -118.9487719
+               },
+               "southwest" : {
+                  "lat" : 50.235067,
+                  "lng" : -118.987645
+               }
+            },
+            "location" : {
+               "lat" : 50.250699,
+               "lng" : -118.967831
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.260545,
+                  "lng" : -118.9487719
+               },
+               "southwest" : {
+                  "lat" : 50.235067,
+                  "lng" : -118.987645
+               }
+            }
+         },
+         "place_id" : "ChIJjRSTL83TfVMRYPPg_INDIs0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

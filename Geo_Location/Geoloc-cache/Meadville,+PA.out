@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Meadville",
+               "short_name" : "Meadville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Crawford County",
+               "short_name" : "Crawford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "16335",
+               "short_name" : "16335",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Meadville, PA 16335, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6740431,
+                  "lng" : -80.12333409999999
+               },
+               "southwest" : {
+                  "lat" : 41.623489,
+                  "lng" : -80.1714329
+               }
+            },
+            "location" : {
+               "lat" : 41.6414438,
+               "lng" : -80.15144839999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6740431,
+                  "lng" : -80.12333409999999
+               },
+               "southwest" : {
+                  "lat" : 41.623489,
+                  "lng" : -80.1714329
+               }
+            }
+         },
+         "place_id" : "ChIJ00P9a3lXMogRQt-EFDLaYaI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

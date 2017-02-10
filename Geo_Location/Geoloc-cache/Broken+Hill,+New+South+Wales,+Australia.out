@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Broken Hill",
+               "short_name" : "Broken Hill",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2880",
+               "short_name" : "2880",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Broken Hill NSW 2880, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.5918699,
+                  "lng" : 142.25293
+               },
+               "southwest" : {
+                  "lat" : -32.77077,
+                  "lng" : 141.0010649
+               }
+            },
+            "location" : {
+               "lat" : -31.9558583,
+               "lng" : 141.4651361
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.5918699,
+                  "lng" : 142.25293
+               },
+               "southwest" : {
+                  "lat" : -32.77077,
+                  "lng" : 141.0010649
+               }
+            }
+         },
+         "place_id" : "ChIJzcJS3mAz72oRcAFEkLQJBgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

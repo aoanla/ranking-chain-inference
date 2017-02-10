@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fontana",
+               "short_name" : "Fontana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fontana, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1841591,
+                  "lng" : -117.401056
+               },
+               "southwest" : {
+                  "lat" : 34.0334119,
+                  "lng" : -117.5244831
+               }
+            },
+            "location" : {
+               "lat" : 34.0922335,
+               "lng" : -117.435048
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1841591,
+                  "lng" : -117.401056
+               },
+               "southwest" : {
+                  "lat" : 34.0334119,
+                  "lng" : -117.5244831
+               }
+            }
+         },
+         "place_id" : "ChIJwwlEIo9Lw4ARm1QpGMHzy3g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

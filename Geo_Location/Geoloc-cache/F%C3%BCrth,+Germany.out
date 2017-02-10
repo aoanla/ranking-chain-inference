@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fürth",
+               "short_name" : "FÜ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middle Franconia",
+               "short_name" : "Middle Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fürth, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5412116,
+                  "lng" : 11.02848
+               },
+               "southwest" : {
+                  "lat" : 49.4361798,
+                  "lng" : 10.8931571
+               }
+            },
+            "location" : {
+               "lat" : 49.4771169,
+               "lng" : 10.988667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5412116,
+                  "lng" : 11.02848
+               },
+               "southwest" : {
+                  "lat" : 49.4361798,
+                  "lng" : 10.8931571
+               }
+            }
+         },
+         "place_id" : "ChIJMQVnDHpVn0cR4Me1vjLaHgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

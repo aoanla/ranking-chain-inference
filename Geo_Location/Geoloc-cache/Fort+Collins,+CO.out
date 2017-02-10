@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Collins",
+               "short_name" : "Fort Collins",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Larimer County",
+               "short_name" : "Larimer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Collins, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6392729,
+                  "lng" : -104.98208
+               },
+               "southwest" : {
+                  "lat" : 40.474044,
+                  "lng" : -105.153224
+               }
+            },
+            "location" : {
+               "lat" : 40.5852602,
+               "lng" : -105.084423
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6392729,
+                  "lng" : -104.98208
+               },
+               "southwest" : {
+                  "lat" : 40.474044,
+                  "lng" : -105.153224
+               }
+            }
+         },
+         "place_id" : "ChIJrTDwkEVKaYcRgkCrtChCsak",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

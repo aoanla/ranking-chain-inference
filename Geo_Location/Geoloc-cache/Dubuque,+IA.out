@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dubuque",
+               "short_name" : "Dubuque",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dubuque County",
+               "short_name" : "Dubuque County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dubuque, IA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5582529,
+                  "lng" : -90.63672699999999
+               },
+               "southwest" : {
+                  "lat" : 42.437858,
+                  "lng" : -90.7906019
+               }
+            },
+            "location" : {
+               "lat" : 42.5005583,
+               "lng" : -90.66457179999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5582529,
+                  "lng" : -90.63672699999999
+               },
+               "southwest" : {
+                  "lat" : 42.437858,
+                  "lng" : -90.7906019
+               }
+            }
+         },
+         "place_id" : "ChIJ04aKwIQr44cRR3GjJsYevrQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

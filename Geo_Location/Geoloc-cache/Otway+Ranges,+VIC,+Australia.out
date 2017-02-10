@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Otway Ranges",
+               "short_name" : "Otway Ranges",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Beech Forest",
+               "short_name" : "Beech Forest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3237",
+               "short_name" : "3237",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Otway Ranges, Beech Forest VIC 3237, Australia",
+         "geometry" : {
+            "location" : {
+               "lat" : -38.6666667,
+               "lng" : 143.5833333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.6579541,
+                  "lng" : 143.5993407
+               },
+               "southwest" : {
+                  "lat" : -38.6753783,
+                  "lng" : 143.5673259
+               }
+            }
+         },
+         "place_id" : "ChIJ4cOzpb0602oR1gzfk82L8sk",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

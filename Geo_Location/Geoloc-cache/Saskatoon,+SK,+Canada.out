@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saskatoon",
+               "short_name" : "Saskatoon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 11",
+               "short_name" : "Division No. 11",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saskatoon, SK, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.209761,
+                  "lng" : -106.517579
+               },
+               "southwest" : {
+                  "lat" : 52.069548,
+                  "lng" : -106.7758751
+               }
+            },
+            "location" : {
+               "lat" : 52.1332144,
+               "lng" : -106.6700458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.209761,
+                  "lng" : -106.517579
+               },
+               "southwest" : {
+                  "lat" : 52.069548,
+                  "lng" : -106.7758751
+               }
+            }
+         },
+         "place_id" : "ChIJK5ntR7_2BFMRkCZ3lTKeBAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

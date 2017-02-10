@@ -1,0 +1,167 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uppsala County",
+               "short_name" : "Uppsala County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Uppsala, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.904146,
+                  "lng" : 17.7709899
+               },
+               "southwest" : {
+                  "lat" : 59.7624129,
+                  "lng" : 17.5459043
+               }
+            },
+            "location" : {
+               "lat" : 59.85856380000001,
+               "lng" : 17.6389267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.904146,
+                  "lng" : 17.7709899
+               },
+               "southwest" : {
+                  "lat" : 59.7624129,
+                  "lng" : 17.5459043
+               }
+            }
+         },
+         "place_id" : "ChIJjasyhfvLX0YRBwiChQrpT6o",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Åmmeberg",
+               "short_name" : "Åmmeberg",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Askersund",
+               "short_name" : "Askersund",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Örebro County",
+               "short_name" : "Örebro County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "696 95",
+               "short_name" : "696 95",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "696 95 Uppsala, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 58.82235189999999,
+               "lng" : 15.0336554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.8237008802915,
+                  "lng" : 15.0350043802915
+               },
+               "southwest" : {
+                  "lat" : 58.82100291970849,
+                  "lng" : 15.0323064197085
+               }
+            }
+         },
+         "place_id" : "ChIJVeA9-CjyW0YRZZlVnKyjTmo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Uppsala",
+               "short_name" : "Uppsala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Markaryd",
+               "short_name" : "Markaryd",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Markaryd",
+               "short_name" : "Markaryd",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kronoberg County",
+               "short_name" : "Kronoberg County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "285 93",
+               "short_name" : "285 93",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "285 93 Uppsala, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 56.5518497,
+               "lng" : 13.5059246
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.5531986802915,
+                  "lng" : 13.5072735802915
+               },
+               "southwest" : {
+                  "lat" : 56.5505007197085,
+                  "lng" : 13.5045756197085
+               }
+            }
+         },
+         "place_id" : "ChIJOSYqKa0UUUYR5yGwkrlhMt8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

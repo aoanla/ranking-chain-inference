@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Loughborough",
+               "short_name" : "Loughborough",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loughborough",
+               "short_name" : "Loughborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Charnwood",
+               "short_name" : "Charnwood",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Leicestershire",
+               "short_name" : "Leicestershire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Loughborough, Loughborough, Leicestershire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.794977,
+                  "lng" : -1.1683202
+               },
+               "southwest" : {
+                  "lat" : 52.7342731,
+                  "lng" : -1.2742368
+               }
+            },
+            "location" : {
+               "lat" : 52.772099,
+               "lng" : -1.206166
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.794977,
+                  "lng" : -1.1683202
+               },
+               "southwest" : {
+                  "lat" : 52.7342731,
+                  "lng" : -1.2742368
+               }
+            }
+         },
+         "place_id" : "ChIJDTL3oCbZeUgRXQP_uvIm2Ys",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

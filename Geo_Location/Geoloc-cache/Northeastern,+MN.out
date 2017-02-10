@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Eastern Avenue",
+               "short_name" : "N Eastern Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "N Eastern Ave, California, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.0447183,
+                  "lng" : -118.1732736
+               },
+               "southwest" : {
+                  "lat" : 34.0369506,
+                  "lng" : -118.17396
+               }
+            },
+            "location" : {
+               "lat" : 34.0407781,
+               "lng" : -118.1735977
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.0447183,
+                  "lng" : -118.1722678197085
+               },
+               "southwest" : {
+                  "lat" : 34.0369506,
+                  "lng" : -118.1749657802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJvVyWsI7FwoAR9OJVa3jwXt0",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

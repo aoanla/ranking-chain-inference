@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Swift Current",
+               "short_name" : "Swift Current",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 8",
+               "short_name" : "Division No. 8",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Swift Current, SK, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3171549,
+                  "lng" : -107.7564451
+               },
+               "southwest" : {
+                  "lat" : 50.2582451,
+                  "lng" : -107.828313
+               }
+            },
+            "location" : {
+               "lat" : 50.285069,
+               "lng" : -107.7971722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3171549,
+                  "lng" : -107.7564451
+               },
+               "southwest" : {
+                  "lat" : 50.2582451,
+                  "lng" : -107.828313
+               }
+            }
+         },
+         "place_id" : "ChIJh28IX7TfEFMR0_rE2ZHGqh4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

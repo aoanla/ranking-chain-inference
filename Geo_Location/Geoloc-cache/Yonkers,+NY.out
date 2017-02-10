@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yonkers",
+               "short_name" : "Yonkers",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Westchester County",
+               "short_name" : "Westchester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yonkers, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.98828109999999,
+                  "lng" : -73.8106841
+               },
+               "southwest" : {
+                  "lat" : 40.900479,
+                  "lng" : -73.91124409999999
+               }
+            },
+            "location" : {
+               "lat" : 40.9312099,
+               "lng" : -73.89874689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.98828109999999,
+                  "lng" : -73.8106841
+               },
+               "southwest" : {
+                  "lat" : 40.900479,
+                  "lng" : -73.91124409999999
+               }
+            }
+         },
+         "place_id" : "ChIJoa9DCQjAwokRotrYpIRzlr4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

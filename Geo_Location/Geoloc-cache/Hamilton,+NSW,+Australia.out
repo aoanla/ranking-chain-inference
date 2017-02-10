@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2303",
+               "short_name" : "2303",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Hamilton NSW 2303, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.9135315,
+                  "lng" : 151.7531273
+               },
+               "southwest" : {
+                  "lat" : -32.9291209,
+                  "lng" : 151.7361532
+               }
+            },
+            "location" : {
+               "lat" : -32.9215826,
+               "lng" : 151.7473337
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.9135315,
+                  "lng" : 151.7531273
+               },
+               "southwest" : {
+                  "lat" : -32.9291209,
+                  "lng" : 151.7361532
+               }
+            }
+         },
+         "place_id" : "ChIJs63IgbIVc2sRoO0yFmh9AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

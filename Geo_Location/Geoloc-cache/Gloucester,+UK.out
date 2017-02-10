@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gloucester",
+               "short_name" : "Gloucester",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Gloucester District",
+               "short_name" : "Gloucester District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gloucestershire",
+               "short_name" : "Gloucestershire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gloucester, Gloucester, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.88108279999999,
+                  "lng" : -2.1965862
+               },
+               "southwest" : {
+                  "lat" : 51.83324200000001,
+                  "lng" : -2.2884389
+               }
+            },
+            "location" : {
+               "lat" : 51.8642449,
+               "lng" : -2.238156
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.88108279999999,
+                  "lng" : -2.1965862
+               },
+               "southwest" : {
+                  "lat" : 51.83324200000001,
+                  "lng" : -2.2884389
+               }
+            }
+         },
+         "place_id" : "ChIJz_Lr9vv9cEgRzxnoIZabcOw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

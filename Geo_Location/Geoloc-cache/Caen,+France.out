@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caen",
+               "short_name" : "Caen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Calvados",
+               "short_name" : "Calvados",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lower Normandy",
+               "short_name" : "Lower Normandy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Caen, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.21626879999999,
+                  "lng" : -0.3307391
+               },
+               "southwest" : {
+                  "lat" : 49.15298689999999,
+                  "lng" : -0.4137789000000001
+               }
+            },
+            "location" : {
+               "lat" : 49.182863,
+               "lng" : -0.370679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.21626879999999,
+                  "lng" : -0.3307391
+               },
+               "southwest" : {
+                  "lat" : 49.15298689999999,
+                  "lng" : -0.4137789000000001
+               }
+            }
+         },
+         "place_id" : "ChIJM8kETL1CCkgRWQjQMJ90pT0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

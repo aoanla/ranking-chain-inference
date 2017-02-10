@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toulon",
+               "short_name" : "Toulon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Var",
+               "short_name" : "Var",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toulon, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.171673,
+                  "lng" : 5.9873831
+               },
+               "southwest" : {
+                  "lat" : 43.1010491,
+                  "lng" : 5.879479
+               }
+            },
+            "location" : {
+               "lat" : 43.124228,
+               "lng" : 5.928
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.171673,
+                  "lng" : 5.9873831
+               },
+               "southwest" : {
+                  "lat" : 43.1010491,
+                  "lng" : 5.879479
+               }
+            }
+         },
+         "place_id" : "ChIJ_bI1ewIbyRIRMMiP_aUZCAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

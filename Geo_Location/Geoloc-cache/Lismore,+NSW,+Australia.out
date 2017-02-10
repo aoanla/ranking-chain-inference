@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lismore",
+               "short_name" : "Lismore",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2480",
+               "short_name" : "2480",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lismore NSW 2480, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.76874,
+                  "lng" : 153.364346
+               },
+               "southwest" : {
+                  "lat" : -28.8742299,
+                  "lng" : 153.22584
+               }
+            },
+            "location" : {
+               "lat" : -28.8279803,
+               "lng" : 153.2857165
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.76874,
+                  "lng" : 153.364346
+               },
+               "southwest" : {
+                  "lat" : -28.8742299,
+                  "lng" : 153.22584
+               }
+            }
+         },
+         "place_id" : "ChIJnZBfBW-ekGsRkPhDkLQJBgQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lismore",
+               "short_name" : "Lismore",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2480",
+               "short_name" : "2480",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lismore NSW 2480, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.7958553,
+                  "lng" : 153.3065195
+               },
+               "southwest" : {
+                  "lat" : -28.8173035,
+                  "lng" : 153.2694326
+               }
+            },
+            "location" : {
+               "lat" : -28.8065079,
+               "lng" : 153.2769412
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.7958553,
+                  "lng" : 153.3065195
+               },
+               "southwest" : {
+                  "lat" : -28.8173035,
+                  "lng" : 153.2694326
+               }
+            }
+         },
+         "place_id" : "ChIJC-4Phg-ekGsRYCtEkLQJBgU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Omaha",
+               "short_name" : "Omaha",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Douglas County",
+               "short_name" : "Douglas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Omaha, NE, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.39317,
+                  "lng" : -95.87114099999999
+               },
+               "southwest" : {
+                  "lat" : 41.1905479,
+                  "lng" : -96.2913561
+               }
+            },
+            "location" : {
+               "lat" : 41.2523634,
+               "lng" : -95.99798829999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.39317,
+                  "lng" : -95.87114099999999
+               },
+               "southwest" : {
+                  "lat" : 41.1905479,
+                  "lng" : -96.2913561
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ7fwMtciNk4cRBLY3rk9NQkY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

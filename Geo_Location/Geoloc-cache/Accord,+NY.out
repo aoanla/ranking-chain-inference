@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Accord",
+               "short_name" : "Accord",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Ulster County",
+               "short_name" : "Ulster County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Accord, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.81863389999999,
+                  "lng" : -74.20968809999999
+               },
+               "southwest" : {
+                  "lat" : 41.777443,
+                  "lng" : -74.2560489
+               }
+            },
+            "location" : {
+               "lat" : 41.7856489,
+               "lng" : -74.2290366
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.81863389999999,
+                  "lng" : -74.20968809999999
+               },
+               "southwest" : {
+                  "lat" : 41.777443,
+                  "lng" : -74.2560489
+               }
+            }
+         },
+         "place_id" : "ChIJRb7mqGge3YkRj74Mpz8WiOo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

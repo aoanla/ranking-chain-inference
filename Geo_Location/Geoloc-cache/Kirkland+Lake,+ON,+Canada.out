@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirkland Lake",
+               "short_name" : "Kirkland Lake",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kirkland Lake",
+               "short_name" : "Kirkland Lake",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Timiskaming District",
+               "short_name" : "Timiskaming District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "P2N",
+               "short_name" : "P2N",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kirkland Lake, ON P2N, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 48.1510123,
+               "lng" : -80.0330343
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.158456,
+                  "lng" : -80.01702689999999
+               },
+               "southwest" : {
+                  "lat" : 48.1435675,
+                  "lng" : -80.04904169999999
+               }
+            }
+         },
+         "place_id" : "ChIJqwQrKupyJE0RwR1YKgnXfTg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

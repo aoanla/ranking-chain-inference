@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newquay",
+               "short_name" : "Newquay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Newquay",
+               "short_name" : "Newquay",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cornwall",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Newquay, Cornwall, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4307467,
+                  "lng" : -5.028394599999999
+               },
+               "southwest" : {
+                  "lat" : 50.3942024,
+                  "lng" : -5.1253796
+               }
+            },
+            "location" : {
+               "lat" : 50.41549699999999,
+               "lng" : -5.073719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4307467,
+                  "lng" : -5.028394599999999
+               },
+               "southwest" : {
+                  "lat" : 50.3942024,
+                  "lng" : -5.1253796
+               }
+            }
+         },
+         "place_id" : "ChIJh1a5WhEMa0gRY1JU4PEam8Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

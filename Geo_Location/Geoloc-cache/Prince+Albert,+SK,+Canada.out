@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prince Albert",
+               "short_name" : "Prince Albert",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 15",
+               "short_name" : "Division No. 15",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Prince Albert, SK, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.264488,
+                  "lng" : -105.5363989
+               },
+               "southwest" : {
+                  "lat" : 53.169165,
+                  "lng" : -105.807093
+               }
+            },
+            "location" : {
+               "lat" : 53.2033494,
+               "lng" : -105.7530705
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.264488,
+                  "lng" : -105.5363989
+               },
+               "southwest" : {
+                  "lat" : 53.169165,
+                  "lng" : -105.807093
+               }
+            }
+         },
+         "place_id" : "ChIJJd060oUFAVMRJ_41YUScDMM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grimshaw",
+               "short_name" : "Grimshaw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 19",
+               "short_name" : "Division No. 19",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T0H",
+               "short_name" : "T0H",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Grimshaw, AB T0H, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.203692,
+                  "lng" : -117.5802121
+               },
+               "southwest" : {
+                  "lat" : 56.180613,
+                  "lng" : -117.636825
+               }
+            },
+            "location" : {
+               "lat" : 56.1893768,
+               "lng" : -117.6104887
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.203692,
+                  "lng" : -117.5802121
+               },
+               "southwest" : {
+                  "lat" : 56.180613,
+                  "lng" : -117.636825
+               }
+            }
+         },
+         "place_id" : "ChIJRW42YLRZllMRTSfoxK90E0E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

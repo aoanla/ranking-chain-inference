@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Daytona Beach",
+               "short_name" : "Daytona Beach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volusia County",
+               "short_name" : "Volusia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Daytona Beach, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.2898916,
+                  "lng" : -80.9829099
+               },
+               "southwest" : {
+                  "lat" : 29.12747599999999,
+                  "lng" : -81.21030999999999
+               }
+            },
+            "location" : {
+               "lat" : 29.2108147,
+               "lng" : -81.0228331
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.2898916,
+                  "lng" : -80.9829099
+               },
+               "southwest" : {
+                  "lat" : 29.12747599999999,
+                  "lng" : -81.21030999999999
+               }
+            }
+         },
+         "place_id" : "ChIJg1YCJZTb5ogR6yrLHbc7ajY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

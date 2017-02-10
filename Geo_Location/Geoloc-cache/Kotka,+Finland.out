@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kotka",
+               "short_name" : "Kotka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kotka",
+               "short_name" : "Kotka",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kymenlaakso",
+               "short_name" : "Kymenlaakso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kotka, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.6754745,
+                  "lng" : 27.349497
+               },
+               "southwest" : {
+                  "lat" : 60.2122642,
+                  "lng" : 26.7425162
+               }
+            },
+            "location" : {
+               "lat" : 60.4665666,
+               "lng" : 26.9459403
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.6754745,
+                  "lng" : 27.349497
+               },
+               "southwest" : {
+                  "lat" : 60.2122642,
+                  "lng" : 26.7425162
+               }
+            }
+         },
+         "place_id" : "ChIJRQMSsVENkUYRELNLVVG1AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

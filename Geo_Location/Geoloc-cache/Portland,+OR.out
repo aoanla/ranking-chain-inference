@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portland",
+               "short_name" : "Portland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Multnomah County",
+               "short_name" : "Multnomah County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portland, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6524799,
+                  "lng" : -122.4718489
+               },
+               "southwest" : {
+                  "lat" : 45.432393,
+                  "lng" : -122.8369952
+               }
+            },
+            "location" : {
+               "lat" : 45.5230622,
+               "lng" : -122.6764816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6524799,
+                  "lng" : -122.4718489
+               },
+               "southwest" : {
+                  "lat" : 45.432393,
+                  "lng" : -122.8369952
+               }
+            }
+         },
+         "place_id" : "ChIJJ3SpfQsLlVQRkYXR9ua5Nhw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

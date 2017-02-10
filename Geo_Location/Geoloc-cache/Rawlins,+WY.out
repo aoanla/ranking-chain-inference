@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rawlins",
+               "short_name" : "Rawlins",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Carbon County",
+               "short_name" : "Carbon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82301",
+               "short_name" : "82301",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rawlins, WY 82301, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.820335,
+                  "lng" : -107.1764819
+               },
+               "southwest" : {
+                  "lat" : 41.7547179,
+                  "lng" : -107.2684901
+               }
+            },
+            "location" : {
+               "lat" : 41.7910697,
+               "lng" : -107.2386627
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.820335,
+                  "lng" : -107.1764819
+               },
+               "southwest" : {
+                  "lat" : 41.7547179,
+                  "lng" : -107.2684901
+               }
+            }
+         },
+         "place_id" : "ChIJCd70T5VOXIcRE_yVv2qkIDw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

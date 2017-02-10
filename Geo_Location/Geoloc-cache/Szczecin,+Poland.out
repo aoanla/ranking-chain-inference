@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Szczecin",
+               "short_name" : "Szczecin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Szczecin",
+               "short_name" : "Szczecin",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Szczecin",
+               "short_name" : "Szczecin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Pomeranian Voivodeship",
+               "short_name" : "West Pomeranian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Szczecin, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.53765989999999,
+                  "lng" : 14.8061335
+               },
+               "southwest" : {
+                  "lat" : 53.3217326,
+                  "lng" : 14.4431137
+               }
+            },
+            "location" : {
+               "lat" : 53.4285438,
+               "lng" : 14.5528116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.53765989999999,
+                  "lng" : 14.8061335
+               },
+               "southwest" : {
+                  "lat" : 53.3217326,
+                  "lng" : 14.4431137
+               }
+            }
+         },
+         "place_id" : "ChIJWafTADgJqkcR88SKX07cWqk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

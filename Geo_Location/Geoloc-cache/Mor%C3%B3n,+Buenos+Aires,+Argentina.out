@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morón",
+               "short_name" : "Morón",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Partido de Morón",
+               "short_name" : "Partido de Morón",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morón, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.6367835,
+                  "lng" : -58.593464
+               },
+               "southwest" : {
+                  "lat" : -34.7016372,
+                  "lng" : -58.63990389999999
+               }
+            },
+            "location" : {
+               "lat" : -34.6558611,
+               "lng" : -58.6167212
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.6367835,
+                  "lng" : -58.593464
+               },
+               "southwest" : {
+                  "lat" : -34.7016372,
+                  "lng" : -58.63990389999999
+               }
+            }
+         },
+         "place_id" : "ChIJAb7jV2_HvJURD2Bb7Nz8iKQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

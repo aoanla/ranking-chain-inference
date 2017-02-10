@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belleville",
+               "short_name" : "Belleville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hastings County",
+               "short_name" : "Hastings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Belleville, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.348796,
+                  "lng" : -77.24888899999999
+               },
+               "southwest" : {
+                  "lat" : 44.1372886,
+                  "lng" : -77.473389
+               }
+            },
+            "location" : {
+               "lat" : 44.1627589,
+               "lng" : -77.38323149999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.348796,
+                  "lng" : -77.24888899999999
+               },
+               "southwest" : {
+                  "lat" : 44.1372886,
+                  "lng" : -77.473389
+               }
+            }
+         },
+         "place_id" : "ChIJSa91lJUo1okRMBcjxyh7AwU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

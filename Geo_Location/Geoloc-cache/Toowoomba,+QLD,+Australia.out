@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toowoomba",
+               "short_name" : "Toowoomba",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Toowoomba QLD, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.4812563,
+                  "lng" : 152.0167545
+               },
+               "southwest" : {
+                  "lat" : -27.6952389,
+                  "lng" : 151.7305861
+               }
+            },
+            "location" : {
+               "lat" : -27.56433,
+               "lng" : 151.9539874
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.4812563,
+                  "lng" : 152.0167545
+               },
+               "southwest" : {
+                  "lat" : -27.6952389,
+                  "lng" : 151.7305861
+               }
+            }
+         },
+         "place_id" : "ChIJj2XjSLpElmsRUL8gf_HuAAQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Toowoomba",
+               "short_name" : "Toowoomba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4350",
+               "short_name" : "4350",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Toowoomba QLD 4350, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.5503457,
+                  "lng" : 151.959199
+               },
+               "southwest" : {
+                  "lat" : -27.5692858,
+                  "lng" : 151.9421133
+               }
+            },
+            "location" : {
+               "lat" : -27.5643334,
+               "lng" : 151.9539909
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.5503457,
+                  "lng" : 151.959199
+               },
+               "southwest" : {
+                  "lat" : -27.5692858,
+                  "lng" : 151.9421133
+               }
+            }
+         },
+         "place_id" : "ChIJVXoH6mlclmsRUPcgf_HuAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Myrtle Beach",
+               "short_name" : "Myrtle Beach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horry County",
+               "short_name" : "Horry County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Myrtle Beach, SC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.791703,
+                  "lng" : -78.793131
+               },
+               "southwest" : {
+                  "lat" : 33.647788,
+                  "lng" : -78.96448409999999
+               }
+            },
+            "location" : {
+               "lat" : 33.6890603,
+               "lng" : -78.8866943
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.791703,
+                  "lng" : -78.793131
+               },
+               "southwest" : {
+                  "lat" : 33.647788,
+                  "lng" : -78.96448409999999
+               }
+            }
+         },
+         "place_id" : "ChIJASFVO5VoAIkRGJbQtRWxD7w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

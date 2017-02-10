@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buxtehude",
+               "short_name" : "Buxtehude",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stade",
+               "short_name" : "STD",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buxtehude, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.5092764,
+                  "lng" : 9.7836611
+               },
+               "southwest" : {
+                  "lat" : 53.411464,
+                  "lng" : 9.597477099999999
+               }
+            },
+            "location" : {
+               "lat" : 53.4674857,
+               "lng" : 9.6915741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.5092764,
+                  "lng" : 9.7836611
+               },
+               "southwest" : {
+                  "lat" : 53.411464,
+                  "lng" : 9.597477099999999
+               }
+            }
+         },
+         "place_id" : "ChIJh5bqZ3SdsUcRX9y2Wqb0OBE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

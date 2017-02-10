@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Hollywood",
+               "short_name" : "NoHo",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles",
+               "short_name" : "Los Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "North Hollywood, Los Angeles, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.2156039,
+                  "lng" : -118.3445111
+               },
+               "southwest" : {
+                  "lat" : 34.16824,
+                  "lng" : -118.4275148
+               }
+            },
+            "location" : {
+               "lat" : 34.187044,
+               "lng" : -118.3812562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2156039,
+                  "lng" : -118.3445111
+               },
+               "southwest" : {
+                  "lat" : 34.16824,
+                  "lng" : -118.4275148
+               }
+            }
+         },
+         "place_id" : "ChIJ0TEA7NOVwoARtPDh3nGzOC0",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vero Beach",
+               "short_name" : "Vero Beach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Indian River County",
+               "short_name" : "Indian River County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vero Beach, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.6749051,
+                  "lng" : -80.347229
+               },
+               "southwest" : {
+                  "lat" : 27.6154931,
+                  "lng" : -80.446518
+               }
+            },
+            "location" : {
+               "lat" : 27.6386434,
+               "lng" : -80.39727359999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.6749051,
+                  "lng" : -80.347229
+               },
+               "southwest" : {
+                  "lat" : 27.6154931,
+                  "lng" : -80.446518
+               }
+            }
+         },
+         "place_id" : "ChIJpcLQYORe3ogRpCX3qKWu4bw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aalborg",
+               "short_name" : "Aalborg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aalborg Municipality",
+               "short_name" : "Aalborg Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Denmark Region",
+               "short_name" : "North Denmark Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aalborg, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.079114,
+                  "lng" : 10.0656453
+               },
+               "southwest" : {
+                  "lat" : 56.9745056,
+                  "lng" : 9.7499947
+               }
+            },
+            "location" : {
+               "lat" : 57.0488195,
+               "lng" : 9.921747
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.079114,
+                  "lng" : 10.0656453
+               },
+               "southwest" : {
+                  "lat" : 56.9745056,
+                  "lng" : 9.7499947
+               }
+            }
+         },
+         "place_id" : "ChIJDT3fX7IzSUYRwybsLmq0sU4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

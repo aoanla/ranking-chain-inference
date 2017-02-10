@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ames",
+               "short_name" : "Ames",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Story County",
+               "short_name" : "Story County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ames, IA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.076253,
+                  "lng" : -93.5542299
+               },
+               "southwest" : {
+                  "lat" : 41.975428,
+                  "lng" : -93.69852299999999
+               }
+            },
+            "location" : {
+               "lat" : 42.0307812,
+               "lng" : -93.63191309999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.076253,
+                  "lng" : -93.5542299
+               },
+               "southwest" : {
+                  "lat" : 41.975428,
+                  "lng" : -93.69852299999999
+               }
+            }
+         },
+         "place_id" : "ChIJa6A0RmJw7ocRAFLHPAhWMSc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Port Macquarie",
+               "short_name" : "Port Macquarie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2444",
+               "short_name" : "2444",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Port Macquarie NSW 2444, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -31.4052555,
+                  "lng" : 152.9384085
+               },
+               "southwest" : {
+                  "lat" : -31.5171201,
+                  "lng" : 152.8618306
+               }
+            },
+            "location" : {
+               "lat" : -31.4312703,
+               "lng" : 152.9081313
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -31.4052555,
+                  "lng" : 152.9384085
+               },
+               "southwest" : {
+                  "lat" : -31.5171201,
+                  "lng" : 152.8618306
+               }
+            }
+         },
+         "place_id" : "ChIJwcnsNFz_nWsRQC5EkLQJBgU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

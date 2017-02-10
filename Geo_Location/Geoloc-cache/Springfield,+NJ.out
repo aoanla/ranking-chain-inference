@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Springfield Township",
+               "short_name" : "Springfield Township",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Union County",
+               "short_name" : "Union County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Springfield Township, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.7201759,
+                  "lng" : -74.2991468
+               },
+               "southwest" : {
+                  "lat" : 40.677433,
+                  "lng" : -74.36039
+               }
+            },
+            "location" : {
+               "lat" : 40.7016937,
+               "lng" : -74.3222146
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.7201759,
+                  "lng" : -74.2991468
+               },
+               "southwest" : {
+                  "lat" : 40.677433,
+                  "lng" : -74.36039
+               }
+            }
+         },
+         "place_id" : "ChIJ8RQMMxeuw4kRgnh5JTkhFPE",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Springfield",
+               "short_name" : "Springfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Burlington County",
+               "short_name" : "Burlington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Springfield, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.076772,
+                  "lng" : -74.619253
+               },
+               "southwest" : {
+                  "lat" : 39.9924198,
+                  "lng" : -74.81301599999999
+               }
+            },
+            "location" : {
+               "lat" : 40.0312267,
+               "lng" : -74.72200169999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.076772,
+                  "lng" : -74.619253
+               },
+               "southwest" : {
+                  "lat" : 39.9924198,
+                  "lng" : -74.81301599999999
+               }
+            }
+         },
+         "place_id" : "ChIJc1reCTxEwYkRuPp9jZUfmeQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

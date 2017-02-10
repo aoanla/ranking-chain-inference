@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Buffalo",
+               "short_name" : "Buffalo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Buffalo, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9664549,
+                  "lng" : -78.795157
+               },
+               "southwest" : {
+                  "lat" : 42.826023,
+                  "lng" : -78.914247
+               }
+            },
+            "location" : {
+               "lat" : 42.88644679999999,
+               "lng" : -78.8783689
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9664549,
+                  "lng" : -78.795157
+               },
+               "southwest" : {
+                  "lat" : 42.826023,
+                  "lng" : -78.914247
+               }
+            }
+         },
+         "place_id" : "ChIJoeXfUmES04kRcYEfGKUEI5g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

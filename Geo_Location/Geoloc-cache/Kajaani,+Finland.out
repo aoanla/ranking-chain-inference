@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kajaani",
+               "short_name" : "Kajaani",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kajaani",
+               "short_name" : "Kajaani",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "87100",
+               "short_name" : "87100",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "87100 Kajaani, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 64.2270558,
+               "lng" : 27.7286008
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.2319069,
+                  "lng" : 27.7446082
+               },
+               "southwest" : {
+                  "lat" : 64.2222038,
+                  "lng" : 27.7125934
+               }
+            }
+         },
+         "place_id" : "ChIJ4f5Bi_NNgkYRgK91PNZGAQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

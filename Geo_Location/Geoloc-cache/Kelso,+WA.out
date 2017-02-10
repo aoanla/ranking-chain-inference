@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kelso",
+               "short_name" : "Kelso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cowlitz County",
+               "short_name" : "Cowlitz County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kelso, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.165924,
+                  "lng" : -122.855263
+               },
+               "southwest" : {
+                  "lat" : 46.0833418,
+                  "lng" : -122.9239209
+               }
+            },
+            "location" : {
+               "lat" : 46.146779,
+               "lng" : -122.9084445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.165924,
+                  "lng" : -122.855263
+               },
+               "southwest" : {
+                  "lat" : 46.0833418,
+                  "lng" : -122.9239209
+               }
+            }
+         },
+         "place_id" : "ChIJl7YALrhrlFQRpKIk99Wgilc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

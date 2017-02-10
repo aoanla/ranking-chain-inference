@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Temuco",
+               "short_name" : "Temuco",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Temuco",
+               "short_name" : "Temuco",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cautín Province",
+               "short_name" : "Cautín Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Araucania",
+               "short_name" : "Araucania",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Temuco, Temuco, Araucania, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.6962164,
+                  "lng" : -72.53784
+               },
+               "southwest" : {
+                  "lat" : -38.7619626,
+                  "lng" : -72.6676021
+               }
+            },
+            "location" : {
+               "lat" : -38.7359018,
+               "lng" : -72.5903739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.6962164,
+                  "lng" : -72.53784
+               },
+               "southwest" : {
+                  "lat" : -38.7619626,
+                  "lng" : -72.6676021
+               }
+            }
+         },
+         "place_id" : "ChIJIyIaws7TFJYRCIQA_4eI-sI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

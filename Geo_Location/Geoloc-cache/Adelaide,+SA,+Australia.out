@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adelaide",
+               "short_name" : "Adelaide",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "South Australia",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Adelaide SA, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.5078718,
+                  "lng" : 139.0435642
+               },
+               "southwest" : {
+                  "lat" : -35.4640587,
+                  "lng" : 138.3603457
+               }
+            },
+            "location" : {
+               "lat" : -34.92862119999999,
+               "lng" : 138.5999594
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.5078718,
+                  "lng" : 139.0435642
+               },
+               "southwest" : {
+                  "lat" : -35.4640587,
+                  "lng" : 138.3603457
+               }
+            }
+         },
+         "place_id" : "ChIJP7Mmxcc1t2oRQMaOYlQ2AwQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Adelaide",
+               "short_name" : "Adelaide",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "South Australia",
+               "short_name" : "SA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "5000",
+               "short_name" : "5000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Adelaide SA 5000, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.9092516,
+                  "lng" : 138.6245149
+               },
+               "southwest" : {
+                  "lat" : -34.9421664,
+                  "lng" : 138.5771082
+               }
+            },
+            "location" : {
+               "lat" : -34.9285894,
+               "lng" : 138.5999429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.9092516,
+                  "lng" : 138.6245149
+               },
+               "southwest" : {
+                  "lat" : -34.9421664,
+                  "lng" : 138.5771082
+               }
+            }
+         },
+         "place_id" : "ChIJ56QDo9fOsGoRUz4cTlhwjbM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

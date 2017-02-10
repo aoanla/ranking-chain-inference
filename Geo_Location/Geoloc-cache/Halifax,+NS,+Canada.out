@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Halifax Regional Municipality",
+               "short_name" : "Halifax Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nova Scotia",
+               "short_name" : "NS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halifax, NS, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.7035313,
+                  "lng" : -63.5576784
+               },
+               "southwest" : {
+                  "lat" : 44.5949302,
+                  "lng" : -63.68627009999999
+               }
+            },
+            "location" : {
+               "lat" : 44.6488625,
+               "lng" : -63.5753196
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.7035313,
+                  "lng" : -63.5576784
+               },
+               "southwest" : {
+                  "lat" : 44.5949302,
+                  "lng" : -63.68627009999999
+               }
+            }
+         },
+         "place_id" : "ChIJwfrbBxQhWksR3C2LQ6bja2Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barrow-in-Furness",
+               "short_name" : "Barrow-in-Furness",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barrow-in-Furness District",
+               "short_name" : "Barrow-in-Furness District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cumbria",
+               "short_name" : "Cumbria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barrow-in-Furness, Cumbria, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.15639299999999,
+                  "lng" : -3.1699523
+               },
+               "southwest" : {
+                  "lat" : 54.0443642,
+                  "lng" : -3.2756278
+               }
+            },
+            "location" : {
+               "lat" : 54.108967,
+               "lng" : -3.218894
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.15639299999999,
+                  "lng" : -3.1699523
+               },
+               "southwest" : {
+                  "lat" : 54.0443642,
+                  "lng" : -3.2756278
+               }
+            }
+         },
+         "place_id" : "ChIJgS3Sy8KlfEgR5bNM29NTkAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

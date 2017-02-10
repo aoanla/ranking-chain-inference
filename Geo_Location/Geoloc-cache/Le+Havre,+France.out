@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Le Havre",
+               "short_name" : "Le Havre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-Maritime",
+               "short_name" : "Seine-Maritime",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Upper Normandy",
+               "short_name" : "Upper Normandy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Le Havre, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.54004700000001,
+                  "lng" : 0.1955711
+               },
+               "southwest" : {
+                  "lat" : 49.451574,
+                  "lng" : 0.06679889999999999
+               }
+            },
+            "location" : {
+               "lat" : 49.49437,
+               "lng" : 0.107929
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.54004700000001,
+                  "lng" : 0.1955711
+               },
+               "southwest" : {
+                  "lat" : 49.451574,
+                  "lng" : 0.06679889999999999
+               }
+            }
+         },
+         "place_id" : "ChIJfYshlSMv4EcREq8zr3qGwVs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

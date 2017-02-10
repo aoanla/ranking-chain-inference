@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Três de Maio",
+               "short_name" : "Três de Maio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Três de Maio",
+               "short_name" : "Três de Maio",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Três de Maio, Três de Maio - RS, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.7587778,
+                  "lng" : -54.21838109999999
+               },
+               "southwest" : {
+                  "lat" : -27.7905727,
+                  "lng" : -54.2537197
+               }
+            },
+            "location" : {
+               "lat" : -27.7841041,
+               "lng" : -54.2344607
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.7587778,
+                  "lng" : -54.21838109999999
+               },
+               "southwest" : {
+                  "lat" : -27.7905727,
+                  "lng" : -54.2537197
+               }
+            }
+         },
+         "place_id" : "ChIJyRjDwCFS-ZQRkVbK0l3WouY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Battle Creek",
+               "short_name" : "Battle Creek",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Calhoun County",
+               "short_name" : "Calhoun County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Battle Creek, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.3594329,
+                  "lng" : -85.131951
+               },
+               "southwest" : {
+                  "lat" : 42.246071,
+                  "lng" : -85.298024
+               }
+            },
+            "location" : {
+               "lat" : 42.3211522,
+               "lng" : -85.17971419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.3594329,
+                  "lng" : -85.131951
+               },
+               "southwest" : {
+                  "lat" : 42.246071,
+                  "lng" : -85.298024
+               }
+            }
+         },
+         "place_id" : "ChIJu77UMa7xF4gRsPgPz-JMgPs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

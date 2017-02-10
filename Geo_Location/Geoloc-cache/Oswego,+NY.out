@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oswego",
+               "short_name" : "Oswego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oswego County",
+               "short_name" : "Oswego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oswego, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.4812853,
+                  "lng" : -76.4693199
+               },
+               "southwest" : {
+                  "lat" : 43.4280909,
+                  "lng" : -76.53764129999999
+               }
+            },
+            "location" : {
+               "lat" : 43.4553461,
+               "lng" : -76.5104973
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.4812853,
+                  "lng" : -76.4693199
+               },
+               "southwest" : {
+                  "lat" : 43.4280909,
+                  "lng" : -76.53764129999999
+               }
+            }
+         },
+         "place_id" : "ChIJEapKYeRi14kR6mYAw46fM9w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

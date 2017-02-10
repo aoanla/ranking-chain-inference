@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Thonon-les-Bains",
+               "short_name" : "Thonon-les-Bains",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haute-Savoie",
+               "short_name" : "Haute-Savoie",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Thonon-les-Bains, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.4048389,
+                  "lng" : 6.515788
+               },
+               "southwest" : {
+                  "lat" : 46.344076,
+                  "lng" : 6.439420999999999
+               }
+            },
+            "location" : {
+               "lat" : 46.373565,
+               "lng" : 6.477634999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.4048389,
+                  "lng" : 6.515788
+               },
+               "southwest" : {
+                  "lat" : 46.344076,
+                  "lng" : 6.439420999999999
+               }
+            }
+         },
+         "place_id" : "ChIJk_8GcYk-jEcRgJa65CqrCAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

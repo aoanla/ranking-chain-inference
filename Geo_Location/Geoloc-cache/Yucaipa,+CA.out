@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yucaipa",
+               "short_name" : "Yucaipa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yucaipa, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.077396,
+                  "lng" : -116.9620589
+               },
+               "southwest" : {
+                  "lat" : 34.0039149,
+                  "lng" : -117.126768
+               }
+            },
+            "location" : {
+               "lat" : 34.033625,
+               "lng" : -117.0430865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.077396,
+                  "lng" : -116.9620589
+               },
+               "southwest" : {
+                  "lat" : 34.0039149,
+                  "lng" : -117.126768
+               }
+            }
+         },
+         "place_id" : "ChIJP7oo1BxR24AR_qisu9QeKXo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

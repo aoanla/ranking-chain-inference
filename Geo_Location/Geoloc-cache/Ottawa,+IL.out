@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ottawa",
+               "short_name" : "Ottawa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "LaSalle County",
+               "short_name" : "Lasalle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ottawa, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.38913489999999,
+                  "lng" : -88.796458
+               },
+               "southwest" : {
+                  "lat" : 41.3129239,
+                  "lng" : -88.87378389999999
+               }
+            },
+            "location" : {
+               "lat" : 41.3455892,
+               "lng" : -88.8425769
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.38913489999999,
+                  "lng" : -88.796458
+               },
+               "southwest" : {
+                  "lat" : 41.3129239,
+                  "lng" : -88.87378389999999
+               }
+            }
+         },
+         "place_id" : "ChIJUWY2E2xUCYgRef712ycvLqM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

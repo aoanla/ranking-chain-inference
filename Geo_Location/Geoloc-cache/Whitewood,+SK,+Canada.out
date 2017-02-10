@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whitewood",
+               "short_name" : "Whitewood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 5",
+               "short_name" : "Division No. 5",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "S0G",
+               "short_name" : "S0G",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Whitewood, SK S0G, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.3385211,
+                  "lng" : -102.252457
+               },
+               "southwest" : {
+                  "lat" : 50.324029,
+                  "lng" : -102.2811019
+               }
+            },
+            "location" : {
+               "lat" : 50.329875,
+               "lng" : -102.2666277
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.3385211,
+                  "lng" : -102.252457
+               },
+               "southwest" : {
+                  "lat" : 50.324029,
+                  "lng" : -102.2811019
+               }
+            }
+         },
+         "place_id" : "ChIJw5AswYah4VIRgMhlzo8PSS0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

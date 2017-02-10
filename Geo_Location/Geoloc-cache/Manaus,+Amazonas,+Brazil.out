@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manaus",
+               "short_name" : "Manaus",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Amazonas",
+               "short_name" : "AM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manaus, Manaus - AM, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -2.9269379,
+                  "lng" : -59.8186489
+               },
+               "southwest" : {
+                  "lat" : -3.1623862,
+                  "lng" : -60.1155589
+               }
+            },
+            "location" : {
+               "lat" : -3.1190275,
+               "lng" : -60.0217314
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -2.9269379,
+                  "lng" : -59.8186489
+               },
+               "southwest" : {
+                  "lat" : -3.1623862,
+                  "lng" : -60.1155589
+               }
+            }
+         },
+         "place_id" : "ChIJt0d2s8gbbJIRzKll959cSCs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

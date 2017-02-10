@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erie",
+               "short_name" : "Erie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Erie County",
+               "short_name" : "Erie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Erie, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.1535009,
+                  "lng" : -80.003376
+               },
+               "southwest" : {
+                  "lat" : 42.077238,
+                  "lng" : -80.13851799999999
+               }
+            },
+            "location" : {
+               "lat" : 42.12922409999999,
+               "lng" : -80.085059
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.1535009,
+                  "lng" : -80.003376
+               },
+               "southwest" : {
+                  "lat" : 42.077238,
+                  "lng" : -80.13851799999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJH_eyPeF_LYgRClsdEi6u84k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

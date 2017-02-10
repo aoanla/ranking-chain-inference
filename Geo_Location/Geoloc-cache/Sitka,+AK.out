@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sitka",
+               "short_name" : "Sitka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Sitka",
+               "short_name" : "Sitka",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sitka, AK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.00138689999999,
+                  "lng" : -134.616319
+               },
+               "southwest" : {
+                  "lat" : 56.1608849,
+                  "lng" : -136.4445706
+               }
+            },
+            "location" : {
+               "lat" : 57.0530556,
+               "lng" : -135.33
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.00138689999999,
+                  "lng" : -134.616319
+               },
+               "southwest" : {
+                  "lat" : 56.1608849,
+                  "lng" : -136.4440526
+               }
+            }
+         },
+         "place_id" : "ChIJuWN1b4NmBFQRdBzIn0jaQSU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

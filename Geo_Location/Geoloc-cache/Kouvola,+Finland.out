@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kouvola",
+               "short_name" : "Kouvola",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kouvola",
+               "short_name" : "Kouvola",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Kymenlaakso",
+               "short_name" : "Kymenlaakso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kouvola, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.2916719,
+                  "lng" : 27.4279369
+               },
+               "southwest" : {
+                  "lat" : 60.57563680000001,
+                  "lng" : 26.2351827
+               }
+            },
+            "location" : {
+               "lat" : 60.8678835,
+               "lng" : 26.7041601
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.2916719,
+                  "lng" : 27.4279369
+               },
+               "southwest" : {
+                  "lat" : 60.57563680000001,
+                  "lng" : 26.2351827
+               }
+            }
+         },
+         "place_id" : "ChIJA64jb3FNkEYRILNLVVG1AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

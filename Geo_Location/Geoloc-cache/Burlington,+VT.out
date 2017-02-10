@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burlington",
+               "short_name" : "Burlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittenden County",
+               "short_name" : "Chittenden County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burlington, VT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5392529,
+                  "lng" : -73.17638289999999
+               },
+               "southwest" : {
+                  "lat" : 44.4459279,
+                  "lng" : -73.2769139
+               }
+            },
+            "location" : {
+               "lat" : 44.4758825,
+               "lng" : -73.21207199999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5392529,
+                  "lng" : -73.17638289999999
+               },
+               "southwest" : {
+                  "lat" : 44.4459279,
+                  "lng" : -73.2769139
+               }
+            }
+         },
+         "place_id" : "ChIJ5VWbtlV6ykwRjkkOchnlX8M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

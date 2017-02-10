@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roanoke",
+               "short_name" : "Roanoke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Roanoke, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.3374169,
+                  "lng" : -79.8774871
+               },
+               "southwest" : {
+                  "lat" : 37.211227,
+                  "lng" : -80.03759789999999
+               }
+            },
+            "location" : {
+               "lat" : 37.2709704,
+               "lng" : -79.9414266
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.3374169,
+                  "lng" : -79.8774871
+               },
+               "southwest" : {
+                  "lat" : 37.211227,
+                  "lng" : -80.03759789999999
+               }
+            }
+         },
+         "place_id" : "ChIJ_Wapak0MTYgRm5iw28u-nSQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

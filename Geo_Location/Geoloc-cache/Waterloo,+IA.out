@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterloo",
+               "short_name" : "Waterloo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Black Hawk County",
+               "short_name" : "Black Hawk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Iowa",
+               "short_name" : "IA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waterloo, IA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.57046589999999,
+                  "lng" : -92.24888
+               },
+               "southwest" : {
+                  "lat" : 42.4221841,
+                  "lng" : -92.4371199
+               }
+            },
+            "location" : {
+               "lat" : 42.492786,
+               "lng" : -92.34257749999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.57046589999999,
+                  "lng" : -92.24888
+               },
+               "southwest" : {
+                  "lat" : 42.4221841,
+                  "lng" : -92.4371199
+               }
+            }
+         },
+         "place_id" : "ChIJ3xjvH7NN5YcRGOs8-41AWeg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

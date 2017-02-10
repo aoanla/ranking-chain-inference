@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salisbury",
+               "short_name" : "Salisbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wicomico County",
+               "short_name" : "Wicomico County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salisbury, MD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.427743,
+                  "lng" : -75.5373061
+               },
+               "southwest" : {
+                  "lat" : 38.3271329,
+                  "lng" : -75.6428119
+               }
+            },
+            "location" : {
+               "lat" : 38.3606736,
+               "lng" : -75.5993692
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.427743,
+                  "lng" : -75.5373061
+               },
+               "southwest" : {
+                  "lat" : 38.3271329,
+                  "lng" : -75.6428119
+               }
+            }
+         },
+         "place_id" : "ChIJYZ6SVroDuYkRkztqW7GDKsw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

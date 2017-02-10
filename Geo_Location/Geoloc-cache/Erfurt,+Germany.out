@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Erfurt",
+               "short_name" : "EF",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thuringia",
+               "short_name" : "Thuringia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Erfurt, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.0798955,
+                  "lng" : 11.1752701
+               },
+               "southwest" : {
+                  "lat" : 50.8907853,
+                  "lng" : 10.8554009
+               }
+            },
+            "location" : {
+               "lat" : 50.98476789999999,
+               "lng" : 11.0298799
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0798955,
+                  "lng" : 11.1752701
+               },
+               "southwest" : {
+                  "lat" : 50.8907853,
+                  "lng" : 10.8554009
+               }
+            }
+         },
+         "place_id" : "ChIJcdZYg4VypEcRADYzdMGOIAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Billings",
+               "short_name" : "Billings",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yellowstone County",
+               "short_name" : "Yellowstone County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Billings, MT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.85315900000001,
+                  "lng" : -108.435863
+               },
+               "southwest" : {
+                  "lat" : 45.7106799,
+                  "lng" : -108.691506
+               }
+            },
+            "location" : {
+               "lat" : 45.7832856,
+               "lng" : -108.5006904
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.85315900000001,
+                  "lng" : -108.435863
+               },
+               "southwest" : {
+                  "lat" : 45.7106799,
+                  "lng" : -108.691506
+               }
+            }
+         },
+         "place_id" : "ChIJl536iIhvSFMRULV58dRWNTc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

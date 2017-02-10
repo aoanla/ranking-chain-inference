@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avenue de Rochefort",
+               "short_name" : "Avenue de Rochefort",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Royan",
+               "short_name" : "Royan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Charente-Maritime",
+               "short_name" : "Charente-Maritime",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Poitou-Charentes",
+               "short_name" : "PCh",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "17200",
+               "short_name" : "17200",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Avenue de Rochefort, 17200 Royan, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6552077,
+                  "lng" : -1.0214412
+               },
+               "southwest" : {
+                  "lat" : 45.63035499999999,
+                  "lng" : -1.0305301
+               }
+            },
+            "location" : {
+               "lat" : 45.6429677,
+               "lng" : -1.0247744
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6552077,
+                  "lng" : -1.0214412
+               },
+               "southwest" : {
+                  "lat" : 45.63035499999999,
+                  "lng" : -1.0305301
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN1iniPJ2AUgR1KkxSEVGWV0",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

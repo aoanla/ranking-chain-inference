@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gunnison",
+               "short_name" : "Gunnison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gunnison County",
+               "short_name" : "Gunnison County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81230",
+               "short_name" : "81230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gunnison, CO 81230, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.55899489999999,
+                  "lng" : -106.902668
+               },
+               "southwest" : {
+                  "lat" : 38.52956,
+                  "lng" : -106.9509179
+               }
+            },
+            "location" : {
+               "lat" : 38.5458246,
+               "lng" : -106.9253207
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.55899489999999,
+                  "lng" : -106.902668
+               },
+               "southwest" : {
+                  "lat" : 38.52956,
+                  "lng" : -106.9509179
+               }
+            }
+         },
+         "place_id" : "ChIJn1uD9cOSP4cR7JKnRRCddsw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

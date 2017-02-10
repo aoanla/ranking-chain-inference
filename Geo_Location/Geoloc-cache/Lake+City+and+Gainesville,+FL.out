@@ -1,0 +1,325 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lake Drive",
+               "short_name" : "Lake Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua County",
+               "short_name" : "Alachua County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32609",
+               "short_name" : "32609",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lake Dr, Gainesville, FL 32609, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.6676212,
+                  "lng" : -82.2978462
+               },
+               "southwest" : {
+                  "lat" : 29.667532,
+                  "lng" : -82.29882449999999
+               }
+            },
+            "location" : {
+               "lat" : 29.6675461,
+               "lng" : -82.2980747
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.6689255802915,
+                  "lng" : -82.29698636970849
+               },
+               "southwest" : {
+                  "lat" : 29.6662276197085,
+                  "lng" : -82.2996843302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJh3qS7aim6IgRYlK50G04uWA",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lake Shore Drive",
+               "short_name" : "Lake Shore Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua County",
+               "short_name" : "Alachua County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32641",
+               "short_name" : "32641",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lake Shore Dr, Gainesville, FL 32641, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.6485785,
+                  "lng" : -82.2373272
+               },
+               "southwest" : {
+                  "lat" : 29.6260743,
+                  "lng" : -82.2594359
+               }
+            },
+            "location" : {
+               "lat" : 29.6346636,
+               "lng" : -82.24674
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.6485785,
+                  "lng" : -82.2373272
+               },
+               "southwest" : {
+                  "lat" : 29.6260743,
+                  "lng" : -82.2594359
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnx_qptyg6IgReY93W7ZsYrw",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lakeshore Drive",
+               "short_name" : "Lakeshore Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua County",
+               "short_name" : "Alachua County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32641",
+               "short_name" : "32641",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lakeshore Dr, Gainesville, FL 32641, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.6485785,
+                  "lng" : -82.2390971
+               },
+               "southwest" : {
+                  "lat" : 29.6260743,
+                  "lng" : -82.2594359
+               }
+            },
+            "location" : {
+               "lat" : 29.6343776,
+               "lng" : -82.24723590000001
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.6485785,
+                  "lng" : -82.2390971
+               },
+               "southwest" : {
+                  "lat" : 29.6260743,
+                  "lng" : -82.2594359
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnx_qptyg6IgRhBMpGmN0VE8",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Prairie Lake",
+               "short_name" : "Prairie Lake",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Alachua County",
+               "short_name" : "Alachua County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32609",
+               "short_name" : "32609",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Prairie Lake, Florida 32609, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.79793819999999,
+                  "lng" : -82.3779299
+               },
+               "southwest" : {
+                  "lat" : 29.7968765,
+                  "lng" : -82.37898290000001
+               }
+            },
+            "location" : {
+               "lat" : 29.7974963,
+               "lng" : -82.37858079999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.7987563302915,
+                  "lng" : -82.37710741970851
+               },
+               "southwest" : {
+                  "lat" : 29.7960583697085,
+                  "lng" : -82.37980538029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJszo4Y9Kv6IgRF6vOzVy0JOw",
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lakeview Drive",
+               "short_name" : "Lakeview Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua County",
+               "short_name" : "Alachua County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32608",
+               "short_name" : "32608",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lakeview Dr, Gainesville, FL 32608, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.6192379,
+                  "lng" : -82.399418
+               },
+               "southwest" : {
+                  "lat" : 29.6181978,
+                  "lng" : -82.3998086
+               }
+            },
+            "location" : {
+               "lat" : 29.618715,
+               "lng" : -82.39963829999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.6200668302915,
+                  "lng" : -82.3982643197085
+               },
+               "southwest" : {
+                  "lat" : 29.6173688697085,
+                  "lng" : -82.40096228029151
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ91HxHti86IgRyasxiD0rbM0",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

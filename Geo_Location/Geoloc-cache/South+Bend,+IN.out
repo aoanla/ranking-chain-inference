@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Bend",
+               "short_name" : "South Bend",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Joseph County",
+               "short_name" : "St Joseph County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "South Bend, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.752098,
+                  "lng" : -86.1912859
+               },
+               "southwest" : {
+                  "lat" : 41.5973428,
+                  "lng" : -86.3604831
+               }
+            },
+            "location" : {
+               "lat" : 41.6763545,
+               "lng" : -86.25198979999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.752098,
+                  "lng" : -86.1912859
+               },
+               "southwest" : {
+                  "lat" : 41.5973428,
+                  "lng" : -86.3604831
+               }
+            }
+         },
+         "place_id" : "ChIJE9NhSsQyEYgRBDKjb7PZSpc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

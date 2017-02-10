@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Norrköping",
+               "short_name" : "Norrköping",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Norrköping",
+               "short_name" : "Norrköping",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Östergötland County",
+               "short_name" : "Östergötland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Norrköping, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.637933,
+                  "lng" : 16.285862
+               },
+               "southwest" : {
+                  "lat" : 58.53539499999999,
+                  "lng" : 16.082647
+               }
+            },
+            "location" : {
+               "lat" : 58.587745,
+               "lng" : 16.192421
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.637933,
+                  "lng" : 16.285862
+               },
+               "southwest" : {
+                  "lat" : 58.53539499999999,
+                  "lng" : 16.082647
+               }
+            }
+         },
+         "place_id" : "ChIJp9xQX2ooWUYRgI7kQfP-AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

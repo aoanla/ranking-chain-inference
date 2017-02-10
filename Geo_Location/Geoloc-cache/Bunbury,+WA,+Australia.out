@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bunbury",
+               "short_name" : "Bunbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6230",
+               "short_name" : "6230",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bunbury WA 6230, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.3012747,
+                  "lng" : 115.6588286
+               },
+               "southwest" : {
+                  "lat" : -33.3375795,
+                  "lng" : 115.6256323
+               }
+            },
+            "location" : {
+               "lat" : -33.3270685,
+               "lng" : 115.6391736
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.3012747,
+                  "lng" : 115.6588286
+               },
+               "southwest" : {
+                  "lat" : -33.3375795,
+                  "lng" : 115.6256323
+               }
+            }
+         },
+         "place_id" : "ChIJI3uk9UgdLioRcBR6JDj2AAU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bunbury",
+               "short_name" : "Bunbury",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bunbury WA, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.2906415,
+                  "lng" : 115.7920073
+               },
+               "southwest" : {
+                  "lat" : -33.4593135,
+                  "lng" : 115.5878797
+               }
+            },
+            "location" : {
+               "lat" : -33.3270683,
+               "lng" : 115.6391762
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.2906415,
+                  "lng" : 115.7920073
+               },
+               "southwest" : {
+                  "lat" : -33.4593135,
+                  "lng" : 115.5878797
+               }
+            }
+         },
+         "place_id" : "ChIJUQxXIS3iMSoRUOh5JDj2AAQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Augusta",
+               "short_name" : "Augusta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richmond County",
+               "short_name" : "Richmond County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Augusta, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5449331,
+                  "lng" : -81.82833599999999
+               },
+               "southwest" : {
+                  "lat" : 33.227148,
+                  "lng" : -82.353499
+               }
+            },
+            "location" : {
+               "lat" : 33.4734978,
+               "lng" : -82.0105148
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5449331,
+                  "lng" : -81.82833599999999
+               },
+               "southwest" : {
+                  "lat" : 33.227148,
+                  "lng" : -82.353499
+               }
+            }
+         },
+         "place_id" : "ChIJQaoLFpfQ-YgR5Auq4_2K5z4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

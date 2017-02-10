@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tulsa",
+               "short_name" : "Tulsa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tulsa County",
+               "short_name" : "Tulsa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tulsa, OK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.336506,
+                  "lng" : -95.68154319999999
+               },
+               "southwest" : {
+                  "lat" : 35.968097,
+                  "lng" : -96.074478
+               }
+            },
+            "location" : {
+               "lat" : 36.1539816,
+               "lng" : -95.99277500000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.336506,
+                  "lng" : -95.68154319999999
+               },
+               "southwest" : {
+                  "lat" : 35.968097,
+                  "lng" : -96.074478
+               }
+            }
+         },
+         "place_id" : "ChIJjy7R3biStocR92rZG8gQaec",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

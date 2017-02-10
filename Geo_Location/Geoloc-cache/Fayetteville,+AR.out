@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fayetteville",
+               "short_name" : "Fayetteville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fayetteville Township",
+               "short_name" : "Fayetteville Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arkansas",
+               "short_name" : "AR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fayetteville, AR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.1487811,
+                  "lng" : -94.02668179999999
+               },
+               "southwest" : {
+                  "lat" : 35.9901639,
+                  "lng" : -94.2980599
+               }
+            },
+            "location" : {
+               "lat" : 36.0625795,
+               "lng" : -94.1574263
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.1487811,
+                  "lng" : -94.02668179999999
+               },
+               "southwest" : {
+                  "lat" : 35.9901639,
+                  "lng" : -94.2980599
+               }
+            }
+         },
+         "place_id" : "ChIJnT61L3tvyYcRz8i0_GnwGUU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

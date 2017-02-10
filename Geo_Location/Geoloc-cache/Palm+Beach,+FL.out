@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palm Beach",
+               "short_name" : "Palm Beach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palm Beach County",
+               "short_name" : "Palm Beach County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palm Beach, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.771484,
+                  "lng" : -80.0317098
+               },
+               "southwest" : {
+                  "lat" : 26.5943506,
+                  "lng" : -80.0454819
+               }
+            },
+            "location" : {
+               "lat" : 26.7056206,
+               "lng" : -80.0364297
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.771484,
+                  "lng" : -80.0317098
+               },
+               "southwest" : {
+                  "lat" : 26.5943506,
+                  "lng" : -80.0454819
+               }
+            }
+         },
+         "place_id" : "ChIJhzdSGPbW2IgRGkem18eSoDs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

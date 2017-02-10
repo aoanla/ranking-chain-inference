@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ljungaverk",
+               "short_name" : "Ljungaverk",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ljungaverk",
+               "short_name" : "Ljungaverk",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Ånge",
+               "short_name" : "Ånge",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Västernorrland County",
+               "short_name" : "Västernorrland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "840 10",
+               "short_name" : "840 10",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "840 10 Ljungaverk, Sweden",
+         "geometry" : {
+            "location" : {
+               "lat" : 62.4892714,
+               "lng" : 16.0421105
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.494425,
+                  "lng" : 16.0581179
+               },
+               "southwest" : {
+                  "lat" : 62.4841169,
+                  "lng" : 16.0261031
+               }
+            }
+         },
+         "place_id" : "ChIJwY8X8GGhZUYRJ9U_S41agDA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

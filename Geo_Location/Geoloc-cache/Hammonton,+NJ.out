@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hammonton",
+               "short_name" : "Hammonton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Atlantic County",
+               "short_name" : "Atlantic County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hammonton, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.7299091,
+                  "lng" : -74.67578689999999
+               },
+               "southwest" : {
+                  "lat" : 39.5835199,
+                  "lng" : -74.859134
+               }
+            },
+            "location" : {
+               "lat" : 39.6365056,
+               "lng" : -74.8023853
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.7299091,
+                  "lng" : -74.67578689999999
+               },
+               "southwest" : {
+                  "lat" : 39.5835199,
+                  "lng" : -74.859134
+               }
+            }
+         },
+         "place_id" : "ChIJVQYXudEnwYkRKJX9Ea5JV8M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

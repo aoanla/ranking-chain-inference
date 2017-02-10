@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Windsor",
+               "short_name" : "Windsor",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2756",
+               "short_name" : "2756",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Windsor NSW 2756, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.5984041,
+                  "lng" : 150.8407624
+               },
+               "southwest" : {
+                  "lat" : -33.6248639,
+                  "lng" : 150.8010761
+               }
+            },
+            "location" : {
+               "lat" : -33.6075314,
+               "lng" : 150.819451
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.5984041,
+                  "lng" : 150.8407624
+               },
+               "southwest" : {
+                  "lat" : -33.6248639,
+                  "lng" : 150.8010761
+               }
+            }
+         },
+         "place_id" : "ChIJYxAuDmRiDWsRYNAyFmh9AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sewell",
+               "short_name" : "Sewell",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Mantua Township",
+               "short_name" : "Mantua Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Gloucester County",
+               "short_name" : "Gloucester County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "08080",
+               "short_name" : "08080",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Sewell, Mantua Township, NJ 08080, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.774197,
+                  "lng" : -75.13171109999999
+               },
+               "southwest" : {
+                  "lat" : 39.7547381,
+                  "lng" : -75.1534467
+               }
+            },
+            "location" : {
+               "lat" : 39.7662167,
+               "lng" : -75.1441926
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.774197,
+                  "lng" : -75.13171109999999
+               },
+               "southwest" : {
+                  "lat" : 39.7547381,
+                  "lng" : -75.1534467
+               }
+            }
+         },
+         "place_id" : "ChIJX1JgHLDQxokRLbcUJ2Atojg",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

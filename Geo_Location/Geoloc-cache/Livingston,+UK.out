@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Livingston",
+               "short_name" : "Livingston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "West Lothian",
+               "short_name" : "West Lothian",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Livingston, West Lothian, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.9175463,
+                  "lng" : -3.4823665
+               },
+               "southwest" : {
+                  "lat" : 55.857723,
+                  "lng" : -3.5911706
+               }
+            },
+            "location" : {
+               "lat" : 55.90070799999999,
+               "lng" : -3.518068
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.9175463,
+                  "lng" : -3.4823665
+               },
+               "southwest" : {
+                  "lat" : 55.857723,
+                  "lng" : -3.5911706
+               }
+            }
+         },
+         "place_id" : "ChIJfzdVDdjYh0gRRkJSjrk_C2g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

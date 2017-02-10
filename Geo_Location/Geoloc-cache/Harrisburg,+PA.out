@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harrisburg",
+               "short_name" : "Harrisburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dauphin County",
+               "short_name" : "Dauphin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harrisburg, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.326688,
+                  "lng" : -76.836394
+               },
+               "southwest" : {
+                  "lat" : 40.237601,
+                  "lng" : -76.92445699999999
+               }
+            },
+            "location" : {
+               "lat" : 40.2731911,
+               "lng" : -76.8867008
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.326688,
+                  "lng" : -76.836394
+               },
+               "southwest" : {
+                  "lat" : 40.237601,
+                  "lng" : -76.92445699999999
+               }
+            }
+         },
+         "place_id" : "ChIJl54HuBbByIkR1UaNEshCbrs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

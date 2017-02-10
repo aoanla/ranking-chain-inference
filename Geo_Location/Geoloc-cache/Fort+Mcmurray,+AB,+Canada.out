@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort McMurray",
+               "short_name" : "Fort McMurray",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wood Buffalo",
+               "short_name" : "Wood Buffalo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Division No. 16",
+               "short_name" : "Division No. 16",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort McMurray, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.777268,
+                  "lng" : -111.112616
+               },
+               "southwest" : {
+                  "lat" : 56.6326094,
+                  "lng" : -111.4881214
+               }
+            },
+            "location" : {
+               "lat" : 56.72637959999999,
+               "lng" : -111.3803407
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.777268,
+                  "lng" : -111.112616
+               },
+               "southwest" : {
+                  "lat" : 56.6326094,
+                  "lng" : -111.4881214
+               }
+            }
+         },
+         "place_id" : "ChIJWUQa_-46sFMRt3TKDTMzgVw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

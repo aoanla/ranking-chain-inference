@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rio de Janeiro, Rio de Janeiro - State of Rio de Janeiro, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -22.7461201,
+                  "lng" : -43.1016081
+               },
+               "southwest" : {
+                  "lat" : -23.0763469,
+                  "lng" : -43.7950599
+               }
+            },
+            "location" : {
+               "lat" : -22.9068467,
+               "lng" : -43.1728965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.7461201,
+                  "lng" : -43.1016081
+               },
+               "southwest" : {
+                  "lat" : -23.0763469,
+                  "lng" : -43.7950599
+               }
+            }
+         },
+         "place_id" : "ChIJW6AIkVXemwARTtIvZ2xC3FA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "Rio de Janeiro",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio de Janeiro",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "20211",
+               "short_name" : "20211",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rio de Janeiro, Rio de Janeiro - RJ, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -22.9133954,
+               "lng" : -43.20071009999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -22.9120464197085,
+                  "lng" : -43.1993611197085
+               },
+               "southwest" : {
+                  "lat" : -22.9147443802915,
+                  "lng" : -43.2020590802915
+               }
+            }
+         },
+         "place_id" : "ChIJK2AjMAl_mQARPFeMWcqfZdI",
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

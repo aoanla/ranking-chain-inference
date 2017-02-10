@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Wales Expressway",
+               "short_name" : "N Wales Expy",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Bangor",
+               "short_name" : "Bangor",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "LL57",
+               "short_name" : "LL57",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "N Wales Expy, Bangor LL57, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.3043742,
+                  "lng" : -2.8432906
+               },
+               "southwest" : {
+                  "lat" : 53.15596189999999,
+                  "lng" : -4.6299797
+               }
+            },
+            "location" : {
+               "lat" : 53.2818699,
+               "lng" : -3.7829281
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.3043742,
+                  "lng" : -2.8432906
+               },
+               "southwest" : {
+                  "lat" : 53.15596189999999,
+                  "lng" : -4.6299797
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJK-8BU7sYZUgRMYRIcFDf-iM",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

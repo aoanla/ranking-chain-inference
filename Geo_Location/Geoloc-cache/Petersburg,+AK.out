@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Petersburg",
+               "short_name" : "Petersburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Petersburg Borough",
+               "short_name" : "Petersburg Borough",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99833",
+               "short_name" : "99833",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Petersburg, AK 99833, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.82297639999999,
+                  "lng" : -132.7299049
+               },
+               "southwest" : {
+                  "lat" : 56.70977,
+                  "lng" : -132.981313
+               }
+            },
+            "location" : {
+               "lat" : 56.8125,
+               "lng" : -132.9555556
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.82297639999999,
+                  "lng" : -132.7299049
+               },
+               "southwest" : {
+                  "lat" : 56.70977,
+                  "lng" : -132.981313
+               }
+            }
+         },
+         "place_id" : "ChIJVzizl3ECBlQROOPMrF8x4eg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

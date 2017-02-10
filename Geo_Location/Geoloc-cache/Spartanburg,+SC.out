@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Spartanburg",
+               "short_name" : "Spartanburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Spartanburg County",
+               "short_name" : "Spartanburg County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Spartanburg, SC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.9825019,
+                  "lng" : -81.84673599999999
+               },
+               "southwest" : {
+                  "lat" : 34.9014599,
+                  "lng" : -81.9981068
+               }
+            },
+            "location" : {
+               "lat" : 34.9495672,
+               "lng" : -81.9320482
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.9825019,
+                  "lng" : -81.84673599999999
+               },
+               "southwest" : {
+                  "lat" : 34.9014599,
+                  "lng" : -81.9981068
+               }
+            }
+         },
+         "place_id" : "ChIJC0aXphmeV4gRyX7ayjgoi1s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

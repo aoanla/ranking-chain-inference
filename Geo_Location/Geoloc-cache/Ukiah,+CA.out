@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ukiah",
+               "short_name" : "Ukiah",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mendocino County",
+               "short_name" : "Mendocino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95482",
+               "short_name" : "95482",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ukiah, CA 95482, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.174391,
+                  "lng" : -123.180237
+               },
+               "southwest" : {
+                  "lat" : 39.110979,
+                  "lng" : -123.232277
+               }
+            },
+            "location" : {
+               "lat" : 39.1501709,
+               "lng" : -123.2077831
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.174391,
+                  "lng" : -123.180237
+               },
+               "southwest" : {
+                  "lat" : 39.110979,
+                  "lng" : -123.232277
+               }
+            }
+         },
+         "place_id" : "ChIJ43UBnP5kgYAR5sBNg5e83HM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

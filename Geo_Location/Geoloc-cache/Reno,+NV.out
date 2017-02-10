@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reno",
+               "short_name" : "Reno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washoe County",
+               "short_name" : "Washoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reno, NV, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.723436,
+                  "lng" : -119.6993449
+               },
+               "southwest" : {
+                  "lat" : 39.3924261,
+                  "lng" : -120.0023379
+               }
+            },
+            "location" : {
+               "lat" : 39.5296329,
+               "lng" : -119.8138027
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.723436,
+                  "lng" : -119.6993449
+               },
+               "southwest" : {
+                  "lat" : 39.3924261,
+                  "lng" : -120.0023379
+               }
+            }
+         },
+         "place_id" : "ChIJnaCSkq5AmYARh_c4dM7FxUA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Turku",
+               "short_name" : "Turku",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Turku, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.5304531,
+                  "lng" : 22.3819782
+               },
+               "southwest" : {
+                  "lat" : 60.33485049999999,
+                  "lng" : 22.0688208
+               }
+            },
+            "location" : {
+               "lat" : 60.4518126,
+               "lng" : 22.2666303
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.5304531,
+                  "lng" : 22.3819782
+               },
+               "southwest" : {
+                  "lat" : 60.33485049999999,
+                  "lng" : 22.0688208
+               }
+            }
+         },
+         "place_id" : "ChIJu9uOgYR1jEYRAMJLVVG1AAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

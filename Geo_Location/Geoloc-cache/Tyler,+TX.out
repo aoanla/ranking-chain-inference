@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tyler",
+               "short_name" : "Tyler",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Smith County",
+               "short_name" : "Smith County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tyler, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.4309281,
+                  "lng" : -95.1933069
+               },
+               "southwest" : {
+                  "lat" : 32.230322,
+                  "lng" : -95.46147999999999
+               }
+            },
+            "location" : {
+               "lat" : 32.3512601,
+               "lng" : -95.30106239999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.4309281,
+                  "lng" : -95.1933069
+               },
+               "southwest" : {
+                  "lat" : 32.230322,
+                  "lng" : -95.46147999999999
+               }
+            }
+         },
+         "place_id" : "ChIJ4_mrHgXMSYYRHHB3cX1cKD4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

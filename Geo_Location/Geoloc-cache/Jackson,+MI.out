@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jackson County",
+               "short_name" : "Jackson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jackson, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2708699,
+                  "lng" : -84.35681690000001
+               },
+               "southwest" : {
+                  "lat" : 42.203684,
+                  "lng" : -84.434546
+               }
+            },
+            "location" : {
+               "lat" : 42.245869,
+               "lng" : -84.40134619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2708699,
+                  "lng" : -84.35681690000001
+               },
+               "southwest" : {
+                  "lat" : 42.203684,
+                  "lng" : -84.434546
+               }
+            }
+         },
+         "place_id" : "ChIJa3szPlklPYgRUdWbjjKmRc4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

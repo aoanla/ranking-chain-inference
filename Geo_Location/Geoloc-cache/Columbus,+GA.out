@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbus",
+               "short_name" : "Columbus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Muscogee County",
+               "short_name" : "Muscogee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Columbus, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6081216,
+                  "lng" : -84.66746289999999
+               },
+               "southwest" : {
+                  "lat" : 32.3738739,
+                  "lng" : -85.0806218
+               }
+            },
+            "location" : {
+               "lat" : 32.4609764,
+               "lng" : -84.9877094
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6081216,
+                  "lng" : -84.66746289999999
+               },
+               "southwest" : {
+                  "lat" : 32.3738739,
+                  "lng" : -85.0806218
+               }
+            }
+         },
+         "place_id" : "ChIJ9TE1WBvNjIgRYQPh7qlQjHI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

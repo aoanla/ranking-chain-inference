@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Diego",
+               "short_name" : "San Diego",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Diego County",
+               "short_name" : "San Diego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Diego, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.114249,
+                  "lng" : -116.90816
+               },
+               "southwest" : {
+                  "lat" : 32.534856,
+                  "lng" : -117.2821665
+               }
+            },
+            "location" : {
+               "lat" : 32.715738,
+               "lng" : -117.1610838
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.114249,
+                  "lng" : -116.90816
+               },
+               "southwest" : {
+                  "lat" : 32.534856,
+                  "lng" : -117.2821665
+               }
+            }
+         },
+         "place_id" : "ChIJSx6SrQ9T2YARed8V_f0hOg0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

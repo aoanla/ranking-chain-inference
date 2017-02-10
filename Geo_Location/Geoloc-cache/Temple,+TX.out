@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Temple",
+               "short_name" : "Temple",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bell County",
+               "short_name" : "Bell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Temple, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.177408,
+                  "lng" : -97.29673609999999
+               },
+               "southwest" : {
+                  "lat" : 31.0305209,
+                  "lng" : -97.47672969999999
+               }
+            },
+            "location" : {
+               "lat" : 31.0982344,
+               "lng" : -97.342782
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.177408,
+                  "lng" : -97.29673609999999
+               },
+               "southwest" : {
+                  "lat" : 31.0305209,
+                  "lng" : -97.47672969999999
+               }
+            }
+         },
+         "place_id" : "ChIJpZIUl29CRYYRZMs2mQYuTC8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

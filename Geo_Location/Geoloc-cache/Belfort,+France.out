@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belfort",
+               "short_name" : "Belfort",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Territoire de Belfort",
+               "short_name" : "Territoire de Belfort",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Franche-Comté",
+               "short_name" : "Franche-Comté",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Belfort, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6709281,
+                  "lng" : 6.894894
+               },
+               "southwest" : {
+                  "lat" : 47.6203341,
+                  "lng" : 6.787417
+               }
+            },
+            "location" : {
+               "lat" : 47.63967400000001,
+               "lng" : 6.863849
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6709281,
+                  "lng" : 6.894894
+               },
+               "southwest" : {
+                  "lat" : 47.6203341,
+                  "lng" : 6.787417
+               }
+            }
+         },
+         "place_id" : "ChIJ4UhO_Hg7kkcR0FANszTOCQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

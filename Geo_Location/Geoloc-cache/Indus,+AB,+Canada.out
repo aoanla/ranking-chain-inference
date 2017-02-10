@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Indus",
+               "short_name" : "Indus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rocky View County",
+               "short_name" : "Rocky View No. 44",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T1X",
+               "short_name" : "T1X",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Indus, AB T1X, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.916221,
+               "lng" : -113.772631
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9232551,
+                  "lng" : -113.7566236
+               },
+               "southwest" : {
+                  "lat" : 50.9091858,
+                  "lng" : -113.7886384
+               }
+            }
+         },
+         "place_id" : "ChIJrW493e6BcVMRWmiVnVbWnsE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

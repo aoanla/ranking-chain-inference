@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Enschede",
+               "short_name" : "Enschede",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Enschede",
+               "short_name" : "Enschede",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Overijssel",
+               "short_name" : "Overste",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Enschede, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.2854608,
+                  "lng" : 6.981152700000001
+               },
+               "southwest" : {
+                  "lat" : 52.1610969,
+                  "lng" : 6.755942900000001
+               }
+            },
+            "location" : {
+               "lat" : 52.2215372,
+               "lng" : 6.8936619
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.2854608,
+                  "lng" : 6.981152700000001
+               },
+               "southwest" : {
+                  "lat" : 52.1610969,
+                  "lng" : 6.755942900000001
+               }
+            }
+         },
+         "place_id" : "ChIJh1H-gpQTuEcR4mVyrbcfTtI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

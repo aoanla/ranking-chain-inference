@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Denton",
+               "short_name" : "Denton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Denton County",
+               "short_name" : "Denton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Denton, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.358306,
+                  "lng" : -97.0238129
+               },
+               "southwest" : {
+                  "lat" : 33.1168785,
+                  "lng" : -97.2664899
+               }
+            },
+            "location" : {
+               "lat" : 33.2148412,
+               "lng" : -97.13306829999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.358306,
+                  "lng" : -97.0238129
+               },
+               "southwest" : {
+                  "lat" : 33.1168785,
+                  "lng" : -97.2664899
+               }
+            }
+         },
+         "place_id" : "ChIJ0bGIwKBMTIYRG_sUSMt0RHI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

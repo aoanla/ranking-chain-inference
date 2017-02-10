@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Crescent City",
+               "short_name" : "Crescent City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Del Norte County",
+               "short_name" : "Del Norte County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Crescent City, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.858094,
+                  "lng" : -124.141946
+               },
+               "southwest" : {
+                  "lat" : 41.7361622,
+                  "lng" : -124.2548879
+               }
+            },
+            "location" : {
+               "lat" : 41.7557501,
+               "lng" : -124.2025913
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.7790046,
+                  "lng" : -124.1769171
+               },
+               "southwest" : {
+                  "lat" : 41.7361622,
+                  "lng" : -124.2548879
+               }
+            }
+         },
+         "place_id" : "ChIJ24hiXDdm0FQRLuZ1c7Ca6HY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

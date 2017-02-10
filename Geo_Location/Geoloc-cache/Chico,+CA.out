@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chico",
+               "short_name" : "Chico",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Butte County",
+               "short_name" : "Butte County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chico, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.816935,
+                  "lng" : -121.7132931
+               },
+               "southwest" : {
+                  "lat" : 39.6987579,
+                  "lng" : -121.898508
+               }
+            },
+            "location" : {
+               "lat" : 39.7284944,
+               "lng" : -121.8374777
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.816935,
+                  "lng" : -121.7132931
+               },
+               "southwest" : {
+                  "lat" : 39.6987579,
+                  "lng" : -121.898508
+               }
+            }
+         },
+         "place_id" : "ChIJh2Qj_I0fg4AROEU6eY_rjjA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

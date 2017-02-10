@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Visalia",
+               "short_name" : "Visalia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tulare County",
+               "short_name" : "Tulare County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Visalia, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.365631,
+                  "lng" : -119.241917
+               },
+               "southwest" : {
+                  "lat" : 36.269363,
+                  "lng" : -119.421438
+               }
+            },
+            "location" : {
+               "lat" : 36.3302284,
+               "lng" : -119.2920585
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.365631,
+                  "lng" : -119.241917
+               },
+               "southwest" : {
+                  "lat" : 36.269363,
+                  "lng" : -119.421438
+               }
+            }
+         },
+         "place_id" : "ChIJKYfr04LYlIARDkgLAe7jklU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ocala",
+               "short_name" : "Ocala",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marion County",
+               "short_name" : "Marion County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ocala, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.2267539,
+                  "lng" : -82.06153599999999
+               },
+               "southwest" : {
+                  "lat" : 29.1210169,
+                  "lng" : -82.2520799
+               }
+            },
+            "location" : {
+               "lat" : 29.1871986,
+               "lng" : -82.14009229999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.2267539,
+                  "lng" : -82.06153599999999
+               },
+               "southwest" : {
+                  "lat" : 29.1210169,
+                  "lng" : -82.2520799
+               }
+            }
+         },
+         "place_id" : "ChIJ5Ty6HFQr5ogRNgU4seQ79fU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jyväskylä",
+               "short_name" : "Jyväskylä",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jyväskylä sub-region",
+               "short_name" : "Jyväskylä sub-region",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Central Finland",
+               "short_name" : "Central Finland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jyväskylä, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.4288682,
+                  "lng" : 26.0510265
+               },
+               "southwest" : {
+                  "lat" : 61.8467847,
+                  "lng" : 25.260686
+               }
+            },
+            "location" : {
+               "lat" : 62.2426034,
+               "lng" : 25.7472567
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.4288682,
+                  "lng" : 26.0510265
+               },
+               "southwest" : {
+                  "lat" : 61.846799,
+                  "lng" : 25.260686
+               }
+            }
+         },
+         "place_id" : "ChIJGTGp0RV0hUYR16KQZ31pV7o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

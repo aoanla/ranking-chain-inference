@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Panama City",
+               "short_name" : "Panama City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bay County",
+               "short_name" : "Bay County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Panama City, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.2772461,
+                  "lng" : -85.4654039
+               },
+               "southwest" : {
+                  "lat" : 30.1342087,
+                  "lng" : -85.7372264
+               }
+            },
+            "location" : {
+               "lat" : 30.1588129,
+               "lng" : -85.6602058
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.2772461,
+                  "lng" : -85.4654039
+               },
+               "southwest" : {
+                  "lat" : 30.1342087,
+                  "lng" : -85.7372264
+               }
+            }
+         },
+         "place_id" : "ChIJQWPGKlaBk4gR8wFHLNVeWL8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

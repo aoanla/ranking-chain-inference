@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalamazoo",
+               "short_name" : "Kalamazoo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kalamazoo County",
+               "short_name" : "Kalamazoo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalamazoo, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.332752,
+                  "lng" : -85.5307821
+               },
+               "southwest" : {
+                  "lat" : 42.2155639,
+                  "lng" : -85.6635149
+               }
+            },
+            "location" : {
+               "lat" : 42.2917069,
+               "lng" : -85.5872286
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.332752,
+                  "lng" : -85.5307821
+               },
+               "southwest" : {
+                  "lat" : 42.2155639,
+                  "lng" : -85.6635149
+               }
+            }
+         },
+         "place_id" : "ChIJuZIxSXmdF4gRCTBXSdL4fNo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

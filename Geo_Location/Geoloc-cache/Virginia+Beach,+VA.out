@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Virginia Beach",
+               "short_name" : "Virginia Beach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Virginia Beach, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.9845247,
+                  "lng" : -75.86758189999999
+               },
+               "southwest" : {
+                  "lat" : 36.550453,
+                  "lng" : -76.22774769999999
+               }
+            },
+            "location" : {
+               "lat" : 36.8529263,
+               "lng" : -75.97798499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.9845204,
+                  "lng" : -75.86758189999999
+               },
+               "southwest" : {
+                  "lat" : 36.550453,
+                  "lng" : -76.22774769999999
+               }
+            }
+         },
+         "place_id" : "ChIJpycV_OjBuokRcwEuo4AQFgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

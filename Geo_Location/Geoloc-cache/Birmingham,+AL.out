@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Birmingham",
+               "short_name" : "Birmingham",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Jefferson County",
+               "short_name" : "Jefferson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alabama",
+               "short_name" : "AL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Birmingham, AL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.6787149,
+                  "lng" : -86.57814979999999
+               },
+               "southwest" : {
+                  "lat" : 33.3837599,
+                  "lng" : -87.12212409999999
+               }
+            },
+            "location" : {
+               "lat" : 33.5206608,
+               "lng" : -86.80248999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.6787149,
+                  "lng" : -86.57814979999999
+               },
+               "southwest" : {
+                  "lat" : 33.3837599,
+                  "lng" : -87.12212409999999
+               }
+            }
+         },
+         "place_id" : "ChIJ07-FWN8RiYgRzlS66gl0UCU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

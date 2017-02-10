@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "South Street",
+               "short_name" : "South St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Pittsfield",
+               "short_name" : "Pittsfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "01201",
+               "short_name" : "01201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "South St, Pittsfield, MA 01201, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.448543,
+                  "lng" : -73.2533693
+               },
+               "southwest" : {
+                  "lat" : 42.4070683,
+                  "lng" : -73.26741
+               }
+            },
+            "location" : {
+               "lat" : 42.4283844,
+               "lng" : -73.2592205
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.448543,
+                  "lng" : -73.2533693
+               },
+               "southwest" : {
+                  "lat" : 42.4070683,
+                  "lng" : -73.26741
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ74JB4sVP54kRD_ZSz_knk-8",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

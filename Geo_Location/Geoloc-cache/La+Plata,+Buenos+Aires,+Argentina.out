@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Plata",
+               "short_name" : "La Plata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Plata",
+               "short_name" : "La Plata",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Plata, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.8871802,
+                  "lng" : -57.9131127
+               },
+               "southwest" : {
+                  "lat" : -34.9538764,
+                  "lng" : -57.9932279
+               }
+            },
+            "location" : {
+               "lat" : -34.9204948,
+               "lng" : -57.95356570000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.8871802,
+                  "lng" : -57.9131127
+               },
+               "southwest" : {
+                  "lat" : -34.9538764,
+                  "lng" : -57.9932279
+               }
+            }
+         },
+         "place_id" : "ChIJoYUAHyvmopUR4xJzVPBE_Lw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

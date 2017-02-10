@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Harrisburg",
+               "short_name" : "Harrisburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harrisburg Township",
+               "short_name" : "Harrisburg Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Saline County",
+               "short_name" : "Saline County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Harrisburg, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.765751,
+                  "lng" : -88.5125199
+               },
+               "southwest" : {
+                  "lat" : 37.708894,
+                  "lng" : -88.5773679
+               }
+            },
+            "location" : {
+               "lat" : 37.7383812,
+               "lng" : -88.54060699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.765751,
+                  "lng" : -88.5125199
+               },
+               "southwest" : {
+                  "lat" : 37.708894,
+                  "lng" : -88.5773679
+               }
+            }
+         },
+         "place_id" : "ChIJlVrrZY3DcIgR5CyMae32Qug",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

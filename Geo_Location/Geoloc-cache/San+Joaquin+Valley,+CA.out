@@ -1,0 +1,168 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Joaquin County",
+               "short_name" : "San Joaquin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Joaquin County, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.2994709,
+                  "lng" : -120.920665
+               },
+               "southwest" : {
+                  "lat" : 37.4817831,
+                  "lng" : -121.585079
+               }
+            },
+            "location" : {
+               "lat" : 37.9175935,
+               "lng" : -121.1710389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.2994709,
+                  "lng" : -120.920665
+               },
+               "southwest" : {
+                  "lat" : 37.4817831,
+                  "lng" : -121.585079
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ31ZZ5gY-kIAR0dtYpsEqJEc",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Joaquin Valley",
+               "short_name" : "San Joaquin Valley",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Contra Costa County",
+               "short_name" : "Contra Costa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "94509",
+               "short_name" : "94509",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "San Joaquin Valley, California 94509, USA",
+         "geometry" : {
+            "location" : {
+               "lat" : 37.9832553,
+               "lng" : -121.8677352
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.9846042802915,
+                  "lng" : -121.8663862197085
+               },
+               "southwest" : {
+                  "lat" : 37.9819063197085,
+                  "lng" : -121.8690841802915
+               }
+            }
+         },
+         "place_id" : "ChIJDYC9VBtZhYARkT8bVGlBg-Y",
+         "types" : [ "natural_feature", "establishment" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Joaquin",
+               "short_name" : "San Joaquin",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Irvine",
+               "short_name" : "Irvine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orange County",
+               "short_name" : "Orange County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "92612",
+               "short_name" : "92612",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "San Joaquin, Irvine, CA 92612, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.6642278,
+                  "lng" : -117.8311439
+               },
+               "southwest" : {
+                  "lat" : 33.6573599,
+                  "lng" : -117.8344175
+               }
+            },
+            "location" : {
+               "lat" : 33.661293,
+               "lng" : -117.8325172
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.6642278,
+                  "lng" : -117.8311439
+               },
+               "southwest" : {
+                  "lat" : 33.6573599,
+                  "lng" : -117.8344175
+               }
+            }
+         },
+         "place_id" : "ChIJmxPwdHbe3IAR_Pd3PEnk2YQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

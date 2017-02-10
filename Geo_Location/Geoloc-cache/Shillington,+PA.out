@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Shillington",
+               "short_name" : "Shillington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berks County",
+               "short_name" : "Berks County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Shillington, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.3134691,
+                  "lng" : -75.9549531
+               },
+               "southwest" : {
+                  "lat" : 40.2865549,
+                  "lng" : -75.97885579999999
+               }
+            },
+            "location" : {
+               "lat" : 40.3078702,
+               "lng" : -75.9654896
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3134691,
+                  "lng" : -75.9549531
+               },
+               "southwest" : {
+                  "lat" : 40.2865549,
+                  "lng" : -75.97885579999999
+               }
+            }
+         },
+         "place_id" : "ChIJvXx6hQpxxokRUMhf000qg2o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

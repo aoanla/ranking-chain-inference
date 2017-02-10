@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Walton Beach",
+               "short_name" : "Fort Walton Beach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okaloosa County",
+               "short_name" : "Okaloosa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Walton Beach, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.4717529,
+                  "lng" : -86.58702919999999
+               },
+               "southwest" : {
+                  "lat" : 30.401181,
+                  "lng" : -86.672804
+               }
+            },
+            "location" : {
+               "lat" : 30.42007079999999,
+               "lng" : -86.61703079999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.4343709,
+                  "lng" : -86.58702919999999
+               },
+               "southwest" : {
+                  "lat" : 30.401181,
+                  "lng" : -86.672804
+               }
+            }
+         },
+         "place_id" : "ChIJfTigqtIWkYgRx2eePA-tpuM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lexington",
+               "short_name" : "Lexington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fayette County",
+               "short_name" : "Fayette County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kentucky",
+               "short_name" : "KY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lexington, KY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.211404,
+                  "lng" : -84.282715
+               },
+               "southwest" : {
+                  "lat" : 37.8452559,
+                  "lng" : -84.66041509999999
+               }
+            },
+            "location" : {
+               "lat" : 38.0405837,
+               "lng" : -84.5037164
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.211404,
+                  "lng" : -84.282715
+               },
+               "southwest" : {
+                  "lat" : 37.8452559,
+                  "lng" : -84.66041509999999
+               }
+            }
+         },
+         "place_id" : "ChIJJeuczClEQogR3U-MkEGD8IQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

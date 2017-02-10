@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taunton",
+               "short_name" : "Taunton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bristol County",
+               "short_name" : "Bristol County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Taunton, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.9946,
+                  "lng" : -70.9733968
+               },
+               "southwest" : {
+                  "lat" : 41.83796479999999,
+                  "lng" : -71.195393
+               }
+            },
+            "location" : {
+               "lat" : 41.900101,
+               "lng" : -71.0897674
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.9946,
+                  "lng" : -70.9733968
+               },
+               "southwest" : {
+                  "lat" : 41.83796479999999,
+                  "lng" : -71.195393
+               }
+            }
+         },
+         "place_id" : "ChIJm16FWFaL5IkRS4Pa4LcYvMk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

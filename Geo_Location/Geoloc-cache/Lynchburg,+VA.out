@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lynchburg",
+               "short_name" : "Lynchburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lynchburg, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.469304,
+                  "lng" : -79.0857001
+               },
+               "southwest" : {
+                  "lat" : 37.33258,
+                  "lng" : -79.27176799999999
+               }
+            },
+            "location" : {
+               "lat" : 37.4137536,
+               "lng" : -79.14224639999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.469304,
+                  "lng" : -79.0857001
+               },
+               "southwest" : {
+                  "lat" : 37.33258,
+                  "lng" : -79.27176799999999
+               }
+            }
+         },
+         "place_id" : "ChIJAQQykHjZsokRYeIgyF7ztsM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

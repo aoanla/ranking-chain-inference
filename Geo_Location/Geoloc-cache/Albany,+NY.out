@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albany",
+               "short_name" : "Albany",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Albany County",
+               "short_name" : "Albany County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Albany, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7223788,
+                  "lng" : -73.7247004
+               },
+               "southwest" : {
+                  "lat" : 42.6139009,
+                  "lng" : -73.898099
+               }
+            },
+            "location" : {
+               "lat" : 42.6525793,
+               "lng" : -73.7562317
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7223788,
+                  "lng" : -73.7247004
+               },
+               "southwest" : {
+                  "lat" : 42.6139009,
+                  "lng" : -73.898099
+               }
+            }
+         },
+         "place_id" : "ChIJS_tPzDQK3okRxCjnoBJjoeE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

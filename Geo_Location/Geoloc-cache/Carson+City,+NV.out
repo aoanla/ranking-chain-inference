@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Carson City",
+               "short_name" : "Carson City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Carson City, NV, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.2508709,
+                  "lng" : -119.548357
+               },
+               "southwest" : {
+                  "lat" : 39.084796,
+                  "lng" : -119.9569523
+               }
+            },
+            "location" : {
+               "lat" : 39.1637984,
+               "lng" : -119.7674034
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2508709,
+                  "lng" : -119.548357
+               },
+               "southwest" : {
+                  "lat" : 39.084796,
+                  "lng" : -119.9569523
+               }
+            }
+         },
+         "place_id" : "ChIJcbTe-KEKmYARKDjivYJsnPc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

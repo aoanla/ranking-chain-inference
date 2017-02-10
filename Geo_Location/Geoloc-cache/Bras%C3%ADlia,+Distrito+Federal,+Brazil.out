@@ -1,0 +1,167 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brasília",
+               "short_name" : "Brasília",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brasilia",
+               "short_name" : "Brasilia",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Brasilia",
+               "short_name" : "Brasilia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Federal District",
+               "short_name" : "DF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brasília - Brasilia, Brasilia - Federal District, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.5783532,
+                  "lng" : -47.7867076
+               },
+               "southwest" : {
+                  "lat" : -15.8651711,
+                  "lng" : -48.0897647
+               }
+            },
+            "location" : {
+               "lat" : -15.7942287,
+               "lng" : -47.8821658
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.5783532,
+                  "lng" : -47.7867076
+               },
+               "southwest" : {
+                  "lat" : -15.8651711,
+                  "lng" : -48.0897647
+               }
+            }
+         },
+         "place_id" : "ChIJdeKa3xg9WpMRJEp1aeRwhHM",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brasília",
+               "short_name" : "Brasília",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taguatinga",
+               "short_name" : "Taguatinga",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Brasília",
+               "short_name" : "Brasília",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Distrito Federal",
+               "short_name" : "DF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brasília - Taguatinga, Brasília - DF, Brazil",
+         "geometry" : {
+            "location" : {
+               "lat" : -15.8729537,
+               "lng" : -48.0163953
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.8716047197085,
+                  "lng" : -48.0150463197085
+               },
+               "southwest" : {
+                  "lat" : -15.8743026802915,
+                  "lng" : -48.0177442802915
+               }
+            }
+         },
+         "place_id" : "ChIJq1VbrsYtWpMRf-Cc-fyPj2I",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brasilia",
+               "short_name" : "Brasilia",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Brasilia",
+               "short_name" : "Brasilia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Federal District",
+               "short_name" : "DF",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brasilia, Brasilia - Federal District, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -15.5783532,
+                  "lng" : -47.7867076
+               },
+               "southwest" : {
+                  "lat" : -15.8651711,
+                  "lng" : -48.0897647
+               }
+            },
+            "location" : {
+               "lat" : -15.7941874,
+               "lng" : -47.8825852
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -15.5783532,
+                  "lng" : -47.7867076
+               },
+               "southwest" : {
+                  "lat" : -15.8651711,
+                  "lng" : -48.0897647
+               }
+            }
+         },
+         "place_id" : "ChIJMY_byXY3WpMRrGc50eIQKSk",
+         "types" : [ "administrative_area_level_4", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

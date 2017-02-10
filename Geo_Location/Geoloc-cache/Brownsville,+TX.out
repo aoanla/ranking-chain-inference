@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brownsville",
+               "short_name" : "Brownsville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cameron County",
+               "short_name" : "Cameron County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brownsville, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.2175139,
+                  "lng" : -97.27370719999999
+               },
+               "southwest" : {
+                  "lat" : 25.840258,
+                  "lng" : -97.6445519
+               }
+            },
+            "location" : {
+               "lat" : 25.9017472,
+               "lng" : -97.4974838
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.2175139,
+                  "lng" : -97.27370719999999
+               },
+               "southwest" : {
+                  "lat" : 25.840258,
+                  "lng" : -97.6445519
+               }
+            }
+         },
+         "place_id" : "ChIJGWX8w2t_b4YRLFJWSGka37E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

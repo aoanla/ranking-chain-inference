@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marquette",
+               "short_name" : "Marquette",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marquette County",
+               "short_name" : "Marquette County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marquette, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.6791689,
+                  "lng" : -87.3650445
+               },
+               "southwest" : {
+                  "lat" : 46.4989531,
+                  "lng" : -87.614453
+               }
+            },
+            "location" : {
+               "lat" : 46.5475825,
+               "lng" : -87.39559539999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.6791689,
+                  "lng" : -87.3650445
+               },
+               "southwest" : {
+                  "lat" : 46.4989531,
+                  "lng" : -87.614453
+               }
+            }
+         },
+         "place_id" : "ChIJhbZGxF3fUU0RGsdaTK1KNpE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

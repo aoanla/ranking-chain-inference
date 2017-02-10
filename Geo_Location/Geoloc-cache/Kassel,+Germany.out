@@ -1,0 +1,123 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kassel",
+               "short_name" : "Kassel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kassel",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kassel, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.36940509999999,
+                  "lng" : 9.570128199999999
+               },
+               "southwest" : {
+                  "lat" : 51.2603671,
+                  "lng" : 9.3511015
+               }
+            },
+            "location" : {
+               "lat" : 51.3127114,
+               "lng" : 9.4797461
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.36940509999999,
+                  "lng" : 9.570128199999999
+               },
+               "southwest" : {
+                  "lat" : 51.2603671,
+                  "lng" : 9.3511015
+               }
+            }
+         },
+         "place_id" : "ChIJHWx6n04_u0cRRxciWD1jhC8",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kassel",
+               "short_name" : "Kassel",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Biebergemünd",
+               "short_name" : "Biebergemünd",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "DA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hessen",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63599",
+               "short_name" : "63599",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kassel, 63599 Biebergemünd, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.2173498,
+                  "lng" : 9.3059744
+               },
+               "southwest" : {
+                  "lat" : 50.18299649999999,
+                  "lng" : 9.271353399999999
+               }
+            },
+            "location" : {
+               "lat" : 50.2066898,
+               "lng" : 9.279060399999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.2173498,
+                  "lng" : 9.286410699999999
+               },
+               "southwest" : {
+                  "lat" : 50.2006739,
+                  "lng" : 9.271353399999999
+               }
+            }
+         },
+         "place_id" : "ChIJG4zo1CMvvUcRQPWOqlJDIgo",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

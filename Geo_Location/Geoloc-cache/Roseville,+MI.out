@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roseville",
+               "short_name" : "Roseville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Macomb County",
+               "short_name" : "Macomb County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Roseville, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.5397841,
+                  "lng" : -82.903143
+               },
+               "southwest" : {
+                  "lat" : 42.4798059,
+                  "lng" : -82.968991
+               }
+            },
+            "location" : {
+               "lat" : 42.4972583,
+               "lng" : -82.9371409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.5397841,
+                  "lng" : -82.903143
+               },
+               "southwest" : {
+                  "lat" : 42.4798059,
+                  "lng" : -82.968991
+               }
+            }
+         },
+         "place_id" : "ChIJCxpteDjYJIgRYe7lj94zfrA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albury",
+               "short_name" : "Albury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2640",
+               "short_name" : "2640",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Albury NSW 2640, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.060916,
+                  "lng" : 146.9342815
+               },
+               "southwest" : {
+                  "lat" : -36.0860157,
+                  "lng" : 146.8993094
+               }
+            },
+            "location" : {
+               "lat" : -36.0807785,
+               "lng" : 146.9164693
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.060916,
+                  "lng" : 146.9342815
+               },
+               "southwest" : {
+                  "lat" : -36.0860157,
+                  "lng" : 146.8993094
+               }
+            }
+         },
+         "place_id" : "ChIJpz7zaXxfIWsRACdEkLQJBgU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Albury",
+               "short_name" : "Albury",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Albury NSW, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -35.99109,
+                  "lng" : 147.0224584
+               },
+               "southwest" : {
+                  "lat" : -36.115774,
+                  "lng" : 146.8145762
+               }
+            },
+            "location" : {
+               "lat" : -36.0807785,
+               "lng" : 146.9164693
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -35.99109,
+                  "lng" : 147.0224584
+               },
+               "southwest" : {
+                  "lat" : -36.115774,
+                  "lng" : 146.8145762
+               }
+            }
+         },
+         "place_id" : "ChIJkx_yzUPgI2sRwORDkLQJBgQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

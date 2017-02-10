@@ -1,0 +1,414 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vigo",
+               "short_name" : "Vigo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Vigo",
+               "short_name" : "Vigo",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Vigo",
+               "short_name" : "Vigo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pontevedra",
+               "short_name" : "PO",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vigo, Pontevedra, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2621592,
+                  "lng" : -8.672200799999999
+               },
+               "southwest" : {
+                  "lat" : 42.1900191,
+                  "lng" : -8.7785691
+               }
+            },
+            "location" : {
+               "lat" : 42.24059889999999,
+               "lng" : -8.7207268
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2621592,
+                  "lng" : -8.672200799999999
+               },
+               "southwest" : {
+                  "lat" : 42.1900191,
+                  "lng" : -8.7785691
+               }
+            }
+         },
+         "place_id" : "ChIJk8GyYRRiLw0Rn9RLF60dRHs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vigo",
+               "short_name" : "Vigo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dodro",
+               "short_name" : "Dodro",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "O Sar",
+               "short_name" : "O Sar",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15981",
+               "short_name" : "15981",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "15981 Vigo, A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7180477,
+                  "lng" : -8.6915692
+               },
+               "southwest" : {
+                  "lat" : 42.7143793,
+                  "lng" : -8.695339499999999
+               }
+            },
+            "location" : {
+               "lat" : 42.7163802,
+               "lng" : -8.693412499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7180477,
+                  "lng" : -8.6915692
+               },
+               "southwest" : {
+                  "lat" : 42.7143793,
+                  "lng" : -8.695339499999999
+               }
+            }
+         },
+         "place_id" : "ChIJGyaGLPAaLw0RbRgKU4noilw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vigo",
+               "short_name" : "Vigo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fisterra",
+               "short_name" : "Fisterra",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Fisterra",
+               "short_name" : "Fisterra",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15154",
+               "short_name" : "15154",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "15154 Vigo, A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9387883,
+                  "lng" : -9.260030799999999
+               },
+               "southwest" : {
+                  "lat" : 42.9348156,
+                  "lng" : -9.2624859
+               }
+            },
+            "location" : {
+               "lat" : 42.9367455,
+               "lng" : -9.2610624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9387883,
+                  "lng" : -9.259909369708497
+               },
+               "southwest" : {
+                  "lat" : 42.9348156,
+                  "lng" : -9.262607330291502
+               }
+            }
+         },
+         "place_id" : "ChIJJQk2JeotKQ0RRd1o0GysttU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vigo",
+               "short_name" : "Vigo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Miño",
+               "short_name" : "Miño",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Betanzos",
+               "short_name" : "Betanzos",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15635",
+               "short_name" : "15635",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "15635 Vigo, A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3248381,
+                  "lng" : -8.1449987
+               },
+               "southwest" : {
+                  "lat" : 43.3222382,
+                  "lng" : -8.1483031
+               }
+            },
+            "location" : {
+               "lat" : 43.3236462,
+               "lng" : -8.147170299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3248871302915,
+                  "lng" : -8.1449987
+               },
+               "southwest" : {
+                  "lat" : 43.3221891697085,
+                  "lng" : -8.1483031
+               }
+            }
+         },
+         "place_id" : "ChIJh0IAiTltLg0RycIfocDAOaU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vigo",
+               "short_name" : "Vigo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chantada",
+               "short_name" : "Chantada",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Chantada",
+               "short_name" : "Chantada",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lugo",
+               "short_name" : "Lugo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "27518",
+               "short_name" : "27518",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "27518 Vigo, Lugo, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.6437409,
+                  "lng" : -7.806364500000001
+               },
+               "southwest" : {
+                  "lat" : 42.6421407,
+                  "lng" : -7.8096956
+               }
+            },
+            "location" : {
+               "lat" : 42.6431225,
+               "lng" : -7.8079046
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.6442897802915,
+                  "lng" : -7.806364500000001
+               },
+               "southwest" : {
+                  "lat" : 42.6415918197085,
+                  "lng" : -7.8096956
+               }
+            }
+         },
+         "place_id" : "ChIJNa7kwAzfLw0RCZskRs7hNQc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vigo",
+               "short_name" : "Vigo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malpica de Bergantiños",
+               "short_name" : "Malpica de Bergantiños",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Bergantiños",
+               "short_name" : "Bergantiños",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "15113",
+               "short_name" : "15113",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "15113 Vigo, A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3088715,
+                  "lng" : -8.8470151
+               },
+               "southwest" : {
+                  "lat" : 43.3074799,
+                  "lng" : -8.848882
+               }
+            },
+            "location" : {
+               "lat" : 43.3081166,
+               "lng" : -8.847819299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3095246802915,
+                  "lng" : -8.846599569708498
+               },
+               "southwest" : {
+                  "lat" : 43.3068267197085,
+                  "lng" : -8.849297530291503
+               }
+            }
+         },
+         "place_id" : "ChIJA56SN7uiLg0RN1Evf_V-Ig8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

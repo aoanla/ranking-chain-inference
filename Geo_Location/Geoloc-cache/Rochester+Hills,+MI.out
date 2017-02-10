@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rochester Hills",
+               "short_name" : "Rochester Hills",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oakland County",
+               "short_name" : "Oakland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rochester Hills, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.712491,
+                  "lng" : -83.091449
+               },
+               "southwest" : {
+                  "lat" : 42.62099509999999,
+                  "lng" : -83.21378
+               }
+            },
+            "location" : {
+               "lat" : 42.65836609999999,
+               "lng" : -83.14993219999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.712491,
+                  "lng" : -83.091449
+               },
+               "southwest" : {
+                  "lat" : 42.62099509999999,
+                  "lng" : -83.21378
+               }
+            }
+         },
+         "place_id" : "ChIJoTG-xJjpJIgRLzbxO1PuxCk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

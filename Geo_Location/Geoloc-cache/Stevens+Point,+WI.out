@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stevens Point",
+               "short_name" : "Stevens Point",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Portage County",
+               "short_name" : "Portage County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stevens Point, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5675168,
+                  "lng" : -89.494562
+               },
+               "southwest" : {
+                  "lat" : 44.493975,
+                  "lng" : -89.60740509999999
+               }
+            },
+            "location" : {
+               "lat" : 44.52357920000001,
+               "lng" : -89.574563
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5675168,
+                  "lng" : -89.494562
+               },
+               "southwest" : {
+                  "lat" : 44.493975,
+                  "lng" : -89.60740509999999
+               }
+            }
+         },
+         "place_id" : "ChIJP5gzjY1aAIgRM67SsGh5voI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

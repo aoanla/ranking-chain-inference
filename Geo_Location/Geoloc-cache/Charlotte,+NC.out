@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charlotte",
+               "short_name" : "Charlotte",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "1, Charlotte",
+               "short_name" : "1, Charlotte",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Mecklenburg County",
+               "short_name" : "Mecklenburg County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Charlotte, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.39313300000001,
+                  "lng" : -80.67010399999999
+               },
+               "southwest" : {
+                  "lat" : 35.0131739,
+                  "lng" : -81.0089479
+               }
+            },
+            "location" : {
+               "lat" : 35.2270869,
+               "lng" : -80.8431267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.39313300000001,
+                  "lng" : -80.67010399999999
+               },
+               "southwest" : {
+                  "lat" : 35.0131739,
+                  "lng" : -81.0089479
+               }
+            }
+         },
+         "place_id" : "ChIJgRo4_MQfVIgRZNFDv-ZQRog",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charleston",
+               "short_name" : "Charleston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Charleston County",
+               "short_name" : "Charleston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Charleston, SC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.973586,
+                  "lng" : -79.7971659
+               },
+               "southwest" : {
+                  "lat" : 32.6685048,
+                  "lng" : -80.14379
+               }
+            },
+            "location" : {
+               "lat" : 32.7764749,
+               "lng" : -79.93105120000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.973586,
+                  "lng" : -79.7971659
+               },
+               "southwest" : {
+                  "lat" : 32.6685048,
+                  "lng" : -80.14379
+               }
+            }
+         },
+         "place_id" : "ChIJdySo3EJ6_ogRa-zhruD3-jU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

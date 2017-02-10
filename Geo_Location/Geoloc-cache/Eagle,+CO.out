@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eagle",
+               "short_name" : "Eagle",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Eagle County",
+               "short_name" : "Eagle County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eagle, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.673839,
+                  "lng" : -106.787227
+               },
+               "southwest" : {
+                  "lat" : 39.6049719,
+                  "lng" : -106.8466279
+               }
+            },
+            "location" : {
+               "lat" : 39.6552634,
+               "lng" : -106.8286507
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.673839,
+                  "lng" : -106.787227
+               },
+               "southwest" : {
+                  "lat" : 39.6049719,
+                  "lng" : -106.8466279
+               }
+            }
+         },
+         "place_id" : "ChIJyS38VlDBQYcR5da4mHUcpMU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Las Animas",
+               "short_name" : "Las Animas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bent County",
+               "short_name" : "Bent County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81054",
+               "short_name" : "81054",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Las Animas, CO 81054, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.080063,
+                  "lng" : -103.2119209
+               },
+               "southwest" : {
+                  "lat" : 38.059101,
+                  "lng" : -103.24503
+               }
+            },
+            "location" : {
+               "lat" : 38.0666735,
+               "lng" : -103.222708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.080063,
+                  "lng" : -103.2119209
+               },
+               "southwest" : {
+                  "lat" : 38.059101,
+                  "lng" : -103.24503
+               }
+            }
+         },
+         "place_id" : "ChIJbetB0inmDYcRfqlGo1VjB34",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

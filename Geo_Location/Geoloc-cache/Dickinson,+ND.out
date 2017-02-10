@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dickinson",
+               "short_name" : "Dickinson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stark County",
+               "short_name" : "Stark County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Dakota",
+               "short_name" : "ND",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "58601",
+               "short_name" : "58601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dickinson, ND 58601, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.9138061,
+                  "lng" : -102.7264561
+               },
+               "southwest" : {
+                  "lat" : 46.848763,
+                  "lng" : -102.832165
+               }
+            },
+            "location" : {
+               "lat" : 46.8791756,
+               "lng" : -102.7896242
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.9138061,
+                  "lng" : -102.7264561
+               },
+               "southwest" : {
+                  "lat" : 46.848763,
+                  "lng" : -102.832165
+               }
+            }
+         },
+         "place_id" : "ChIJl1xUUZEXJlMRKDcntbMygcQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

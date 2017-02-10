@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greystones",
+               "short_name" : "Greystones",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wicklow",
+               "short_name" : "Wicklow",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wicklow",
+               "short_name" : "Wicklow",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Ireland",
+               "short_name" : "IE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greystones, Co. Wicklow, Ireland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.16058,
+                  "lng" : -6.056159999999999
+               },
+               "southwest" : {
+                  "lat" : 53.12935,
+                  "lng" : -6.104829899999999
+               }
+            },
+            "location" : {
+               "lat" : 53.1491175,
+               "lng" : -6.0793414
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.16058,
+                  "lng" : -6.056159999999999
+               },
+               "southwest" : {
+                  "lat" : 53.12935,
+                  "lng" : -6.104829899999999
+               }
+            }
+         },
+         "place_id" : "ChIJKcXgkDGvZ0gRIBcyl6nHAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Farmington",
+               "short_name" : "Farmington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Juan County",
+               "short_name" : "San Juan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Farmington, NM, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.8215809,
+                  "lng" : -108.095754
+               },
+               "southwest" : {
+                  "lat" : 36.7102431,
+                  "lng" : -108.283596
+               }
+            },
+            "location" : {
+               "lat" : 36.72805830000001,
+               "lng" : -108.2186856
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.8215809,
+                  "lng" : -108.095754
+               },
+               "southwest" : {
+                  "lat" : 36.7102431,
+                  "lng" : -108.283596
+               }
+            }
+         },
+         "place_id" : "ChIJx34MrQCPO4cRGk5TO7axI8g",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

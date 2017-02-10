@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Missoula",
+               "short_name" : "Missoula",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missoula County",
+               "short_name" : "Missoula County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Missoula, MT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.950046,
+                  "lng" : -113.909851
+               },
+               "southwest" : {
+                  "lat" : 46.802597,
+                  "lng" : -114.126483
+               }
+            },
+            "location" : {
+               "lat" : 46.87871759999999,
+               "lng" : -113.996586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.950046,
+                  "lng" : -113.909851
+               },
+               "southwest" : {
+                  "lat" : 46.802597,
+                  "lng" : -114.126483
+               }
+            }
+         },
+         "place_id" : "ChIJy2fzUCrMXVMRLoCUyncS4-k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

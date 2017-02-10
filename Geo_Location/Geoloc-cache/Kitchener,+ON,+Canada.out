@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kitchener",
+               "short_name" : "Kitchener",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waterloo Regional Municipality",
+               "short_name" : "Waterloo Regional Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kitchener, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.5070088,
+                  "lng" : -80.37852509999999
+               },
+               "southwest" : {
+                  "lat" : 43.3538599,
+                  "lng" : -80.5741051
+               }
+            },
+            "location" : {
+               "lat" : 43.4129238,
+               "lng" : -80.47714719999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.5070088,
+                  "lng" : -80.37852509999999
+               },
+               "southwest" : {
+                  "lat" : 43.3538599,
+                  "lng" : -80.5741051
+               }
+            }
+         },
+         "place_id" : "ChIJBVHuA4z0K4gRS1Rf3-b4JZU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

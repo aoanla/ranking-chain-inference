@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moose Jaw",
+               "short_name" : "Moose Jaw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 7",
+               "short_name" : "Division No. 7",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saskatchewan",
+               "short_name" : "SK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moose Jaw, SK, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.433982,
+                  "lng" : -105.477441
+               },
+               "southwest" : {
+                  "lat" : 50.3531181,
+                  "lng" : -105.626309
+               }
+            },
+            "location" : {
+               "lat" : 50.3915811,
+               "lng" : -105.5348562
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.433982,
+                  "lng" : -105.477441
+               },
+               "southwest" : {
+                  "lat" : 50.3531181,
+                  "lng" : -105.626309
+               }
+            }
+         },
+         "place_id" : "ChIJEfeP3E7dG1MRGh3TENqfE2M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

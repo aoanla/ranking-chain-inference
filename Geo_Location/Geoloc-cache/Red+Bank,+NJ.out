@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Red Bank",
+               "short_name" : "Red Bank",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monmouth County",
+               "short_name" : "Monmouth County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Red Bank, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.3595028,
+                  "lng" : -74.04989089999999
+               },
+               "southwest" : {
+                  "lat" : 40.3362489,
+                  "lng" : -74.090631
+               }
+            },
+            "location" : {
+               "lat" : 40.3470543,
+               "lng" : -74.0643065
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.3595028,
+                  "lng" : -74.04989089999999
+               },
+               "southwest" : {
+                  "lat" : 40.3362489,
+                  "lng" : -74.090631
+               }
+            }
+         },
+         "place_id" : "ChIJ_3JyOAUuwokRLxq8r2nvPcY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

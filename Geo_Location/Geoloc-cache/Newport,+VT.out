@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Newport",
+               "short_name" : "Newport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Orleans County",
+               "short_name" : "Orleans County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05855",
+               "short_name" : "05855",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Newport, VT 05855, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.96589890000001,
+                  "lng" : -72.16891989999999
+               },
+               "southwest" : {
+                  "lat" : 44.901387,
+                  "lng" : -72.24282409999999
+               }
+            },
+            "location" : {
+               "lat" : 44.9364356,
+               "lng" : -72.2051022
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.96589890000001,
+                  "lng" : -72.16891989999999
+               },
+               "southwest" : {
+                  "lat" : 44.901387,
+                  "lng" : -72.24282409999999
+               }
+            }
+         },
+         "place_id" : "ChIJ_z5aHJZxtkwRXzrQILLVvDc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

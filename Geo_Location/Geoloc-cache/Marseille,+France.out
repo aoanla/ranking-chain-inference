@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marseille",
+               "short_name" : "Marseille",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bouches-du-Rhone",
+               "short_name" : "Bouches-du-Rhone",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marseille, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3911601,
+                  "lng" : 5.5323519
+               },
+               "southwest" : {
+                  "lat" : 43.169621,
+                  "lng" : 5.228641
+               }
+            },
+            "location" : {
+               "lat" : 43.296482,
+               "lng" : 5.36978
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3911601,
+                  "lng" : 5.5323519
+               },
+               "southwest" : {
+                  "lat" : 43.169621,
+                  "lng" : 5.277926100000001
+               }
+            }
+         },
+         "place_id" : "ChIJM1PaREO_yRIRIAKX_aUZCAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

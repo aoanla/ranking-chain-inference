@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tilburg",
+               "short_name" : "Tilburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tilburg",
+               "short_name" : "Tilburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Brabant",
+               "short_name" : "NB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tilburg, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.6178258,
+                  "lng" : 5.1297378
+               },
+               "southwest" : {
+                  "lat" : 51.5294459,
+                  "lng" : 4.9476409
+               }
+            },
+            "location" : {
+               "lat" : 51.560596,
+               "lng" : 5.0919143
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.6178258,
+                  "lng" : 5.1297378
+               },
+               "southwest" : {
+                  "lat" : 51.5294459,
+                  "lng" : 4.9476409
+               }
+            }
+         },
+         "place_id" : "ChIJ83BoEh2-xkcRJ5ew84IhLao",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

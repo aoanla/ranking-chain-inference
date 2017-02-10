@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mar del Plata",
+               "short_name" : "Mar del Plata",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "General Pueyrredón Partido",
+               "short_name" : "General Pueyrredón Partido",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mar del Plata, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.908783,
+                  "lng" : -57.51795199999999
+               },
+               "southwest" : {
+                  "lat" : -38.1263503,
+                  "lng" : -57.68311610000001
+               }
+            },
+            "location" : {
+               "lat" : -38.0054771,
+               "lng" : -57.5426106
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.908783,
+                  "lng" : -57.51795199999999
+               },
+               "southwest" : {
+                  "lat" : -38.1263503,
+                  "lng" : -57.68311610000001
+               }
+            }
+         },
+         "place_id" : "ChIJCULTGU3ZhJURJtH-S4Bwlt0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

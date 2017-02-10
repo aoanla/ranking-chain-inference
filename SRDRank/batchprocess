@@ -1,0 +1,18 @@
+#!/bin/bash
+
+for i in 05 06 07
+do
+	for j in MW
+	do
+		mkdir $i$j
+		./script-averager-2 diff_01-Oct-${i}_$j ratio_01-Oct-${i}_$j > ./$i$j/joined_01-Oct-${i}_$j
+		./makeranking joined_01-Oct-${i}_$j $i$j
+	done
+done
+
+
+#and make the gnuplot files
+for j in MW
+do
+	./make-full-line $j
+done

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Franklinville",
+               "short_name" : "Franklinville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Franklinville",
+               "short_name" : "Franklinville",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cattaraugus County",
+               "short_name" : "Cattaraugus County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "14737",
+               "short_name" : "14737",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Franklinville, NY 14737, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.347235,
+                  "lng" : -78.444806
+               },
+               "southwest" : {
+                  "lat" : 42.3263199,
+                  "lng" : -78.46422700000001
+               }
+            },
+            "location" : {
+               "lat" : 42.3370091,
+               "lng" : -78.4580761
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.347235,
+                  "lng" : -78.444806
+               },
+               "southwest" : {
+                  "lat" : 42.3263199,
+                  "lng" : -78.46422700000001
+               }
+            }
+         },
+         "place_id" : "ChIJi3sY6z5D0okRKaZ1fNCW2hk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

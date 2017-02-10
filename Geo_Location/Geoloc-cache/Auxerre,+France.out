@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Auxerre",
+               "short_name" : "Auxerre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Yonne",
+               "short_name" : "Yonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Burgundy",
+               "short_name" : "Burgundy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Auxerre, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.852408,
+                  "lng" : 3.637555099999999
+               },
+               "southwest" : {
+                  "lat" : 47.7353409,
+                  "lng" : 3.5260921
+               }
+            },
+            "location" : {
+               "lat" : 47.798202,
+               "lng" : 3.573781
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.852408,
+                  "lng" : 3.637555099999999
+               },
+               "southwest" : {
+                  "lat" : 47.7353409,
+                  "lng" : 3.5260921
+               }
+            }
+         },
+         "place_id" : "ChIJ4a81tzBP7kcRkSeiunpT5i4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

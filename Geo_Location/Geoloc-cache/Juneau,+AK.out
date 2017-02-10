@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Juneau",
+               "short_name" : "Juneau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Juneau",
+               "short_name" : "Juneau",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Juneau, AK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 58.97385180000001,
+                  "lng" : -133.176444
+               },
+               "southwest" : {
+                  "lat" : 57.795075,
+                  "lng" : -135.1767144
+               }
+            },
+            "location" : {
+               "lat" : 58.3019444,
+               "lng" : -134.4197222
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 58.97385180000001,
+                  "lng" : -133.176444
+               },
+               "southwest" : {
+                  "lat" : 57.795075,
+                  "lng" : -135.1767144
+               }
+            }
+         },
+         "place_id" : "ChIJjzpqb2zeAFQREfNprlryXgY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

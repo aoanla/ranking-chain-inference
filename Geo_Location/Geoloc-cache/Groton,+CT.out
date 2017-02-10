@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Groton",
+               "short_name" : "Groton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groton",
+               "short_name" : "Groton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "New London County",
+               "short_name" : "New London County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Groton, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.40032,
+                  "lng" : -71.95911699999999
+               },
+               "southwest" : {
+                  "lat" : 41.3063925,
+                  "lng" : -72.0949837
+               }
+            },
+            "location" : {
+               "lat" : 41.3497456,
+               "lng" : -72.0790717
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.40032,
+                  "lng" : -71.95911699999999
+               },
+               "southwest" : {
+                  "lat" : 41.3063925,
+                  "lng" : -72.0949837
+               }
+            }
+         },
+         "place_id" : "ChIJ5dn_Iz8J5okRxRzhxTIX_0Q",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Groton",
+               "short_name" : "Groton",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Groton",
+               "short_name" : "Groton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Groton",
+               "short_name" : "Groton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "New London County",
+               "short_name" : "New London County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Groton, Groton, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.3675979,
+                  "lng" : -72.0547189
+               },
+               "southwest" : {
+                  "lat" : 41.2779979,
+                  "lng" : -72.08962
+               }
+            },
+            "location" : {
+               "lat" : 41.3522145,
+               "lng" : -72.0767072
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.3675979,
+                  "lng" : -72.0547189
+               },
+               "southwest" : {
+                  "lat" : 41.2779979,
+                  "lng" : -72.08962
+               }
+            }
+         },
+         "place_id" : "ChIJ81p6lj4J5okRwCffgPy7HKU",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

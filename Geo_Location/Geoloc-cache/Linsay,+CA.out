@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lindsay",
+               "short_name" : "Lindsay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tulare County",
+               "short_name" : "Tulare County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93247",
+               "short_name" : "93247",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lindsay, CA 93247, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.221483,
+                  "lng" : -119.069007
+               },
+               "southwest" : {
+                  "lat" : 36.1944699,
+                  "lng" : -119.114909
+               }
+            },
+            "location" : {
+               "lat" : 36.2030064,
+               "lng" : -119.08816
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.221483,
+                  "lng" : -119.069007
+               },
+               "southwest" : {
+                  "lat" : 36.1944699,
+                  "lng" : -119.114909
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJl98bxFc0lYARfL9OSLaui5Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

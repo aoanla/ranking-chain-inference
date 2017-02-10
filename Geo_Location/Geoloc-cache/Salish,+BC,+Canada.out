@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salish Drive",
+               "short_name" : "Salish Dr",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Vancouver",
+               "short_name" : "Vancouver",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greater Vancouver",
+               "short_name" : "Greater Vancouver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V6N",
+               "short_name" : "V6N",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Salish Dr, Vancouver, BC V6N, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.2370533,
+                  "lng" : -123.1968154
+               },
+               "southwest" : {
+                  "lat" : 49.2242975,
+                  "lng" : -123.2057726
+               }
+            },
+            "location" : {
+               "lat" : 49.2305778,
+               "lng" : -123.1970292
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2370533,
+                  "lng" : -123.1968154
+               },
+               "southwest" : {
+                  "lat" : 49.2242975,
+                  "lng" : -123.2057726
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ9Tyz5UhzhlQRg04r7NbqyWU",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elkton",
+               "short_name" : "Elkton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "3, Elkton",
+               "short_name" : "3, Elkton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Cecil County",
+               "short_name" : "Cecil County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Elkton, MD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.6411241,
+                  "lng" : -75.7850169
+               },
+               "southwest" : {
+                  "lat" : 39.5776579,
+                  "lng" : -75.8591089
+               }
+            },
+            "location" : {
+               "lat" : 39.60677889999999,
+               "lng" : -75.83327179999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.6411241,
+                  "lng" : -75.7850169
+               },
+               "southwest" : {
+                  "lat" : 39.5776579,
+                  "lng" : -75.8591089
+               }
+            }
+         },
+         "place_id" : "ChIJQ8fccpGlx4kRCAxegGY7hRU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

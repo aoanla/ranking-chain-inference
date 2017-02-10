@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medellín",
+               "short_name" : "Medellín",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Medellin",
+               "short_name" : "Medellin",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Antioquia",
+               "short_name" : "Antioquia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medellín, Medellin, Antioquia, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.31281,
+                  "lng" : -75.521507
+               },
+               "southwest" : {
+                  "lat" : 6.1755969,
+                  "lng" : -75.64091599999999
+               }
+            },
+            "location" : {
+               "lat" : 6.253040800000001,
+               "lng" : -75.5645737
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.31281,
+                  "lng" : -75.521507
+               },
+               "southwest" : {
+                  "lat" : 6.1755969,
+                  "lng" : -75.64091599999999
+               }
+            }
+         },
+         "place_id" : "ChIJBa0PuN8oRI4RVju1x_x8E0I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

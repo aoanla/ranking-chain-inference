@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Albert",
+               "short_name" : "St Albert",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 11",
+               "short_name" : "Division No. 11",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Albert, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.6713271,
+                  "lng" : -113.5656989
+               },
+               "southwest" : {
+                  "lat" : 53.598882,
+                  "lng" : -113.6766349
+               }
+            },
+            "location" : {
+               "lat" : 53.6304753,
+               "lng" : -113.625642
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.6713271,
+                  "lng" : -113.5656989
+               },
+               "southwest" : {
+                  "lat" : 53.598882,
+                  "lng" : -113.6766349
+               }
+            }
+         },
+         "place_id" : "ChIJtchh8XgmoFMRoiX1A8UyzUM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

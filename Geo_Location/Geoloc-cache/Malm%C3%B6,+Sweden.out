@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Malmö",
+               "short_name" : "Malmö",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Malmö",
+               "short_name" : "Malmö",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Skåne County",
+               "short_name" : "Skåne County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Malmö, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.639951,
+                  "lng" : 13.1507608
+               },
+               "southwest" : {
+                  "lat" : 55.5017314,
+                  "lng" : 12.8894594
+               }
+            },
+            "location" : {
+               "lat" : 55.604981,
+               "lng" : 13.003822
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.639951,
+                  "lng" : 13.1507608
+               },
+               "southwest" : {
+                  "lat" : 55.5017314,
+                  "lng" : 12.8894594
+               }
+            }
+         },
+         "place_id" : "ChIJ_5HEdKUFU0YR5YhIvd8FqdM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

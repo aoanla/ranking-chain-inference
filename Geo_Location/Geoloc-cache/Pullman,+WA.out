@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pullman",
+               "short_name" : "Pullman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Whitman County",
+               "short_name" : "Whitman County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pullman, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.753341,
+                  "lng" : -117.092859
+               },
+               "southwest" : {
+                  "lat" : 46.707617,
+                  "lng" : -117.2116579
+               }
+            },
+            "location" : {
+               "lat" : 46.7297771,
+               "lng" : -117.1817377
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.753341,
+                  "lng" : -117.092859
+               },
+               "southwest" : {
+                  "lat" : 46.707617,
+                  "lng" : -117.2116579
+               }
+            }
+         },
+         "place_id" : "ChIJlU3hshSBn1QR8AAEJBabpIY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

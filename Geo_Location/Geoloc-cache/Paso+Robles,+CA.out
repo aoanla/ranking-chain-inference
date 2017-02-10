@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Paso Robles",
+               "short_name" : "Paso Robles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Luis Obispo County",
+               "short_name" : "San Luis Obispo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "93446",
+               "short_name" : "93446",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Paso Robles, CA 93446, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.690263,
+                  "lng" : -120.5286831
+               },
+               "southwest" : {
+                  "lat" : 35.5768469,
+                  "lng" : -120.7078089
+               }
+            },
+            "location" : {
+               "lat" : 35.6368759,
+               "lng" : -120.6545022
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.690263,
+                  "lng" : -120.605507
+               },
+               "southwest" : {
+                  "lat" : 35.5768469,
+                  "lng" : -120.7078089
+               }
+            }
+         },
+         "place_id" : "ChIJvcTFFo_d7IAR79XMkfgilEY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

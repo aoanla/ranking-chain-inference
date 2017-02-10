@@ -1,0 +1,73 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jersey Camper Hire",
+               "short_name" : "Jersey Camper Hire",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Unit 10, Springside",
+               "short_name" : "Unit 10, Springside",
+               "types" : [ "premise" ]
+            },
+            {
+               "long_name" : "Trinity",
+               "short_name" : "Trinity",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Jersey, Channel Islands",
+               "short_name" : "Jersey, Channel Islands",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Trinity",
+               "short_name" : "Trinity",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Jersey",
+               "short_name" : "JE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "JE3 5DG",
+               "short_name" : "JE3 5DG",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Unit 10, Springside, Jersey Camper Hire, JE3 5DG, Jersey",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.232423,
+               "lng" : -2.098646
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2337719802915,
+                  "lng" : -2.097297019708498
+               },
+               "southwest" : {
+                  "lat" : 49.2310740197085,
+                  "lng" : -2.099994980291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJUxeWnhlTDEgRFTYCVndF-Gc",
+         "types" : [
+            "car_rental",
+            "campground",
+            "park",
+            "store",
+            "lodging",
+            "point_of_interest",
+            "establishment"
+         ]
+      }
+   ],
+   "status" : "OK"
+}

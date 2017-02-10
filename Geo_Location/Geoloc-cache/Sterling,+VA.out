@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sterling",
+               "short_name" : "Sterling",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Loudoun County",
+               "short_name" : "Loudoun County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sterling, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.025042,
+                  "lng" : -77.37151209999999
+               },
+               "southwest" : {
+                  "lat" : 38.9827089,
+                  "lng" : -77.4352299
+               }
+            },
+            "location" : {
+               "lat" : 39.0066993,
+               "lng" : -77.4291298
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.025042,
+                  "lng" : -77.37151209999999
+               },
+               "southwest" : {
+                  "lat" : 38.9827089,
+                  "lng" : -77.4352299
+               }
+            }
+         },
+         "place_id" : "ChIJrWH7IE84tokRTIZVCs_QvwU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

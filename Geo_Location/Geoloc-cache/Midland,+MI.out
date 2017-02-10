@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Midland",
+               "short_name" : "Midland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Midland County",
+               "short_name" : "Midland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Midland, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6836799,
+                  "lng" : -84.15392199999999
+               },
+               "southwest" : {
+                  "lat" : 43.5652769,
+                  "lng" : -84.31848309999999
+               }
+            },
+            "location" : {
+               "lat" : 43.6155825,
+               "lng" : -84.2472116
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6836799,
+                  "lng" : -84.15392199999999
+               },
+               "southwest" : {
+                  "lat" : 43.5652769,
+                  "lng" : -84.31848309999999
+               }
+            }
+         },
+         "place_id" : "ChIJFwfbA5yAIYgRkAqyIuSDbHo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

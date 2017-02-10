@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "McAllen",
+               "short_name" : "McAllen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hidalgo County",
+               "short_name" : "Hidalgo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "McAllen, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.3498339,
+                  "lng" : -98.1953889
+               },
+               "southwest" : {
+                  "lat" : 26.10213,
+                  "lng" : -98.31789189999999
+               }
+            },
+            "location" : {
+               "lat" : 26.2034071,
+               "lng" : -98.23001239999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.3498339,
+                  "lng" : -98.1953889
+               },
+               "southwest" : {
+                  "lat" : 26.10213,
+                  "lng" : -98.31789189999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3zeWTTJ2ZYYRuA4stak5HS8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rock Island",
+               "short_name" : "Rock Island",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rock Island County",
+               "short_name" : "Rock Island County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rock Island, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.51533209999999,
+                  "lng" : -90.5315339
+               },
+               "southwest" : {
+                  "lat" : 41.414933,
+                  "lng" : -90.6534173
+               }
+            },
+            "location" : {
+               "lat" : 41.5094771,
+               "lng" : -90.5787476
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.51533209999999,
+                  "lng" : -90.5315339
+               },
+               "southwest" : {
+                  "lat" : 41.414933,
+                  "lng" : -90.6534173
+               }
+            }
+         },
+         "place_id" : "ChIJd0sEV8My4ocR8XUU13GTwew",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

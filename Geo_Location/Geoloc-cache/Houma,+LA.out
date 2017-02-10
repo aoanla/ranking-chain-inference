@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Houma",
+               "short_name" : "Houma",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Terrebonne Parish",
+               "short_name" : "Terrebonne Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Houma, LA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.611653,
+                  "lng" : -90.635876
+               },
+               "southwest" : {
+                  "lat" : 29.5449249,
+                  "lng" : -90.767398
+               }
+            },
+            "location" : {
+               "lat" : 29.5957696,
+               "lng" : -90.71953479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.611653,
+                  "lng" : -90.635876
+               },
+               "southwest" : {
+                  "lat" : 29.5449249,
+                  "lng" : -90.767398
+               }
+            }
+         },
+         "place_id" : "ChIJ3R_BDcMEIYYRYXIMfHNYZTY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

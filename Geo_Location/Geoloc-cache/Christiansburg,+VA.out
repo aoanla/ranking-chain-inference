@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Christiansburg",
+               "short_name" : "Christiansburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montgomery County",
+               "short_name" : "Montgomery County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Christiansburg, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.1808046,
+                  "lng" : -80.31451700000001
+               },
+               "southwest" : {
+                  "lat" : 37.1083855,
+                  "lng" : -80.4534012
+               }
+            },
+            "location" : {
+               "lat" : 37.1298517,
+               "lng" : -80.4089389
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.1808046,
+                  "lng" : -80.31451700000001
+               },
+               "southwest" : {
+                  "lat" : 37.1083855,
+                  "lng" : -80.4534012
+               }
+            }
+         },
+         "place_id" : "ChIJwY2LMAOTTYgRYznFCU2i8oI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

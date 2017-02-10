@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lake Charles",
+               "short_name" : "Lake Charles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Calcasieu Parish",
+               "short_name" : "Calcasieu Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lake Charles, LA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.272203,
+                  "lng" : -93.1288749
+               },
+               "southwest" : {
+                  "lat" : 30.1245011,
+                  "lng" : -93.316857
+               }
+            },
+            "location" : {
+               "lat" : 30.2265949,
+               "lng" : -93.2173758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.272203,
+                  "lng" : -93.1288749
+               },
+               "southwest" : {
+                  "lat" : 30.1245011,
+                  "lng" : -93.316857
+               }
+            }
+         },
+         "place_id" : "ChIJJ8u9ACuEO4YRgnOnudaNuUI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

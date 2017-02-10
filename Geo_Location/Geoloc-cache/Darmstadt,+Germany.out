@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "Darmstadt",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Darmstadt",
+               "short_name" : "DA",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Darmstadt, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9538799,
+                  "lng" : 8.7497188
+               },
+               "southwest" : {
+                  "lat" : 49.7956409,
+                  "lng" : 8.5599238
+               }
+            },
+            "location" : {
+               "lat" : 49.8728253,
+               "lng" : 8.6511929
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9538799,
+                  "lng" : 8.7497188
+               },
+               "southwest" : {
+                  "lat" : 49.7956409,
+                  "lng" : 8.5599238
+               }
+            }
+         },
+         "place_id" : "ChIJ2c1zEWRwvUcR8MWwKVBDIgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

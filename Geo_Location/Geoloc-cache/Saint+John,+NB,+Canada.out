@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint John",
+               "short_name" : "Saint John",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saint John County",
+               "short_name" : "Saint John County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Brunswick",
+               "short_name" : "NB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint John, NB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.3780341,
+                  "lng" : -65.83919089999999
+               },
+               "southwest" : {
+                  "lat" : 45.1415684,
+                  "lng" : -66.238872
+               }
+            },
+            "location" : {
+               "lat" : 45.2733153,
+               "lng" : -66.0633081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.3780341,
+                  "lng" : -65.83919089999999
+               },
+               "southwest" : {
+                  "lat" : 45.1415684,
+                  "lng" : -66.238872
+               }
+            }
+         },
+         "place_id" : "ChIJd_n5Hg3Fp0wRZ9IXJgdWgfA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

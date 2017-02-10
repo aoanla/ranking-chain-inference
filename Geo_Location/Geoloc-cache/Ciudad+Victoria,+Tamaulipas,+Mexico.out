@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ciudad Victoria",
+               "short_name" : "Cd Victoria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad Victoria",
+               "short_name" : "Ciudad Victoria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamaulipas",
+               "short_name" : "Tamps.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cd Victoria, Tamps., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.7873435,
+                  "lng" : -99.0920922
+               },
+               "southwest" : {
+                  "lat" : 23.69465,
+                  "lng" : -99.19458379999999
+               }
+            },
+            "location" : {
+               "lat" : 23.7369164,
+               "lng" : -99.14111539999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.7873435,
+                  "lng" : -99.0920922
+               },
+               "southwest" : {
+                  "lat" : 23.69465,
+                  "lng" : -99.19458379999999
+               }
+            }
+         },
+         "place_id" : "ChIJk_G31zJReYYR1gh_fXUAskI",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tamaulipas",
+               "short_name" : "Tamaulipas",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad Victoria",
+               "short_name" : "Cd Victoria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad Victoria",
+               "short_name" : "Ciudad Victoria",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tamaulipas",
+               "short_name" : "Tamps.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tamaulipas, Cd Victoria, Tamps., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 23.7362084,
+                  "lng" : -99.12292939999999
+               },
+               "southwest" : {
+                  "lat" : 23.7305432,
+                  "lng" : -99.1306175
+               }
+            },
+            "location" : {
+               "lat" : 23.7325455,
+               "lng" : -99.1276295
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 23.7362084,
+                  "lng" : -99.12292939999999
+               },
+               "southwest" : {
+                  "lat" : 23.7305432,
+                  "lng" : -99.1306175
+               }
+            }
+         },
+         "place_id" : "ChIJBxKZ27RTeYYRQopig42yx8c",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

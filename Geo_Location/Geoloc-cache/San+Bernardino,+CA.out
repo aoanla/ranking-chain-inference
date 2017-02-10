@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Bernardino",
+               "short_name" : "San Bernardino",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Bernardino, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.2476399,
+                  "lng" : -117.164972
+               },
+               "southwest" : {
+                  "lat" : 34.0501128,
+                  "lng" : -117.4243172
+               }
+            },
+            "location" : {
+               "lat" : 34.1083449,
+               "lng" : -117.2897652
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.2476399,
+                  "lng" : -117.164972
+               },
+               "southwest" : {
+                  "lat" : 34.0501128,
+                  "lng" : -117.4243172
+               }
+            }
+         },
+         "place_id" : "ChIJ87j94n1Tw4ARjcKHjHjGZyg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

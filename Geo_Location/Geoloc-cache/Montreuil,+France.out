@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montreuil",
+               "short_name" : "Montreuil",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Seine-Saint-Denis",
+               "short_name" : "Seine-Saint-Denis",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montreuil, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.87874900000001,
+                  "lng" : 2.482805
+               },
+               "southwest" : {
+                  "lat" : 48.84874310000001,
+                  "lng" : 2.415296
+               }
+            },
+            "location" : {
+               "lat" : 48.863812,
+               "lng" : 2.448451
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.87874900000001,
+                  "lng" : 2.482805
+               },
+               "southwest" : {
+                  "lat" : 48.84874310000001,
+                  "lng" : 2.415296
+               }
+            }
+         },
+         "place_id" : "ChIJhe8OU0Vt5kcR8FvEsG18qqM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Launceston",
+               "short_name" : "Launceston",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Launceston TAS, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.2642,
+                  "lng" : 147.3052503
+               },
+               "southwest" : {
+                  "lat" : -41.5409416,
+                  "lng" : 146.9219301
+               }
+            },
+            "location" : {
+               "lat" : -41.4261807,
+               "lng" : 147.1124679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.2642,
+                  "lng" : 147.3052503
+               },
+               "southwest" : {
+                  "lat" : -41.5409416,
+                  "lng" : 146.9219301
+               }
+            }
+         },
+         "place_id" : "ChIJ-VMGqjUKeqoRQA_e0E3JAwQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Launceston",
+               "short_name" : "Launceston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7250",
+               "short_name" : "7250",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Launceston TAS 7250, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.4163346,
+                  "lng" : 147.1608103
+               },
+               "southwest" : {
+                  "lat" : -41.4505061,
+                  "lng" : 147.126777
+               }
+            },
+            "location" : {
+               "lat" : -41.4370868,
+               "lng" : 147.1393767
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.4163346,
+                  "lng" : 147.1608103
+               },
+               "southwest" : {
+                  "lat" : -41.4505061,
+                  "lng" : 147.126777
+               }
+            }
+         },
+         "place_id" : "ChIJXf2ELuGmcKoRkBne0E3JAwU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

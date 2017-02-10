@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barnstaple",
+               "short_name" : "Barnstaple",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Devon District",
+               "short_name" : "North Devon District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barnstaple, Devon, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.1034263,
+                  "lng" : -4.0146232
+               },
+               "southwest" : {
+                  "lat" : 51.06014390000001,
+                  "lng" : -4.102119
+               }
+            },
+            "location" : {
+               "lat" : 51.0781599,
+               "lng" : -4.058338
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.1034263,
+                  "lng" : -4.0146232
+               },
+               "southwest" : {
+                  "lat" : 51.06014390000001,
+                  "lng" : -4.102119
+               }
+            }
+         },
+         "place_id" : "ChIJO2DOMLMkbEgROEu0DlrC-Js",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

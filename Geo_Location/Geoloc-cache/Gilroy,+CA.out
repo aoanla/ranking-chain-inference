@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gilroy",
+               "short_name" : "Gilroy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santa Clara County",
+               "short_name" : "Santa Clara County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "95020",
+               "short_name" : "95020",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Gilroy, CA 95020, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.048147,
+                  "lng" : -121.5194
+               },
+               "southwest" : {
+                  "lat" : 36.9701869,
+                  "lng" : -121.642863
+               }
+            },
+            "location" : {
+               "lat" : 37.0057816,
+               "lng" : -121.5682751
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.048147,
+                  "lng" : -121.5194
+               },
+               "southwest" : {
+                  "lat" : 36.9701869,
+                  "lng" : -121.642863
+               }
+            }
+         },
+         "place_id" : "ChIJy85TFbnjkYAROygnpRsM_a4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

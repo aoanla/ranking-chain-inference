@@ -1,0 +1,98 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "St. Louis",
+               "short_name" : "St. Louis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St. Louis, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.774349,
+                  "lng" : -90.166409
+               },
+               "southwest" : {
+                  "lat" : 38.5318519,
+                  "lng" : -90.320515
+               }
+            },
+            "location" : {
+               "lat" : 38.6270025,
+               "lng" : -90.19940419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.774349,
+                  "lng" : -90.166409
+               },
+               "southwest" : {
+                  "lat" : 38.5318519,
+                  "lng" : -90.320515
+               }
+            }
+         },
+         "place_id" : "ChIJ-Y7t-qm02IcRW-C7IsrqOb4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Louis",
+               "short_name" : "Saint Louis",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint Louis, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8312491,
+                  "lng" : -90.12430689999999
+               },
+               "southwest" : {
+                  "lat" : 38.396902,
+                  "lng" : -90.513621
+               }
+            },
+            "location" : {
+               "lat" : 38.6105426,
+               "lng" : -90.3371889
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8312491,
+                  "lng" : -90.12430689999999
+               },
+               "southwest" : {
+                  "lat" : 38.396902,
+                  "lng" : -90.513621
+               }
+            }
+         },
+         "place_id" : "ChIJ-U59z_TK2IcRK9o9AIXA5A0",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

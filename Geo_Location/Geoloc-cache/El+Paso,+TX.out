@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "El Paso",
+               "short_name" : "El Paso",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "El Paso County",
+               "short_name" : "El Paso County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "El Paso, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.001481,
+                  "lng" : -106.2131129
+               },
+               "southwest" : {
+                  "lat" : 31.6207851,
+                  "lng" : -106.6359219
+               }
+            },
+            "location" : {
+               "lat" : 31.7618778,
+               "lng" : -106.4850217
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.001481,
+                  "lng" : -106.2131129
+               },
+               "southwest" : {
+                  "lat" : 31.6207851,
+                  "lng" : -106.6359219
+               }
+            }
+         },
+         "place_id" : "ChIJaTv-xYs_54YRIgKdq-OEkeM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ellensburg",
+               "short_name" : "Ellensburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kittitas County",
+               "short_name" : "Kittitas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ellensburg, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.0292611,
+                  "lng" : -120.5095679
+               },
+               "southwest" : {
+                  "lat" : 46.96692609999999,
+                  "lng" : -120.5949801
+               }
+            },
+            "location" : {
+               "lat" : 46.9965144,
+               "lng" : -120.5478474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.0292611,
+                  "lng" : -120.5095679
+               },
+               "southwest" : {
+                  "lat" : 46.96692609999999,
+                  "lng" : -120.5949801
+               }
+            }
+         },
+         "place_id" : "ChIJMY46sjLymVQRFwnATGHbsPg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

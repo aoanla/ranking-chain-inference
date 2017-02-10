@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Abilene",
+               "short_name" : "Abilene",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taylor County",
+               "short_name" : "Taylor County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Abilene, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.6244809,
+                  "lng" : -99.62308399999999
+               },
+               "southwest" : {
+                  "lat" : 32.343292,
+                  "lng" : -99.84967089999999
+               }
+            },
+            "location" : {
+               "lat" : 32.4487364,
+               "lng" : -99.73314390000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.6244809,
+                  "lng" : -99.62308399999999
+               },
+               "southwest" : {
+                  "lat" : 32.343292,
+                  "lng" : -99.84967089999999
+               }
+            }
+         },
+         "place_id" : "ChIJRWkGKjmOVoYRX6kjIr_m2Qc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

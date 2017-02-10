@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morgantown",
+               "short_name" : "Morgantown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monongalia County",
+               "short_name" : "Monongalia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morgantown, WV, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.675097,
+                  "lng" : -79.8987709
+               },
+               "southwest" : {
+                  "lat" : 39.595085,
+                  "lng" : -79.98815979999999
+               }
+            },
+            "location" : {
+               "lat" : 39.629526,
+               "lng" : -79.95589679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.675097,
+                  "lng" : -79.8987709
+               },
+               "southwest" : {
+                  "lat" : 39.595085,
+                  "lng" : -79.98815979999999
+               }
+            }
+         },
+         "place_id" : "ChIJPTOFQWh7NYgR5EONqwnpvng",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

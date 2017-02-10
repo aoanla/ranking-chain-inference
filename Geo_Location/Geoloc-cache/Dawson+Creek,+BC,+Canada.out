@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dawson Creek",
+               "short_name" : "Dawson Creek",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peace River",
+               "short_name" : "Peace River",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dawson Creek, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.788798,
+                  "lng" : -120.1467311
+               },
+               "southwest" : {
+                  "lat" : 55.7303951,
+                  "lng" : -120.289684
+               }
+            },
+            "location" : {
+               "lat" : 55.75962740000001,
+               "lng" : -120.2376623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.788798,
+                  "lng" : -120.1467311
+               },
+               "southwest" : {
+                  "lat" : 55.7303951,
+                  "lng" : -120.289684
+               }
+            }
+         },
+         "place_id" : "ChIJuYcHfjaZkVMRMDF7KhU1AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

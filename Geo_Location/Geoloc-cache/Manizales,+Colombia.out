@@ -1,0 +1,344 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manizales",
+               "short_name" : "Manizales",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Manizales",
+               "short_name" : "Manizales",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Caldas",
+               "short_name" : "Caldas",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manizales, Manizales, Caldas, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 5.117414999999999,
+                  "lng" : -75.41146499999999
+               },
+               "southwest" : {
+                  "lat" : 5.019979999999999,
+                  "lng" : -75.55582099999999
+               }
+            },
+            "location" : {
+               "lat" : 5.070275,
+               "lng" : -75.5138166
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 5.117414999999999,
+                  "lng" : -75.41146499999999
+               },
+               "southwest" : {
+                  "lat" : 5.019979999999999,
+                  "lng" : -75.55582099999999
+               }
+            }
+         },
+         "place_id" : "ChIJO85CavpvR44RHBTqI2TPY6g",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manizales",
+               "short_name" : "Manizales",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Roque",
+               "short_name" : "San Roque",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Antioquia",
+               "short_name" : "Antioquia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "053037",
+               "short_name" : "053037",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Manizales, San Roque, Antioquia, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 6.4551023,
+                  "lng" : -74.96246339999999
+               },
+               "southwest" : {
+                  "lat" : 6.4377888,
+                  "lng" : -74.9794579
+               }
+            },
+            "location" : {
+               "lat" : 6.44674,
+               "lng" : -74.96727
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 6.4551023,
+                  "lng" : -74.96246339999999
+               },
+               "southwest" : {
+                  "lat" : 6.4377888,
+                  "lng" : -74.9794579
+               }
+            }
+         },
+         "place_id" : "ChIJC1GXTQYKRI4RArY9BJDKa-4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manizales",
+               "short_name" : "Manizales",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Plato",
+               "short_name" : "Plato",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Magdalena",
+               "short_name" : "Magdalena",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "475038",
+               "short_name" : "475038",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Manizales, Plato, Magdalena, Colombia",
+         "geometry" : {
+            "location" : {
+               "lat" : 9.765689999999999,
+               "lng" : -74.52105999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 9.767038980291503,
+                  "lng" : -74.51971101970848
+               },
+               "southwest" : {
+                  "lat" : 9.764341019708498,
+                  "lng" : -74.52240898029149
+               }
+            }
+         },
+         "place_id" : "ChIJQ9hhid8WX44RasNKNkoOuEc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manizales",
+               "short_name" : "Manizales",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fundación",
+               "short_name" : "Fundación",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Magdalena",
+               "short_name" : "Magdalena",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "472027",
+               "short_name" : "472027",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Manizales, Fundación, Magdalena, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 10.3274167,
+                  "lng" : -74.00098790000001
+               },
+               "southwest" : {
+                  "lat" : 10.3195635,
+                  "lng" : -74.014163
+               }
+            },
+            "location" : {
+               "lat" : 10.32097,
+               "lng" : -74.01242999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 10.3274167,
+                  "lng" : -74.00098790000001
+               },
+               "southwest" : {
+                  "lat" : 10.3195635,
+                  "lng" : -74.014163
+               }
+            }
+         },
+         "place_id" : "ChIJiY-ezL9k9Y4Re4FQLw9DypY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manizales",
+               "short_name" : "Manizales",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cáceres",
+               "short_name" : "Cáceres",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Antioquia",
+               "short_name" : "Antioquia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "052457",
+               "short_name" : "052457",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Manizales, Cáceres, Antioquia, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.8377369,
+                  "lng" : -75.4137099
+               },
+               "southwest" : {
+                  "lat" : 7.835385,
+                  "lng" : -75.4168751
+               }
+            },
+            "location" : {
+               "lat" : 7.836561,
+               "lng" : -75.4152919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.837909930291501,
+                  "lng" : -75.4137099
+               },
+               "southwest" : {
+                  "lat" : 7.835211969708497,
+                  "lng" : -75.4168751
+               }
+            }
+         },
+         "place_id" : "ChIJKfdMFGE-W44RB-WwakYQWb4",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manizales",
+               "short_name" : "Manizales",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Briceño",
+               "short_name" : "Briceño",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Antioquia",
+               "short_name" : "Antioquia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "052068",
+               "short_name" : "052068",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Manizales, Briceño, Antioquia, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 7.0666202,
+                  "lng" : -75.6325222
+               },
+               "southwest" : {
+                  "lat" : 7.060700199999999,
+                  "lng" : -75.6412768
+               }
+            },
+            "location" : {
+               "lat" : 7.063610000000001,
+               "lng" : -75.63777999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 7.0666202,
+                  "lng" : -75.6325222
+               },
+               "southwest" : {
+                  "lat" : 7.060700199999999,
+                  "lng" : -75.6412768
+               }
+            }
+         },
+         "place_id" : "ChIJQxpcmGnjRI4RsrxfZrMza2Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Frances",
+               "short_name" : "Fort Frances",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rainy River District",
+               "short_name" : "Rainy River District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Frances, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.648931,
+                  "lng" : -93.3094373
+               },
+               "southwest" : {
+                  "lat" : 48.592785,
+                  "lng" : -93.4544379
+               }
+            },
+            "location" : {
+               "lat" : 48.6099494,
+               "lng" : -93.3955282
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.648931,
+                  "lng" : -93.35269409999999
+               },
+               "southwest" : {
+                  "lat" : 48.592785,
+                  "lng" : -93.4544379
+               }
+            }
+         },
+         "place_id" : "ChIJRZUsmUZ8u1IRnq6_Oc-ujL8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cincinnati",
+               "short_name" : "Cincinnati",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton County",
+               "short_name" : "Hamilton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cincinnati, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.2207591,
+                  "lng" : -84.36875479999999
+               },
+               "southwest" : {
+                  "lat" : 39.051921,
+                  "lng" : -84.71204809999999
+               }
+            },
+            "location" : {
+               "lat" : 39.1031182,
+               "lng" : -84.5120196
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.2207591,
+                  "lng" : -84.36875479999999
+               },
+               "southwest" : {
+                  "lat" : 39.051921,
+                  "lng" : -84.71204809999999
+               }
+            }
+         },
+         "place_id" : "ChIJ-SE43rFRQIgRF5PA5It--2k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

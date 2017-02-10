@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kinston",
+               "short_name" : "Kinston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kinston",
+               "short_name" : "Kinston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lenoir County",
+               "short_name" : "Lenoir County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kinston, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.3225341,
+                  "lng" : -77.498008
+               },
+               "southwest" : {
+                  "lat" : 35.2258911,
+                  "lng" : -77.66263499999999
+               }
+            },
+            "location" : {
+               "lat" : 35.2626635,
+               "lng" : -77.5816353
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.3225341,
+                  "lng" : -77.542503
+               },
+               "southwest" : {
+                  "lat" : 35.2258911,
+                  "lng" : -77.66263499999999
+               }
+            }
+         },
+         "place_id" : "ChIJS_OSvM9KqYkRlNmwlRxyMdo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

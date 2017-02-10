@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alice Springs",
+               "short_name" : "Alice Springs",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northern Territory",
+               "short_name" : "NT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "0870",
+               "short_name" : "0870",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alice Springs NT 0870, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.6915859,
+                  "lng" : 133.8870795
+               },
+               "southwest" : {
+                  "lat" : -23.7074547,
+                  "lng" : 133.8743422
+               }
+            },
+            "location" : {
+               "lat" : -23.7002104,
+               "lng" : 133.8806114
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.6915859,
+                  "lng" : 133.8870795
+               },
+               "southwest" : {
+                  "lat" : -23.7074547,
+                  "lng" : 133.8743422
+               }
+            }
+         },
+         "place_id" : "ChIJMROPvkQZMisR0E8lKqgXAgU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Alice Springs",
+               "short_name" : "Alice Springs",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Northern Territory",
+               "short_name" : "NT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "0870",
+               "short_name" : "0870",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Alice Springs NT 0870, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.6303924,
+                  "lng" : 133.9407162
+               },
+               "southwest" : {
+                  "lat" : -23.8315255,
+                  "lng" : 133.726046
+               }
+            },
+            "location" : {
+               "lat" : -23.7002056,
+               "lng" : 133.8805618
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.6303924,
+                  "lng" : 133.9407162
+               },
+               "southwest" : {
+                  "lat" : -23.8315255,
+                  "lng" : 133.726046
+               }
+            }
+         },
+         "place_id" : "ChIJk3fE-iscMisRcIQkKqgXAgQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wasilla",
+               "short_name" : "Wasilla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Matanuska-Susitna",
+               "short_name" : "Matanuska-Susitna",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99654",
+               "short_name" : "99654",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Wasilla, AK 99654, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.606601,
+                  "lng" : -149.353644
+               },
+               "southwest" : {
+                  "lat" : 61.55293489999999,
+                  "lng" : -149.5646979
+               }
+            },
+            "location" : {
+               "lat" : 61.5813889,
+               "lng" : -149.4394444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.606601,
+                  "lng" : -149.353644
+               },
+               "southwest" : {
+                  "lat" : 61.55293489999999,
+                  "lng" : -149.5646979
+               }
+            }
+         },
+         "place_id" : "ChIJi4N9OaHAyFYRHF62DvgMj3U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

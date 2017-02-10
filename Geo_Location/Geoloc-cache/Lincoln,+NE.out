@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lincoln",
+               "short_name" : "Lincoln",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancaster County",
+               "short_name" : "Lancaster County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nebraska",
+               "short_name" : "NE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lincoln, NE, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8899361,
+                  "lng" : -96.5773068
+               },
+               "southwest" : {
+                  "lat" : 40.7112819,
+                  "lng" : -96.8041498
+               }
+            },
+            "location" : {
+               "lat" : 40.8257625,
+               "lng" : -96.6851982
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8899361,
+                  "lng" : -96.5773068
+               },
+               "southwest" : {
+                  "lat" : 40.7112819,
+                  "lng" : -96.8041498
+               }
+            }
+         },
+         "place_id" : "ChIJZRJWylm-locRud7VH5uFOmM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

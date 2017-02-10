@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salt Lake City",
+               "short_name" : "Salt Lake City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salt Lake County",
+               "short_name" : "Salt Lake County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salt Lake City, UT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.8529699,
+                  "lng" : -111.7394581
+               },
+               "southwest" : {
+                  "lat" : 40.700246,
+                  "lng" : -112.101512
+               }
+            },
+            "location" : {
+               "lat" : 40.7607793,
+               "lng" : -111.8910474
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8529699,
+                  "lng" : -111.7394581
+               },
+               "southwest" : {
+                  "lat" : 40.700246,
+                  "lng" : -112.101512
+               }
+            }
+         },
+         "place_id" : "ChIJ7THRiJQ9UocRyjFNSKC3U1s",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

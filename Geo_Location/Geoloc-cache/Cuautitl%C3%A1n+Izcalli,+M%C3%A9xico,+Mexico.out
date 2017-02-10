@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cuautitlán Izcalli",
+               "short_name" : "Cuautitlán Izcalli",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuautitlán Izcalli",
+               "short_name" : "Cuautitlán Izcalli",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Mexico",
+               "short_name" : "Méx.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cuautitlán Izcalli, State of Mexico, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.7297252,
+                  "lng" : -99.1750285
+               },
+               "southwest" : {
+                  "lat" : 19.5856759,
+                  "lng" : -99.27651449999999
+               }
+            },
+            "location" : {
+               "lat" : 19.6528089,
+               "lng" : -99.22313869999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.7297252,
+                  "lng" : -99.1750285
+               },
+               "southwest" : {
+                  "lat" : 19.5856759,
+                  "lng" : -99.27651449999999
+               }
+            }
+         },
+         "place_id" : "ChIJZ0Krr9Qd0oURiE3bnk3X6Aw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

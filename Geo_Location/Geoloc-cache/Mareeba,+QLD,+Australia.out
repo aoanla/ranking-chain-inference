@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mareeba",
+               "short_name" : "Mareeba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4880",
+               "short_name" : "4880",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mareeba QLD 4880, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.9217311,
+                  "lng" : 145.6396994
+               },
+               "southwest" : {
+                  "lat" : -17.1698037,
+                  "lng" : 145.3716705
+               }
+            },
+            "location" : {
+               "lat" : -16.9911644,
+               "lng" : 145.4223803
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.9217311,
+                  "lng" : 145.6396994
+               },
+               "southwest" : {
+                  "lat" : -17.1698037,
+                  "lng" : 145.3716705
+               }
+            }
+         },
+         "place_id" : "ChIJq1X9Az58eGkRcHEgf_HuAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

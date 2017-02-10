@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Teton County",
+               "short_name" : "Teton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jackson, WY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.491205,
+                  "lng" : -110.7377219
+               },
+               "southwest" : {
+                  "lat" : 43.457833,
+                  "lng" : -110.813473
+               }
+            },
+            "location" : {
+               "lat" : 43.4799291,
+               "lng" : -110.7624282
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.491205,
+                  "lng" : -110.7377219
+               },
+               "southwest" : {
+                  "lat" : 43.457833,
+                  "lng" : -110.813473
+               }
+            }
+         },
+         "place_id" : "ChIJS3_P_FgaU1MRXIM6scsBHD0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

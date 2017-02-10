@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Beckley",
+               "short_name" : "Beckley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Raleigh County",
+               "short_name" : "Raleigh County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "25801",
+               "short_name" : "25801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Beckley, WV 25801, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.8214441,
+                  "lng" : -81.141907
+               },
+               "southwest" : {
+                  "lat" : 37.75765,
+                  "lng" : -81.2205089
+               }
+            },
+            "location" : {
+               "lat" : 37.7781702,
+               "lng" : -81.1881557
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.8214441,
+                  "lng" : -81.141907
+               },
+               "southwest" : {
+                  "lat" : 37.75765,
+                  "lng" : -81.2205089
+               }
+            }
+         },
+         "place_id" : "ChIJ6eCObMLyTogRqwYkmUyKI8Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

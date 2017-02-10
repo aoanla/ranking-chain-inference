@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pibrac",
+               "short_name" : "Pibrac",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Haute-Garonne",
+               "short_name" : "Haute-Garonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pibrac, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.650628,
+                  "lng" : 1.307737
+               },
+               "southwest" : {
+                  "lat" : 43.59835899999999,
+                  "lng" : 1.209001
+               }
+            },
+            "location" : {
+               "lat" : 43.618937,
+               "lng" : 1.283406
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.650628,
+                  "lng" : 1.307737
+               },
+               "southwest" : {
+                  "lat" : 43.59835899999999,
+                  "lng" : 1.209001
+               }
+            }
+         },
+         "place_id" : "ChIJOxcabR6yrhIRZSPG8ng_wOk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

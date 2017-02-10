@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Olympia",
+               "short_name" : "Olympia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thurston County",
+               "short_name" : "Thurston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Olympia, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.078086,
+                  "lng" : -122.8231391
+               },
+               "southwest" : {
+                  "lat" : 47.0005809,
+                  "lng" : -122.9645982
+               }
+            },
+            "location" : {
+               "lat" : 47.0378741,
+               "lng" : -122.9006951
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.078086,
+                  "lng" : -122.8231391
+               },
+               "southwest" : {
+                  "lat" : 47.0005809,
+                  "lng" : -122.9645982
+               }
+            }
+         },
+         "place_id" : "ChIJaVUorsHJkVQRgxuI4pdhFE8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

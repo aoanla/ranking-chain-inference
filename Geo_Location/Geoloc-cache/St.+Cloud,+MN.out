@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Cloud",
+               "short_name" : "St Cloud",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benton County",
+               "short_name" : "Benton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Cloud, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.590595,
+                  "lng" : -94.0364318
+               },
+               "southwest" : {
+                  "lat" : 45.45604789999999,
+                  "lng" : -94.26216190000001
+               }
+            },
+            "location" : {
+               "lat" : 45.5579451,
+               "lng" : -94.16324039999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.590595,
+                  "lng" : -94.0364318
+               },
+               "southwest" : {
+                  "lat" : 45.45604789999999,
+                  "lng" : -94.26216190000001
+               }
+            }
+         },
+         "place_id" : "ChIJ9QLLgqmKtFIRRH-L0A7mtFU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

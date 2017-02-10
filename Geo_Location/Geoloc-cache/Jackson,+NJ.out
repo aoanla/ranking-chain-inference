@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ocean County",
+               "short_name" : "Ocean County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jackson, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.17235489999999,
+                  "lng" : -74.241539
+               },
+               "southwest" : {
+                  "lat" : 39.9990331,
+                  "lng" : -74.469543
+               }
+            },
+            "location" : {
+               "lat" : 40.0918895,
+               "lng" : -74.35874729999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.17235489999999,
+                  "lng" : -74.241539
+               },
+               "southwest" : {
+                  "lat" : 39.9990331,
+                  "lng" : -74.469543
+               }
+            }
+         },
+         "place_id" : "ChIJ9SDbiFZ6wYkRmaOIktmL8sQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

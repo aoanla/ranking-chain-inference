@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Odessa",
+               "short_name" : "Odessa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ector County",
+               "short_name" : "Ector County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Odessa, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.954475,
+                  "lng" : -102.2456889
+               },
+               "southwest" : {
+                  "lat" : 31.798745,
+                  "lng" : -102.4414181
+               }
+            },
+            "location" : {
+               "lat" : 31.8456816,
+               "lng" : -102.3676431
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.954475,
+                  "lng" : -102.2456889
+               },
+               "southwest" : {
+                  "lat" : 31.798745,
+                  "lng" : -102.4414181
+               }
+            }
+         },
+         "place_id" : "ChIJ-XwTOWrJ-4YRRl9hVDSrJRY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

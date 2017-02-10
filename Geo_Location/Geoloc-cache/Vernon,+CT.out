@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Vernon",
+               "short_name" : "Vernon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tolland County",
+               "short_name" : "Tolland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Vernon, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8744895,
+                  "lng" : -72.418891
+               },
+               "southwest" : {
+                  "lat" : 41.798499,
+                  "lng" : -72.50753
+               }
+            },
+            "location" : {
+               "lat" : 41.8186802,
+               "lng" : -72.47903699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8744895,
+                  "lng" : -72.418891
+               },
+               "southwest" : {
+                  "lat" : 41.798499,
+                  "lng" : -72.50753
+               }
+            }
+         },
+         "place_id" : "ChIJRyQjPDf25okRP4LSh7UQN4c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Klamath Falls",
+               "short_name" : "Klamath Falls",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Klamath County",
+               "short_name" : "Klamath County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Klamath Falls, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.2683349,
+                  "lng" : -121.6983209
+               },
+               "southwest" : {
+                  "lat" : 42.141155,
+                  "lng" : -121.851278
+               }
+            },
+            "location" : {
+               "lat" : 42.224867,
+               "lng" : -121.7816704
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.2683349,
+                  "lng" : -121.6983209
+               },
+               "southwest" : {
+                  "lat" : 42.141155,
+                  "lng" : -121.851278
+               }
+            }
+         },
+         "place_id" : "ChIJ4w7yaFnUyFQRJpe5KPV_jfQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

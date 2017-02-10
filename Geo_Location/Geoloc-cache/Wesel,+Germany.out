@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wesel",
+               "short_name" : "Wesel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wesel",
+               "short_name" : "Wesel",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wesel, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.7236055,
+                  "lng" : 6.713758299999999
+               },
+               "southwest" : {
+                  "lat" : 51.6162565,
+                  "lng" : 6.4603875
+               }
+            },
+            "location" : {
+               "lat" : 51.6643079,
+               "lng" : 6.6295679
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.7236055,
+                  "lng" : 6.713758299999999
+               },
+               "southwest" : {
+                  "lat" : 51.6162565,
+                  "lng" : 6.4603875
+               }
+            }
+         },
+         "place_id" : "ChIJCaMM_dSEuEcRsHdUMYHyJwQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

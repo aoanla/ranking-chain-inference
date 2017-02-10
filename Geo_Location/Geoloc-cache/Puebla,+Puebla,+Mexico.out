@@ -1,0 +1,182 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puebla",
+               "short_name" : "Puebla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puebla",
+               "short_name" : "Puebla",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Puebla",
+               "short_name" : "Pue.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puebla, Puebla, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.1379254,
+                  "lng" : -98.10335380000001
+               },
+               "southwest" : {
+                  "lat" : 18.9422155,
+                  "lng" : -98.28257649999999
+               }
+            },
+            "location" : {
+               "lat" : 19.0412967,
+               "lng" : -98.20619959999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.1379254,
+                  "lng" : -98.10335380000001
+               },
+               "southwest" : {
+                  "lat" : 18.9422155,
+                  "lng" : -98.28257649999999
+               }
+            }
+         },
+         "place_id" : "ChIJO3q8Xr3Az4URla2U5B1Gpkg",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puebla",
+               "short_name" : "Puebla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Heroica Puebla de Zaragoza",
+               "short_name" : "Puebla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Puebla",
+               "short_name" : "Puebla",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Puebla",
+               "short_name" : "Pue.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "72270",
+               "short_name" : "72270",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Puebla, 72270 Puebla, Pue., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.0517347,
+                  "lng" : -98.1738441
+               },
+               "southwest" : {
+                  "lat" : 19.0501863,
+                  "lng" : -98.17579099999999
+               }
+            },
+            "location" : {
+               "lat" : 19.051138,
+               "lng" : -98.1750021
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.0523094802915,
+                  "lng" : -98.17346856970849
+               },
+               "southwest" : {
+                  "lat" : 19.0496115197085,
+                  "lng" : -98.1761665302915
+               }
+            }
+         },
+         "place_id" : "ChIJEzDnqVXAz4URfQ1F1RK7VhY",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Puebla",
+               "short_name" : "Puebla",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Puebla",
+               "short_name" : "Puebla",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mexicali",
+               "short_name" : "Mexicali",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baja California",
+               "short_name" : "B.C.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Puebla, Puebla, B.C., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5773264,
+                  "lng" : -115.3431418
+               },
+               "southwest" : {
+                  "lat" : 32.5586397,
+                  "lng" : -115.3617352
+               }
+            },
+            "location" : {
+               "lat" : 32.5656252,
+               "lng" : -115.3519086
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5773264,
+                  "lng" : -115.3431418
+               },
+               "southwest" : {
+                  "lat" : 32.5586397,
+                  "lng" : -115.3617352
+               }
+            }
+         },
+         "place_id" : "ChIJXSMCebZ114AR3d9Hi7x5F-o",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

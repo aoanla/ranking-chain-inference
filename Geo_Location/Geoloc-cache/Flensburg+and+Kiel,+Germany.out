@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kiel-Senk-Redder",
+               "short_name" : "Kiel-Senk-Redder",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Kosel",
+               "short_name" : "Kosel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Schleswig-Holstein",
+               "short_name" : "SH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "24354",
+               "short_name" : "24354",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kiel-Senk-Redder, 24354 Kosel, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 54.51018,
+                  "lng" : 9.758378199999999
+               },
+               "southwest" : {
+                  "lat" : 54.5097,
+                  "lng" : 9.7547906
+               }
+            },
+            "location" : {
+               "lat" : 54.5098663,
+               "lng" : 9.756569299999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 54.5112889802915,
+                  "lng" : 9.758378199999999
+               },
+               "southwest" : {
+                  "lat" : 54.5085910197085,
+                  "lng" : 9.7547906
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ_fBwYRAPs0cRQEWnH4dlCgE",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

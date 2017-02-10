@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Parkersburg",
+               "short_name" : "Parkersburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wood County",
+               "short_name" : "Wood County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "West Virginia",
+               "short_name" : "WV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Parkersburg, WV, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.3089831,
+                  "lng" : -81.50250799999999
+               },
+               "southwest" : {
+                  "lat" : 39.204163,
+                  "lng" : -81.58064
+               }
+            },
+            "location" : {
+               "lat" : 39.2667418,
+               "lng" : -81.56151349999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.3089831,
+                  "lng" : -81.50250799999999
+               },
+               "southwest" : {
+                  "lat" : 39.204163,
+                  "lng" : -81.58064
+               }
+            }
+         },
+         "place_id" : "ChIJVyTeMntMSIgRmpQhDCzkk84",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

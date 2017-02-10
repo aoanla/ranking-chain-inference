@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jacksonville",
+               "short_name" : "Jacksonville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Duval County",
+               "short_name" : "Duval County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jacksonville, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.586232,
+                  "lng" : -81.3914121
+               },
+               "southwest" : {
+                  "lat" : 30.103748,
+                  "lng" : -82.0495018
+               }
+            },
+            "location" : {
+               "lat" : 30.3321838,
+               "lng" : -81.65565099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.586232,
+                  "lng" : -81.3914178
+               },
+               "southwest" : {
+                  "lat" : 30.103748,
+                  "lng" : -82.0495018
+               }
+            }
+         },
+         "place_id" : "ChIJ66_O8Ra35YgR4sf8ljh9zcQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pinellas Park",
+               "short_name" : "Pinellas Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pinellas County",
+               "short_name" : "Pinellas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pinellas Park, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.8954591,
+                  "lng" : -82.6638909
+               },
+               "southwest" : {
+                  "lat" : 27.824581,
+                  "lng" : -82.75726899999999
+               }
+            },
+            "location" : {
+               "lat" : 27.8428025,
+               "lng" : -82.6995443
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.8954591,
+                  "lng" : -82.6638909
+               },
+               "southwest" : {
+                  "lat" : 27.824581,
+                  "lng" : -82.75726899999999
+               }
+            }
+         },
+         "place_id" : "ChIJJU8x7-7kwogRLULNlsh6Ej8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

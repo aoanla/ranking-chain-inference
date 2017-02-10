@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cornwall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stormont, Dundas and Glengarry United Counties",
+               "short_name" : "Stormont, Dundas and Glengarry United Counties",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cornwall, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.085779,
+                  "lng" : -74.665384
+               },
+               "southwest" : {
+                  "lat" : 45.0061933,
+                  "lng" : -74.848328
+               }
+            },
+            "location" : {
+               "lat" : 45.0212762,
+               "lng" : -74.730345
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.085779,
+                  "lng" : -74.665384
+               },
+               "southwest" : {
+                  "lat" : 45.0061933,
+                  "lng" : -74.848328
+               }
+            }
+         },
+         "place_id" : "ChIJVedZhcsZzEwRMBQjxyh7AwU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

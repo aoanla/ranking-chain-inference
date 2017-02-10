@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Maastricht",
+               "short_name" : "Maastricht",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maastricht",
+               "short_name" : "Maastricht",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Limburg",
+               "short_name" : "LI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Maastricht, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.9117809,
+                  "lng" : 5.7629404
+               },
+               "southwest" : {
+                  "lat" : 50.8038126,
+                  "lng" : 5.638866999999999
+               }
+            },
+            "location" : {
+               "lat" : 50.8513682,
+               "lng" : 5.6909725
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.9117809,
+                  "lng" : 5.7629404
+               },
+               "southwest" : {
+                  "lat" : 50.8038126,
+                  "lng" : 5.638866999999999
+               }
+            }
+         },
+         "place_id" : "ChIJnwZBWOzpwEcRbqi-zHuV61M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

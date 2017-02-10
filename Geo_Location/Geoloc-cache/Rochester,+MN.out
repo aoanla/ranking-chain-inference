@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Olmsted County",
+               "short_name" : "Olmsted County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rochester, MN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.10759609999999,
+                  "lng" : -92.38899599999999
+               },
+               "southwest" : {
+                  "lat" : 43.884379,
+                  "lng" : -92.5733489
+               }
+            },
+            "location" : {
+               "lat" : 44.0121221,
+               "lng" : -92.4801989
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.10759609999999,
+                  "lng" : -92.38899599999999
+               },
+               "southwest" : {
+                  "lat" : 43.884379,
+                  "lng" : -92.5733489
+               }
+            }
+         },
+         "place_id" : "ChIJSyxfo0tf94cRPcZhVhcclfA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

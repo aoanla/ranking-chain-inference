@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bennington",
+               "short_name" : "Bennington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bennington",
+               "short_name" : "Bennington",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Bennington County",
+               "short_name" : "Bennington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05201",
+               "short_name" : "05201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bennington, VT 05201, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.893334,
+                  "lng" : -73.1498491
+               },
+               "southwest" : {
+                  "lat" : 42.8499501,
+                  "lng" : -73.22183389999999
+               }
+            },
+            "location" : {
+               "lat" : 42.8781345,
+               "lng" : -73.1967741
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.893334,
+                  "lng" : -73.1498491
+               },
+               "southwest" : {
+                  "lat" : 42.8499501,
+                  "lng" : -73.22183389999999
+               }
+            }
+         },
+         "place_id" : "ChIJWbBWLayV4IkRI0a5InyLJMA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

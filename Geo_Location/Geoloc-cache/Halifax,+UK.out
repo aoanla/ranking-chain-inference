@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Halifax",
+               "short_name" : "Halifax",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Calderdale District",
+               "short_name" : "Calderdale District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "West Yorkshire",
+               "short_name" : "West Yorkshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Halifax, West Yorkshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7875625,
+                  "lng" : -1.7785614
+               },
+               "southwest" : {
+                  "lat" : 53.692218,
+                  "lng" : -1.9703541
+               }
+            },
+            "location" : {
+               "lat" : 53.72702,
+               "lng" : -1.85754
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7875625,
+                  "lng" : -1.7785614
+               },
+               "southwest" : {
+                  "lat" : 53.692218,
+                  "lng" : -1.9703541
+               }
+            }
+         },
+         "place_id" : "ChIJOe8goQHCe0gRk1j6apkpP2w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

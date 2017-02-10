@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pueblo",
+               "short_name" : "Pueblo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pueblo County",
+               "short_name" : "Pueblo County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pueblo, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.345385,
+                  "lng" : -104.460868
+               },
+               "southwest" : {
+                  "lat" : 38.1891058,
+                  "lng" : -104.7208689
+               }
+            },
+            "location" : {
+               "lat" : 38.2544472,
+               "lng" : -104.6091409
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.345385,
+                  "lng" : -104.460868
+               },
+               "southwest" : {
+                  "lat" : 38.1891058,
+                  "lng" : -104.7208689
+               }
+            }
+         },
+         "place_id" : "ChIJZbEbB_OiE4cRLrjHaKNrLag",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

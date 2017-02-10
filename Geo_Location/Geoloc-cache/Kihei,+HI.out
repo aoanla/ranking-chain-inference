@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kihei",
+               "short_name" : "Kihei",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Maui County",
+               "short_name" : "Maui County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kihei, HI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.813699,
+                  "lng" : -156.411648
+               },
+               "southwest" : {
+                  "lat" : 20.7164779,
+                  "lng" : -156.4909361
+               }
+            },
+            "location" : {
+               "lat" : 20.7644275,
+               "lng" : -156.4450063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.813699,
+                  "lng" : -156.411648
+               },
+               "southwest" : {
+                  "lat" : 20.7164779,
+                  "lng" : -156.4909361
+               }
+            }
+         },
+         "place_id" : "ChIJpZqwnQnQVHkR_2aNvwpr6mg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

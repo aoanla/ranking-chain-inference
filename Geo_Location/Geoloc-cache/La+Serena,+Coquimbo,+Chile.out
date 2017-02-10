@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Serena",
+               "short_name" : "La Serena",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Serena",
+               "short_name" : "La Serena",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Elqui Province",
+               "short_name" : "Elqui Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Coquimbo Region",
+               "short_name" : "Coquimbo Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Serena, La Serena, Coquimbo Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.8558036,
+                  "lng" : -71.19941439999999
+               },
+               "southwest" : {
+                  "lat" : -29.9597722,
+                  "lng" : -71.28892499999999
+               }
+            },
+            "location" : {
+               "lat" : -29.9026691,
+               "lng" : -71.2519374
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.8558036,
+                  "lng" : -71.19941439999999
+               },
+               "southwest" : {
+                  "lat" : -29.9597722,
+                  "lng" : -71.28892499999999
+               }
+            }
+         },
+         "place_id" : "ChIJyfOJk2TKkZYRy0zY0bOHF4o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

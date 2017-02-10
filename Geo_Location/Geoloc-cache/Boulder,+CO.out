@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Boulder",
+               "short_name" : "Boulder",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Boulder County",
+               "short_name" : "Boulder County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Boulder, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0945509,
+                  "lng" : -105.178197
+               },
+               "southwest" : {
+                  "lat" : 39.9640689,
+                  "lng" : -105.3017579
+               }
+            },
+            "location" : {
+               "lat" : 40.0149856,
+               "lng" : -105.2705456
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0945509,
+                  "lng" : -105.178197
+               },
+               "southwest" : {
+                  "lat" : 39.9640689,
+                  "lng" : -105.3017579
+               }
+            }
+         },
+         "place_id" : "ChIJ06-NJ06Na4cRWIAboHw7Ocg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

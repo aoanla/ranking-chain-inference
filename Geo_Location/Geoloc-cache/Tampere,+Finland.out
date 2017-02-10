@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tampere",
+               "short_name" : "Tampere",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tampere",
+               "short_name" : "Tampere",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Pirkanmaa",
+               "short_name" : "Pirkanmaa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tampere, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 61.82811239999999,
+                  "lng" : 24.1183841
+               },
+               "southwest" : {
+                  "lat" : 61.42728169999999,
+                  "lng" : 23.5422032
+               }
+            },
+            "location" : {
+               "lat" : 61.4977524,
+               "lng" : 23.7609535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 61.82811239999999,
+                  "lng" : 24.1183841
+               },
+               "southwest" : {
+                  "lat" : 61.42728169999999,
+                  "lng" : 23.5422032
+               }
+            }
+         },
+         "place_id" : "ChIJXdqTRVXfjkYRwCILHr3j32o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

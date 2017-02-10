@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moss Bluff",
+               "short_name" : "Moss Bluff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Calcasieu Parish",
+               "short_name" : "Calcasieu Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Moss Bluff, LA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.331286,
+                  "lng" : -93.1537429
+               },
+               "southwest" : {
+                  "lat" : 30.26185,
+                  "lng" : -93.25029289999999
+               }
+            },
+            "location" : {
+               "lat" : 30.3027042,
+               "lng" : -93.19070970000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.331286,
+                  "lng" : -93.1537429
+               },
+               "southwest" : {
+                  "lat" : 30.26185,
+                  "lng" : -93.25029289999999
+               }
+            }
+         },
+         "place_id" : "ChIJx1QessyEO4YREhqQAS6eNBw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

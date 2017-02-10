@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lapeer",
+               "short_name" : "Lapeer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lapeer County",
+               "short_name" : "Lapeer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "48446",
+               "short_name" : "48446",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Lapeer, MI 48446, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0692669,
+                  "lng" : -83.28483399999999
+               },
+               "southwest" : {
+                  "lat" : 43.027668,
+                  "lng" : -83.3625199
+               }
+            },
+            "location" : {
+               "lat" : 43.0514161,
+               "lng" : -83.31883409999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0692669,
+                  "lng" : -83.28483399999999
+               },
+               "southwest" : {
+                  "lat" : 43.027668,
+                  "lng" : -83.3625199
+               }
+            }
+         },
+         "place_id" : "ChIJ-5lbEVhgJIgRaPgpniecGs4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

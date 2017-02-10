@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Powell",
+               "short_name" : "Powell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Park County",
+               "short_name" : "Park County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "82435",
+               "short_name" : "82435",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Powell, WY 82435, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8834291,
+                  "lng" : -108.729624
+               },
+               "southwest" : {
+                  "lat" : 44.7443309,
+                  "lng" : -108.804165
+               }
+            },
+            "location" : {
+               "lat" : 44.7538408,
+               "lng" : -108.7573524
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.768986,
+                  "lng" : -108.734363
+               },
+               "southwest" : {
+                  "lat" : 44.7443309,
+                  "lng" : -108.785224
+               }
+            }
+         },
+         "place_id" : "ChIJURm-a8xTSVMRzxqFal4TOPI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

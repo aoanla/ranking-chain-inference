@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sarnia",
+               "short_name" : "Sarnia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lambton County",
+               "short_name" : "Lambton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sarnia, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.038348,
+                  "lng" : -82.2300309
+               },
+               "southwest" : {
+                  "lat" : 42.91219,
+                  "lng" : -82.46000699999999
+               }
+            },
+            "location" : {
+               "lat" : 42.974536,
+               "lng" : -82.4065901
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.038348,
+                  "lng" : -82.2300309
+               },
+               "southwest" : {
+                  "lat" : 42.91219,
+                  "lng" : -82.46000699999999
+               }
+            }
+         },
+         "place_id" : "ChIJXe9VDlaBJYgRXvD2aCjtI88",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

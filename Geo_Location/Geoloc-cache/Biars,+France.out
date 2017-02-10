@@ -1,0 +1,65 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biars-sur-Cère",
+               "short_name" : "Biars-sur-Cère",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lot",
+               "short_name" : "Lot",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "46130",
+               "short_name" : "46130",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "46130 Biars-sur-Cère, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.9390749,
+                  "lng" : 1.87814
+               },
+               "southwest" : {
+                  "lat" : 44.916303,
+                  "lng" : 1.8330691
+               }
+            },
+            "location" : {
+               "lat" : 44.927285,
+               "lng" : 1.845119
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.9390749,
+                  "lng" : 1.87814
+               },
+               "southwest" : {
+                  "lat" : 44.916303,
+                  "lng" : 1.8330691
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJV3d9oxIqrRIRKG-0zNqFKQo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

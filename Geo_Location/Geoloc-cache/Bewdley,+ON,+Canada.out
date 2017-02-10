@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bewdley",
+               "short_name" : "Bewdley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamilton",
+               "short_name" : "Hamilton",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Northumberland County",
+               "short_name" : "Northumberland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "K0K",
+               "short_name" : "K0K",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bewdley, ON K0K, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.083107,
+               "lng" : -78.328418
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.0911216,
+                  "lng" : -78.31241059999999
+               },
+               "southwest" : {
+                  "lat" : 44.0750913,
+                  "lng" : -78.34442539999999
+               }
+            }
+         },
+         "place_id" : "ChIJUVa0O4y_1YkRNmzf3Yl5zQw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

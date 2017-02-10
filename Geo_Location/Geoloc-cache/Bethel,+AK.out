@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bethel",
+               "short_name" : "Bethel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bethel",
+               "short_name" : "Bethel",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bethel, AK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.8334919,
+                  "lng" : -161.6692661
+               },
+               "southwest" : {
+                  "lat" : 60.74809689999999,
+                  "lng" : -161.91819
+               }
+            },
+            "location" : {
+               "lat" : 60.7922222,
+               "lng" : -161.7558333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.8334919,
+                  "lng" : -161.6692661
+               },
+               "southwest" : {
+                  "lat" : 60.74809689999999,
+                  "lng" : -161.91819
+               }
+            }
+         },
+         "place_id" : "ChIJNQ7lPdZUIFcR72WBF5pfliI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

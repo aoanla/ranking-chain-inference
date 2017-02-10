@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lerwick",
+               "short_name" : "Lerwick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shetland Islands",
+               "short_name" : "Shetland Islands",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lerwick, Shetland Islands, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.1598329,
+                  "lng" : -1.1325429
+               },
+               "southwest" : {
+                  "lat" : 60.1456394,
+                  "lng" : -1.1659521
+               }
+            },
+            "location" : {
+               "lat" : 60.1529871,
+               "lng" : -1.1492932
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.1598329,
+                  "lng" : -1.1325429
+               },
+               "southwest" : {
+                  "lat" : 60.1456394,
+                  "lng" : -1.1659521
+               }
+            }
+         },
+         "place_id" : "ChIJicutH3aLnkgRLLgTVFA3II4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

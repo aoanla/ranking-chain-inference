@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Owen Sound",
+               "short_name" : "Owen Sound",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grey County",
+               "short_name" : "Grey County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Owen Sound, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.6096379,
+                  "lng" : -80.891868
+               },
+               "southwest" : {
+                  "lat" : 44.540959,
+                  "lng" : -80.96428499999999
+               }
+            },
+            "location" : {
+               "lat" : 44.5690305,
+               "lng" : -80.94056019999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.6096379,
+                  "lng" : -80.891868
+               },
+               "southwest" : {
+                  "lat" : 44.540959,
+                  "lng" : -80.96428499999999
+               }
+            }
+         },
+         "place_id" : "ChIJESNUhYf7KYgRA08xh5wzyIk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

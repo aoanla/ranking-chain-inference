@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Redcliff",
+               "short_name" : "Redcliff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 1",
+               "short_name" : "Division No. 1",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Redcliff, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.0844969,
+                  "lng" : -110.7434858
+               },
+               "southwest" : {
+                  "lat" : 50.0475431,
+                  "lng" : -110.8008711
+               }
+            },
+            "location" : {
+               "lat" : 50.0719947,
+               "lng" : -110.7818827
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.0844969,
+                  "lng" : -110.7434858
+               },
+               "southwest" : {
+                  "lat" : 50.0475431,
+                  "lng" : -110.8008711
+               }
+            }
+         },
+         "place_id" : "ChIJKf8PnDQrE1MRL-KzGfN_TgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oulu",
+               "short_name" : "Oulu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Northern Ostrobothnia",
+               "short_name" : "Northern Ostrobothnia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Oulu, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 65.5643426,
+                  "lng" : 26.770696
+               },
+               "southwest" : {
+                  "lat" : 64.8443082,
+                  "lng" : 24.9619558
+               }
+            },
+            "location" : {
+               "lat" : 65.0120888,
+               "lng" : 25.4650773
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 65.5643426,
+                  "lng" : 26.770696
+               },
+               "southwest" : {
+                  "lat" : 64.8443082,
+                  "lng" : 24.9619558
+               }
+            }
+         },
+         "place_id" : "ChIJwYUhwKgygEYRfekSKzItsIs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

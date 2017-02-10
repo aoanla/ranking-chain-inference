@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greenville",
+               "short_name" : "Greenville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greenville County",
+               "short_name" : "Greenville County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greenville, SC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.8908379,
+                  "lng" : -82.29098189999999
+               },
+               "southwest" : {
+                  "lat" : 34.7754991,
+                  "lng" : -82.434679
+               }
+            },
+            "location" : {
+               "lat" : 34.85261759999999,
+               "lng" : -82.3940104
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.8908379,
+                  "lng" : -82.29098189999999
+               },
+               "southwest" : {
+                  "lat" : 34.7754991,
+                  "lng" : -82.434679
+               }
+            }
+         },
+         "place_id" : "ChIJBRH6YmaPV4gRlnYlv3edqtg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

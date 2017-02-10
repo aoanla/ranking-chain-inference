@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Byron Bay",
+               "short_name" : "Byron Bay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2481",
+               "short_name" : "2481",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Byron Bay NSW 2481, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.6146006,
+                  "lng" : 153.6380003
+               },
+               "southwest" : {
+                  "lat" : -28.6791426,
+                  "lng" : 153.56699
+               }
+            },
+            "location" : {
+               "lat" : -28.6441616,
+               "lng" : 153.6123788
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.6146006,
+                  "lng" : 153.6380003
+               },
+               "southwest" : {
+                  "lat" : -28.6791426,
+                  "lng" : 153.56699
+               }
+            }
+         },
+         "place_id" : "ChIJK3Y-LYVikGsR0PJDkLQJBgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

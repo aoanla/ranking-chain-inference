@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manassas",
+               "short_name" : "Manassas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manassas, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7814139,
+                  "lng" : -77.4475099
+               },
+               "southwest" : {
+                  "lat" : 38.707904,
+                  "lng" : -77.5266778
+               }
+            },
+            "location" : {
+               "lat" : 38.7509488,
+               "lng" : -77.47526669999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7814139,
+                  "lng" : -77.4475099
+               },
+               "southwest" : {
+                  "lat" : 38.707904,
+                  "lng" : -77.5266778
+               }
+            }
+         },
+         "place_id" : "ChIJi9Zl1IBbtokRUuf7tl6bUoM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

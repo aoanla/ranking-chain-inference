@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pinellas County",
+               "short_name" : "Pinellas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pinellas County, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1733461,
+                  "lng" : -82.58256150000001
+               },
+               "southwest" : {
+                  "lat" : 27.6114439,
+                  "lng" : -82.85148909999999
+               }
+            },
+            "location" : {
+               "lat" : 27.876394,
+               "lng" : -82.7778579
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1733461,
+                  "lng" : -82.58256150000001
+               },
+               "southwest" : {
+                  "lat" : 27.6114439,
+                  "lng" : -82.85148909999999
+               }
+            }
+         },
+         "place_id" : "ChIJmU1R49GXwogREBL8gkBLFZ8",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kauai County",
+               "short_name" : "Kauai County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kauai County, HI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.235384,
+                  "lng" : -159.2922528
+               },
+               "southwest" : {
+                  "lat" : 21.6491326,
+                  "lng" : -160.5449014
+               }
+            },
+            "location" : {
+               "lat" : 21.9661076,
+               "lng" : -159.5737912
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.235384,
+                  "lng" : -159.2922528
+               },
+               "southwest" : {
+                  "lat" : 21.8682699,
+                  "lng" : -159.7881788
+               }
+            }
+         },
+         "place_id" : "ChIJG519pu2wB3wR4biEhFb5pg0",
+         "types" : [ "administrative_area_level_2", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kauai",
+               "short_name" : "Kauai",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Kauai County",
+               "short_name" : "Kauai County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kauai, Hawaii, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 22.2326731,
+                  "lng" : -159.2922528
+               },
+               "southwest" : {
+                  "lat" : 21.868264,
+                  "lng" : -159.7881863
+               }
+            },
+            "location" : {
+               "lat" : 22.0964396,
+               "lng" : -159.5261238
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 22.2326731,
+                  "lng" : -159.2922528
+               },
+               "southwest" : {
+                  "lat" : 21.868264,
+                  "lng" : -159.7881863
+               }
+            }
+         },
+         "place_id" : "ChIJR7CeJbsEB3wRijctofUaMvY",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

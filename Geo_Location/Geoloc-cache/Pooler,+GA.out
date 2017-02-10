@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pooler",
+               "short_name" : "Pooler",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chatham County",
+               "short_name" : "Chatham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pooler, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.172165,
+                  "lng" : -81.1955739
+               },
+               "southwest" : {
+                  "lat" : 32.0578679,
+                  "lng" : -81.3106829
+               }
+            },
+            "location" : {
+               "lat" : 32.115481,
+               "lng" : -81.2470574
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.172165,
+                  "lng" : -81.1955739
+               },
+               "southwest" : {
+                  "lat" : 32.0578679,
+                  "lng" : -81.3106829
+               }
+            }
+         },
+         "place_id" : "ChIJVb0TNyqg-4gRpzvypTrtvls",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

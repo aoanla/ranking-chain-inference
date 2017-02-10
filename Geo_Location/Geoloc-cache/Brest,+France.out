@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brest",
+               "short_name" : "Brest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finistere",
+               "short_name" : "Finistere",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brittany",
+               "short_name" : "Brittany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brest, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.459562,
+                  "lng" : -4.4302621
+               },
+               "southwest" : {
+                  "lat" : 48.3572541,
+                  "lng" : -4.5689391
+               }
+            },
+            "location" : {
+               "lat" : 48.390394,
+               "lng" : -4.486076
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.459562,
+                  "lng" : -4.4302621
+               },
+               "southwest" : {
+                  "lat" : 48.3572541,
+                  "lng" : -4.5689391
+               }
+            }
+         },
+         "place_id" : "ChIJk1uS2eG7FkgRqzCcF1iDSMY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stuart",
+               "short_name" : "Stuart",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Martin County",
+               "short_name" : "Martin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stuart, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.2453669,
+                  "lng" : -80.21153600000001
+               },
+               "southwest" : {
+                  "lat" : 27.1520789,
+                  "lng" : -80.2697378
+               }
+            },
+            "location" : {
+               "lat" : 27.197548,
+               "lng" : -80.2528257
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.2453669,
+                  "lng" : -80.21153600000001
+               },
+               "southwest" : {
+                  "lat" : 27.1520789,
+                  "lng" : -80.2697378
+               }
+            }
+         },
+         "place_id" : "ChIJr1DUgjXc3ogRg7x3da08Zec",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

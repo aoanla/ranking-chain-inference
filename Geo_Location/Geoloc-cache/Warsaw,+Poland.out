@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Warsaw",
+               "short_name" : "Warsaw",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Warszawa",
+               "short_name" : "Warszawa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Masovian Voivodeship",
+               "short_name" : "Masovian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Warsaw, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.3679992,
+                  "lng" : 21.2710983
+               },
+               "southwest" : {
+                  "lat" : 52.0978767,
+                  "lng" : 20.8512898
+               }
+            },
+            "location" : {
+               "lat" : 52.2296756,
+               "lng" : 21.0122287
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.3679992,
+                  "lng" : 21.2710983
+               },
+               "southwest" : {
+                  "lat" : 52.0978767,
+                  "lng" : 20.8512898
+               }
+            }
+         },
+         "place_id" : "ChIJAZ-GmmbMHkcR_NPqiCq-8HI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Peoria",
+               "short_name" : "Peoria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Peoria City Township",
+               "short_name" : "Peoria City Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Peoria County",
+               "short_name" : "Peoria County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Peoria, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.844136,
+                  "lng" : -89.54872229999999
+               },
+               "southwest" : {
+                  "lat" : 40.651938,
+                  "lng" : -89.69828100000001
+               }
+            },
+            "location" : {
+               "lat" : 40.6936488,
+               "lng" : -89.5889864
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.844136,
+                  "lng" : -89.54872229999999
+               },
+               "southwest" : {
+                  "lat" : 40.651938,
+                  "lng" : -89.69828100000001
+               }
+            }
+         },
+         "place_id" : "ChIJrXlYU1xZCogR24B9azL0-8o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

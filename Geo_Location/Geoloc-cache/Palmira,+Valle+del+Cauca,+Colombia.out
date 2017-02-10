@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Palmira",
+               "short_name" : "Palmira",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Palmira",
+               "short_name" : "Palmira",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valle del Cauca",
+               "short_name" : "Valle del Cauca",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Palmira, Palmira, Valle del Cauca, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 3.5615751,
+                  "lng" : -76.2672759
+               },
+               "southwest" : {
+                  "lat" : 3.502452,
+                  "lng" : -76.32357499999999
+               }
+            },
+            "location" : {
+               "lat" : 3.5379718,
+               "lng" : -76.29716569999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 3.5615751,
+                  "lng" : -76.2672759
+               },
+               "southwest" : {
+                  "lat" : 3.502452,
+                  "lng" : -76.32357499999999
+               }
+            }
+         },
+         "place_id" : "ChIJ7VzukugEOo4RepOnnYtiHWQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marshall",
+               "short_name" : "Marshall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Calhoun County",
+               "short_name" : "Calhoun County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49068",
+               "short_name" : "49068",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Marshall, MI 49068, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.29705209999999,
+                  "lng" : -84.92426499999999
+               },
+               "southwest" : {
+                  "lat" : 42.22480789999999,
+                  "lng" : -84.99069390000001
+               }
+            },
+            "location" : {
+               "lat" : 42.2722641,
+               "lng" : -84.96331479999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.29705209999999,
+                  "lng" : -84.92426499999999
+               },
+               "southwest" : {
+                  "lat" : 42.22480789999999,
+                  "lng" : -84.99069390000001
+               }
+            }
+         },
+         "place_id" : "ChIJiRnsfpfiF4gRWVafnS5LSUc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Edmonton",
+               "short_name" : "Edmonton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 11",
+               "short_name" : "Division No. 11",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Edmonton, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7160999,
+                  "lng" : -113.2731591
+               },
+               "southwest" : {
+                  "lat" : 53.395655,
+                  "lng" : -113.7147381
+               }
+            },
+            "location" : {
+               "lat" : 53.544389,
+               "lng" : -113.4909267
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7160999,
+                  "lng" : -113.2731591
+               },
+               "southwest" : {
+                  "lat" : 53.395655,
+                  "lng" : -113.7147381
+               }
+            }
+         },
+         "place_id" : "ChIJI__egEUioFMRXRX2SgygH0E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

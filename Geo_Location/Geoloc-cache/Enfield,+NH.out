@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Enfield",
+               "short_name" : "Enfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grafton County",
+               "short_name" : "Grafton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Enfield, NH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6585911,
+                  "lng" : -72.02015209999999
+               },
+               "southwest" : {
+                  "lat" : 43.528939,
+                  "lng" : -72.208145
+               }
+            },
+            "location" : {
+               "lat" : 43.64064399999999,
+               "lng" : -72.14398299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6585911,
+                  "lng" : -72.02015209999999
+               },
+               "southwest" : {
+                  "lat" : 43.528939,
+                  "lng" : -72.208145
+               }
+            }
+         },
+         "place_id" : "ChIJgx3SG0ettEwRIiQJZPfVYFw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

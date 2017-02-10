@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hanover",
+               "short_name" : "Hanover",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Region Hannover",
+               "short_name" : "Region Hannover",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lower Saxony",
+               "short_name" : "NDS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hanover, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.4544218,
+                  "lng" : 9.918507699999999
+               },
+               "southwest" : {
+                  "lat" : 52.304911,
+                  "lng" : 9.604435199999999
+               }
+            },
+            "location" : {
+               "lat" : 52.3758916,
+               "lng" : 9.732010400000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.4544218,
+                  "lng" : 9.918507699999999
+               },
+               "southwest" : {
+                  "lat" : 52.304911,
+                  "lng" : 9.604435199999999
+               }
+            }
+         },
+         "place_id" : "ChIJhU9JTVELsEcRIEeslG2sJQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

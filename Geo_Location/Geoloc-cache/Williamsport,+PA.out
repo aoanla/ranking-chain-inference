@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Williamsport",
+               "short_name" : "Williamsport",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lycoming County",
+               "short_name" : "Lycoming County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Williamsport, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.2642699,
+                  "lng" : -76.981545
+               },
+               "southwest" : {
+                  "lat" : 41.2180199,
+                  "lng" : -77.09556599999999
+               }
+            },
+            "location" : {
+               "lat" : 41.2411897,
+               "lng" : -77.00107860000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.2642699,
+                  "lng" : -76.981545
+               },
+               "southwest" : {
+                  "lat" : 41.2180199,
+                  "lng" : -77.09556599999999
+               }
+            }
+         },
+         "place_id" : "ChIJtyLqAcOUz4kRib2hrxTk9Ys",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

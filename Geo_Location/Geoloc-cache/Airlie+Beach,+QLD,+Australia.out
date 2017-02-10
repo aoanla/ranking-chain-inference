@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Airlie Beach",
+               "short_name" : "Airlie Beach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4802",
+               "short_name" : "4802",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Airlie Beach QLD 4802, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.2629154,
+                  "lng" : 148.7258383
+               },
+               "southwest" : {
+                  "lat" : -20.2833626,
+                  "lng" : 148.7091958
+               }
+            },
+            "location" : {
+               "lat" : -20.2687204,
+               "lng" : 148.7184564
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.2629154,
+                  "lng" : 148.7258383
+               },
+               "southwest" : {
+                  "lat" : -20.2833626,
+                  "lng" : 148.7091958
+               }
+            }
+         },
+         "place_id" : "ChIJFa_KC0k12GsREAohf_HuAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

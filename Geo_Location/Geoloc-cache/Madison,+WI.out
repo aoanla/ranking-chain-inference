@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Madison",
+               "short_name" : "Madison",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dane County",
+               "short_name" : "Dane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Madison, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.171916,
+                  "lng" : -89.24645199999999
+               },
+               "southwest" : {
+                  "lat" : 42.998071,
+                  "lng" : -89.56638889999999
+               }
+            },
+            "location" : {
+               "lat" : 43.0730517,
+               "lng" : -89.4012302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.171916,
+                  "lng" : -89.24645199999999
+               },
+               "southwest" : {
+                  "lat" : 42.998071,
+                  "lng" : -89.56638889999999
+               }
+            }
+         },
+         "place_id" : "ChIJ_xkgOm1TBogRmEFIurX8DE4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

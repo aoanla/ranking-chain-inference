@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Honolulu",
+               "short_name" : "Honolulu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Honolulu County",
+               "short_name" : "Honolulu County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Honolulu, HI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.4012299,
+                  "lng" : -157.6485225
+               },
+               "southwest" : {
+                  "lat" : 21.2548377,
+                  "lng" : -157.949443
+               }
+            },
+            "location" : {
+               "lat" : 21.3069444,
+               "lng" : -157.8583333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.4012299,
+                  "lng" : -157.6485225
+               },
+               "southwest" : {
+                  "lat" : 21.2548377,
+                  "lng" : -157.949443
+               }
+            }
+         },
+         "place_id" : "ChIJTUbDjDsYAHwRbJen81_1KEs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

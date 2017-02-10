@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Southern Maryland",
+               "short_name" : "Southern Maryland",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Southern Maryland, MD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.7690619,
+                  "lng" : -76.201477
+               },
+               "southwest" : {
+                  "lat" : 37.88846789999999,
+                  "lng" : -77.32300909999999
+               }
+            },
+            "location" : {
+               "lat" : 38.4153613,
+               "lng" : -76.70406659999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.7690619,
+                  "lng" : -76.201477
+               },
+               "southwest" : {
+                  "lat" : 37.88846789999999,
+                  "lng" : -77.32300909999999
+               }
+            }
+         },
+         "place_id" : "ChIJKbHkvThvt4kRTPKWdJ_u4gQ",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

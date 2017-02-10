@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Plymouth",
+               "short_name" : "New Plymouth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Plymouth District",
+               "short_name" : "New Plymouth District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Taranaki",
+               "short_name" : "Taranaki",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Plymouth, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.9950069,
+                  "lng" : 174.1921242
+               },
+               "southwest" : {
+                  "lat" : -39.11002149999999,
+                  "lng" : 174.0001264
+               }
+            },
+            "location" : {
+               "lat" : -39.0556253,
+               "lng" : 174.0752278
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.9950069,
+                  "lng" : 174.1921242
+               },
+               "southwest" : {
+                  "lat" : -39.11002149999999,
+                  "lng" : 174.0001264
+               }
+            }
+         },
+         "place_id" : "ChIJDc5kI-b5FG0RoOmiQ2HvAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

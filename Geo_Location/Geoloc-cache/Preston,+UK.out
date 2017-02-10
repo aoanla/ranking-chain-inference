@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Preston",
+               "short_name" : "Preston",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "City of Preston",
+               "short_name" : "City of Preston",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lancashire",
+               "short_name" : "Lancashire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Preston, Preston, Lancashire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.7924911,
+                  "lng" : -2.63028
+               },
+               "southwest" : {
+                  "lat" : 53.74802099999999,
+                  "lng" : -2.7640235
+               }
+            },
+            "location" : {
+               "lat" : 53.763201,
+               "lng" : -2.70309
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.7924911,
+                  "lng" : -2.63028
+               },
+               "southwest" : {
+                  "lat" : 53.74802099999999,
+                  "lng" : -2.7640235
+               }
+            }
+         },
+         "place_id" : "ChIJTTx7C8sMe0gRIYeyefsDh9Y",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

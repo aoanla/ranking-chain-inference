@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brantford",
+               "short_name" : "Brantford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brant County",
+               "short_name" : "Brant County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brantford, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.1935791,
+                  "lng" : -80.1942049
+               },
+               "southwest" : {
+                  "lat" : 43.101638,
+                  "lng" : -80.3539261
+               }
+            },
+            "location" : {
+               "lat" : 43.1393867,
+               "lng" : -80.26442539999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.1935791,
+                  "lng" : -80.1942049
+               },
+               "southwest" : {
+                  "lat" : 43.101638,
+                  "lng" : -80.3539261
+               }
+            }
+         },
+         "place_id" : "ChIJD3PqeOJlLIgR4PlmpKWlPTU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

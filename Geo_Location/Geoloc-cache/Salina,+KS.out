@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salina",
+               "short_name" : "Salina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saline County",
+               "short_name" : "Saline County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salina, KS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.896313,
+                  "lng" : -97.5578841
+               },
+               "southwest" : {
+                  "lat" : 38.754594,
+                  "lng" : -97.7063469
+               }
+            },
+            "location" : {
+               "lat" : 38.8402805,
+               "lng" : -97.61142369999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.896313,
+                  "lng" : -97.5578841
+               },
+               "southwest" : {
+                  "lat" : 38.754594,
+                  "lng" : -97.7063469
+               }
+            }
+         },
+         "place_id" : "ChIJT1BSz2DAvIcR8mst7s9KZTU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

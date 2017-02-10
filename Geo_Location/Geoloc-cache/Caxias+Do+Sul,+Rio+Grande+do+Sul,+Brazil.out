@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Caxias do Sul",
+               "short_name" : "Caxias do Sul",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Caxias do Sul",
+               "short_name" : "Caxias do Sul",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rio Grande do Sul",
+               "short_name" : "RS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Caxias do Sul, Caxias do Sul - RS, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -29.0904182,
+                  "lng" : -51.0558777
+               },
+               "southwest" : {
+                  "lat" : -29.2405996,
+                  "lng" : -51.2916278
+               }
+            },
+            "location" : {
+               "lat" : -29.1634031,
+               "lng" : -51.1796683
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -29.0904182,
+                  "lng" : -51.0558782
+               },
+               "southwest" : {
+                  "lat" : -29.2405996,
+                  "lng" : -51.2916278
+               }
+            }
+         },
+         "place_id" : "ChIJc_A1ZNG8HpUR9Dt3tQf3FPU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

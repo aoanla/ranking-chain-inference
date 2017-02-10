@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dresden",
+               "short_name" : "Dresden",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dresden",
+               "short_name" : "DD",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saxony",
+               "short_name" : "SN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dresden, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.17873489999999,
+                  "lng" : 13.9657761
+               },
+               "southwest" : {
+                  "lat" : 50.9749326,
+                  "lng" : 13.5793953
+               }
+            },
+            "location" : {
+               "lat" : 51.0504088,
+               "lng" : 13.7372621
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.17873489999999,
+                  "lng" : 13.9657761
+               },
+               "southwest" : {
+                  "lat" : 50.9749326,
+                  "lng" : 13.5793953
+               }
+            }
+         },
+         "place_id" : "ChIJqdYaECnPCUcRsP6IQsuxIQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

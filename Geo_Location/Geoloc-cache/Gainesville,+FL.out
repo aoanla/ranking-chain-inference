@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gainesville",
+               "short_name" : "Gainesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alachua County",
+               "short_name" : "Alachua County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gainesville, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.770553,
+                  "lng" : -82.218976
+               },
+               "southwest" : {
+                  "lat" : 29.601988,
+                  "lng" : -82.42051599999999
+               }
+            },
+            "location" : {
+               "lat" : 29.6516344,
+               "lng" : -82.32482619999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.770553,
+                  "lng" : -82.218976
+               },
+               "southwest" : {
+                  "lat" : 29.601988,
+                  "lng" : -82.42051599999999
+               }
+            }
+         },
+         "place_id" : "ChIJKyy_aSEg5ogRlo0QKF1554A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lorient",
+               "short_name" : "Lorient",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morbihan",
+               "short_name" : "Morbihan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brittany",
+               "short_name" : "Brittany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lorient, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.774454,
+                  "lng" : -3.3501088
+               },
+               "southwest" : {
+                  "lat" : 47.724196,
+                  "lng" : -3.41052
+               }
+            },
+            "location" : {
+               "lat" : 47.7482524,
+               "lng" : -3.3702449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.774454,
+                  "lng" : -3.3501088
+               },
+               "southwest" : {
+                  "lat" : 47.724196,
+                  "lng" : -3.41052
+               }
+            }
+         },
+         "place_id" : "ChIJ7QlmqlZeEEgR6uTNDHdnM6k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aurora",
+               "short_name" : "Aurora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kane County",
+               "short_name" : "Kane County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aurora, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8221908,
+                  "lng" : -88.2048429
+               },
+               "southwest" : {
+                  "lat" : 41.6797539,
+                  "lng" : -88.4085949
+               }
+            },
+            "location" : {
+               "lat" : 41.7605849,
+               "lng" : -88.32007150000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8221908,
+                  "lng" : -88.2048429
+               },
+               "southwest" : {
+                  "lat" : 41.6797539,
+                  "lng" : -88.4085949
+               }
+            }
+         },
+         "place_id" : "ChIJGxHVTk3lDogRXehQw0j40X8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

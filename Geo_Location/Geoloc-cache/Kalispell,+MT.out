@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalispell",
+               "short_name" : "Kalispell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Flathead County",
+               "short_name" : "Flathead County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "59901",
+               "short_name" : "59901",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalispell, MT 59901, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.2839248,
+                  "lng" : -114.2688121
+               },
+               "southwest" : {
+                  "lat" : 48.139024,
+                  "lng" : -114.3728119
+               }
+            },
+            "location" : {
+               "lat" : 48.1919889,
+               "lng" : -114.3168131
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.25131589999999,
+                  "lng" : -114.281465
+               },
+               "southwest" : {
+                  "lat" : 48.1632079,
+                  "lng" : -114.3728119
+               }
+            }
+         },
+         "place_id" : "ChIJR8LqnJVQZlMRYrtaHdq9H68",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

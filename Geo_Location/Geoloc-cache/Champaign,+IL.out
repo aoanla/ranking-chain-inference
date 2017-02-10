@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Champaign",
+               "short_name" : "Champaign",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Champaign City Township",
+               "short_name" : "Champaign City Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Champaign County",
+               "short_name" : "Champaign County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Champaign, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.1670741,
+                  "lng" : -88.2210401
+               },
+               "southwest" : {
+                  "lat" : 40.062188,
+                  "lng" : -88.333179
+               }
+            },
+            "location" : {
+               "lat" : 40.1164204,
+               "lng" : -88.2433829
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.1670741,
+                  "lng" : -88.2210401
+               },
+               "southwest" : {
+                  "lat" : 40.062188,
+                  "lng" : -88.333179
+               }
+            }
+         },
+         "place_id" : "ChIJG2mX3o3QDIgRz791tEd49TA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

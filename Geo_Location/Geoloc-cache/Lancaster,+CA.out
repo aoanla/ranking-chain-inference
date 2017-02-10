@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lancaster",
+               "short_name" : "Lancaster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lancaster, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.76885499999999,
+                  "lng" : -117.938403
+               },
+               "southwest" : {
+                  "lat" : 34.6309439,
+                  "lng" : -118.325179
+               }
+            },
+            "location" : {
+               "lat" : 34.6867846,
+               "lng" : -118.1541632
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.76885499999999,
+                  "lng" : -117.938403
+               },
+               "southwest" : {
+                  "lat" : 34.6309439,
+                  "lng" : -118.325179
+               }
+            }
+         },
+         "place_id" : "ChIJQYDoaLFawoARBz4Lfc9yxFg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

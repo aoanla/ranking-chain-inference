@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Port Huron",
+               "short_name" : "Port Huron",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Clair County",
+               "short_name" : "St Clair County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Port Huron, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.040127,
+                  "lng" : -82.41347399999999
+               },
+               "southwest" : {
+                  "lat" : 42.9368589,
+                  "lng" : -82.4665299
+               }
+            },
+            "location" : {
+               "lat" : 42.9708634,
+               "lng" : -82.42491419999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.040127,
+                  "lng" : -82.41347399999999
+               },
+               "southwest" : {
+                  "lat" : 42.9368589,
+                  "lng" : -82.4665299
+               }
+            }
+         },
+         "place_id" : "ChIJISrHbWKcJYgRbE8yTeSPQwU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jackson",
+               "short_name" : "Jackson",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hinds County",
+               "short_name" : "Hinds County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jackson, MS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.4109979,
+                  "lng" : -90.0558839
+               },
+               "southwest" : {
+                  "lat" : 32.2096589,
+                  "lng" : -90.3218909
+               }
+            },
+            "location" : {
+               "lat" : 32.2987573,
+               "lng" : -90.1848103
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.4109979,
+                  "lng" : -90.0558839
+               },
+               "southwest" : {
+                  "lat" : 32.2096589,
+                  "lng" : -90.3218909
+               }
+            }
+         },
+         "place_id" : "ChIJIRt0kH8rKIYRoDjwQeTNEwc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

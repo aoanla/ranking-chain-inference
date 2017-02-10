@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tasmania, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.4380355,
+                  "lng" : 148.4987601
+               },
+               "southwest" : {
+                  "lat" : -43.74298,
+                  "lng" : 143.8182852
+               }
+            },
+            "location" : {
+               "lat" : -41.3650419,
+               "lng" : 146.6284905
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.4380355,
+                  "lng" : 148.4987601
+               },
+               "southwest" : {
+                  "lat" : -43.74298,
+                  "lng" : 143.8183461
+               }
+            }
+         },
+         "place_id" : "ChIJz_o0fifteqoRZEBAKd2ljyo",
+         "types" : [ "administrative_area_level_1", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

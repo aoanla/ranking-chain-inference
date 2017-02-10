@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Avellaneda",
+               "short_name" : "Avellaneda",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Avellaneda Partido",
+               "short_name" : "Avellaneda Partido",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Avellaneda, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.6493857,
+                  "lng" : -58.35714379999999
+               },
+               "southwest" : {
+                  "lat" : -34.6733712,
+                  "lng" : -58.3781605
+               }
+            },
+            "location" : {
+               "lat" : -34.6610756,
+               "lng" : -58.3669739
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.6493857,
+                  "lng" : -58.35714379999999
+               },
+               "southwest" : {
+                  "lat" : -34.6733712,
+                  "lng" : -58.3781605
+               }
+            }
+         },
+         "place_id" : "ChIJKwW9MFIzo5URMQqp7hgqY50",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

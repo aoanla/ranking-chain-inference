@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pachuca",
+               "short_name" : "Pachuca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mineral de la Reforma",
+               "short_name" : "Mineral de la Reforma",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hidalgo",
+               "short_name" : "Hgo.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pachuca, Hgo., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.1235308,
+                  "lng" : -98.6899035
+               },
+               "southwest" : {
+                  "lat" : 20.0714297,
+                  "lng" : -98.74841219999999
+               }
+            },
+            "location" : {
+               "lat" : 20.0976128,
+               "lng" : -98.7095789
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.1235308,
+                  "lng" : -98.6899035
+               },
+               "southwest" : {
+                  "lat" : 20.0714297,
+                  "lng" : -98.74841219999999
+               }
+            }
+         },
+         "place_id" : "ChIJOVRs43Gn0YURMX5bavcs4dc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pachuca",
+               "short_name" : "Pachuca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pachuca",
+               "short_name" : "Pachuca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hidalgo",
+               "short_name" : "Hgo.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pachuca, Hgo., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.1416836,
+                  "lng" : -98.71108459999999
+               },
+               "southwest" : {
+                  "lat" : 20.0233552,
+                  "lng" : -98.82365229999999
+               }
+            },
+            "location" : {
+               "lat" : 20.1010608,
+               "lng" : -98.7591311
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.1416836,
+                  "lng" : -98.71108459999999
+               },
+               "southwest" : {
+                  "lat" : 20.0233552,
+                  "lng" : -98.82365229999999
+               }
+            }
+         },
+         "place_id" : "ChIJiwMeb3Gn0YURSbeWFBBcMRM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

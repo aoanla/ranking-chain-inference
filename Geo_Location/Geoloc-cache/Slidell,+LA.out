@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Slidell",
+               "short_name" : "Slidell",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Tammany Parish",
+               "short_name" : "St Tammany Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Slidell, LA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.3580649,
+                  "lng" : -89.72323500000002
+               },
+               "southwest" : {
+                  "lat" : 30.2170118,
+                  "lng" : -89.83774000000001
+               }
+            },
+            "location" : {
+               "lat" : 30.2751945,
+               "lng" : -89.78117449999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.3580649,
+                  "lng" : -89.72323500000002
+               },
+               "southwest" : {
+                  "lat" : 30.2170118,
+                  "lng" : -89.83774000000001
+               }
+            }
+         },
+         "place_id" : "ChIJHaE_BgPknYgR87m0_SO57nY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kemmerer",
+               "short_name" : "Kemmerer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lincoln County",
+               "short_name" : "Lincoln County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kemmerer, WY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.8179749,
+                  "lng" : -110.5288409
+               },
+               "southwest" : {
+                  "lat" : 41.750388,
+                  "lng" : -110.5820089
+               }
+            },
+            "location" : {
+               "lat" : 41.792447,
+               "lng" : -110.5376692
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.8179749,
+                  "lng" : -110.5288409
+               },
+               "southwest" : {
+                  "lat" : 41.750388,
+                  "lng" : -110.5820089
+               }
+            }
+         },
+         "place_id" : "ChIJ1xYfVLExUYcRFYGYOk4fmr0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

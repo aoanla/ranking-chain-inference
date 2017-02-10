@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Redding",
+               "short_name" : "Redding",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shasta County",
+               "short_name" : "Shasta County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Redding, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.6794979,
+                  "lng" : -122.2715971
+               },
+               "southwest" : {
+                  "lat" : 40.468919,
+                  "lng" : -122.4538641
+               }
+            },
+            "location" : {
+               "lat" : 40.5865396,
+               "lng" : -122.3916754
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.6794979,
+                  "lng" : -122.2715971
+               },
+               "southwest" : {
+                  "lat" : 40.468919,
+                  "lng" : -122.4538641
+               }
+            }
+         },
+         "place_id" : "ChIJLyBKO9aR0lQRVw82e-xYMx8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

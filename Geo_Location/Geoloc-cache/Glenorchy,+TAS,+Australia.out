@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Glenorchy",
+               "short_name" : "Glenorchy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tasmania",
+               "short_name" : "TAS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "7010",
+               "short_name" : "7010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Glenorchy TAS 7010, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -42.8187244,
+                  "lng" : 147.2942842
+               },
+               "southwest" : {
+                  "lat" : -42.8492057,
+                  "lng" : 147.2392075
+               }
+            },
+            "location" : {
+               "lat" : -42.8333742,
+               "lng" : 147.2772003
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -42.8187244,
+                  "lng" : 147.2942842
+               },
+               "southwest" : {
+                  "lat" : -42.8492057,
+                  "lng" : 147.2392075
+               }
+            }
+         },
+         "place_id" : "ChIJk39yg6B0bqoRABXe0E3JAwU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

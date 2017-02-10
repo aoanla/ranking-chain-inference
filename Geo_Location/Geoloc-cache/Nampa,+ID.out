@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nampa",
+               "short_name" : "Nampa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Canyon County",
+               "short_name" : "Canyon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nampa, ID, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.648665,
+                  "lng" : -116.48121
+               },
+               "southwest" : {
+                  "lat" : 43.52346,
+                  "lng" : -116.644577
+               }
+            },
+            "location" : {
+               "lat" : 43.5407172,
+               "lng" : -116.5634624
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.648665,
+                  "lng" : -116.48121
+               },
+               "southwest" : {
+                  "lat" : 43.52346,
+                  "lng" : -116.644577
+               }
+            }
+         },
+         "place_id" : "ChIJKfGXTmlMrlQRUkoycWOGGa4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

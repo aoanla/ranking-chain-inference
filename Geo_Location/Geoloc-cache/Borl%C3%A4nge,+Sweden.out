@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Borlänge",
+               "short_name" : "Borlänge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Borlänge",
+               "short_name" : "Borlänge",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Dalarna County",
+               "short_name" : "Dalarna County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Borlänge, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.539025,
+                  "lng" : 15.5445468
+               },
+               "southwest" : {
+                  "lat" : 60.4135011,
+                  "lng" : 15.350771
+               }
+            },
+            "location" : {
+               "lat" : 60.484304,
+               "lng" : 15.433969
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.539025,
+                  "lng" : 15.5445468
+               },
+               "southwest" : {
+                  "lat" : 60.4135011,
+                  "lng" : 15.350771
+               }
+            }
+         },
+         "place_id" : "ChIJiRpYsSt8Z0YRmUwWPuFgPv4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

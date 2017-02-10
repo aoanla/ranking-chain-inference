@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tupelo",
+               "short_name" : "Tupelo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lee County",
+               "short_name" : "Lee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tupelo, MS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.323945,
+                  "lng" : -88.649709
+               },
+               "southwest" : {
+                  "lat" : 34.2037809,
+                  "lng" : -88.80041
+               }
+            },
+            "location" : {
+               "lat" : 34.2576066,
+               "lng" : -88.7033859
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.323945,
+                  "lng" : -88.649709
+               },
+               "southwest" : {
+                  "lat" : 34.2037809,
+                  "lng" : -88.80041
+               }
+            }
+         },
+         "place_id" : "ChIJoV_eKS5Mh4gRT509-0DM8ec",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Jamestown",
+               "short_name" : "Jamestown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chautauqua County",
+               "short_name" : "Chautauqua County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Jamestown, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.127043,
+                  "lng" : -79.206096
+               },
+               "southwest" : {
+                  "lat" : 42.0759088,
+                  "lng" : -79.2716398
+               }
+            },
+            "location" : {
+               "lat" : 42.0970023,
+               "lng" : -79.23532589999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.127043,
+                  "lng" : -79.206096
+               },
+               "southwest" : {
+                  "lat" : 42.0759088,
+                  "lng" : -79.2716398
+               }
+            }
+         },
+         "place_id" : "ChIJK4o-FOSo0okReyteyGVqD2U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

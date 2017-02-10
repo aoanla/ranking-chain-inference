@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Charlottesville",
+               "short_name" : "Charlottesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Charlottesville, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.070591,
+                  "lng" : -78.44631099999999
+               },
+               "southwest" : {
+                  "lat" : 38.0095839,
+                  "lng" : -78.52363679999999
+               }
+            },
+            "location" : {
+               "lat" : 38.0293059,
+               "lng" : -78.47667810000002
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.070591,
+                  "lng" : -78.44631099999999
+               },
+               "southwest" : {
+                  "lat" : 38.0095839,
+                  "lng" : -78.52363679999999
+               }
+            }
+         },
+         "place_id" : "ChIJj6RQ6i2Gs4kR_HSLw5bwhpA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

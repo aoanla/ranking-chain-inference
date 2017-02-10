@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gibson's",
+               "short_name" : "Gibson's",
+               "types" : []
+            },
+            {
+               "long_name" : "West Vancouver",
+               "short_name" : "West Vancouver",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Greater Vancouver",
+               "short_name" : "Greater Vancouver",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gibson's, West Vancouver, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.4044461,
+                  "lng" : -123.1950124
+               },
+               "southwest" : {
+                  "lat" : 49.4027575,
+                  "lng" : -123.1973572
+               }
+            },
+            "location" : {
+               "lat" : 49.4036018,
+               "lng" : -123.1961848
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.4108621,
+                  "lng" : -123.1801774
+               },
+               "southwest" : {
+                  "lat" : 49.3963405,
+                  "lng" : -123.2121922
+               }
+            }
+         },
+         "place_id" : "ChIJbc2y29ZohlQR3cs7FgUcTqE",
+         "types" : []
+      }
+   ],
+   "status" : "OK"
+}

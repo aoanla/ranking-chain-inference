@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Orange Park",
+               "short_name" : "Orange Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clay County",
+               "short_name" : "Clay County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Orange Park, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.19159,
+                  "lng" : -81.6918257
+               },
+               "southwest" : {
+                  "lat" : 30.1509497,
+                  "lng" : -81.73091909999999
+               }
+            },
+            "location" : {
+               "lat" : 30.1660736,
+               "lng" : -81.706484
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.19159,
+                  "lng" : -81.6918257
+               },
+               "southwest" : {
+                  "lat" : 30.1509497,
+                  "lng" : -81.73091909999999
+               }
+            }
+         },
+         "place_id" : "ChIJQSXZdePF5YgR9dlcoyPcZ14",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

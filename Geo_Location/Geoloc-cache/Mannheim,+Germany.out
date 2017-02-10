@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mannheim",
+               "short_name" : "MA",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mannheim, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5904894,
+                  "lng" : 8.5899901
+               },
+               "southwest" : {
+                  "lat" : 49.4095912,
+                  "lng" : 8.4141602
+               }
+            },
+            "location" : {
+               "lat" : 49.4874592,
+               "lng" : 8.466039499999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5904894,
+                  "lng" : 8.5899901
+               },
+               "southwest" : {
+                  "lat" : 49.4095912,
+                  "lng" : 8.4141602
+               }
+            }
+         },
+         "place_id" : "ChIJRT-OUSTMl0cRh-YGpHr-5LE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

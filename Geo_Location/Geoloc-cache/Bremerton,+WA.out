@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bremerton",
+               "short_name" : "Bremerton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kitsap County",
+               "short_name" : "Kitsap County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bremerton, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.6068969,
+                  "lng" : -122.6029406
+               },
+               "southwest" : {
+                  "lat" : 47.5017289,
+                  "lng" : -122.8045771
+               }
+            },
+            "location" : {
+               "lat" : 47.5673202,
+               "lng" : -122.6329356
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.6068969,
+                  "lng" : -122.6029406
+               },
+               "southwest" : {
+                  "lat" : 47.5017289,
+                  "lng" : -122.8045771
+               }
+            }
+         },
+         "place_id" : "ChIJW-MSUnk3kFQRUgkqUB1lOLI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

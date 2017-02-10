@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cumberland",
+               "short_name" : "Cumberland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Strathcona",
+               "short_name" : "Strathcona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cumberland, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.632691,
+                  "lng" : -124.9941909
+               },
+               "southwest" : {
+                  "lat" : 49.61208999999999,
+                  "lng" : -125.047929
+               }
+            },
+            "location" : {
+               "lat" : 49.618806,
+               "lng" : -125.031269
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.632691,
+                  "lng" : -124.9941909
+               },
+               "southwest" : {
+                  "lat" : 49.61208999999999,
+                  "lng" : -125.047929
+               }
+            }
+         },
+         "place_id" : "ChIJzxY__zcViFQRASd4NPN2yCQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

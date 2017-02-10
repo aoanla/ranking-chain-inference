@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Aarhus",
+               "short_name" : "Aarhus",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aarhus Municipality",
+               "short_name" : "Aarhus Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Central Denmark Region",
+               "short_name" : "Central Denmark Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Aarhus, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.23763539999999,
+                  "lng" : 10.2550862
+               },
+               "southwest" : {
+                  "lat" : 56.1185725,
+                  "lng" : 10.1085108
+               }
+            },
+            "location" : {
+               "lat" : 56.162939,
+               "lng" : 10.203921
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.23763539999999,
+                  "lng" : 10.2550862
+               },
+               "southwest" : {
+                  "lat" : 56.1185725,
+                  "lng" : 10.1085108
+               }
+            }
+         },
+         "place_id" : "ChIJi3iXU7FMTEYRr6IukdnXTYw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

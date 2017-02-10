@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lakeland",
+               "short_name" : "Lakeland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Polk County",
+               "short_name" : "Polk County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lakeland, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1722891,
+                  "lng" : -81.838785
+               },
+               "southwest" : {
+                  "lat" : 27.952582,
+                  "lng" : -82.0559339
+               }
+            },
+            "location" : {
+               "lat" : 28.0394654,
+               "lng" : -81.9498042
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1722891,
+                  "lng" : -81.838785
+               },
+               "southwest" : {
+                  "lat" : 27.952582,
+                  "lng" : -82.0559339
+               }
+            }
+         },
+         "place_id" : "ChIJBwAP37I43YgRCNWiuA8y0Sk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

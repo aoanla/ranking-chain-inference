@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brandon",
+               "short_name" : "Brandon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 7",
+               "short_name" : "Division No. 7",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manitoba",
+               "short_name" : "MB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brandon, MB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9161159,
+                  "lng" : -99.8055449
+               },
+               "southwest" : {
+                  "lat" : 49.8111689,
+                  "lng" : -100.007876
+               }
+            },
+            "location" : {
+               "lat" : 49.848471,
+               "lng" : -99.95009039999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.889527,
+                  "lng" : -99.8055449
+               },
+               "southwest" : {
+                  "lat" : 49.8111689,
+                  "lng" : -100.007876
+               }
+            }
+         },
+         "place_id" : "ChIJ13y5ALKQ51IRCi6OTNzAMco",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brookings",
+               "short_name" : "Brookings",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brookings County",
+               "short_name" : "Brookings County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Dakota",
+               "short_name" : "SD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "57006",
+               "short_name" : "57006",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Brookings, SD 57006, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3338679,
+                  "lng" : -96.746077
+               },
+               "southwest" : {
+                  "lat" : 44.2679589,
+                  "lng" : -96.8291091
+               }
+            },
+            "location" : {
+               "lat" : 44.3113573,
+               "lng" : -96.79838769999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3338679,
+                  "lng" : -96.746077
+               },
+               "southwest" : {
+                  "lat" : 44.2679589,
+                  "lng" : -96.8291091
+               }
+            }
+         },
+         "place_id" : "ChIJ7RRR1cn9iIcRLFvifEISPuE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

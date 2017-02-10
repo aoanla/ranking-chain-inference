@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Metz",
+               "short_name" : "Metz",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lorraine",
+               "short_name" : "Lorraine",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Moselle",
+               "short_name" : "Moselle",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alsace-Champagne-Ardenne-Lorraine",
+               "short_name" : "Alsace-Champagne-Ardenne-Lorraine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Metz, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.14885599999999,
+                  "lng" : 6.256810000000001
+               },
+               "southwest" : {
+                  "lat" : 49.06084999999999,
+                  "lng" : 6.136002
+               }
+            },
+            "location" : {
+               "lat" : 49.1193089,
+               "lng" : 6.175715599999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.14885599999999,
+                  "lng" : 6.256810000000001
+               },
+               "southwest" : {
+                  "lat" : 49.06084999999999,
+                  "lng" : 6.136002
+               }
+            }
+         },
+         "place_id" : "ChIJqbZ0YBvclEcRaaa7Nbbka1k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

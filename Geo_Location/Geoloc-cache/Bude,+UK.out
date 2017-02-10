@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bude",
+               "short_name" : "Bude",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bude-Stratton",
+               "short_name" : "Bude-Stratton",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Cornwall",
+               "short_name" : "Cornwall",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bude, Cornwall, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.84072680000001,
+                  "lng" : -4.5219299
+               },
+               "southwest" : {
+                  "lat" : 50.81623399999999,
+                  "lng" : -4.5560062
+               }
+            },
+            "location" : {
+               "lat" : 50.826636,
+               "lng" : -4.543678
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.84072680000001,
+                  "lng" : -4.5219299
+               },
+               "southwest" : {
+                  "lat" : 50.81623399999999,
+                  "lng" : -4.5560062
+               }
+            }
+         },
+         "place_id" : "ChIJ8_4ay0qGa0gRj7hHYRdmGsg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brunswick",
+               "short_name" : "Brunswick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Glynn County",
+               "short_name" : "Glynn County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brunswick, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.203643,
+                  "lng" : -81.4346429
+               },
+               "southwest" : {
+                  "lat" : 31.1098369,
+                  "lng" : -81.524192
+               }
+            },
+            "location" : {
+               "lat" : 31.1499528,
+               "lng" : -81.49148939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.203643,
+                  "lng" : -81.4346429
+               },
+               "southwest" : {
+                  "lat" : 31.1098369,
+                  "lng" : -81.524192
+               }
+            }
+         },
+         "place_id" : "ChIJaYAXMZTX5IgRXumNk8eYnTY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

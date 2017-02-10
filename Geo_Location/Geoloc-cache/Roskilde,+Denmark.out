@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roskilde",
+               "short_name" : "Roskilde",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Roskilde Municipality",
+               "short_name" : "Roskilde Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Region Zealand",
+               "short_name" : "Region Zealand",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Denmark",
+               "short_name" : "DK",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4000",
+               "short_name" : "4000",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "4000 Roskilde, Denmark",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.7588478,
+                  "lng" : 12.2491735
+               },
+               "southwest" : {
+                  "lat" : 55.5814391,
+                  "lng" : 11.9134378
+               }
+            },
+            "location" : {
+               "lat" : 55.64191,
+               "lng" : 12.087845
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.7588478,
+                  "lng" : 12.2491735
+               },
+               "southwest" : {
+                  "lat" : 55.5814391,
+                  "lng" : 11.9134378
+               }
+            }
+         },
+         "place_id" : "ChIJKS8BlclfUkYREHdQHcyvAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Valdivia",
+               "short_name" : "Valdivia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Valdivia",
+               "short_name" : "Valdivia",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valdivia Province",
+               "short_name" : "Valdivia Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Los Ríos Region",
+               "short_name" : "Los Ríos Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Valdivia, Valdivia, Los Ríos Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -39.7834836,
+                  "lng" : -73.17006239999999
+               },
+               "southwest" : {
+                  "lat" : -39.8627958,
+                  "lng" : -73.28293479999999
+               }
+            },
+            "location" : {
+               "lat" : -39.8173788,
+               "lng" : -73.24253329999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -39.7834836,
+                  "lng" : -73.17006239999999
+               },
+               "southwest" : {
+                  "lat" : -39.8627958,
+                  "lng" : -73.28293479999999
+               }
+            }
+         },
+         "place_id" : "ChIJ5TOrGonuFZYRm9eyeau0yTU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Winnipeg",
+               "short_name" : "Winnipeg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 11",
+               "short_name" : "Division No. 11",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manitoba",
+               "short_name" : "MB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Winnipeg, MB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9938741,
+                  "lng" : -96.9552281
+               },
+               "southwest" : {
+                  "lat" : 49.71377,
+                  "lng" : -97.349222
+               }
+            },
+            "location" : {
+               "lat" : 49.8997541,
+               "lng" : -97.13749369999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9938741,
+                  "lng" : -96.9552281
+               },
+               "southwest" : {
+                  "lat" : 49.71377,
+                  "lng" : -97.349222
+               }
+            }
+         },
+         "place_id" : "ChIJESsa-ftz6lIRZMq5xvoaKis",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

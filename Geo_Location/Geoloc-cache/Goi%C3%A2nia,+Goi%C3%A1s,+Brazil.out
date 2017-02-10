@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Goiânia",
+               "short_name" : "Goiânia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Goiânia",
+               "short_name" : "Goiânia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of Goiás",
+               "short_name" : "GO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Goiânia, Goiânia - State of Goiás, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.5597876,
+                  "lng" : -49.1616991
+               },
+               "southwest" : {
+                  "lat" : -16.8319642,
+                  "lng" : -49.4468356
+               }
+            },
+            "location" : {
+               "lat" : -16.6868912,
+               "lng" : -49.2647943
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.5597876,
+                  "lng" : -49.1616991
+               },
+               "southwest" : {
+                  "lat" : -16.8319642,
+                  "lng" : -49.4468356
+               }
+            }
+         },
+         "place_id" : "ChIJZwjYWL32XpMRjmfSIK0rae8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

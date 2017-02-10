@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Inverness",
+               "short_name" : "Inverness",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Highland",
+               "short_name" : "Highland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Inverness, Highland, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 57.496112,
+                  "lng" : -4.1732932
+               },
+               "southwest" : {
+                  "lat" : 57.4398806,
+                  "lng" : -4.2704224
+               }
+            },
+            "location" : {
+               "lat" : 57.477773,
+               "lng" : -4.224721
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 57.496112,
+                  "lng" : -4.1732932
+               },
+               "southwest" : {
+                  "lat" : 57.4398806,
+                  "lng" : -4.2704224
+               }
+            }
+         },
+         "place_id" : "ChIJK94XLVtxj0gRPcQ-LtEJQ2I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

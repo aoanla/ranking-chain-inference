@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Arras",
+               "short_name" : "Arras",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pas-de-Calais",
+               "short_name" : "Pas-de-Calais",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nord-Pas-de-Calais",
+               "short_name" : "Nord-Pas-de-Calais",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Arras, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.31047599999999,
+                  "lng" : 2.8106741
+               },
+               "southwest" : {
+                  "lat" : 50.268052,
+                  "lng" : 2.7250501
+               }
+            },
+            "location" : {
+               "lat" : 50.291002,
+               "lng" : 2.777535
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.31047599999999,
+                  "lng" : 2.8106741
+               },
+               "southwest" : {
+                  "lat" : 50.268052,
+                  "lng" : 2.7250501
+               }
+            }
+         },
+         "place_id" : "ChIJe1r5ZthH3UcRISplBduuaWg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

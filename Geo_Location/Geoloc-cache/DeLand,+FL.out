@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "DeLand",
+               "short_name" : "DeLand",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volusia County",
+               "short_name" : "Volusia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "DeLand, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.0833561,
+                  "lng" : -81.23505399999999
+               },
+               "southwest" : {
+                  "lat" : 28.955428,
+                  "lng" : -81.340969
+               }
+            },
+            "location" : {
+               "lat" : 29.028318,
+               "lng" : -81.3031179
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.0833561,
+                  "lng" : -81.23505399999999
+               },
+               "southwest" : {
+                  "lat" : 28.955428,
+                  "lng" : -81.340969
+               }
+            }
+         },
+         "place_id" : "ChIJjQQJG3Eb54gRL3KK-8Y80TE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

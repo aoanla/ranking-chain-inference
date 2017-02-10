@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Morelia",
+               "short_name" : "Morelia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Morelia",
+               "short_name" : "Morelia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michoacán",
+               "short_name" : "Mich.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Morelia, Mich., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.7577333,
+                  "lng" : -101.1201535
+               },
+               "southwest" : {
+                  "lat" : 19.6495772,
+                  "lng" : -101.2920944
+               }
+            },
+            "location" : {
+               "lat" : 19.7059504,
+               "lng" : -101.1949825
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.7577333,
+                  "lng" : -101.1201535
+               },
+               "southwest" : {
+                  "lat" : 19.6495772,
+                  "lng" : -101.2920944
+               }
+            }
+         },
+         "place_id" : "ChIJ46edsqILLYQRIIacZ3hpAQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

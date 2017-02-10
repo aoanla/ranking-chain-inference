@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lancaster",
+               "short_name" : "Lancaster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lancaster County",
+               "short_name" : "Lancaster County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lancaster, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.0730409,
+                  "lng" : -76.25408399999999
+               },
+               "southwest" : {
+                  "lat" : 40.00691,
+                  "lng" : -76.34661389999999
+               }
+            },
+            "location" : {
+               "lat" : 40.0378755,
+               "lng" : -76.30551440000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.0730409,
+                  "lng" : -76.25408399999999
+               },
+               "southwest" : {
+                  "lat" : 40.00691,
+                  "lng" : -76.34661389999999
+               }
+            }
+         },
+         "place_id" : "ChIJuRRykYskxokR1tLbMNCQZ7Q",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

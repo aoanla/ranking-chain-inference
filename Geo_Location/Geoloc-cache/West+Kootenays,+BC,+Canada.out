@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "West Kootenay Regional Airport",
+               "short_name" : "West Kootenay Regional Airport",
+               "types" : [ "point_of_interest", "establishment" ]
+            },
+            {
+               "long_name" : "Castlegar",
+               "short_name" : "Castlegar",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Kootenay",
+               "short_name" : "Central Kootenay",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "V1N 4M5",
+               "short_name" : "V1N 4M5",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "West Kootenay Regional Airport (YCG), Castlegar, BC V1N 4M5, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 49.2968614,
+               "lng" : -117.6335919
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.29821038029149,
+                  "lng" : -117.6322429197085
+               },
+               "southwest" : {
+                  "lat" : 49.29551241970849,
+                  "lng" : -117.6349408802915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJS6-LfaQsY1MRfFmEmGZg8T4",
+         "types" : [ "airport", "point_of_interest", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

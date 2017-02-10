@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheboygan",
+               "short_name" : "Cheboygan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cheboygan County",
+               "short_name" : "Cheboygan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49721",
+               "short_name" : "49721",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cheboygan, MI 49721, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.6698481,
+                  "lng" : -84.43302709999999
+               },
+               "southwest" : {
+                  "lat" : 45.6198179,
+                  "lng" : -84.4984899
+               }
+            },
+            "location" : {
+               "lat" : 45.64695630000001,
+               "lng" : -84.4744795
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.6698481,
+                  "lng" : -84.43302709999999
+               },
+               "southwest" : {
+                  "lat" : 45.6198179,
+                  "lng" : -84.4984899
+               }
+            }
+         },
+         "place_id" : "ChIJywA0rYKiNU0R6yCfyEI79dI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quincy",
+               "short_name" : "Quincy",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Quincy Township",
+               "short_name" : "Quincy Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Adams County",
+               "short_name" : "Adams County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Illinois",
+               "short_name" : "IL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quincy, IL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.972967,
+                  "lng" : -91.31581
+               },
+               "southwest" : {
+                  "lat" : 39.897016,
+                  "lng" : -91.428442
+               }
+            },
+            "location" : {
+               "lat" : 39.9356016,
+               "lng" : -91.4098726
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.972967,
+                  "lng" : -91.31581
+               },
+               "southwest" : {
+                  "lat" : 39.897016,
+                  "lng" : -91.428442
+               }
+            }
+         },
+         "place_id" : "ChIJNzsu05z33YcRvmS0zCC4ZV8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

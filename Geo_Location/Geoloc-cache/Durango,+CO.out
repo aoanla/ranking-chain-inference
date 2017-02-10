@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Durango",
+               "short_name" : "Durango",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Plata County",
+               "short_name" : "La Plata County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Durango, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.326594,
+                  "lng" : -107.814287
+               },
+               "southwest" : {
+                  "lat" : 37.2185008,
+                  "lng" : -107.920432
+               }
+            },
+            "location" : {
+               "lat" : 37.27528,
+               "lng" : -107.8800667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.326594,
+                  "lng" : -107.814287
+               },
+               "southwest" : {
+                  "lat" : 37.2185008,
+                  "lng" : -107.920432
+               }
+            }
+         },
+         "place_id" : "ChIJI_yFvaYCPIcRWn6mo4KIK9w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

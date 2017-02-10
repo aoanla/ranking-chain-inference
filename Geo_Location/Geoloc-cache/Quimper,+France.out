@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Quimper",
+               "short_name" : "Quimper",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Finistere",
+               "short_name" : "Finistere",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Brittany",
+               "short_name" : "Brittany",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Quimper, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0660381,
+                  "lng" : -4.0123019
+               },
+               "southwest" : {
+                  "lat" : 47.9302171,
+                  "lng" : -4.1821189
+               }
+            },
+            "location" : {
+               "lat" : 47.997542,
+               "lng" : -4.097899
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0660381,
+                  "lng" : -4.0123019
+               },
+               "southwest" : {
+                  "lat" : 47.9302171,
+                  "lng" : -4.1821189
+               }
+            }
+         },
+         "place_id" : "ChIJr64TLpfVEEgR0M2iyu-FLdM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

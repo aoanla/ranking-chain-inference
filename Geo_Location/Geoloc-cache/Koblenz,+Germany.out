@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Koblenz",
+               "short_name" : "KO",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Rhineland-Palatinate",
+               "short_name" : "RP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Koblenz, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.4095948,
+                  "lng" : 7.696415399999999
+               },
+               "southwest" : {
+                  "lat" : 50.2829914,
+                  "lng" : 7.480694
+               }
+            },
+            "location" : {
+               "lat" : 50.3569429,
+               "lng" : 7.5889959
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.4095948,
+                  "lng" : 7.696415399999999
+               },
+               "southwest" : {
+                  "lat" : 50.2829914,
+                  "lng" : 7.480694
+               }
+            }
+         },
+         "place_id" : "ChIJnX0jdld7vkcRYLPaENXUIgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

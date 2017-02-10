@@ -1,0 +1,114 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sault Ste. Marie",
+               "short_name" : "Sault Ste. Marie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Algoma District",
+               "short_name" : "Algoma District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sault Ste. Marie, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.61062,
+                  "lng" : -84.2278098
+               },
+               "southwest" : {
+                  "lat" : 46.463615,
+                  "lng" : -84.5912725
+               }
+            },
+            "location" : {
+               "lat" : 46.52185799999999,
+               "lng" : -84.3460896
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.61062,
+                  "lng" : -84.2278098
+               },
+               "southwest" : {
+                  "lat" : 46.463615,
+                  "lng" : -84.5912725
+               }
+            }
+         },
+         "place_id" : "ChIJe4yBCBUxNk0RzSHbE7UOW8U",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sault Ste. Marie",
+               "short_name" : "Sault Ste. Marie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chippewa County",
+               "short_name" : "Chippewa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sault Ste. Marie, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.5073107,
+                  "lng" : -84.28917869999999
+               },
+               "southwest" : {
+                  "lat" : 46.462519,
+                  "lng" : -84.4626931
+               }
+            },
+            "location" : {
+               "lat" : 46.4952996,
+               "lng" : -84.3453169
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.5073107,
+                  "lng" : -84.28917869999999
+               },
+               "southwest" : {
+                  "lat" : 46.462519,
+                  "lng" : -84.4626931
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJpQ4yEXs5Nk0RB1yxaGuUWJo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

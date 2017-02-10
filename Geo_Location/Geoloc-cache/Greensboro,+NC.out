@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Greensboro",
+               "short_name" : "Greensboro",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guilford County",
+               "short_name" : "Guilford County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Greensboro, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.2153239,
+                  "lng" : -79.65986599999999
+               },
+               "southwest" : {
+                  "lat" : 35.985195,
+                  "lng" : -80.00689090000002
+               }
+            },
+            "location" : {
+               "lat" : 36.0726354,
+               "lng" : -79.7919754
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.2153239,
+                  "lng" : -79.65986599999999
+               },
+               "southwest" : {
+                  "lat" : 35.985195,
+                  "lng" : -80.00689090000002
+               }
+            }
+         },
+         "place_id" : "ChIJeXvHOD8ZU4gRyBK-eJTEuZM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

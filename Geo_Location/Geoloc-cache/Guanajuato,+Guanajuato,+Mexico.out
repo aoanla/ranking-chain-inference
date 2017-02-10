@@ -1,0 +1,246 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Guanajuato",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Guanajuato",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Gto.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guanajuato, Guanajuato, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.051636,
+                  "lng" : -101.2355347
+               },
+               "southwest" : {
+                  "lat" : 20.9985796,
+                  "lng" : -101.2802256
+               }
+            },
+            "location" : {
+               "lat" : 21.0190145,
+               "lng" : -101.2573586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.051636,
+                  "lng" : -101.2355347
+               },
+               "southwest" : {
+                  "lat" : 20.9985796,
+                  "lng" : -101.2802256
+               }
+            }
+         },
+         "place_id" : "ChIJ6_EMi_VzK4QRdB5XZdGw9CU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Guanajuato",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dolores Hidalgo Cuna de la Independencia Nacional",
+               "short_name" : "Dolores Hidalgo Cuna de la Independencia Nacional",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dolores Hidalgo",
+               "short_name" : "Dolores Hidalgo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Gto.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "37800",
+               "short_name" : "37800",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Guanajuato, 37800 Dolores Hidalgo Cuna de la Independencia Nacional, Gto., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.1676695,
+                  "lng" : -100.9225492
+               },
+               "southwest" : {
+                  "lat" : 21.159301,
+                  "lng" : -100.9287964
+               }
+            },
+            "location" : {
+               "lat" : 21.1636531,
+               "lng" : -100.9252554
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.1676695,
+                  "lng" : -100.9225492
+               },
+               "southwest" : {
+                  "lat" : 21.159301,
+                  "lng" : -100.9287964
+               }
+            }
+         },
+         "place_id" : "ChIJ6U81PgM_K4QRQea5FCk9Owg",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Guanajuato",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Salamanca",
+               "short_name" : "Salamanca",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Salamanca",
+               "short_name" : "Salamanca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Gto.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Guanajuato, Salamanca, Gto., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.5673611,
+                  "lng" : -101.1996296
+               },
+               "southwest" : {
+                  "lat" : 20.5575582,
+                  "lng" : -101.2071372
+               }
+            },
+            "location" : {
+               "lat" : 20.5624074,
+               "lng" : -101.2035063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.5673611,
+                  "lng" : -101.1996296
+               },
+               "southwest" : {
+                  "lat" : 20.5575582,
+                  "lng" : -101.2071372
+               }
+            }
+         },
+         "place_id" : "ChIJc4aaOguFLIQRHV3MHjoa_LI",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Guanajuato",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Celaya",
+               "short_name" : "Celaya",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Celaya",
+               "short_name" : "Celaya",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Guanajuato",
+               "short_name" : "Gto.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "38010",
+               "short_name" : "38010",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Guanajuato, 38010 Celaya, Gto., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.5514181,
+                  "lng" : -100.8072774
+               },
+               "southwest" : {
+                  "lat" : 20.5464531,
+                  "lng" : -100.8109353
+               }
+            },
+            "location" : {
+               "lat" : 20.5494131,
+               "lng" : -100.8091728
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.5514181,
+                  "lng" : -100.8072774
+               },
+               "southwest" : {
+                  "lat" : 20.5464531,
+                  "lng" : -100.8109353
+               }
+            }
+         },
+         "place_id" : "ChIJI6s-A6W6LIQRMDjHBRt4ue0",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

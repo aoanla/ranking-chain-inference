@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint Petersburg",
+               "short_name" : "СПБ",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "gorod Sankt-Peterburg",
+               "short_name" : "g. Sankt-Peterburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Saint Petersburg",
+               "short_name" : "Saint Petersburg",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Russia",
+               "short_name" : "RU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "St Petersburg, Russia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.089675,
+                  "lng" : 30.559783
+               },
+               "southwest" : {
+                  "lat" : 59.74521590000001,
+                  "lng" : 30.090332
+               }
+            },
+            "location" : {
+               "lat" : 59.9342802,
+               "lng" : 30.3350986
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.089675,
+                  "lng" : 30.559783
+               },
+               "southwest" : {
+                  "lat" : 59.74521590000001,
+                  "lng" : 30.090332
+               }
+            }
+         },
+         "place_id" : "ChIJ7WVKx4w3lkYR_46Eqz9nx20",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

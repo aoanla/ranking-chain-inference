@@ -1,0 +1,565 @@
+#!/bin/bash
+
+# directory names for main, ghost (ie 16MW, 15.5MW)
+#fts and confidences take the "basename" of an fts name csv (ie fts-teams_2016-10-01) and the full name of a confidences file from process-from-FTS-springs-confidences
+main=$1
+ghost=$2
+fts=$3
+confidences=$4
+#skeleton for making a proper full ranking, with GHOST ranks
+
+# do GHOST rank bits - go to tmp-ghost
+
+./ghostrank $1 $2
+
+
+# do RANK bits (just select fields 1 and 7 from the main, remove cruft, sort by rating, add the rank at the end, sort by id (for later join)
+#ID|RATING|"RANK"|RANK
+awk -F'|' '{printf "%s|%.4f|RANK\n", $1, $7 }' <(sort -t'|' -k1,1 ${1}/joined*MW) | grep -v '||' | sort -t'|' -k2,2 -n -r | awk '{printf "%s|%s\n",$0,NR}' | sort -t'|' -k1,1 > tmp-RANK   
+#ID|ORATING|"GHOST"|ORANK    - for ORATING here, we need logic from ghostrank :(
+#awk -F'|' '{printf "%s|%s\n", $1, $7 }' <(sort -t'|' -k1,1 ${2}/joined*MW) | grep -v '||' | sort -t'|' -k2,2 -n -r | awk '{printf "%s|%s\n",$0,NR}' | sort -t'|' -k1,1 > tmp-gRANK
+# - this is now in tmp-oldratings from ghostrank
+
+
+#for all rankings that *are* in both, add the old ratings (for those not, add a *)
+#ID|RATING|"RANK"|RANK|ORATING|ORANK
+join -t'|' -o 1.1,1.2,1.3,1.4,2.2,2.4 -a 1 -e '*' tmp-RANK tmp-oldratings > tmp-RANKs
+
+#consider adding conficenced here |GLOBALCONF|LOCALGROUPID|LOCALCONF|PIVOT?
+join -t'|' -o 1.1,1.2,1.3,1.4,1.5,1.6,2.2,2.3,2.4,2.5 tmp-RANKs $confidences > tmp-RANKcs  
+
+#and for those ratings not in 1 (the ghost rankings), make a separate file for merging (with * for missing values)
+join -t'|' -o 2.1,2.2,2.3,1.4,2.2,2.4 -v 2 -e '*' tmp-RANK tmp-oldratings > tmp-ghost
+
+#the confidences for ghostranks are always |0.23|*|0.23|False as we consider them to not have a partition, and to have confidence = a single 13 month old link
+awk '{printf "%s|0.23|*|0.23|False\n", $0}' tmp-ghost > tmp-ghostc
+
+#TODO, propagate confidence changes below [need to change column numbers, do some dynamic table stuff for hiding columns in html]§
+
+#merge the ghosts in (as they have * ranks here) and sort again 
+cat tmp-ghostc tmp-RANKcs | sort -t'|' -k 1,1 > tmp-ghostRANK
+
+
+sort -t'|' -k1,1 ${3}.denormalised > fts.sort
+#NAME|LEAGUE|GENDER|RATING|"RANK"?|RANK|ORATING|ORANK|AB|REGION|GC|ID|LC|P?
+join -t'|' -o 1.2,1.3,1.11,2.2,2.3,2.4,2.5,2.6,1.5,1.12,2.7,2.8,2.9,2.10 fts.sort tmp-ghostRANK > joined-RANK.sort
+
+
+#sort into rating order, and use awk to put the rank at the front
+sort -t'|' -k4,4 -n -r joined-RANK.sort | awk -F'|' '{print $6"|"$1"|"$2"|"$3"|"$4"|"$5"|"$7"|"$8"|"$9"|"$10"|"$11"|"$12"|"$13"|"$14 }'> ${1}-theghostranking
+#RANK|NAME|LEAGUE|GENDER|RATING|"RANK"?|ORATING|ORANK|AB|REGION|GC|ID|LC|P?
+
+#cat ${1}-theranking joined-ghost.sort > tmp-ghostRANK
+#sort -t'|' -k5,5 -n -r tmp-ghostRANK > ${1}-theghostranking
+
+
+#TODO - selectors for Region (Europe/etc)
+#TODO - add relative certainty column [needs "least strong connection to larger group" logic in ranker]
+
+# convert to html - we use the classes to allow us to do dynamic hiding
+cat > ${1}-htmlranking <<HTMLTOP
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+<meta charset="utf-8"/>
+<title>The Ranking</title>
+<style>
+
+label {
+    width: 110pts;
+}
+
+#gt {
+    background-color: #ffffff;
+    position: fixed ;
+    left: 525pt;
+    top: 0pt;
+}
+
+#mt {
+    background-color: #ffffee;
+    position: fixed ;
+    left: 525pt;
+    top: 12pt;
+}
+
+#wt {
+    background-color: #ffffee;
+    position: fixed ;
+    left: 525pt;
+    top: 24pt;
+}
+
+#at {
+    background-color: #f7f7ff;
+    position: fixed ;
+    left: 525pt;
+    top: 36pt;
+}
+
+#bt {
+    background-color: #f7f7ff;
+    position: fixed ;
+    left: 525pt;
+    top: 48pt
+}
+
+#usat  {
+
+    position: fixed ;
+    left: 525pt;
+    top: 60pt
+}
+
+#cant  {
+
+    position: fixed ;
+    left: 525pt;
+    top: 72pt
+}
+
+#eurot  {
+
+    position: fixed ;
+    left: 525pt;
+    top: 84pt
+}
+
+#aust  {
+
+    position: fixed ;
+    left: 525pt;
+    top: 96pt
+}
+
+#zealt  {
+
+    position: fixed ;
+    left: 525pt;
+    top: 108pt
+}
+
+#pacit  {
+
+    position: fixed ;
+    left: 525pt;
+    top: 120pt
+}
+
+
+#ct {
+   background-color: #f7f7f7;
+   position: fixed ;
+   left: 525pt;
+   top: 132pt;
+}
+
+input {
+	display: none;
+}
+
+#linkdiv {
+    position: fixed;
+    left: 525pt;
+    top: 148pt;
+    width: 110pt;
+}
+
+#results {
+    table-layout: fixed;
+    width: 510pt;
+    top:0px;
+    border: light solid black;
+}
+
+#results-key {
+    position: fixed;
+    table-layout: fixed;
+    top: 0px;
+    width: 510pt;
+    background-color: white;
+    border: thin grey solid;
+}
+
+.rank {
+    width: 30pt;
+}
+
+.rankdiff {
+    width: 30pt;
+}
+
+.name {
+    width: 150pt;
+}
+
+.league {
+    width: 70pt;
+}
+td  {   
+    overflow-wrap: break-word;
+    /* word-wrap: break-word;
+    word-break: break-all; */
+    white-space: normal;
+}
+
+td.normalend ~ td { /* hide the "extra" columns for confidence, by default */
+	display:none 
+}
+
+.ab {
+    width: 40pt
+}
+
+.country {
+    width: 50pt
+}
+
+
+.genus {
+    width: 50pt;
+}
+
+.rating {
+    width: 45pt;
+}
+
+.ratdiff {
+    width: 45pt;
+}
+
+.globconf {
+    width: 30pt;
+}
+.localid {
+   width: 30pt;
+}
+.locconf {
+   width: 30pt;
+}
+.pivotp {
+   width: 45pt;
+}
+
+
+.GHOST {
+  display: none;
+  background-color: #eeeeee;
+}
+
+.Mens, .Womens, .Europe, .USA, .Canada, .Pacific, .Australia {
+}
+
+
+
+#ghost-toggle:checked ~ table .GHOST {
+  display: table-row;
+}
+
+input:checked + label, #conf-toggle:checked ~ #ct {
+	color: blue;
+	font-weight: bold;
+}
+
+
+#men-toggle:checked ~ table .Mens {
+  display: none;
+}
+
+#women-toggle:checked ~ table .Womens {
+  display: none;
+}
+
+#A-toggle:checked ~ table .Travel {
+  display: none;
+}
+
+#B-toggle:checked ~ table .B {
+  display: none;
+}
+
+#USA-toggle:checked ~ table .USA {
+  display: none;
+}
+
+#Europe-toggle:checked ~ table .Europe {
+  display: none;
+}
+
+#Pacific-toggle:checked ~ table .Pacific {
+  display: none;
+}
+
+#Australia-toggle:checked ~ table .Australia {
+  display: none;
+}
+
+#Canada-toggle:checked ~ table .Canada {
+  display: none;
+}
+
+#Zealand-toggle:checked ~ table .Zealand {
+  display: none;
+}
+
+#conf-toggle:checked ~ table tr td.normalend ~ td {
+  display: table-cell;
+}
+
+#conf-toggle:checked ~ table {
+	width: 675pt; /* 510 + 165 for extra cols */
+}
+
+#conf-toggle:checked ~ label {
+	left: 685pt;
+}
+
+#conf-toggle:checked ~ #linkdiv {
+        left: 685pt;
+}
+
+/* hopefully this stripes just the ranks */ 
+
+.RANK0 {
+  background-color: #f7f7ff;
+}
+
+
+.RANK1 {
+  background-color: #eefff7;
+}
+
+/* DELTA styles */
+.NEW {
+  color: #eeeeee;
+}
+
+.OLD {
+  color: #222222;
+}
+
+.POS {
+  color: #006666;
+}
+
+.NEG {
+  color: #990000;
+}
+
+#footer {
+    position:fixed;
+    bottom: 0px;
+    width: 625pt;
+    background-color: #ffffff;
+    border: thin black solid;
+}
+
+#footer a {
+   color: #220000;
+}
+
+HTMLTOP
+
+#build the dynamic styles for the confidence group selectors (because there's an unknown number of them)
+
+
+rtlen=`wc -l tmp-RANK | awk '{print $1}'`
+ttop=$((160+(rtlen/300)*14)) #start of the offsets to avoid bottom of linkdiv - how do we actually do this, we don't know how low linkdiv goes :(
+
+cat >> ${1}-htmlranking <<LOCALGRPHDR
+#localgroupheader {
+    position: fixed ;
+    left: 525pt;
+    top: ${ttop}pt;
+    color: grey
+}
+LOCALGRPHDR
+
+localgrouplist=`cut -d'|' -f8 tmp-RANKcs | sort -n | uniq`
+for var in $localgrouplist
+do
+top=$((ttop+12+(var/8)*12)) 
+left=$((525+(var%8)*12))
+togleft=$((left+165))
+cat >> ${1}-htmlranking <<STYLE
+#local${var}t {
+    position: fixed ;
+    left: ${left}pt;
+    top: ${top}pt;
+}
+
+#local$var-toggle:checked ~ table .local$var {
+  display: none;
+}
+
+#conf-toggle:checked ~ #local${var}t {
+    left: ${togleft}pt;
+}
+STYLE
+done
+
+
+cat >> ${1}-htmlranking <<HTMLTOP2
+</style>
+</head>
+<body>
+<input type="checkbox" id="conf-toggle"/>
+<input type="checkbox" id="ghost-toggle"/>
+<label id="gt" for="ghost-toggle" class="labelkey">
+<span>Reveal Ghost-ranks</span>
+</label>
+<input type="checkbox" id="men-toggle"/>
+<label id="mt" for="men-toggle" class="labelkey">
+<span>Hide Men</span>
+</label>
+<input type="checkbox" id="women-toggle"/>
+<label id="wt" for="women-toggle" class="labelkey">
+<span>Hide Women</span>
+</label>
+<input type="checkbox" id="A-toggle"/>
+<label id="at" for="A-toggle" class="labelkey">
+<span>Hide A teams</span>
+</label>
+<input type="checkbox" id="B-toggle"/>
+<label id="bt" for="B-toggle" class="labelkey">
+<span>Hide B teams</span>
+</label>
+<input type="checkbox" id="USA-toggle"/>
+<label id="usat" for="USA-toggle" class="labelkey">
+<span>Hide USA</span>
+</label>
+<input type="checkbox" id="Europe-toggle"/>
+<label id="eurot" for="Europe-toggle" class="labelkey">
+<span>Hide Europe</span>
+</label>
+<input type="checkbox" id="Pacific-toggle"/>
+<label id="pacit" for="Pacific-toggle" class="labelkey">
+<span>Hide Pacific</span>
+</label>
+<input type="checkbox" id="Australia-toggle"/>
+<label id="aust" for="Australia-toggle" class="labelkey">
+<span>Hide Australia</span>
+</label>
+<input type="checkbox" id="Canada-toggle"/>
+<label id="cant" for="Canada-toggle" class="labelkey">
+<span>Hide Canada</span>
+</label>
+<input type="checkbox" id="Zealand-toggle"/>
+<label id="zealt" class="labelkey" for="Zealand-toggle">
+<span>Hide New Zealand</span>
+</label>
+<label id="ct" class="labelkey" for="conf-toggle">
+<span>Reveal Confidences</span>
+</label>
+HTMLTOP2
+
+#build a series of links to hide the confidence subgroups
+#
+for var in $localgrouplist
+do
+cat >> ${1}-htmlranking <<LOCALLABEL
+<input type="checkbox" id="local$var-toggle"/>
+<label id="local${var}t" for="local$var-toggle">
+<span>${var}</span>
+</label>
+LOCALLABEL
+done
+
+echo "<label id=\"localgroupheader\" class=\"confkey labelkey\">Hide Local Group IDs</label>" >> ${1}-htmlranking
+
+echo "<div id=\"linkdiv\">" >> ${1}-htmlranking
+#build a series of links to 100s of positions down the table
+#rtlen is set up in the styles so we can compute the offsets for the confidence labels
+#rtlen=`wc -l tmp-RANK | awk '{print $1}'`
+count=100
+while [ $count -lt $rtlen ]
+do
+        echo "<a href="#$count" class=\"labelkey\">[$count]</a>" >> ${1}-htmlranking
+        let count=count+100
+done
+
+echo "</div>" >> ${1}-htmlranking
+
+#the top of the result table
+cat >> ${1}-htmlranking <<ARGBLARGLE
+<table id="results-key">
+<colgroup>
+<col class="rank" />
+<col class="rankdiff" />
+<col class="name" />
+<col class="league" />
+<col class="ab" />
+<col class="country" />
+<col class="genus" />
+<col class="rating" />
+<col class="ratdiff" />
+</colgroup>
+<tbody><tr><td title="Global SRD Ranking">#</td><td title="Rank Change (from last month). May include changes due to teams leaving ranking.">+/-</td><td title="FTS recorded name of team">Name</td><td title="FTS recorded name of League">League</td><td title="Travel or B Team?">Type</td><td title="FTS Geographical division">Continent</td><td title="FTS 'Gender' marker">Genus</td><td title="Exact SRD Rating">Rating</td><td title="Change in SRD Rating, normalised to current range" class="normalend">+/-</td><td title="Global Confidence Measure">G/C</td><td title="Local Group Id (0 is default)">ID</td><td title="Local Confidence Measure (relative to rest of local group)">L/C</td><td title="Is this the most-certain member of its group?">Pivot?</td></tr>
+</tbody></table>
+<table id="results">
+<colgroup>
+<col class="rank" />
+<col class="rankdiff" />
+<col class="name" />
+<col class="league" />
+<col class="ab" />
+<col class="country" />
+<col class="genus" />
+<col class="rating" />
+<col class="ratdiff" />
+<col class="globconf" />
+<col class="localid" />
+<col class="locconf" />
+<col class="pivotp" />
+</colgroup>
+<tbody>
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td><td class="normalend"></td><td></td><td></td><td></td><td></td></tr>
+ARGBLARGLE
+
+# last row above is padding so we can see the top row "under" the key
+# 1    2     3      4      5      6      7       8     9   10
+#RANK|NAME|LEAGUE|GENDER|RATING|"RANK"?|ORATING|ORANK|AB|REGION
+awk -F'|' '
+$1 % 100==0 && $6 ~ /RANK/ {
+ anchor="<a name=\""$1"\" \\>"
+}
+$1 % 100!=0 || $6 ~ /GHOST/ {
+ anchor=""
+}
+$6 ~ /GHOST/ { 
+ $5="*"
+ rankdiff="<span class=\"OLD\">("$8")</span>";
+ ratdiff="<span class=\"OLD\">("$7")</span>";
+}
+$6 ~ /RANK/ && $7 ~ /\*/ {
+ rankdiff="<span class="NEW">NEW</span>";
+ ratdiff="<span class="NEW">NEW</span>";
+}
+$6 ~ /RANK/ && $7 !~ /\*/ {
+ rd=$1-$8; //deal with zero specially
+ ranktmp= rd < 0 ? "<span class=\"POS\">"rd"</span>" : "<span class=\"NEG\">"rd"</span>";
+ rankdiff= rd == 0 ? rd : ranktmp;
+ rd=$5-$7;
+ rattmp= rd > 0 ? "<span class=\"POS\">"rd"</span>" : "<span class=\"NEG\">"rd"</span>";
+ ratdiff= rd == 0 ? rd : rattmp;
+}
+ 
+{
+printf "<tr class=\"%s%s %s %s %s local%s\"><td>%s%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td>%s</td><td class=\"normalend\">%s</td><td>%.2g</td><td>%s</td><td>%.2g</td><td>%s</td></tr>\n", $6, $1 % 2, $4, $9, $10, $12, anchor, $1, rankdiff, $2, $3, $9, $10, $4, $5, ratdiff, $11, $12, $13, $14
+}' ${1}-theghostranking | sed 'sI="GHOST.I="GHOSTI' >> ${1}-htmlranking
+
+#and add the bottompiece = starting with some dead rows to let us see the bottom entries in the table.
+cat >> ${1}-htmlranking <<HTMLBOTTOM
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td><td class="normalend"></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td><td class="normalend"></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td><td class="normalend"></td><td></td><td></td><td></td><td></td></tr>
+<tr><td>&nbsp;</td><td></td><td></td><td></td><td></td><td></td><td class="normalend"></td><td></td><td></td><td></td><td></td></tr>
+</tbody>
+</table>
+<div id="footer">SRD Rank for 1 November 2016. This data, and the algorithms related to it are released as Creative Commons: Attribution-NonCommercial-ShareAlike (International) [<a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC:BY-NC-SA 4.0</a>]<br \>
+<a href="http://scottishrollerderby.wordpress.com/2016/10/08/ranking-the-world-and-other-fts-visualisations/2">SRD Rank</a> is a ranking scheme developed by <a href="http://scottishrollerderby.wordpress.com">Scottish Roller Derby Blog</a>, and uses data from <a href="http://www.flattrackstats.com">Flat Track Stats</a>. <br \> 
+Accuracy of data determined by the community: if you think we missed something, update it on FTS!<br />
+Current normalisation constant: 10.78 .</div>
+</body></html>
+HTMLBOTTOM
+

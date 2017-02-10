@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Moab",
+               "short_name" : "Moab",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grand County",
+               "short_name" : "Grand County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Utah",
+               "short_name" : "UT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "84532",
+               "short_name" : "84532",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Moab, UT 84532, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.59312,
+                  "lng" : -109.5216421
+               },
+               "southwest" : {
+                  "lat" : 38.5556759,
+                  "lng" : -109.581195
+               }
+            },
+            "location" : {
+               "lat" : 38.5733155,
+               "lng" : -109.5498395
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.59312,
+                  "lng" : -109.5216421
+               },
+               "southwest" : {
+                  "lat" : 38.5556759,
+                  "lng" : -109.581195
+               }
+            }
+         },
+         "place_id" : "ChIJjS24muXhR4cRLcTV8XqxMgs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

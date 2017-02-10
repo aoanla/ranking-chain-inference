@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Biloxi",
+               "short_name" : "Biloxi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Harrison County",
+               "short_name" : "Harrison County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Biloxi, MS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.493596,
+                  "lng" : -88.81708830000001
+               },
+               "southwest" : {
+                  "lat" : 30.359447,
+                  "lng" : -89.034099
+               }
+            },
+            "location" : {
+               "lat" : 30.3960318,
+               "lng" : -88.88530779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.493596,
+                  "lng" : -88.81708830000001
+               },
+               "southwest" : {
+                  "lat" : 30.359447,
+                  "lng" : -89.034099
+               }
+            }
+         },
+         "place_id" : "ChIJ10K3IFwOnIgRQmhvE1FgesQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

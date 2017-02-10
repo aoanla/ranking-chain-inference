@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Emerald",
+               "short_name" : "Emerald",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4720",
+               "short_name" : "4720",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Emerald QLD 4720, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.4283236,
+                  "lng" : 148.4077215
+               },
+               "southwest" : {
+                  "lat" : -23.6320731,
+                  "lng" : 147.9542041
+               }
+            },
+            "location" : {
+               "lat" : -23.5260032,
+               "lng" : 148.1622346
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.4283236,
+                  "lng" : 148.4077215
+               },
+               "southwest" : {
+                  "lat" : -23.6320731,
+                  "lng" : 147.9542041
+               }
+            }
+         },
+         "place_id" : "ChIJh_X2QmhUz2sR4Jkgf_HuAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

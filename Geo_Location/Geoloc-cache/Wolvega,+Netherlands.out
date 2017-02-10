@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wolvega",
+               "short_name" : "Wolvega",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Weststellingwerf",
+               "short_name" : "Weststellingwerf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Friesland",
+               "short_name" : "Frater",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wolvega, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.8948019,
+                  "lng" : 6.0436307
+               },
+               "southwest" : {
+                  "lat" : 52.8492332,
+                  "lng" : 5.9708427
+               }
+            },
+            "location" : {
+               "lat" : 52.87655179999999,
+               "lng" : 5.9958692
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.8948019,
+                  "lng" : 6.0436307
+               },
+               "southwest" : {
+                  "lat" : 52.8492332,
+                  "lng" : 5.9708427
+               }
+            }
+         },
+         "place_id" : "ChIJ8xPBbphnyEcRcPsxXIoc2OI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

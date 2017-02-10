@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Irvine",
+               "short_name" : "Irvine",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "North Ayrshire",
+               "short_name" : "North Ayrshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Irvine, North Ayrshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.6413355,
+                  "lng" : -4.615805
+               },
+               "southwest" : {
+                  "lat" : 55.5907798,
+                  "lng" : -4.6956893
+               }
+            },
+            "location" : {
+               "lat" : 55.61156690000001,
+               "lng" : -4.6696364
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.6413355,
+                  "lng" : -4.615805
+               },
+               "southwest" : {
+                  "lat" : 55.5907798,
+                  "lng" : -4.6956893
+               }
+            }
+         },
+         "place_id" : "ChIJGVd_RCjMiUgRvnoG22nqP78",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

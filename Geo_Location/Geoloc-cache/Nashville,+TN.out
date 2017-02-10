@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nashville",
+               "short_name" : "Nashville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Davidson County",
+               "short_name" : "Davidson County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nashville, TN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.4054959,
+                  "lng" : -86.5155879
+               },
+               "southwest" : {
+                  "lat" : 35.9677851,
+                  "lng" : -87.054903
+               }
+            },
+            "location" : {
+               "lat" : 36.1626638,
+               "lng" : -86.7816016
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.4054959,
+                  "lng" : -86.5155879
+               },
+               "southwest" : {
+                  "lat" : 35.9677851,
+                  "lng" : -87.054903
+               }
+            }
+         },
+         "place_id" : "ChIJPZDrEzLsZIgRoNrpodC5P30",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

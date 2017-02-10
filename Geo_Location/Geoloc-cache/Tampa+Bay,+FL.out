@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tampa Bay",
+               "short_name" : "Tampa Bay",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tampa Bay, Florida, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.0375564,
+                  "lng" : -82.3834095
+               },
+               "southwest" : {
+                  "lat" : 27.4964445,
+                  "lng" : -82.7605841
+               }
+            },
+            "location" : {
+               "lat" : 27.763383,
+               "lng" : -82.5436722
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.0375564,
+                  "lng" : -82.3834095
+               },
+               "southwest" : {
+                  "lat" : 27.4964445,
+                  "lng" : -82.7605841
+               }
+            }
+         },
+         "place_id" : "ChIJnalYKh0fw4gRbXf5teHhXTA",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rosebud",
+               "short_name" : "Rosebud",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3939",
+               "short_name" : "3939",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Rosebud VIC 3939, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.3502118,
+                  "lng" : 144.9458881
+               },
+               "southwest" : {
+                  "lat" : -38.3936812,
+                  "lng" : 144.883972
+               }
+            },
+            "location" : {
+               "lat" : -38.3610208,
+               "lng" : 144.8900548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.3502118,
+                  "lng" : 144.9458881
+               },
+               "southwest" : {
+                  "lat" : -38.3936812,
+                  "lng" : 144.883972
+               }
+            }
+         },
+         "place_id" : "ChIJA4WeZwDJ1WoR4OWMIXVWBAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "HKI",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "Helsinki",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "Helsinki",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Uusimaa",
+               "short_name" : "Uusimaa",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Helsinki, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.2978389,
+                  "lng" : 25.2544848
+               },
+               "southwest" : {
+                  "lat" : 60.03016400000001,
+                  "lng" : 24.8260502
+               }
+            },
+            "location" : {
+               "lat" : 60.16985569999999,
+               "lng" : 24.938379
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.2978389,
+                  "lng" : 25.2544848
+               },
+               "southwest" : {
+                  "lat" : 60.0301699,
+                  "lng" : 24.8260502
+               }
+            }
+         },
+         "place_id" : "ChIJkQYhlscLkkYRY_fiO4S9Ts0",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Helsinki",
+               "short_name" : "Helsinki",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Taivassalo",
+               "short_name" : "Taivassalo",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "23310",
+               "short_name" : "23310",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "23310 Helsinki, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.60845039999999,
+               "lng" : 21.4388308
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.6097993802915,
+                  "lng" : 21.4401797802915
+               },
+               "southwest" : {
+                  "lat" : 60.60710141970848,
+                  "lng" : 21.4374818197085
+               }
+            }
+         },
+         "place_id" : "ChIJTWJHQ2u8i0YREqbWGFXsmZo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

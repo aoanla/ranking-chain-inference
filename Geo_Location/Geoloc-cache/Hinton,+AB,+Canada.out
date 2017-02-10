@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hinton",
+               "short_name" : "Hinton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 14",
+               "short_name" : "Division No. 14",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hinton, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4406,
+                  "lng" : -117.5256339
+               },
+               "southwest" : {
+                  "lat" : 53.36624,
+                  "lng" : -117.6371512
+               }
+            },
+            "location" : {
+               "lat" : 53.4037088,
+               "lng" : -117.5718423
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4406,
+                  "lng" : -117.5256339
+               },
+               "southwest" : {
+                  "lat" : 53.36624,
+                  "lng" : -117.6371512
+               }
+            }
+         },
+         "place_id" : "ChIJ50h7KNaNnFMR1X20pKS0d7I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

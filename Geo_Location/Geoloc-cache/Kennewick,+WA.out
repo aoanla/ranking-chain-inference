@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kennewick",
+               "short_name" : "Kennewick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benton County",
+               "short_name" : "Benton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kennewick, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.2364167,
+                  "lng" : -119.08742
+               },
+               "southwest" : {
+                  "lat" : 46.16017410000001,
+                  "lng" : -119.2666989
+               }
+            },
+            "location" : {
+               "lat" : 46.2112458,
+               "lng" : -119.1372338
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.2364167,
+                  "lng" : -119.08742
+               },
+               "southwest" : {
+                  "lat" : 46.16017410000001,
+                  "lng" : -119.2666989
+               }
+            }
+         },
+         "place_id" : "ChIJo03151R4mFQR4IqMrq19fXg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

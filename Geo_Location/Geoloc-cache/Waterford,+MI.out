@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterford Township",
+               "short_name" : "Waterford Twp",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Oakland County",
+               "short_name" : "Oakland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waterford Twp, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.7059179,
+                  "lng" : -83.32539509999999
+               },
+               "southwest" : {
+                  "lat" : 42.6121422,
+                  "lng" : -83.446139
+               }
+            },
+            "location" : {
+               "lat" : 42.6907443,
+               "lng" : -83.4066132
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.7059179,
+                  "lng" : -83.32539509999999
+               },
+               "southwest" : {
+                  "lat" : 42.6121422,
+                  "lng" : -83.446139
+               }
+            }
+         },
+         "place_id" : "ChIJgVI6Fka9JIgREvVhuMqAXsY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

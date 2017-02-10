@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Virginia",
+               "short_name" : "VA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Richmond, VA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.6027689,
+                  "lng" : -77.3855119
+               },
+               "southwest" : {
+                  "lat" : 37.446553,
+                  "lng" : -77.601011
+               }
+            },
+            "location" : {
+               "lat" : 37.5407246,
+               "lng" : -77.43604809999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.6027689,
+                  "lng" : -77.3855119
+               },
+               "southwest" : {
+                  "lat" : 37.446553,
+                  "lng" : -77.601011
+               }
+            }
+         },
+         "place_id" : "ChIJ7cmZVwkRsYkRxTxC4m0-2L8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

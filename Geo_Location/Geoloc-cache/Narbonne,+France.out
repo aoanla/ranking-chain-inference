@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Narbonne",
+               "short_name" : "Narbonne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Aude",
+               "short_name" : "Aude",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Languedoc-Roussillon",
+               "short_name" : "Languedoc-Roussillon",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Narbonne, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2377749,
+                  "lng" : 3.184663
+               },
+               "southwest" : {
+                  "lat" : 43.0610709,
+                  "lng" : 2.882396
+               }
+            },
+            "location" : {
+               "lat" : 43.184277,
+               "lng" : 3.003078
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2377749,
+                  "lng" : 3.184663
+               },
+               "southwest" : {
+                  "lat" : 43.0610709,
+                  "lng" : 2.882396
+               }
+            }
+         },
+         "place_id" : "ChIJifsASUGrsRIRoCNtFiGIBwQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

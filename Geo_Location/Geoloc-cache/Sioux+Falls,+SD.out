@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Sioux Falls",
+               "short_name" : "Sioux Falls",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Minnehaha County",
+               "short_name" : "Minnehaha County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Dakota",
+               "short_name" : "SD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sioux Falls, SD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.6163641,
+                  "lng" : -96.65113409999999
+               },
+               "southwest" : {
+                  "lat" : 43.465702,
+                  "lng" : -96.840384
+               }
+            },
+            "location" : {
+               "lat" : 43.5445959,
+               "lng" : -96.73110340000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.6163641,
+                  "lng" : -96.65113409999999
+               },
+               "southwest" : {
+                  "lat" : 43.465702,
+                  "lng" : -96.840384
+               }
+            }
+         },
+         "place_id" : "ChIJ16y94Ji0jocRz_yyqDr_ld4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Gillette",
+               "short_name" : "Gillette",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Campbell County",
+               "short_name" : "Campbell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Gillette, WY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3133069,
+                  "lng" : -105.429326
+               },
+               "southwest" : {
+                  "lat" : 44.2307148,
+                  "lng" : -105.5714069
+               }
+            },
+            "location" : {
+               "lat" : 44.2910915,
+               "lng" : -105.5022205
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3133069,
+                  "lng" : -105.429326
+               },
+               "southwest" : {
+                  "lat" : 44.2307148,
+                  "lng" : -105.5714069
+               }
+            }
+         },
+         "place_id" : "ChIJH7ysLSOUNFMRS5jJ9DEsIMc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

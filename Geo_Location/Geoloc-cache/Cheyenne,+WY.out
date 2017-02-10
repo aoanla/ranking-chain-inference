@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheyenne",
+               "short_name" : "Cheyenne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Laramie County",
+               "short_name" : "Laramie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cheyenne, WY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.192884,
+                  "lng" : -104.673909
+               },
+               "southwest" : {
+                  "lat" : 41.102181,
+                  "lng" : -104.8609001
+               }
+            },
+            "location" : {
+               "lat" : 41.1399814,
+               "lng" : -104.8202462
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.192884,
+                  "lng" : -104.673909
+               },
+               "southwest" : {
+                  "lat" : 41.102181,
+                  "lng" : -104.8609001
+               }
+            }
+         },
+         "place_id" : "ChIJk-9zLnY4b4cRKy2Xj0EwCrE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

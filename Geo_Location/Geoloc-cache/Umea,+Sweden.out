@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Umeå",
+               "short_name" : "Umeå",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Umeå",
+               "short_name" : "Umeå",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Västerbotten County",
+               "short_name" : "Västerbotten County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Umeå, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.87597100000001,
+                  "lng" : 20.365735
+               },
+               "southwest" : {
+                  "lat" : 63.77787699999999,
+                  "lng" : 20.118188
+               }
+            },
+            "location" : {
+               "lat" : 63.8258471,
+               "lng" : 20.2630354
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.87597100000001,
+                  "lng" : 20.365735
+               },
+               "southwest" : {
+                  "lat" : 63.77787699999999,
+                  "lng" : 20.118188
+               }
+            }
+         },
+         "place_id" : "ChIJ-detaBtOfEYRYIWM3gZFAwQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

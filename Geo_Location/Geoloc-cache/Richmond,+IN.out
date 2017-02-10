@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Richmond",
+               "short_name" : "Richmond",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wayne Township",
+               "short_name" : "Wayne Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wayne County",
+               "short_name" : "Wayne County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Richmond, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.8825888,
+                  "lng" : -84.8138039
+               },
+               "southwest" : {
+                  "lat" : 39.74859,
+                  "lng" : -84.96374510000001
+               }
+            },
+            "location" : {
+               "lat" : 39.8289369,
+               "lng" : -84.8902382
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.8825888,
+                  "lng" : -84.8138039
+               },
+               "southwest" : {
+                  "lat" : 39.7933979,
+                  "lng" : -84.96374510000001
+               }
+            }
+         },
+         "place_id" : "ChIJNYHFDYz4P4gRNC3owgUeWQs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

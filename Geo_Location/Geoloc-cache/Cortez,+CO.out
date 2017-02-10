@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cortez",
+               "short_name" : "Cortez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montezuma County",
+               "short_name" : "Montezuma County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81321",
+               "short_name" : "81321",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cortez, CO 81321, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.378583,
+                  "lng" : -108.545231
+               },
+               "southwest" : {
+                  "lat" : 37.32060390000001,
+                  "lng" : -108.613104
+               }
+            },
+            "location" : {
+               "lat" : 37.3488827,
+               "lng" : -108.5859265
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.378583,
+                  "lng" : -108.545231
+               },
+               "southwest" : {
+                  "lat" : 37.32060390000001,
+                  "lng" : -108.613104
+               }
+            }
+         },
+         "place_id" : "ChIJIcGccZdvOYcRRy-DJQl5sFo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

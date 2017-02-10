@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Terrace",
+               "short_name" : "Grand Terrace",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grand Terrace, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.045313,
+                  "lng" : -117.2911751
+               },
+               "southwest" : {
+                  "lat" : 34.0193139,
+                  "lng" : -117.337577
+               }
+            },
+            "location" : {
+               "lat" : 34.0339031,
+               "lng" : -117.3136544
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.045313,
+                  "lng" : -117.2911751
+               },
+               "southwest" : {
+                  "lat" : 34.0193139,
+                  "lng" : -117.337577
+               }
+            }
+         },
+         "place_id" : "ChIJP-LlAAis3IARnBKELHFdaOg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

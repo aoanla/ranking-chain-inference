@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rome",
+               "short_name" : "Rome",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Floyd County",
+               "short_name" : "Floyd County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rome, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.3565,
+                  "lng" : -85.11224609999999
+               },
+               "southwest" : {
+                  "lat" : 34.193159,
+                  "lng" : -85.278941
+               }
+            },
+            "location" : {
+               "lat" : 34.257038,
+               "lng" : -85.1646726
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.3565,
+                  "lng" : -85.11224609999999
+               },
+               "southwest" : {
+                  "lat" : 34.193159,
+                  "lng" : -85.278941
+               }
+            }
+         },
+         "place_id" : "ChIJ-0CeYsCkiogRKx3zvPnFUCg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

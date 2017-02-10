@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burlington",
+               "short_name" : "Burlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Racine County",
+               "short_name" : "Racine County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "53105",
+               "short_name" : "53105",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Burlington, WI 53105, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.712488,
+                  "lng" : -88.2260419
+               },
+               "southwest" : {
+                  "lat" : 42.64009,
+                  "lng" : -88.3184019
+               }
+            },
+            "location" : {
+               "lat" : 42.6780726,
+               "lng" : -88.27620259999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.712488,
+                  "lng" : -88.2260419
+               },
+               "southwest" : {
+                  "lat" : 42.64009,
+                  "lng" : -88.3184019
+               }
+            }
+         },
+         "place_id" : "ChIJaZUYGih4BYgRE6MWQsSEa50",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

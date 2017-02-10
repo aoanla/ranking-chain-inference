@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Okaloosa County",
+               "short_name" : "Okaloosa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Okaloosa County, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.99698009999999,
+                  "lng" : -86.388515
+               },
+               "southwest" : {
+                  "lat" : 30.3781761,
+                  "lng" : -86.80028589999999
+               }
+            },
+            "location" : {
+               "lat" : 30.57734009999999,
+               "lng" : -86.6611083
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.99698009999999,
+                  "lng" : -86.388515
+               },
+               "southwest" : {
+                  "lat" : 30.3781761,
+                  "lng" : -86.80028589999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3dz0mGtskYgRHAGiUBwb5GI",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

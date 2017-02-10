@@ -1,0 +1,103 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brisbane",
+               "short_name" : "Brisbane",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brisbane QLD, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -26.7775,
+                  "lng" : 153.5529199
+               },
+               "southwest" : {
+                  "lat" : -28.0372798,
+                  "lng" : 152.452799
+               }
+            },
+            "location" : {
+               "lat" : -27.4710107,
+               "lng" : 153.0234489
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -26.7775,
+                  "lng" : 153.5529199
+               },
+               "southwest" : {
+                  "lat" : -28.0372798,
+                  "lng" : 152.452799
+               }
+            }
+         },
+         "place_id" : "ChIJM9KTrJpXkWsRQK_e81qjAgQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brisbane",
+               "short_name" : "Brisbane",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brisbane QLD, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -27.4584352,
+                  "lng" : 153.0357659
+               },
+               "southwest" : {
+                  "lat" : -27.4821239,
+                  "lng" : 153.0103061
+               }
+            },
+            "location" : {
+               "lat" : -27.4709331,
+               "lng" : 153.0235024
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -27.4584352,
+                  "lng" : 153.0357659
+               },
+               "southwest" : {
+                  "lat" : -27.4821239,
+                  "lng" : 153.0103061
+               }
+            }
+         },
+         "place_id" : "ChIJuyD2XARakWsRwITe81qjAgU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

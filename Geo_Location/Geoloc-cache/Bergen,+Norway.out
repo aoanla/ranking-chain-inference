@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bergen",
+               "short_name" : "Bergen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bergen",
+               "short_name" : "Bergen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hordaland",
+               "short_name" : "Hordaland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bergen, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 60.52683889999999,
+                  "lng" : 5.6877642
+               },
+               "southwest" : {
+                  "lat" : 60.2035413,
+                  "lng" : 5.170590199999999
+               }
+            },
+            "location" : {
+               "lat" : 60.39126279999999,
+               "lng" : 5.3220544
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.52683889999999,
+                  "lng" : 5.6877642
+               },
+               "southwest" : {
+                  "lat" : 60.2035413,
+                  "lng" : 5.170590199999999
+               }
+            }
+         },
+         "place_id" : "ChIJd312ZkkNOUYRCAretD6gQp4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Osorno",
+               "short_name" : "Osorno",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Osorno",
+               "short_name" : "Osorno",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Osorno Province",
+               "short_name" : "Osorno Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Los Lagos Region",
+               "short_name" : "Los Lagos Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Osorno, Osorno, Los Lagos Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -40.5458182,
+                  "lng" : -73.085673
+               },
+               "southwest" : {
+                  "lat" : -40.601599,
+                  "lng" : -73.18258849999999
+               }
+            },
+            "location" : {
+               "lat" : -40.5761897,
+               "lng" : -73.11494689999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -40.5458182,
+                  "lng" : -73.085673
+               },
+               "southwest" : {
+                  "lat" : -40.601599,
+                  "lng" : -73.18258849999999
+               }
+            }
+         },
+         "place_id" : "ChIJ1djjEn02FpYR9OZ0Ry_a7qE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

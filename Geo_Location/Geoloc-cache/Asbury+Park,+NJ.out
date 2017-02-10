@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Asbury Park",
+               "short_name" : "Asbury Park",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monmouth County",
+               "short_name" : "Monmouth County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Asbury Park, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.230718,
+                  "lng" : -73.9957005
+               },
+               "southwest" : {
+                  "lat" : 40.21312500000001,
+                  "lng" : -74.0272561
+               }
+            },
+            "location" : {
+               "lat" : 40.2203907,
+               "lng" : -74.0120817
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.230718,
+                  "lng" : -73.9957005
+               },
+               "southwest" : {
+                  "lat" : 40.21312500000001,
+                  "lng" : -74.0272561
+               }
+            }
+         },
+         "place_id" : "ChIJkcxLDJ8uwokR8HKvyNgi7ZQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalgoorlie",
+               "short_name" : "Kalgoorlie",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kalgoorlie WA, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.650506,
+                  "lng" : 121.6387254
+               },
+               "southwest" : {
+                  "lat" : -30.8617936,
+                  "lng" : 121.4230038
+               }
+            },
+            "location" : {
+               "lat" : -30.7470074,
+               "lng" : 121.4748606
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.650506,
+                  "lng" : 121.6387254
+               },
+               "southwest" : {
+                  "lat" : -30.8617936,
+                  "lng" : 121.4230038
+               }
+            }
+         },
+         "place_id" : "ChIJT6USi8ZPTSoR8NR5JDj2AAQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kalgoorlie",
+               "short_name" : "Kalgoorlie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Western Australia",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "6430",
+               "short_name" : "6430",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kalgoorlie WA 6430, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -30.7345941,
+                  "lng" : 121.4812802
+               },
+               "southwest" : {
+                  "lat" : -30.768243,
+                  "lng" : 121.456044
+               }
+            },
+            "location" : {
+               "lat" : -30.7470155,
+               "lng" : 121.4748548
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -30.7345941,
+                  "lng" : 121.4812802
+               },
+               "southwest" : {
+                  "lat" : -30.768243,
+                  "lng" : 121.456044
+               }
+            }
+         },
+         "place_id" : "ChIJ4eTU1LdnTSoRABZ6JDj2AAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

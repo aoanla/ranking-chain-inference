@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Escanaba",
+               "short_name" : "Escanaba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Delta County",
+               "short_name" : "Delta County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Escanaba, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.791762,
+                  "lng" : -87.03715729999999
+               },
+               "southwest" : {
+                  "lat" : 45.7048449,
+                  "lng" : -87.1627709
+               }
+            },
+            "location" : {
+               "lat" : 45.74524659999999,
+               "lng" : -87.06458010000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.791762,
+                  "lng" : -87.03715729999999
+               },
+               "southwest" : {
+                  "lat" : 45.7048449,
+                  "lng" : -87.1627709
+               }
+            }
+         },
+         "place_id" : "ChIJHw7cTl6WTU0R9m_L18tc5S0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

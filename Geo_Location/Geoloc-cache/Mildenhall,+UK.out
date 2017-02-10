@@ -1,0 +1,148 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mildenhall",
+               "short_name" : "Mildenhall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bury Saint Edmunds",
+               "short_name" : "Bury Saint Edmunds",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Mildenhall",
+               "short_name" : "Mildenhall",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Forest Heath District",
+               "short_name" : "Forest Heath District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Suffolk",
+               "short_name" : "Suffolk",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "IP28",
+               "short_name" : "IP28",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mildenhall, Bury Saint Edmunds, Suffolk IP28, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.35704519999999,
+                  "lng" : 0.5391267
+               },
+               "southwest" : {
+                  "lat" : 52.3359278,
+                  "lng" : 0.4963359999999999
+               }
+            },
+            "location" : {
+               "lat" : 52.347568,
+               "lng" : 0.5156094999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.35704519999999,
+                  "lng" : 0.5391267
+               },
+               "southwest" : {
+                  "lat" : 52.3359278,
+                  "lng" : 0.4963359999999999
+               }
+            }
+         },
+         "place_id" : "ChIJC1EhTzg_2EcRoEbCu6gcDgU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mildenhall",
+               "short_name" : "Mildenhall",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marlborough",
+               "short_name" : "Marlborough",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Mildenhall",
+               "short_name" : "Mildenhall",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Wiltshire",
+               "short_name" : "Wiltshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SN8",
+               "short_name" : "SN8",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mildenhall, Marlborough, Wiltshire SN8, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4278244,
+                  "lng" : -1.68792
+               },
+               "southwest" : {
+                  "lat" : 51.4225866,
+                  "lng" : -1.7036115
+               }
+            },
+            "location" : {
+               "lat" : 51.42555189999999,
+               "lng" : -1.7003362
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4278244,
+                  "lng" : -1.68792
+               },
+               "southwest" : {
+                  "lat" : 51.4225866,
+                  "lng" : -1.7036115
+               }
+            }
+         },
+         "place_id" : "ChIJd4LIUMNQcUgRjoWyqzBzk54",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

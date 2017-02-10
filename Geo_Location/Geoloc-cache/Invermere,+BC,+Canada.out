@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Invermere",
+               "short_name" : "Invermere",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Invermere",
+               "short_name" : "Invermere",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "East Kootenay",
+               "short_name" : "East Kootenay",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Invermere, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.53120699999999,
+                  "lng" : -116.0184104
+               },
+               "southwest" : {
+                  "lat" : 50.481001,
+                  "lng" : -116.056655
+               }
+            },
+            "location" : {
+               "lat" : 50.5064562,
+               "lng" : -116.0291433
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.53120699999999,
+                  "lng" : -116.0184104
+               },
+               "southwest" : {
+                  "lat" : 50.481001,
+                  "lng" : -116.056655
+               }
+            }
+         },
+         "place_id" : "ChIJ-3XNo8tmelMR-MKsZ4OAOlo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

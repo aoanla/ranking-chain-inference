@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Daytona Avenue",
+               "short_name" : "Daytona Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Daytona Beach",
+               "short_name" : "Daytona Beach",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Volusia County",
+               "short_name" : "Volusia County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "32117",
+               "short_name" : "32117",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Daytona Ave, Daytona Beach, FL 32117, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.260041,
+                  "lng" : -81.02907399999999
+               },
+               "southwest" : {
+                  "lat" : 29.2274012,
+                  "lng" : -81.045991
+               }
+            },
+            "location" : {
+               "lat" : 29.2434064,
+               "lng" : -81.037868
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.260041,
+                  "lng" : -81.02907399999999
+               },
+               "southwest" : {
+                  "lat" : 29.2274012,
+                  "lng" : -81.045991
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJN2PN77Hb5ogR4WPXm04Br_g",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

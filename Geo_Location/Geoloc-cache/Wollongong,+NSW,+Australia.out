@@ -1,0 +1,157 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wollongong",
+               "short_name" : "Wollongong",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wollongong NSW, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.0982792,
+                  "lng" : 151.1594688
+               },
+               "southwest" : {
+                  "lat" : -34.6432688,
+                  "lng" : 150.695089
+               }
+            },
+            "location" : {
+               "lat" : -34.4250728,
+               "lng" : 150.8931494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.0982792,
+                  "lng" : 151.1594688
+               },
+               "southwest" : {
+                  "lat" : -34.6432688,
+                  "lng" : 150.695089
+               }
+            }
+         },
+         "place_id" : "ChIJS8moNtEaE2sRwKgyFmh9AQQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wollongong",
+               "short_name" : "Wollongong",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wollongong NSW, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.4133605,
+                  "lng" : 150.9107512
+               },
+               "southwest" : {
+                  "lat" : -34.443172,
+                  "lng" : 150.8755021
+               }
+            },
+            "location" : {
+               "lat" : -34.42498399999999,
+               "lng" : 150.8931239
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.4133605,
+                  "lng" : 150.9107512
+               },
+               "southwest" : {
+                  "lat" : -34.443172,
+                  "lng" : 150.8755021
+               }
+            }
+         },
+         "place_id" : "ChIJe1YLH6UZE2sRIOcyFmh9AQU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Keiraville",
+               "short_name" : "Keiraville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2500",
+               "short_name" : "2500",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Keiraville NSW 2500, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.4006132,
+                  "lng" : 150.8838046
+               },
+               "southwest" : {
+                  "lat" : -34.4191226,
+                  "lng" : 150.863986
+               }
+            },
+            "location" : {
+               "lat" : -34.4146057,
+               "lng" : 150.8716111
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.4006132,
+                  "lng" : 150.8838046
+               },
+               "southwest" : {
+                  "lat" : -34.4191226,
+                  "lng" : 150.863986
+               }
+            }
+         },
+         "place_id" : "ChIJn38hJpUeE2sRkOMyFmh9AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

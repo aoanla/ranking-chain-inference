@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bath",
+               "short_name" : "Bath",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Bath and North East Somerset",
+               "short_name" : "Bath and North East Somerset",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bath, Bath, Bath and North East Somerset, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.4117741,
+                  "lng" : -2.3149068
+               },
+               "southwest" : {
+                  "lat" : 51.3484788,
+                  "lng" : -2.4141532
+               }
+            },
+            "location" : {
+               "lat" : 51.375801,
+               "lng" : -2.3599039
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.4117741,
+                  "lng" : -2.3149068
+               },
+               "southwest" : {
+                  "lat" : 51.3484788,
+                  "lng" : -2.4141532
+               }
+            }
+         },
+         "place_id" : "ChIJLeE-dKZ4cUgRCZpt1tAnixM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

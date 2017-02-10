@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Las Vegas",
+               "short_name" : "Las Vegas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clark County",
+               "short_name" : "Clark County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Las Vegas, NV, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.380623,
+                  "lng" : -115.062072
+               },
+               "southwest" : {
+                  "lat" : 36.1296229,
+                  "lng" : -115.414625
+               }
+            },
+            "location" : {
+               "lat" : 36.1699412,
+               "lng" : -115.1398296
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.3,
+                  "lng" : -114.95
+               },
+               "southwest" : {
+                  "lat" : 35.95,
+                  "lng" : -115.4
+               }
+            }
+         },
+         "place_id" : "ChIJ0X31pIK3voARo3mz1ebVzDo",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Las Vegas",
+               "short_name" : "Las Vegas",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Clark County",
+               "short_name" : "Clark County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Las Vegas, NV, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.3364069,
+                  "lng" : -114.8763718
+               },
+               "southwest" : {
+                  "lat" : 35.917781,
+                  "lng" : -115.413008
+               }
+            },
+            "location" : {
+               "lat" : 36.1147074,
+               "lng" : -115.1728497
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.3364069,
+                  "lng" : -114.8763718
+               },
+               "southwest" : {
+                  "lat" : 35.917781,
+                  "lng" : -115.413008
+               }
+            }
+         },
+         "place_id" : "ChIJ7dBoVF7EyIARYktBuOpjhPk",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

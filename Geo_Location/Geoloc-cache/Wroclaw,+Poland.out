@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wrocław",
+               "short_name" : "Wrocław",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Wrocław",
+               "short_name" : "Wrocław",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Wrocław County",
+               "short_name" : "Wrocław County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Lower Silesian Voivodeship",
+               "short_name" : "Lower Silesian Voivodeship",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Poland",
+               "short_name" : "PL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wrocław, Poland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2114736,
+                  "lng" : 17.1763478
+               },
+               "southwest" : {
+                  "lat" : 51.04268219999999,
+                  "lng" : 16.8073801
+               }
+            },
+            "location" : {
+               "lat" : 51.1078852,
+               "lng" : 17.0385376
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2114736,
+                  "lng" : 17.1763478
+               },
+               "southwest" : {
+                  "lat" : 51.04268219999999,
+                  "lng" : 16.8073801
+               }
+            }
+         },
+         "place_id" : "ChIJv4q11MLpD0cR9eAFwq5WCbc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

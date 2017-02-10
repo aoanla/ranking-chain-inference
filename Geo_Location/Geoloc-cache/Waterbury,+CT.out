@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waterbury",
+               "short_name" : "Waterbury",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New Haven County",
+               "short_name" : "New Haven County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Connecticut",
+               "short_name" : "CT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waterbury, CT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.6151969,
+                  "lng" : -72.956948
+               },
+               "southwest" : {
+                  "lat" : 41.514296,
+                  "lng" : -73.0938529
+               }
+            },
+            "location" : {
+               "lat" : 41.5581525,
+               "lng" : -73.0514965
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.6151969,
+                  "lng" : -72.956948
+               },
+               "southwest" : {
+                  "lat" : 41.514296,
+                  "lng" : -73.0938529
+               }
+            }
+         },
+         "place_id" : "ChIJ5UPlfO_A54kRF5iCbxJr-gc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

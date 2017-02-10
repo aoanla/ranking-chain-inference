@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fayetteville",
+               "short_name" : "Fayetteville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cumberland County",
+               "short_name" : "Cumberland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fayetteville, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.16806100000001,
+                  "lng" : -78.812737
+               },
+               "southwest" : {
+                  "lat" : 34.981286,
+                  "lng" : -79.0917259
+               }
+            },
+            "location" : {
+               "lat" : 35.0526641,
+               "lng" : -78.87835849999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.16806100000001,
+                  "lng" : -78.812737
+               },
+               "southwest" : {
+                  "lat" : 34.981286,
+                  "lng" : -79.0917259
+               }
+            }
+         },
+         "place_id" : "ChIJI0qSQk8Tq4kRmzt2EnWeq6M",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

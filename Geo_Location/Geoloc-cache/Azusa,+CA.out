@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Azusa",
+               "short_name" : "Azusa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Los Angeles County",
+               "short_name" : "Los Angeles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Azusa, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.168206,
+                  "lng" : -117.881345
+               },
+               "southwest" : {
+                  "lat" : 34.1067338,
+                  "lng" : -117.943592
+               }
+            },
+            "location" : {
+               "lat" : 34.1336186,
+               "lng" : -117.9075627
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.168206,
+                  "lng" : -117.881345
+               },
+               "southwest" : {
+                  "lat" : 34.1067338,
+                  "lng" : -117.943592
+               }
+            }
+         },
+         "place_id" : "ChIJ40sVQULpwoARW3UvffMbmiU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

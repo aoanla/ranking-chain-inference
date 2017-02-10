@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tarbes",
+               "short_name" : "Tarbes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hautes-Pyrénées",
+               "short_name" : "Hautes-Pyrénées",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Midi-Pyrénées",
+               "short_name" : "Midi-Pyrénées",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tarbes, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.264987,
+                  "lng" : 0.093079
+               },
+               "southwest" : {
+                  "lat" : 43.212478,
+                  "lng" : 0.037492
+               }
+            },
+            "location" : {
+               "lat" : 43.23295100000001,
+               "lng" : 0.078082
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.264987,
+                  "lng" : 0.093079
+               },
+               "southwest" : {
+                  "lat" : 43.212478,
+                  "lng" : 0.037492
+               }
+            }
+         },
+         "place_id" : "ChIJw5TxvIrTqRIRSUfM7jTuv0c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

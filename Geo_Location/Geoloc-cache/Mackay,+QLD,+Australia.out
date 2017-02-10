@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mackay",
+               "short_name" : "Mackay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4740",
+               "short_name" : "4740",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Mackay QLD 4740, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -21.13134,
+                  "lng" : 149.2000949
+               },
+               "southwest" : {
+                  "lat" : -21.152374,
+                  "lng" : 149.1658477
+               }
+            },
+            "location" : {
+               "lat" : -21.1412101,
+               "lng" : 149.1856253
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -21.13134,
+                  "lng" : 149.2000949
+               },
+               "southwest" : {
+                  "lat" : -21.152374,
+                  "lng" : 149.1658477
+               }
+            }
+         },
+         "place_id" : "ChIJB1bTovfT22sRAAQhf_HuAAU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mackay",
+               "short_name" : "Mackay",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mackay QLD, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -20.9978772,
+                  "lng" : 149.2673901
+               },
+               "southwest" : {
+                  "lat" : -21.2856301,
+                  "lng" : 149.0553808
+               }
+            },
+            "location" : {
+               "lat" : -21.1412358,
+               "lng" : 149.185805
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -20.9978772,
+                  "lng" : 149.2673901
+               },
+               "southwest" : {
+                  "lat" : -21.2856301,
+                  "lng" : 149.0553808
+               }
+            }
+         },
+         "place_id" : "ChIJ6-JKnW7T22sRoJQgf_HuAAQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

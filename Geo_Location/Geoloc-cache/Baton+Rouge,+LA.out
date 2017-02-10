@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Baton Rouge",
+               "short_name" : "Baton Rouge",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "East Baton Rouge Parish",
+               "short_name" : "East Baton Rouge Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Baton Rouge, LA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.5592161,
+                  "lng" : -91.00101909999999
+               },
+               "southwest" : {
+                  "lat" : 30.3237319,
+                  "lng" : -91.21630689999999
+               }
+            },
+            "location" : {
+               "lat" : 30.4582829,
+               "lng" : -91.1403196
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.5592161,
+                  "lng" : -91.00101909999999
+               },
+               "southwest" : {
+                  "lat" : 30.3237319,
+                  "lng" : -91.21630689999999
+               }
+            }
+         },
+         "place_id" : "ChIJy3RfMmc4JIYRHZpXkdvxIyE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

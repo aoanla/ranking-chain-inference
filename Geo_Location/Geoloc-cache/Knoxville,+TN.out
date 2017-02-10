@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Knoxville",
+               "short_name" : "Knoxville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Knox County",
+               "short_name" : "Knox County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Knoxville, TN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.067428,
+                  "lng" : -83.688543
+               },
+               "southwest" : {
+                  "lat" : 35.8494988,
+                  "lng" : -84.16162199999999
+               }
+            },
+            "location" : {
+               "lat" : 35.9606384,
+               "lng" : -83.9207392
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.067428,
+                  "lng" : -83.688543
+               },
+               "southwest" : {
+                  "lat" : 35.8494988,
+                  "lng" : -84.16162199999999
+               }
+            }
+         },
+         "place_id" : "ChIJqULORiIWXIgRxTT1xNqS6ns",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

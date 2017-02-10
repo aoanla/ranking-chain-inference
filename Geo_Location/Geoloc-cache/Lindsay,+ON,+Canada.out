@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lindsay",
+               "short_name" : "Lindsay",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kawartha Lakes Division",
+               "short_name" : "Kawartha Lakes Division",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lindsay, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3819879,
+                  "lng" : -78.70515429999999
+               },
+               "southwest" : {
+                  "lat" : 44.32495970000001,
+                  "lng" : -78.7797277
+               }
+            },
+            "location" : {
+               "lat" : 44.3565742,
+               "lng" : -78.7407542
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3819879,
+                  "lng" : -78.70515429999999
+               },
+               "southwest" : {
+                  "lat" : 44.32495970000001,
+                  "lng" : -78.7797277
+               }
+            }
+         },
+         "place_id" : "ChIJmy7QzkN51YkRCN4Ff03qIbQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

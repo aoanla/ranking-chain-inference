@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rocklin",
+               "short_name" : "Rocklin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Placer County",
+               "short_name" : "Placer County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rocklin, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8526028,
+                  "lng" : -121.188722
+               },
+               "southwest" : {
+                  "lat" : 38.7711909,
+                  "lng" : -121.3015909
+               }
+            },
+            "location" : {
+               "lat" : 38.7907339,
+               "lng" : -121.2357828
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8526028,
+                  "lng" : -121.188722
+               },
+               "southwest" : {
+                  "lat" : 38.7711909,
+                  "lng" : -121.3015909
+               }
+            }
+         },
+         "place_id" : "ChIJteOg_Ucfm4ARRCGNfUcfs0U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

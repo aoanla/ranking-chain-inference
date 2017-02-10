@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Penticton",
+               "short_name" : "Penticton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Okanagan-Similkameen",
+               "short_name" : "Okanagan-Similkameen",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Penticton, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.555672,
+                  "lng" : -119.51505
+               },
+               "southwest" : {
+                  "lat" : 49.423824,
+                  "lng" : -119.6167791
+               }
+            },
+            "location" : {
+               "lat" : 49.4991381,
+               "lng" : -119.5937077
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.555672,
+                  "lng" : -119.51505
+               },
+               "southwest" : {
+                  "lat" : 49.423824,
+                  "lng" : -119.6167791
+               }
+            }
+         },
+         "place_id" : "ChIJtTg8rXdiglQRaRUZBy3pRg8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

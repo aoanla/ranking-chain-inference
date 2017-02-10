@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kirksville",
+               "short_name" : "Kirksville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Benton Township",
+               "short_name" : "Benton Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Adair County",
+               "short_name" : "Adair County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "63501",
+               "short_name" : "63501",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kirksville, MO 63501, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.25229909999999,
+                  "lng" : -92.5419929
+               },
+               "southwest" : {
+                  "lat" : 40.1390519,
+                  "lng" : -92.610202
+               }
+            },
+            "location" : {
+               "lat" : 40.19475389999999,
+               "lng" : -92.5832496
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.25229909999999,
+                  "lng" : -92.5419929
+               },
+               "southwest" : {
+                  "lat" : 40.1390519,
+                  "lng" : -92.610202
+               }
+            }
+         },
+         "place_id" : "ChIJIwC7QOYR6IcRAtGC45SdrnQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

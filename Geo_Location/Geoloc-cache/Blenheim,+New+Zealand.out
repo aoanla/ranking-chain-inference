@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Blenheim",
+               "short_name" : "Blenheim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marlborough District",
+               "short_name" : "Marlborough District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Marlborough",
+               "short_name" : "Marlborough",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Blenheim, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -41.4884163,
+                  "lng" : 173.9932369
+               },
+               "southwest" : {
+                  "lat" : -41.5697552,
+                  "lng" : 173.8723791
+               }
+            },
+            "location" : {
+               "lat" : -41.5134425,
+               "lng" : 173.9612498
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -41.4884163,
+                  "lng" : 173.9932369
+               },
+               "southwest" : {
+                  "lat" : -41.5697552,
+                  "lng" : 173.8723791
+               }
+            }
+         },
+         "place_id" : "ChIJvWnigAAOOW0RMKWW54jvAAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

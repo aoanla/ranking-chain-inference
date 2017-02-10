@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Medicine Hat",
+               "short_name" : "Medicine Hat",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 1",
+               "short_name" : "Division No. 1",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Medicine Hat, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.1133359,
+                  "lng" : -110.6178751
+               },
+               "southwest" : {
+                  "lat" : 49.989489,
+                  "lng" : -110.80091
+               }
+            },
+            "location" : {
+               "lat" : 50.0405486,
+               "lng" : -110.6764258
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.1133359,
+                  "lng" : -110.6178751
+               },
+               "southwest" : {
+                  "lat" : 49.989489,
+                  "lng" : -110.80091
+               }
+            }
+         },
+         "place_id" : "ChIJF9T5PVYsE1MRP0eAMoxeZhM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

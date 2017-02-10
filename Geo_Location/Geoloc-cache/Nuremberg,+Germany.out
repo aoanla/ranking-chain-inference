@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nuremberg",
+               "short_name" : "Nord",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middle Franconia",
+               "short_name" : "Middle Franconia",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bavaria",
+               "short_name" : "BY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nuremberg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.5407533,
+                  "lng" : 11.2825956
+               },
+               "southwest" : {
+                  "lat" : 49.3314338,
+                  "lng" : 10.9887327
+               }
+            },
+            "location" : {
+               "lat" : 49.45203,
+               "lng" : 11.07675
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.5407533,
+                  "lng" : 11.2135138
+               },
+               "southwest" : {
+                  "lat" : 49.3314338,
+                  "lng" : 10.9887327
+               }
+            }
+         },
+         "place_id" : "ChIJ0xy2ta5Xn0cRtyGMqYWvXd0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Pierce",
+               "short_name" : "Fort Pierce",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Lucie County",
+               "short_name" : "St Lucie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Pierce, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.4838241,
+                  "lng" : -80.2770816
+               },
+               "southwest" : {
+                  "lat" : 27.37375,
+                  "lng" : -80.4051549
+               }
+            },
+            "location" : {
+               "lat" : 27.4467056,
+               "lng" : -80.3256056
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.4838241,
+                  "lng" : -80.2770816
+               },
+               "southwest" : {
+                  "lat" : 27.37375,
+                  "lng" : -80.4051549
+               }
+            }
+         },
+         "place_id" : "ChIJ8bUnop_x3ogRrmeIm8QXhvA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

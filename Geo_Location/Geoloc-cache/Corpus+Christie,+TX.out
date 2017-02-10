@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Corpus Christi",
+               "short_name" : "Corpus Christi",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nueces County",
+               "short_name" : "Nueces County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Corpus Christi, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 27.916473,
+                  "lng" : -97.00977349999999
+               },
+               "southwest" : {
+                  "lat" : 27.492056,
+                  "lng" : -97.750558
+               }
+            },
+            "location" : {
+               "lat" : 27.8005828,
+               "lng" : -97.39638099999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.916473,
+                  "lng" : -97.00977349999999
+               },
+               "southwest" : {
+                  "lat" : 27.492056,
+                  "lng" : -97.750558
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJs9KSYYBfaIYRj5AOiZNQ0a4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

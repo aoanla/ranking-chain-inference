@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Killeen",
+               "short_name" : "Killeen",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bell County",
+               "short_name" : "Bell County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Killeen, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.14056,
+                  "lng" : -97.65159299999999
+               },
+               "southwest" : {
+                  "lat" : 31.021491,
+                  "lng" : -97.822125
+               }
+            },
+            "location" : {
+               "lat" : 31.1171194,
+               "lng" : -97.72779589999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.14056,
+                  "lng" : -97.65159299999999
+               },
+               "southwest" : {
+                  "lat" : 31.021491,
+                  "lng" : -97.822125
+               }
+            }
+         },
+         "place_id" : "ChIJXVOYyI9LRYYR2j9j0feBS3k",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

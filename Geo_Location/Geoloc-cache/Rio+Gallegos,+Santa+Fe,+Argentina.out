@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santa Fe",
+               "short_name" : "Sta Fe",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Río Gallegos",
+               "short_name" : "Río Gallegos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Güer Aike",
+               "short_name" : "Güer Aike",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santa Cruz",
+               "short_name" : "Santa Cruz",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Sta Fe, Río Gallegos, Santa Cruz, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -51.6184439,
+                  "lng" : -69.2253515
+               },
+               "southwest" : {
+                  "lat" : -51.6306191,
+                  "lng" : -69.2521182
+               }
+            },
+            "location" : {
+               "lat" : -51.6244836,
+               "lng" : -69.23853079999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -51.6184439,
+                  "lng" : -69.2253515
+               },
+               "southwest" : {
+                  "lat" : -51.6306191,
+                  "lng" : -69.2521182
+               }
+            }
+         },
+         "place_id" : "ChIJq-VuDPn7tr0Rhf_yMSG6nIc",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

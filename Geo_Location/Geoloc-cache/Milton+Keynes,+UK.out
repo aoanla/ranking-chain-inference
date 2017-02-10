@@ -1,0 +1,128 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Milton Keynes, Milton Keynes, Milton Keynes, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0526971,
+                  "lng" : -0.7345839
+               },
+               "southwest" : {
+                  "lat" : 52.0235794,
+                  "lng" : -0.7807044
+               }
+            },
+            "location" : {
+               "lat" : 52.0406224,
+               "lng" : -0.7594171
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0526971,
+                  "lng" : -0.7345839
+               },
+               "southwest" : {
+                  "lat" : 52.0235794,
+                  "lng" : -0.7807044
+               }
+            }
+         },
+         "place_id" : "ChIJhYYjgvhMdkgRFH65TPedGhY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Middleton",
+               "short_name" : "Middleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Milton Keynes",
+               "short_name" : "Milton Keynes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Middleton, Milton Keynes, Milton Keynes, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0488321,
+                  "lng" : -0.694676
+               },
+               "southwest" : {
+                  "lat" : 52.0377698,
+                  "lng" : -0.7203912
+               }
+            },
+            "location" : {
+               "lat" : 52.0416327,
+               "lng" : -0.7073
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0488321,
+                  "lng" : -0.694676
+               },
+               "southwest" : {
+                  "lat" : 52.0377698,
+                  "lng" : -0.7203912
+               }
+            }
+         },
+         "place_id" : "ChIJH-QxqxCrd0gROFN9zVKRglk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

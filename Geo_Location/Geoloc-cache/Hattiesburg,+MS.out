@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hattiesburg",
+               "short_name" : "Hattiesburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Forrest County",
+               "short_name" : "Forrest County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Mississippi",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hattiesburg, MS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.405253,
+                  "lng" : -89.22422499999999
+               },
+               "southwest" : {
+                  "lat" : 31.1860121,
+                  "lng" : -89.41668399999999
+               }
+            },
+            "location" : {
+               "lat" : 31.3271189,
+               "lng" : -89.29033919999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.405253,
+                  "lng" : -89.22422499999999
+               },
+               "southwest" : {
+                  "lat" : 31.1860121,
+                  "lng" : -89.41668399999999
+               }
+            }
+         },
+         "place_id" : "ChIJ3yio1UncnIgRyrUcLZK_sXQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

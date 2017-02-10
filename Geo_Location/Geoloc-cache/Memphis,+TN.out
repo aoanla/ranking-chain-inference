@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Memphis",
+               "short_name" : "Memphis",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Shelby County",
+               "short_name" : "Shelby County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Tennessee",
+               "short_name" : "TN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Memphis, TN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.264187,
+                  "lng" : -89.63708099999999
+               },
+               "southwest" : {
+                  "lat" : 34.994185,
+                  "lng" : -90.3044929
+               }
+            },
+            "location" : {
+               "lat" : 35.1495343,
+               "lng" : -90.04898009999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.264187,
+                  "lng" : -89.63708099999999
+               },
+               "southwest" : {
+                  "lat" : 34.994185,
+                  "lng" : -90.3044929
+               }
+            }
+         },
+         "place_id" : "ChIJRZdD6h5-1YcR_rYaYBXzk9E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

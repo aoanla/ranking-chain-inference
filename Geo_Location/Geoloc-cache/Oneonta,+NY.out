@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Oneonta",
+               "short_name" : "Oneonta",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Otsego County",
+               "short_name" : "Otsego County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "13820",
+               "short_name" : "13820",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Oneonta, NY 13820, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.4796349,
+                  "lng" : -75.0232769
+               },
+               "southwest" : {
+                  "lat" : 42.433166,
+                  "lng" : -75.1089429
+               }
+            },
+            "location" : {
+               "lat" : 42.4528571,
+               "lng" : -75.0637746
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.4796349,
+                  "lng" : -75.0232769
+               },
+               "southwest" : {
+                  "lat" : 42.433166,
+                  "lng" : -75.1089429
+               }
+            }
+         },
+         "place_id" : "ChIJPfNx7YeL24kRXu3xoVFtVpE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

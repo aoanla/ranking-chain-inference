@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Burlington",
+               "short_name" : "Burlington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Skagit County",
+               "short_name" : "Skagit County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Burlington, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.4930309,
+                  "lng" : -122.306337
+               },
+               "southwest" : {
+                  "lat" : 48.44469489999999,
+                  "lng" : -122.357171
+               }
+            },
+            "location" : {
+               "lat" : 48.4756621,
+               "lng" : -122.3254375
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.4930309,
+                  "lng" : -122.306337
+               },
+               "southwest" : {
+                  "lat" : 48.44469489999999,
+                  "lng" : -122.357171
+               }
+            }
+         },
+         "place_id" : "ChIJTXTGplANhVQRQtWKZNfjbs8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

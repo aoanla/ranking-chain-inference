@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Allentown",
+               "short_name" : "Allentown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lehigh County",
+               "short_name" : "Lehigh County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Allentown, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.635982,
+                  "lng" : -75.4196379
+               },
+               "southwest" : {
+                  "lat" : 40.5501729,
+                  "lng" : -75.54800209999999
+               }
+            },
+            "location" : {
+               "lat" : 40.6084305,
+               "lng" : -75.4901833
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.635982,
+                  "lng" : -75.4196379
+               },
+               "southwest" : {
+                  "lat" : 40.5501729,
+                  "lng" : -75.54800209999999
+               }
+            }
+         },
+         "place_id" : "ChIJ4dxKn5I5xIkRoSRoJEvf-eo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

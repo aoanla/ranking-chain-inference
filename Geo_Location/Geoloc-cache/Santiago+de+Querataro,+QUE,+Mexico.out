@@ -1,0 +1,235 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago de Compostela",
+               "short_name" : "Santiago de Compostela",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santiago de Compostela",
+               "short_name" : "Santiago de Compostela",
+               "types" : [ "administrative_area_level_4", "political" ]
+            },
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Santiago",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "A Coruña",
+               "short_name" : "C",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Galicia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Spain",
+               "short_name" : "ES",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago de Compostela, A Coruña, Spain",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9056883,
+                  "lng" : -8.520756
+               },
+               "southwest" : {
+                  "lat" : 42.8547216,
+                  "lng" : -8.5687833
+               }
+            },
+            "location" : {
+               "lat" : 42.8782132,
+               "lng" : -8.5448445
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9056883,
+                  "lng" : -8.520756
+               },
+               "southwest" : {
+                  "lat" : 42.8547216,
+                  "lng" : -8.5687833
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJp3Hd4kT-Lg0REeOHwIhoFOA",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Santiago",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Santiago Province",
+               "short_name" : "Santiago Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santiago Metropolitan Region",
+               "short_name" : "Santiago Metropolitan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago, Santiago Metropolitan Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.2713874,
+                  "lng" : -70.42678069999999
+               },
+               "southwest" : {
+                  "lat" : -33.6741885,
+                  "lng" : -70.8328819
+               }
+            },
+            "location" : {
+               "lat" : -33.4488897,
+               "lng" : -70.66926549999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.2713874,
+                  "lng" : -70.42678069999999
+               },
+               "southwest" : {
+                  "lat" : -33.6741885,
+                  "lng" : -70.8328819
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJL68lBEHFYpYRMQkPQDzVdYQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Santiago",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Santiago",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Santiago Province",
+               "short_name" : "Santiago Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Santiago Metropolitan Region",
+               "short_name" : "Santiago Metropolitan Region",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago, Santiago, Santiago Metropolitan Region, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -33.425617,
+                  "lng" : -70.6251297
+               },
+               "southwest" : {
+                  "lat" : -33.4811177,
+                  "lng" : -70.7332574
+               }
+            },
+            "location" : {
+               "lat" : -33.4378305,
+               "lng" : -70.6504492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -33.425617,
+                  "lng" : -70.6251297
+               },
+               "southwest" : {
+                  "lat" : -33.4811177,
+                  "lng" : -70.7332574
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJuzrymgbQYpYRl0jtCfRZnYc",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santiago De Los Caballeros",
+               "short_name" : "Stgo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santiago",
+               "short_name" : "Santiago",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Dominican Republic",
+               "short_name" : "DO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santiago De Los Caballeros, Dominican Republic",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5146896,
+                  "lng" : -70.5895568
+               },
+               "southwest" : {
+                  "lat" : 19.3650005,
+                  "lng" : -70.75648989999999
+               }
+            },
+            "location" : {
+               "lat" : 19.4791963,
+               "lng" : -70.69305679999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5146896,
+                  "lng" : -70.5895568
+               },
+               "southwest" : {
+                  "lat" : 19.3650005,
+                  "lng" : -70.75648989999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJn4nlOMjFsY4RKYR2uFmw1HU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

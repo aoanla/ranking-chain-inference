@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Essex Junction",
+               "short_name" : "Essex Junction",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Essex",
+               "short_name" : "Essex",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chittenden County",
+               "short_name" : "Chittenden County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Essex Junction, Essex, VT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.5074429,
+                  "lng" : -73.0817619
+               },
+               "southwest" : {
+                  "lat" : 44.471989,
+                  "lng" : -73.1447809
+               }
+            },
+            "location" : {
+               "lat" : 44.4905433,
+               "lng" : -73.11122069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.5074429,
+                  "lng" : -73.0817619
+               },
+               "southwest" : {
+                  "lat" : 44.471989,
+                  "lng" : -73.1447809
+               }
+            }
+         },
+         "place_id" : "ChIJr0magGJ3ykwR6qCpCAS7Xh4",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

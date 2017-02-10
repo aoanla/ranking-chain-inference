@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bendigo",
+               "short_name" : "Bendigo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3550",
+               "short_name" : "3550",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bendigo VIC 3550, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.741784,
+                  "lng" : 144.2981681
+               },
+               "southwest" : {
+                  "lat" : -36.770576,
+                  "lng" : 144.2620835
+               }
+            },
+            "location" : {
+               "lat" : -36.7587109,
+               "lng" : 144.2837466
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.741784,
+                  "lng" : 144.2981681
+               },
+               "southwest" : {
+                  "lat" : -36.770576,
+                  "lng" : 144.2620835
+               }
+            }
+         },
+         "place_id" : "ChIJ48V3POtZ12oRQNmgMKR5BQU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bendigo",
+               "short_name" : "Bendigo",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bendigo VIC, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.6756001,
+                  "lng" : 144.424204
+               },
+               "southwest" : {
+                  "lat" : -36.8527132,
+                  "lng" : 144.1700332
+               }
+            },
+            "location" : {
+               "lat" : -36.7587111,
+               "lng" : 144.2837449
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.6756001,
+                  "lng" : 144.424204
+               },
+               "southwest" : {
+                  "lat" : -36.8527132,
+                  "lng" : 144.1700332
+               }
+            }
+         },
+         "place_id" : "ChIJEWd6oJ5Z12oRsIigMKR5BQQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

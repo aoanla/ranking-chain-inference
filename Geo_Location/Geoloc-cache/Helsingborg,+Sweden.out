@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Helsingborg",
+               "short_name" : "Helsingborg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Helsingborg",
+               "short_name" : "Helsingborg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Skåne County",
+               "short_name" : "Skåne County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Helsingborg, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.08859899999999,
+                  "lng" : 12.797023
+               },
+               "southwest" : {
+                  "lat" : 55.9819366,
+                  "lng" : 12.6680078
+               }
+            },
+            "location" : {
+               "lat" : 56.0464674,
+               "lng" : 12.6945121
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.08859899999999,
+                  "lng" : 12.797023
+               },
+               "southwest" : {
+                  "lat" : 55.9819366,
+                  "lng" : 12.6680078
+               }
+            }
+         },
+         "place_id" : "ChIJJSmiUHotUkYRkHoOKXiQAQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

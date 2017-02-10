@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waynesville",
+               "short_name" : "Waynesville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Waynesville",
+               "short_name" : "Waynesville",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Haywood County",
+               "short_name" : "Haywood County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waynesville, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.5288309,
+                  "lng" : -82.96351989999999
+               },
+               "southwest" : {
+                  "lat" : 35.45077089999999,
+                  "lng" : -83.03763599999999
+               }
+            },
+            "location" : {
+               "lat" : 35.4887145,
+               "lng" : -82.98874769999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.5288309,
+                  "lng" : -82.96351989999999
+               },
+               "southwest" : {
+                  "lat" : 35.45077089999999,
+                  "lng" : -83.03763599999999
+               }
+            }
+         },
+         "place_id" : "ChIJjYD36BBxWYgR6uv_63Mh-pM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

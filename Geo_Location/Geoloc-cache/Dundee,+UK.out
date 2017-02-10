@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dundee",
+               "short_name" : "Dundee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dundee City",
+               "short_name" : "Dundee City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Scotland",
+               "short_name" : "Scotland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dundee, Dundee City, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 56.50559699999999,
+                  "lng" : -2.8356419
+               },
+               "southwest" : {
+                  "lat" : 56.45092169999999,
+                  "lng" : -3.0980246
+               }
+            },
+            "location" : {
+               "lat" : 56.462018,
+               "lng" : -2.970721
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 56.50559699999999,
+                  "lng" : -2.8356419
+               },
+               "southwest" : {
+                  "lat" : 56.45092169999999,
+                  "lng" : -3.0980246
+               }
+            }
+         },
+         "place_id" : "ChIJ05xjq0RBhkgRKuVLOB475JQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

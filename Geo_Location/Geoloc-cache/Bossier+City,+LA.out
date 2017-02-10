@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bossier City",
+               "short_name" : "Bossier City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bossier Parish",
+               "short_name" : "Bossier Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bossier City, LA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.590505,
+                  "lng" : -93.5854229
+               },
+               "southwest" : {
+                  "lat" : 32.4219709,
+                  "lng" : -93.7448639
+               }
+            },
+            "location" : {
+               "lat" : 32.5159852,
+               "lng" : -93.7321228
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.590505,
+                  "lng" : -93.5854229
+               },
+               "southwest" : {
+                  "lat" : 32.4219709,
+                  "lng" : -93.7448639
+               }
+            }
+         },
+         "place_id" : "ChIJ8R3_KkLLNoYRD-tg3hVZsDE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

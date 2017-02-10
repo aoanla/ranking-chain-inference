@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Las Cruces",
+               "short_name" : "Las Cruces",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Doña Ana County",
+               "short_name" : "Doña Ana County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Las Cruces, NM, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.433932,
+                  "lng" : -106.665832
+               },
+               "southwest" : {
+                  "lat" : 32.2540949,
+                  "lng" : -106.9569309
+               }
+            },
+            "location" : {
+               "lat" : 32.3199396,
+               "lng" : -106.7636538
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.433932,
+                  "lng" : -106.665832
+               },
+               "southwest" : {
+                  "lat" : 32.2540949,
+                  "lng" : -106.9569309
+               }
+            }
+         },
+         "place_id" : "ChIJaZgGRcca3oYRvTI_8R3QbWM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

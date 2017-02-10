@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Comodoro Rivadavia",
+               "short_name" : "Comodoro Rivadavia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Escalante Department",
+               "short_name" : "Escalante Department",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chubut Province",
+               "short_name" : "Chubut Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Comodoro Rivadavia, Chubut Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -45.7690284,
+                  "lng" : -67.40387799999999
+               },
+               "southwest" : {
+                  "lat" : -45.90921960000001,
+                  "lng" : -67.5986509
+               }
+            },
+            "location" : {
+               "lat" : -45.8656149,
+               "lng" : -67.4822429
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -45.7690284,
+                  "lng" : -67.40387799999999
+               },
+               "southwest" : {
+                  "lat" : -45.90921960000001,
+                  "lng" : -67.5986509
+               }
+            }
+         },
+         "place_id" : "ChIJ9SRI4E1U5L0RS-64O45_n10",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

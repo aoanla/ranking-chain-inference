@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grenoble",
+               "short_name" : "Grenoble",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Isere",
+               "short_name" : "Isere",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rhone-Alpes",
+               "short_name" : "RA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grenoble, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.2143261,
+                  "lng" : 5.753081
+               },
+               "southwest" : {
+                  "lat" : 45.154005,
+                  "lng" : 5.678003899999999
+               }
+            },
+            "location" : {
+               "lat" : 45.188529,
+               "lng" : 5.724524
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.2143261,
+                  "lng" : 5.753081
+               },
+               "southwest" : {
+                  "lat" : 45.154005,
+                  "lng" : 5.678003899999999
+               }
+            }
+         },
+         "place_id" : "ChIJb76J1ov0ikcRmFOZbs0QjGE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

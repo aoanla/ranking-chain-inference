@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lambton County",
+               "short_name" : "Lambton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lambton County, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3184877,
+                  "lng" : -81.74295409999999
+               },
+               "southwest" : {
+                  "lat" : 42.4742839,
+                  "lng" : -82.6778432
+               }
+            },
+            "location" : {
+               "lat" : 43.0527085,
+               "lng" : -82.0407137
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3184877,
+                  "lng" : -81.74295409999999
+               },
+               "southwest" : {
+                  "lat" : 42.4742839,
+                  "lng" : -82.6778432
+               }
+            }
+         },
+         "place_id" : "ChIJY0D2UwR6L4gRXn7BpePeLnM",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

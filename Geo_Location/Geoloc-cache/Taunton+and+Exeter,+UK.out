@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Taunton Close",
+               "short_name" : "Taunton Cl",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Exeter",
+               "short_name" : "Exeter",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Devon",
+               "short_name" : "Devon",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "EX2 9EB",
+               "short_name" : "EX2 9EB",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Taunton Cl, Exeter, Devon EX2 9EB, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.7092699,
+                  "lng" : -3.5392664
+               },
+               "southwest" : {
+                  "lat" : 50.7084062,
+                  "lng" : -3.540359
+               }
+            },
+            "location" : {
+               "lat" : 50.70876320000001,
+               "lng" : -3.53971
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.7101870302915,
+                  "lng" : -3.538463719708498
+               },
+               "southwest" : {
+                  "lat" : 50.7074890697085,
+                  "lng" : -3.541161680291502
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ5YBd_SmkbUgRJnpBac5y8DQ",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

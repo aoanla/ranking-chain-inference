@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Williston",
+               "short_name" : "Williston",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Williams County",
+               "short_name" : "Williams County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Dakota",
+               "short_name" : "ND",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "58801",
+               "short_name" : "58801",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Williston, ND 58801, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1904671,
+                  "lng" : -103.576676
+               },
+               "southwest" : {
+                  "lat" : 48.1396422,
+                  "lng" : -103.6692751
+               }
+            },
+            "location" : {
+               "lat" : 48.1469683,
+               "lng" : -103.6179745
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1904671,
+                  "lng" : -103.576676
+               },
+               "southwest" : {
+                  "lat" : 48.1396422,
+                  "lng" : -103.6692751
+               }
+            }
+         },
+         "place_id" : "ChIJ6zhwA2BbIVMR4_Gw_vwN_OA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

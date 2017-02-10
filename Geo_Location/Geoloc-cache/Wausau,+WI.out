@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wausau",
+               "short_name" : "Wausau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marathon County",
+               "short_name" : "Marathon County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wausau, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.006429,
+                  "lng" : -89.573319
+               },
+               "southwest" : {
+                  "lat" : 44.9192404,
+                  "lng" : -89.7482299
+               }
+            },
+            "location" : {
+               "lat" : 44.9591352,
+               "lng" : -89.63012209999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.006429,
+                  "lng" : -89.573319
+               },
+               "southwest" : {
+                  "lat" : 44.9192404,
+                  "lng" : -89.7482299
+               }
+            }
+         },
+         "place_id" : "ChIJg0go-J0nAIgRXIvo6NhaKQM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kill Devil Hills",
+               "short_name" : "Kill Devil Hills",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Atlantic",
+               "short_name" : "Atlantic",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Dare County",
+               "short_name" : "Dare County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Carolina",
+               "short_name" : "NC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kill Devil Hills, NC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.0557948,
+                  "lng" : -75.6439769
+               },
+               "southwest" : {
+                  "lat" : 35.98438,
+                  "lng" : -75.69288
+               }
+            },
+            "location" : {
+               "lat" : 36.0307226,
+               "lng" : -75.6760101
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.0557948,
+                  "lng" : -75.6439769
+               },
+               "southwest" : {
+                  "lat" : 35.98438,
+                  "lng" : -75.69288
+               }
+            }
+         },
+         "place_id" : "ChIJZz4uCqLhpIkRRT9t_1ZboLw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

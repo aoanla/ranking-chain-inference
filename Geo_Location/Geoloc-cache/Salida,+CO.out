@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salida",
+               "short_name" : "Salida",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chaffee County",
+               "short_name" : "Chaffee County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "81201",
+               "short_name" : "81201",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Salida, CO 81201, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.5442636,
+                  "lng" : -105.980537
+               },
+               "southwest" : {
+                  "lat" : 38.521444,
+                  "lng" : -106.0263812
+               }
+            },
+            "location" : {
+               "lat" : 38.5347193,
+               "lng" : -105.9989022
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.5442636,
+                  "lng" : -105.980537
+               },
+               "southwest" : {
+                  "lat" : 38.521444,
+                  "lng" : -106.0263812
+               }
+            }
+         },
+         "place_id" : "ChIJXS64UcAXFYcRtuGvIQDvK7o",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

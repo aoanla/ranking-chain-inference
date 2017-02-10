@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waldorf",
+               "short_name" : "Waldorf",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "6, Waldorf",
+               "short_name" : "6, Waldorf",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Charles County",
+               "short_name" : "Charles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Maryland",
+               "short_name" : "MD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waldorf, MD, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.6612699,
+                  "lng" : -76.8420259
+               },
+               "southwest" : {
+                  "lat" : 38.6087599,
+                  "lng" : -76.9985959
+               }
+            },
+            "location" : {
+               "lat" : 38.6265124,
+               "lng" : -76.9105483
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.6612699,
+                  "lng" : -76.8420259
+               },
+               "southwest" : {
+                  "lat" : 38.6087599,
+                  "lng" : -76.9985959
+               }
+            }
+         },
+         "place_id" : "ChIJafOGfbGgt4kRTwrzal1fDTI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

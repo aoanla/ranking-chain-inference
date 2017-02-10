@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Port Angeles",
+               "short_name" : "Port Angeles",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Clallam County",
+               "short_name" : "Clallam County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Port Angeles, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.1420809,
+                  "lng" : -123.391874
+               },
+               "southwest" : {
+                  "lat" : 48.083579,
+                  "lng" : -123.5257099
+               }
+            },
+            "location" : {
+               "lat" : 48.118146,
+               "lng" : -123.4307413
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.1420809,
+                  "lng" : -123.391874
+               },
+               "southwest" : {
+                  "lat" : 48.083579,
+                  "lng" : -123.5257099
+               }
+            }
+         },
+         "place_id" : "ChIJR-fnwAxSjlQR2aVPY4xhvF0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

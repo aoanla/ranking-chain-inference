@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Forks",
+               "short_name" : "Grand Forks",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grand Forks County",
+               "short_name" : "Grand Forks County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Dakota",
+               "short_name" : "ND",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grand Forks, ND, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.969701,
+                  "lng" : -97.0098019
+               },
+               "southwest" : {
+                  "lat" : 47.860166,
+                  "lng" : -97.195914
+               }
+            },
+            "location" : {
+               "lat" : 47.9252568,
+               "lng" : -97.0328547
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.969701,
+                  "lng" : -97.0098019
+               },
+               "southwest" : {
+                  "lat" : 47.860166,
+                  "lng" : -97.195914
+               }
+            }
+         },
+         "place_id" : "ChIJJV68WzWBxlIRWj1ffNiUaws",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

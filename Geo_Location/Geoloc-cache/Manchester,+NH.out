@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Manchester",
+               "short_name" : "Manchester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hillsborough County",
+               "short_name" : "Hillsborough County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Manchester, NH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.0514741,
+                  "lng" : -71.37540890000001
+               },
+               "southwest" : {
+                  "lat" : 42.889586,
+                  "lng" : -71.5127129
+               }
+            },
+            "location" : {
+               "lat" : 42.9956397,
+               "lng" : -71.4547891
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.0514741,
+                  "lng" : -71.37540890000001
+               },
+               "southwest" : {
+                  "lat" : 42.889586,
+                  "lng" : -71.5127129
+               }
+            }
+         },
+         "place_id" : "ChIJo2xmaNZO4okReXE1H0YyBGs",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

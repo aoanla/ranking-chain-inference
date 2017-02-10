@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fircrest",
+               "short_name" : "Fircrest",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pierce County",
+               "short_name" : "Pierce County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fircrest, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.242905,
+                  "lng" : -122.50497
+               },
+               "southwest" : {
+                  "lat" : 47.2172349,
+                  "lng" : -122.5264581
+               }
+            },
+            "location" : {
+               "lat" : 47.2395428,
+               "lng" : -122.5159586
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.242905,
+                  "lng" : -122.50497
+               },
+               "southwest" : {
+                  "lat" : 47.2172349,
+                  "lng" : -122.5264581
+               }
+            }
+         },
+         "place_id" : "ChIJYXY8gF8AkVQRZpKE_D_LS0E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

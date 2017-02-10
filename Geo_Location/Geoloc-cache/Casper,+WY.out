@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Casper",
+               "short_name" : "Casper",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Natrona County",
+               "short_name" : "Natrona County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wyoming",
+               "short_name" : "WY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Casper, WY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.9079695,
+                  "lng" : -106.2176299
+               },
+               "southwest" : {
+                  "lat" : 42.735236,
+                  "lng" : -106.4321299
+               }
+            },
+            "location" : {
+               "lat" : 42.866632,
+               "lng" : -106.313081
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.9079695,
+                  "lng" : -106.2176299
+               },
+               "southwest" : {
+                  "lat" : 42.791664,
+                  "lng" : -106.4321299
+               }
+            }
+         },
+         "place_id" : "ChIJY3peyGWTYIcRUz40Fzn8zmk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

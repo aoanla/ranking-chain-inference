@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Salem",
+               "short_name" : "Salem",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marion County",
+               "short_name" : "Marion County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Salem, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.0123409,
+                  "lng" : -122.9337039
+               },
+               "southwest" : {
+                  "lat" : 44.853642,
+                  "lng" : -123.1227109
+               }
+            },
+            "location" : {
+               "lat" : 44.9428975,
+               "lng" : -123.0350963
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0123409,
+                  "lng" : -122.9337039
+               },
+               "southwest" : {
+                  "lat" : 44.853642,
+                  "lng" : -123.1227109
+               }
+            }
+         },
+         "place_id" : "ChIJY5xLvPz-v1QRwlcDj-ApNPk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

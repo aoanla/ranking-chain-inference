@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grey Lynn",
+               "short_name" : "Grey Lynn",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Auckland",
+               "short_name" : "Auckland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grey Lynn, Auckland, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -36.8508105,
+                  "lng" : 174.7550901
+               },
+               "southwest" : {
+                  "lat" : -36.8689932,
+                  "lng" : 174.7250756
+               }
+            },
+            "location" : {
+               "lat" : -36.8651021,
+               "lng" : 174.7374951
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -36.8508105,
+                  "lng" : 174.7550901
+               },
+               "southwest" : {
+                  "lat" : -36.8689932,
+                  "lng" : 174.7250756
+               }
+            }
+         },
+         "place_id" : "ChIJoUPB3bxHDW0RkMiiQ2HvAAU",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

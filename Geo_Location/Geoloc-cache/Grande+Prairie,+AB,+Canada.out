@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grande Prairie",
+               "short_name" : "Grande Prairie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 19",
+               "short_name" : "Division No. 19",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grande Prairie, AB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 55.207045,
+                  "lng" : -118.7308142
+               },
+               "southwest" : {
+                  "lat" : 55.1124691,
+                  "lng" : -118.9099761
+               }
+            },
+            "location" : {
+               "lat" : 55.1699396,
+               "lng" : -118.7986152
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 55.207045,
+                  "lng" : -118.7308142
+               },
+               "southwest" : {
+                  "lat" : 55.1124691,
+                  "lng" : -118.9099761
+               }
+            }
+         },
+         "place_id" : "ChIJl5v7ZUmRkFMRCWSeDMZrcmA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

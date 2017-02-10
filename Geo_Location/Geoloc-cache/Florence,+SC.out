@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Florence",
+               "short_name" : "Florence",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Florence County",
+               "short_name" : "Florence County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Florence, SC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.22983,
+                  "lng" : -79.7170199
+               },
+               "southwest" : {
+                  "lat" : 34.1106179,
+                  "lng" : -79.87218009999999
+               }
+            },
+            "location" : {
+               "lat" : 34.1954331,
+               "lng" : -79.7625625
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.22983,
+                  "lng" : -79.7170199
+               },
+               "southwest" : {
+                  "lat" : 34.1106179,
+                  "lng" : -79.87218009999999
+               }
+            }
+         },
+         "place_id" : "ChIJ6Q_xH9ZmVYgRKh7Z9YE7PKw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

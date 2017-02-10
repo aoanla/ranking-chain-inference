@@ -1,0 +1,74 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Machynlleth",
+               "short_name" : "Machynlleth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Machynlleth",
+               "short_name" : "Machynlleth",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Machynlleth",
+               "short_name" : "Machynlleth",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Powys",
+               "short_name" : "Powys",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wales",
+               "short_name" : "Wales",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "SY20",
+               "short_name" : "SY20",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Machynlleth, Machynlleth, Powys SY20, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.6001428,
+                  "lng" : -3.827179
+               },
+               "southwest" : {
+                  "lat" : 52.5844353,
+                  "lng" : -3.859491099999999
+               }
+            },
+            "location" : {
+               "lat" : 52.590273,
+               "lng" : -3.853485
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.6001428,
+                  "lng" : -3.827179
+               },
+               "southwest" : {
+                  "lat" : 52.5844353,
+                  "lng" : -3.859491099999999
+               }
+            }
+         },
+         "place_id" : "ChIJJ2dysqddZUgRgETRfr2P7eg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

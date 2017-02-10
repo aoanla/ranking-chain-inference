@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Portage la Prairie",
+               "short_name" : "Portage la Prairie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 9",
+               "short_name" : "Division No. 9",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manitoba",
+               "short_name" : "MB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Portage la Prairie, MB, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.99707300000001,
+                  "lng" : -98.24788599999999
+               },
+               "southwest" : {
+                  "lat" : 49.934954,
+                  "lng" : -98.3376669
+               }
+            },
+            "location" : {
+               "lat" : 49.9723205,
+               "lng" : -98.29032509999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.99707300000001,
+                  "lng" : -98.24788599999999
+               },
+               "southwest" : {
+                  "lat" : 49.934954,
+                  "lng" : -98.3376669
+               }
+            }
+         },
+         "place_id" : "ChIJ0ewlpuPF6VIRUO6CEprGAQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

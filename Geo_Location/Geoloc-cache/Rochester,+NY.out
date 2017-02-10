@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Rochester",
+               "short_name" : "Rochester",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Monroe County",
+               "short_name" : "Monroe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New York",
+               "short_name" : "NY",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Rochester, NY, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.2676137,
+                  "lng" : -77.53137359999999
+               },
+               "southwest" : {
+                  "lat" : 43.103318,
+                  "lng" : -77.701632
+               }
+            },
+            "location" : {
+               "lat" : 43.16103,
+               "lng" : -77.61092189999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.2676137,
+                  "lng" : -77.53137359999999
+               },
+               "southwest" : {
+                  "lat" : 43.103318,
+                  "lng" : -77.701632
+               }
+            }
+         },
+         "place_id" : "ChIJU7MUlgWz1okRHuYlQfwfAFo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

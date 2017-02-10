@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Columbia",
+               "short_name" : "Columbia",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Richland County",
+               "short_name" : "Richland County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "South Carolina",
+               "short_name" : "SC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Columbia, SC, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.131598,
+                  "lng" : -80.7041519
+               },
+               "southwest" : {
+                  "lat" : 33.94341989999999,
+                  "lng" : -81.17097799999999
+               }
+            },
+            "location" : {
+               "lat" : 34.0007104,
+               "lng" : -81.0348144
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.131598,
+                  "lng" : -80.7041519
+               },
+               "southwest" : {
+                  "lat" : 33.94341989999999,
+                  "lng" : -81.17097799999999
+               }
+            }
+         },
+         "place_id" : "ChIJ49ExeWml-IgRlvp5s_QIKPM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nice",
+               "short_name" : "Nice",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Alpes-Maritimes",
+               "short_name" : "Alpes-Maritimes",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Provence-Alpes-Côte d'Azur",
+               "short_name" : "Provence-Alpes-Côte d'Azur",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nice, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.760905,
+                  "lng" : 7.323481099999999
+               },
+               "southwest" : {
+                  "lat" : 43.6454759,
+                  "lng" : 7.182153
+               }
+            },
+            "location" : {
+               "lat" : 43.7101728,
+               "lng" : 7.261953200000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.760905,
+                  "lng" : 7.323481099999999
+               },
+               "southwest" : {
+                  "lat" : 43.6454759,
+                  "lng" : 7.182153
+               }
+            }
+         },
+         "place_id" : "ChIJMS2FahDQzRIRcJqX_aUZCAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

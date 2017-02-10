@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Springdale",
+               "short_name" : "Springdale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Springdale Township",
+               "short_name" : "Springdale Township",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arkansas",
+               "short_name" : "AR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Springdale, AR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 36.2423779,
+                  "lng" : -94.0679009
+               },
+               "southwest" : {
+                  "lat" : 36.133326,
+                  "lng" : -94.2578618
+               }
+            },
+            "location" : {
+               "lat" : 36.18674420000001,
+               "lng" : -94.1288141
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 36.2423779,
+                  "lng" : -94.0679009
+               },
+               "southwest" : {
+                  "lat" : 36.133326,
+                  "lng" : -94.2578618
+               }
+            }
+         },
+         "place_id" : "ChIJeYV1ArMUyYcRWrw71K3qMaE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

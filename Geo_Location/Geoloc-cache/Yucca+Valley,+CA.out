@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yucca Valley",
+               "short_name" : "Yucca Valley",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Bernardino County",
+               "short_name" : "San Bernardino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Yucca Valley, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.1934309,
+                  "lng" : -116.35027
+               },
+               "southwest" : {
+                  "lat" : 34.0757699,
+                  "lng" : -116.493366
+               }
+            },
+            "location" : {
+               "lat" : 34.1141743,
+               "lng" : -116.432235
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.1934309,
+                  "lng" : -116.35027
+               },
+               "southwest" : {
+                  "lat" : 34.0757699,
+                  "lng" : -116.493366
+               }
+            }
+         },
+         "place_id" : "ChIJGytMIY0n24ARxAeAypzOtGw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

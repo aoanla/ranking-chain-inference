@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Wayne",
+               "short_name" : "Fort Wayne",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Allen County",
+               "short_name" : "Allen County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Indiana",
+               "short_name" : "IN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Wayne, IN, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.199779,
+                  "lng" : -84.998627
+               },
+               "southwest" : {
+                  "lat" : 40.965447,
+                  "lng" : -85.303173
+               }
+            },
+            "location" : {
+               "lat" : 41.079273,
+               "lng" : -85.1393513
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.199779,
+                  "lng" : -84.998627
+               },
+               "southwest" : {
+                  "lat" : 40.965447,
+                  "lng" : -85.303173
+               }
+            }
+         },
+         "place_id" : "ChIJS4Ei_93kFYgRk_dCdhR7B4A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

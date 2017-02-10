@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tumwater",
+               "short_name" : "Tumwater",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Thurston County",
+               "short_name" : "Thurston County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tumwater, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.028794,
+                  "lng" : -122.875771
+               },
+               "southwest" : {
+                  "lat" : 46.9454359,
+                  "lng" : -122.9687651
+               }
+            },
+            "location" : {
+               "lat" : 47.0073187,
+               "lng" : -122.9093063
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.028794,
+                  "lng" : -122.875771
+               },
+               "southwest" : {
+                  "lat" : 46.9454359,
+                  "lng" : -122.9687651
+               }
+            }
+         },
+         "place_id" : "ChIJMeahkfJlkVQRXSwyx-JgimE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

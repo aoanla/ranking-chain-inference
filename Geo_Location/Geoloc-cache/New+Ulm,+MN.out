@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Ulm",
+               "short_name" : "New Ulm",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brown County",
+               "short_name" : "Brown County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56073",
+               "short_name" : "56073",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "New Ulm, MN 56073, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.360104,
+                  "lng" : -94.41396899999999
+               },
+               "southwest" : {
+                  "lat" : 44.2740269,
+                  "lng" : -94.51111379999999
+               }
+            },
+            "location" : {
+               "lat" : 44.3144394,
+               "lng" : -94.45930179999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.360104,
+                  "lng" : -94.41396899999999
+               },
+               "southwest" : {
+                  "lat" : 44.2740269,
+                  "lng" : -94.51111379999999
+               }
+            }
+         },
+         "place_id" : "ChIJyzu8TDj_9IcRnJvDNalwHoE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

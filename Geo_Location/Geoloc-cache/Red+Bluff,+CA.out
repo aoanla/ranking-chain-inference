@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Red Bluff",
+               "short_name" : "Red Bluff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tehama County",
+               "short_name" : "Tehama County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96080",
+               "short_name" : "96080",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Red Bluff, CA 96080, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.23083889999999,
+                  "lng" : -122.196768
+               },
+               "southwest" : {
+                  "lat" : 40.135095,
+                  "lng" : -122.266414
+               }
+            },
+            "location" : {
+               "lat" : 40.1784886,
+               "lng" : -122.2358302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.23083889999999,
+                  "lng" : -122.196768
+               },
+               "southwest" : {
+                  "lat" : 40.135095,
+                  "lng" : -122.266414
+               }
+            }
+         },
+         "place_id" : "ChIJS3W5ELCDgoARWnY2h74ECik",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

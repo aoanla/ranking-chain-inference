@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Santos",
+               "short_name" : "Santos",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Santos",
+               "short_name" : "Santos",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "State of São Paulo",
+               "short_name" : "SP",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Brazil",
+               "short_name" : "BR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Santos, Santos - State of São Paulo, Brazil",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -23.9182288,
+                  "lng" : -46.2926432
+               },
+               "southwest" : {
+                  "lat" : -23.9916621,
+                  "lng" : -46.3973347
+               }
+            },
+            "location" : {
+               "lat" : -23.9678823,
+               "lng" : -46.3288865
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -23.9182288,
+                  "lng" : -46.2926432
+               },
+               "southwest" : {
+                  "lat" : -23.9916621,
+                  "lng" : -46.3973347
+               }
+            }
+         },
+         "place_id" : "ChIJOxw7PEIDzpQRT2Rj_O3OTVg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

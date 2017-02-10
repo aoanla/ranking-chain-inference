@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hancock",
+               "short_name" : "Hancock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Houghton County",
+               "short_name" : "Houghton County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Michigan",
+               "short_name" : "MI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hancock, MI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.1484509,
+                  "lng" : -88.5722
+               },
+               "southwest" : {
+                  "lat" : 47.121882,
+                  "lng" : -88.626594
+               }
+            },
+            "location" : {
+               "lat" : 47.1268714,
+               "lng" : -88.5809563
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.1484509,
+                  "lng" : -88.5722
+               },
+               "southwest" : {
+                  "lat" : 47.121882,
+                  "lng" : -88.626594
+               }
+            }
+         },
+         "place_id" : "ChIJez5mcDWyUE0Rc_ZTRlBoeH0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

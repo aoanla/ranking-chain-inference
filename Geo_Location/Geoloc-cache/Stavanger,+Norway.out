@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Stavanger",
+               "short_name" : "Stavanger",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Stavanger",
+               "short_name" : "Stavanger",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rogaland",
+               "short_name" : "Rogaland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Stavanger, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.0118725,
+                  "lng" : 5.7695826
+               },
+               "southwest" : {
+                  "lat" : 58.8848356,
+                  "lng" : 5.5904624
+               }
+            },
+            "location" : {
+               "lat" : 58.9699756,
+               "lng" : 5.7331073
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.0118725,
+                  "lng" : 5.7695826
+               },
+               "southwest" : {
+                  "lat" : 58.8848356,
+                  "lng" : 5.5904624
+               }
+            }
+         },
+         "place_id" : "ChIJlfcp3Uk1OkYRWZIKuCHreq0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

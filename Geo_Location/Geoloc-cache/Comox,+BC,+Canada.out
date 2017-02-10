@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Comox",
+               "short_name" : "Comox",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Strathcona",
+               "short_name" : "Strathcona",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Comox, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.7271951,
+                  "lng" : -124.8635299
+               },
+               "southwest" : {
+                  "lat" : 49.6678779,
+                  "lng" : -124.950323
+               }
+            },
+            "location" : {
+               "lat" : 49.6735133,
+               "lng" : -124.9282659
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.7271951,
+                  "lng" : -124.8635299
+               },
+               "southwest" : {
+                  "lat" : 49.6678779,
+                  "lng" : -124.950323
+               }
+            }
+         },
+         "place_id" : "ChIJZdW45iMTiFQRXByWMVaPyAo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

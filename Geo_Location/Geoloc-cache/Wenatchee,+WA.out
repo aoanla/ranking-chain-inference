@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Wenatchee",
+               "short_name" : "Wenatchee",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Chelan County",
+               "short_name" : "Chelan County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Wenatchee, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.459539,
+                  "lng" : -120.2955479
+               },
+               "southwest" : {
+                  "lat" : 47.396861,
+                  "lng" : -120.368944
+               }
+            },
+            "location" : {
+               "lat" : 47.4234599,
+               "lng" : -120.3103494
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.459539,
+                  "lng" : -120.2955479
+               },
+               "southwest" : {
+                  "lat" : 47.396861,
+                  "lng" : -120.368944
+               }
+            }
+         },
+         "place_id" : "ChIJQ08F3UPMm1QRkNEzRgJjbnQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eau Claire",
+               "short_name" : "Eau Claire",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Eau Claire County",
+               "short_name" : "Eau Claire County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eau Claire, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.8792059,
+                  "lng" : -91.367729
+               },
+               "southwest" : {
+                  "lat" : 44.7602179,
+                  "lng" : -91.59482
+               }
+            },
+            "location" : {
+               "lat" : 44.811349,
+               "lng" : -91.4984941
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.8792059,
+                  "lng" : -91.412311
+               },
+               "southwest" : {
+                  "lat" : 44.7602179,
+                  "lng" : -91.59482
+               }
+            }
+         },
+         "place_id" : "ChIJs9ETUBW9-IcRdZOTQ-uLQz0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

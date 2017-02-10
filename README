@@ -19,4 +19,13 @@ After least squares fit, the exported beta matrix can be processed by process-fr
 
 We also now include scripts for importing FlatTrackStats csv-structured snapshots, and octave scripts for generating the ranking matrices.
 
+
+****
+Experimental - contains various test implementations of ranking and rating algorithms which take in FTS data
+SRDRank - contains the full SRD Rank (current) algorithm and workflow
+Geo_Location - contains the Geolocation tools for FTS data
+
+Graph-analysis - will contain graph connectivity tools for FTS Data, including WebGL Globe
+SRDRank2.0 - will contain the 2,0 version of SRD Rank, which will alter the rating algorithm, and also improve the UX for the generated table.
+
 All of this content is licenced CC:BY-NC-SA 4.0 (Creative Commons: Attribution, NonCommercial, ShareAlike 4.0 International - as described in https://creativecommons.org/licenses/by-nc-sa/4.0/ )

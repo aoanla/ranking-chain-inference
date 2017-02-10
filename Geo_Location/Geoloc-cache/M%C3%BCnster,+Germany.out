@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Münster",
+               "short_name" : "Münster",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Münster",
+               "short_name" : "MS",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Münster, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 52.0600197,
+                  "lng" : 7.774361699999999
+               },
+               "southwest" : {
+                  "lat" : 51.84015110000001,
+                  "lng" : 7.473832599999999
+               }
+            },
+            "location" : {
+               "lat" : 51.9606649,
+               "lng" : 7.6261347
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 52.0600197,
+                  "lng" : 7.774361699999999
+               },
+               "southwest" : {
+                  "lat" : 51.84015110000001,
+                  "lng" : 7.473832599999999
+               }
+            }
+         },
+         "place_id" : "ChIJ32D3mcO6uUcR6yjze6dM6yE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

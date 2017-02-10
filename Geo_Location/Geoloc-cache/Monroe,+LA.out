@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Monroe",
+               "short_name" : "Monroe",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ouachita Parish",
+               "short_name" : "Ouachita Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Monroe, LA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.621237,
+                  "lng" : -91.988828
+               },
+               "southwest" : {
+                  "lat" : 32.4297139,
+                  "lng" : -92.1352339
+               }
+            },
+            "location" : {
+               "lat" : 32.5093109,
+               "lng" : -92.1193012
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.621237,
+                  "lng" : -91.988828
+               },
+               "southwest" : {
+                  "lat" : 32.4297139,
+                  "lng" : -92.1352339
+               }
+            }
+         },
+         "place_id" : "ChIJC4SY5XZILoYRybS4yTnSzpg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

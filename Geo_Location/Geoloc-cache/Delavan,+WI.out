@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Delavan",
+               "short_name" : "Delavan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Walworth County",
+               "short_name" : "Walworth County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Delavan, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.65093400000001,
+                  "lng" : -88.58223099999999
+               },
+               "southwest" : {
+                  "lat" : 42.604005,
+                  "lng" : -88.678641
+               }
+            },
+            "location" : {
+               "lat" : 42.6330703,
+               "lng" : -88.6437138
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.65093400000001,
+                  "lng" : -88.58223099999999
+               },
+               "southwest" : {
+                  "lat" : 42.604005,
+                  "lng" : -88.678641
+               }
+            }
+         },
+         "place_id" : "ChIJMxdDxKvwBYgR8fVQuWnIb8A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Silver City",
+               "short_name" : "Silver City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Grant County",
+               "short_name" : "Grant County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Mexico",
+               "short_name" : "NM",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "88061",
+               "short_name" : "88061",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Silver City, NM 88061, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.8107071,
+                  "lng" : -108.2239759
+               },
+               "southwest" : {
+                  "lat" : 32.7352649,
+                  "lng" : -108.298858
+               }
+            },
+            "location" : {
+               "lat" : 32.770075,
+               "lng" : -108.280326
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.8107071,
+                  "lng" : -108.2239759
+               },
+               "southwest" : {
+                  "lat" : 32.7352649,
+                  "lng" : -108.298858
+               }
+            }
+         },
+         "place_id" : "ChIJ05TZ-5rH2IYREKt4HSgus6U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

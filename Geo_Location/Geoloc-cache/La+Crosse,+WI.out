@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Crosse",
+               "short_name" : "La Crosse",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "La Crosse County",
+               "short_name" : "La Crosse County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Crosse, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.8984466,
+                  "lng" : -91.15708909999999
+               },
+               "southwest" : {
+                  "lat" : 43.7460409,
+                  "lng" : -91.2767381
+               }
+            },
+            "location" : {
+               "lat" : 43.8013556,
+               "lng" : -91.23958069999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.8984466,
+                  "lng" : -91.15708909999999
+               },
+               "southwest" : {
+                  "lat" : 43.7460409,
+                  "lng" : -91.2767381
+               }
+            }
+         },
+         "place_id" : "ChIJlbMyZ99U-YcRsCI3GRWIqX8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

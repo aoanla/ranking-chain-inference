@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "O'Fallon",
+               "short_name" : "O'Fallon",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Charles County",
+               "short_name" : "St Charles County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "O'Fallon, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.8731991,
+                  "lng" : -90.64889289999999
+               },
+               "southwest" : {
+                  "lat" : 38.71263,
+                  "lng" : -90.82075479999999
+               }
+            },
+            "location" : {
+               "lat" : 38.8106075,
+               "lng" : -90.69984769999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.8731991,
+                  "lng" : -90.64889289999999
+               },
+               "southwest" : {
+                  "lat" : 38.71263,
+                  "lng" : -90.82075479999999
+               }
+            }
+         },
+         "place_id" : "ChIJs6aOAfvQ3ocRidnJA-TANLE",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

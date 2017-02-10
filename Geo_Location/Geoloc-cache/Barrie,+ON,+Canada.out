@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barrie",
+               "short_name" : "Barrie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Simcoe County",
+               "short_name" : "Simcoe County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Barrie, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.424403,
+                  "lng" : -79.5858192
+               },
+               "southwest" : {
+                  "lat" : 44.2938755,
+                  "lng" : -79.7456249
+               }
+            },
+            "location" : {
+               "lat" : 44.38935559999999,
+               "lng" : -79.69033159999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.424403,
+                  "lng" : -79.5858192
+               },
+               "southwest" : {
+                  "lat" : 44.2938755,
+                  "lng" : -79.7456249
+               }
+            }
+         },
+         "place_id" : "ChIJbSDXGjejKogRWlNLqAAPLh0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

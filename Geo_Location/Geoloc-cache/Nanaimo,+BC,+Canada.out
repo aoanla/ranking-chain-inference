@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Nanaimo",
+               "short_name" : "Nanaimo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Nanaimo",
+               "short_name" : "Nanaimo",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Nanaimo, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.2489599,
+                  "lng" : -123.8093094
+               },
+               "southwest" : {
+                  "lat" : 49.09737399999999,
+                  "lng" : -124.064733
+               }
+            },
+            "location" : {
+               "lat" : 49.1658836,
+               "lng" : -123.9400647
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.2489599,
+                  "lng" : -123.8093094
+               },
+               "southwest" : {
+                  "lat" : 49.09737399999999,
+                  "lng" : -124.064733
+               }
+            }
+         },
+         "place_id" : "ChIJWxysIF6hiFQR0A97KhU1AQU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

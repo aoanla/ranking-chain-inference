@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Marburg",
+               "short_name" : "Marburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Marburg-Biedenkopf",
+               "short_name" : "Marburg-Biedenkopf",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Giessen",
+               "short_name" : "GI",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hesse",
+               "short_name" : "HE",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Marburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.8587298,
+                  "lng" : 8.858185799999999
+               },
+               "southwest" : {
+                  "lat" : 50.7378724,
+                  "lng" : 8.6274421
+               }
+            },
+            "location" : {
+               "lat" : 50.8021728,
+               "lng" : 8.7667933
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.8587298,
+                  "lng" : 8.858185799999999
+               },
+               "southwest" : {
+                  "lat" : 50.7378724,
+                  "lng" : 8.6274421
+               }
+            }
+         },
+         "place_id" : "ChIJ6SnbQENivEcR4KiwKVBDIgQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

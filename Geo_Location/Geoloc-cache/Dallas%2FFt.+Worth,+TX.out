@@ -1,0 +1,375 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Worth Avenue",
+               "short_name" : "Fort Worth Ave",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Worth Ave, Dallas, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7730458,
+                  "lng" : -96.8315743
+               },
+               "southwest" : {
+                  "lat" : 32.7495736,
+                  "lng" : -96.88347880000001
+               }
+            },
+            "location" : {
+               "lat" : 32.761422,
+               "lng" : -96.8580128
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7730458,
+                  "lng" : -96.8315743
+               },
+               "southwest" : {
+                  "lat" : 32.7495736,
+                  "lng" : -96.88347880000001
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ3aHn5bWbToYRA36Cq96g_lg",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Worth",
+               "short_name" : "Fort Worth",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tarrant County",
+               "short_name" : "Tarrant County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Worth, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.0493109,
+                  "lng" : -97.033715
+               },
+               "southwest" : {
+                  "lat" : 32.552315,
+                  "lng" : -97.54492289999999
+               }
+            },
+            "location" : {
+               "lat" : 32.7554883,
+               "lng" : -97.33076579999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.0493109,
+                  "lng" : -97.033715
+               },
+               "southwest" : {
+                  "lat" : 32.552315,
+                  "lng" : -97.54492289999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJrQfILRJuToYRvaxp3fiLr6Q",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas Fort Worth Turnpike",
+               "short_name" : "Dallas Fort Worth Turnpike",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75211",
+               "short_name" : "75211",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dallas Fort Worth Turnpike, Dallas, TX 75211, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7668146,
+                  "lng" : -96.86025169999999
+               },
+               "southwest" : {
+                  "lat" : 32.7656056,
+                  "lng" : -96.87337579999999
+               }
+            },
+            "location" : {
+               "lat" : 32.766633,
+               "lng" : -96.86685589999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7675590802915,
+                  "lng" : -96.86025169999999
+               },
+               "southwest" : {
+                  "lat" : 32.7648611197085,
+                  "lng" : -96.87337579999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtavgGaabToYRVWwhiTqwhR0",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dallas Fort Worth Turnpike",
+               "short_name" : "Dallas Fort Worth Turnpike",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75208",
+               "short_name" : "75208",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Dallas Fort Worth Turnpike, Dallas, TX 75208, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.770781,
+                  "lng" : -96.820059
+               },
+               "southwest" : {
+                  "lat" : 32.7670693,
+                  "lng" : -96.8373725
+               }
+            },
+            "location" : {
+               "lat" : 32.7685348,
+               "lng" : -96.82861129999999
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.770781,
+                  "lng" : -96.820059
+               },
+               "southwest" : {
+                  "lat" : 32.7670693,
+                  "lng" : -96.8373725
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb-2SuHqZToYRVZ1jvQF_AYk",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Worth Street",
+               "short_name" : "Ft Worth St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Grand Prairie",
+               "short_name" : "Grand Prairie",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75050",
+               "short_name" : "75050",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Ft Worth St, Grand Prairie, TX 75050, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7437169,
+                  "lng" : -97.0230061
+               },
+               "southwest" : {
+                  "lat" : 32.743029,
+                  "lng" : -97.02903479999999
+               }
+            },
+            "location" : {
+               "lat" : 32.743344,
+               "lng" : -97.026241
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7447219302915,
+                  "lng" : -97.0230061
+               },
+               "southwest" : {
+                  "lat" : 32.7420239697085,
+                  "lng" : -97.02903479999999
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJJU09MV6GToYRj-PfAI2rr7s",
+         "types" : [ "route" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Worth Street",
+               "short_name" : "Fort Worth St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Dallas",
+               "short_name" : "Dallas",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dallas County",
+               "short_name" : "Dallas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "75208",
+               "short_name" : "75208",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Fort Worth St, Dallas, TX 75208, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.7438839,
+                  "lng" : -97.0137405
+               },
+               "southwest" : {
+                  "lat" : 32.7428703,
+                  "lng" : -97.0230072
+               }
+            },
+            "location" : {
+               "lat" : 32.7432547,
+               "lng" : -97.0184823
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.7447260802915,
+                  "lng" : -97.0137405
+               },
+               "southwest" : {
+                  "lat" : 32.74202811970851,
+                  "lng" : -97.0230072
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJB455OGOGToYR2NAsoLKzY6Q",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

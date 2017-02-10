@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Belmont",
+               "short_name" : "Belmont",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "3216",
+               "short_name" : "3216",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Belmont VIC 3216, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.1636546,
+                  "lng" : 144.364924
+               },
+               "southwest" : {
+                  "lat" : -38.1960341,
+                  "lng" : 144.3207601
+               }
+            },
+            "location" : {
+               "lat" : -38.1748902,
+               "lng" : 144.3428975
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.1636546,
+                  "lng" : 144.364924
+               },
+               "southwest" : {
+                  "lat" : -38.1960341,
+                  "lng" : 144.3207601
+               }
+            }
+         },
+         "place_id" : "ChIJW6I7mX4T1GoREOOMIXVWBAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

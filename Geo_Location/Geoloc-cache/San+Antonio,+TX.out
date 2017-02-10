@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "San Antonio",
+               "short_name" : "San Antonio",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bexar County",
+               "short_name" : "Bexar County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "San Antonio, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 29.73872,
+                  "lng" : -98.22295799999999
+               },
+               "southwest" : {
+                  "lat" : 29.2241411,
+                  "lng" : -98.8058509
+               }
+            },
+            "location" : {
+               "lat" : 29.4241219,
+               "lng" : -98.49362819999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 29.73872,
+                  "lng" : -98.22295799999999
+               },
+               "southwest" : {
+                  "lat" : 29.2241411,
+                  "lng" : -98.8058509
+               }
+            }
+         },
+         "place_id" : "ChIJrw7QBK9YXIYRvBagEDvhVgg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

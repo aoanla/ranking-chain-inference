@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "North Pole",
+               "short_name" : "North Pole",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fairbanks North Star",
+               "short_name" : "Fairbanks North Star",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alaska",
+               "short_name" : "AK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "99705",
+               "short_name" : "99705",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "North Pole, AK 99705, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 64.778018,
+                  "lng" : -147.3079621
+               },
+               "southwest" : {
+                  "lat" : 64.729355,
+                  "lng" : -147.4284771
+               }
+            },
+            "location" : {
+               "lat" : 64.7511111,
+               "lng" : -147.3494444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 64.778018,
+                  "lng" : -147.3079621
+               },
+               "southwest" : {
+                  "lat" : 64.729355,
+                  "lng" : -147.4284771
+               }
+            }
+         },
+         "place_id" : "ChIJufLF1VFNMlERZInZ2RR3Gto",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

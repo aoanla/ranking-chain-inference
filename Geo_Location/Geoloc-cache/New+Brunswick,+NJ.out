@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "New Brunswick",
+               "short_name" : "New Brunswick",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Jersey",
+               "short_name" : "NJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "New Brunswick, NJ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.509533,
+                  "lng" : -74.39241179999999
+               },
+               "southwest" : {
+                  "lat" : 40.467221,
+                  "lng" : -74.48952389999999
+               }
+            },
+            "location" : {
+               "lat" : 40.4862157,
+               "lng" : -74.4518188
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.509533,
+                  "lng" : -74.39241179999999
+               },
+               "southwest" : {
+                  "lat" : 40.467221,
+                  "lng" : -74.48952389999999
+               }
+            }
+         },
+         "place_id" : "ChIJpZJq8FXDw4kRDCOOeQZVkiU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

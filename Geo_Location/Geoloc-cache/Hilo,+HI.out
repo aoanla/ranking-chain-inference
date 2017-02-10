@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hilo",
+               "short_name" : "Hilo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hawaii County",
+               "short_name" : "Hawaii County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Hilo, HI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.7437521,
+                  "lng" : -154.9925729
+               },
+               "southwest" : {
+                  "lat" : 19.6240661,
+                  "lng" : -155.1872961
+               }
+            },
+            "location" : {
+               "lat" : 19.7297222,
+               "lng" : -155.09
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.7437521,
+                  "lng" : -154.9925729
+               },
+               "southwest" : {
+                  "lat" : 19.6240661,
+                  "lng" : -155.1872961
+               }
+            }
+         },
+         "place_id" : "ChIJyd6XbFpLUnkRxhUMMwCpW8E",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

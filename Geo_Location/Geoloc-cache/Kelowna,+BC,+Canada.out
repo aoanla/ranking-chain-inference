@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kelowna",
+               "short_name" : "Kelowna",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Central Okanagan",
+               "short_name" : "Central Okanagan",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Kelowna, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 50.025948,
+                  "lng" : -119.3199561
+               },
+               "southwest" : {
+                  "lat" : 49.773437,
+                  "lng" : -119.5893688
+               }
+            },
+            "location" : {
+               "lat" : 49.8879519,
+               "lng" : -119.4960106
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 50.025948,
+                  "lng" : -119.3199561
+               },
+               "southwest" : {
+                  "lat" : 49.773437,
+                  "lng" : -119.5893688
+               }
+            }
+         },
+         "place_id" : "ChIJszDH47aMfVMR98S02j3l-E4",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

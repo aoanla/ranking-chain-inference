@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bemidji",
+               "short_name" : "Bemidji",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Beltrami County",
+               "short_name" : "Beltrami County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Minnesota",
+               "short_name" : "MN",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "56601",
+               "short_name" : "56601",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Bemidji, MN 56601, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.5269,
+                  "lng" : -94.799758
+               },
+               "southwest" : {
+                  "lat" : 47.4245639,
+                  "lng" : -94.9494299
+               }
+            },
+            "location" : {
+               "lat" : 47.4875361,
+               "lng" : -94.8858492
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.5269,
+                  "lng" : -94.799758
+               },
+               "southwest" : {
+                  "lat" : 47.4245639,
+                  "lng" : -94.9494299
+               }
+            }
+         },
+         "place_id" : "ChIJx7cexE4suFIRBuOV8I189tY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

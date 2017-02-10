@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Roseburg",
+               "short_name" : "Roseburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Douglas County",
+               "short_name" : "Douglas County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oregon",
+               "short_name" : "OR",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Roseburg, OR, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.251532,
+                  "lng" : -123.271139
+               },
+               "southwest" : {
+                  "lat" : 43.1908,
+                  "lng" : -123.401842
+               }
+            },
+            "location" : {
+               "lat" : 43.216505,
+               "lng" : -123.3417381
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.251532,
+                  "lng" : -123.271139
+               },
+               "southwest" : {
+                  "lat" : 43.1908,
+                  "lng" : -123.401842
+               }
+            }
+         },
+         "place_id" : "ChIJzVlZS8UixFQRkf3C1xZepF8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

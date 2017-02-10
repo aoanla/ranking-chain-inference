@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Västerås",
+               "short_name" : "Västerås",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Västerås",
+               "short_name" : "Västerås",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Västmanland County",
+               "short_name" : "Västmanland County",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Sweden",
+               "short_name" : "SE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Västerås, Sweden",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 59.676659,
+                  "lng" : 16.6539362
+               },
+               "southwest" : {
+                  "lat" : 59.57252499999999,
+                  "lng" : 16.4362452
+               }
+            },
+            "location" : {
+               "lat" : 59.60990049999999,
+               "lng" : 16.5448091
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 59.676659,
+                  "lng" : 16.6539362
+               },
+               "southwest" : {
+                  "lat" : 59.57252499999999,
+                  "lng" : 16.4362452
+               }
+            }
+         },
+         "place_id" : "ChIJp6lbRYFCXkYRIEBl4rZdQbw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

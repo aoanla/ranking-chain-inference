@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Safford",
+               "short_name" : "Safford",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Graham County",
+               "short_name" : "Graham County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Safford, AZ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.882075,
+                  "lng" : -109.626177
+               },
+               "southwest" : {
+                  "lat" : 32.74342300000001,
+                  "lng" : -109.739808
+               }
+            },
+            "location" : {
+               "lat" : 32.8339546,
+               "lng" : -109.70758
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.882075,
+                  "lng" : -109.626177
+               },
+               "southwest" : {
+                  "lat" : 32.74342300000001,
+                  "lng" : -109.739808
+               }
+            }
+         },
+         "place_id" : "ChIJjwW_ifz214YRi24NggKWces",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

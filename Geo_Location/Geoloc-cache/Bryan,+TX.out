@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bryan",
+               "short_name" : "Bryan",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brazos County",
+               "short_name" : "Brazos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bryan, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.730455,
+                  "lng" : -96.245722
+               },
+               "southwest" : {
+                  "lat" : 30.590893,
+                  "lng" : -96.46075900000001
+               }
+            },
+            "location" : {
+               "lat" : 30.6743643,
+               "lng" : -96.3699632
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.730455,
+                  "lng" : -96.245722
+               },
+               "southwest" : {
+                  "lat" : 30.590893,
+                  "lng" : -96.46075900000001
+               }
+            }
+         },
+         "place_id" : "ChIJmVMC17yBRoYRcUziFqi05ZU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

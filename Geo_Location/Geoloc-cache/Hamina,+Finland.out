@@ -1,0 +1,49 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Hamina",
+               "short_name" : "Hamina",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hamina",
+               "short_name" : "Hamina",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "49400",
+               "short_name" : "49400",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "49400 Hamina, Finland",
+         "geometry" : {
+            "location" : {
+               "lat" : 60.56920280000001,
+               "lng" : 27.1938458
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 60.5746851,
+                  "lng" : 27.2098532
+               },
+               "southwest" : {
+                  "lat" : 60.5637196,
+                  "lng" : 27.1778384
+               }
+            }
+         },
+         "place_id" : "ChIJfc9F6NUPkUYRL_nfIs8htrI",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

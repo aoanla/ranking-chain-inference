@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Joensuu",
+               "short_name" : "Joensuu",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Joensuu",
+               "short_name" : "Joensuu",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "North Karelia",
+               "short_name" : "North Karelia",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Finland",
+               "short_name" : "FI",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Joensuu, Finland",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.04760690000001,
+                  "lng" : 31.09423
+               },
+               "southwest" : {
+                  "lat" : 62.2503894,
+                  "lng" : 29.6135579
+               }
+            },
+            "location" : {
+               "lat" : 62.6010155,
+               "lng" : 29.7635719
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.04760690000001,
+                  "lng" : 31.09423
+               },
+               "southwest" : {
+                  "lat" : 62.2503894,
+                  "lng" : 29.6135579
+               }
+            }
+         },
+         "place_id" : "ChIJDaUF32WGm0YRJ37_bAGQF2A",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

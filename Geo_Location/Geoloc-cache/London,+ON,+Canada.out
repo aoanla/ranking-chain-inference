@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "London",
+               "short_name" : "London",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Middlesex County",
+               "short_name" : "Middlesex County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "London, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.073245,
+                  "lng" : -81.1063879
+               },
+               "southwest" : {
+                  "lat" : 42.824517,
+                  "lng" : -81.390852
+               }
+            },
+            "location" : {
+               "lat" : 42.9869502,
+               "lng" : -81.243177
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.073245,
+                  "lng" : -81.1063879
+               },
+               "southwest" : {
+                  "lat" : 42.824517,
+                  "lng" : -81.390852
+               }
+            }
+         },
+         "place_id" : "ChIJC5uNqA7yLogRlWsFmmnXxyg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

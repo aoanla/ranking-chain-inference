@@ -1,0 +1,129 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reims",
+               "short_name" : "Reims",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Champagne-Ardenne",
+               "short_name" : "Champagne-Ardenne",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Marne",
+               "short_name" : "Marne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alsace-Champagne-Ardenne-Lorraine",
+               "short_name" : "Alsace-Champagne-Ardenne-Lorraine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reims, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.30317410000001,
+                  "lng" : 4.1241371
+               },
+               "southwest" : {
+                  "lat" : 49.2039281,
+                  "lng" : 3.98604
+               }
+            },
+            "location" : {
+               "lat" : 49.258329,
+               "lng" : 4.031696
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.30317410000001,
+                  "lng" : 4.1241371
+               },
+               "southwest" : {
+                  "lat" : 49.2039281,
+                  "lng" : 3.98604
+               }
+            }
+         },
+         "place_id" : "ChIJCTtTSjN06UcRwEU7mrlfCgQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reims-la-Brûlée",
+               "short_name" : "Reims-la-Brûlée",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Champagne-Ardenne",
+               "short_name" : "Champagne-Ardenne",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Marne",
+               "short_name" : "Marne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alsace-Champagne-Ardenne-Lorraine",
+               "short_name" : "Alsace-Champagne-Ardenne-Lorraine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "51300",
+               "short_name" : "51300",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "51300 Reims-la-Brûlée, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.734499,
+                  "lng" : 4.706544
+               },
+               "southwest" : {
+                  "lat" : 48.707877,
+                  "lng" : 4.637627
+               }
+            },
+            "location" : {
+               "lat" : 48.719131,
+               "lng" : 4.669036
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.734499,
+                  "lng" : 4.706544
+               },
+               "southwest" : {
+                  "lat" : 48.707877,
+                  "lng" : 4.637627
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJIeNGsL2M60cRZ71V3btGNvk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Foothills",
+               "short_name" : "Foothills",
+               "types" : [ "neighborhood", "political" ]
+            },
+            {
+               "long_name" : "Calgary",
+               "short_name" : "Calgary",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Division No. 6",
+               "short_name" : "Division No. 6",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Alberta",
+               "short_name" : "AB",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "T2C",
+               "short_name" : "T2C",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Foothills, Calgary, AB T2C, Canada",
+         "geometry" : {
+            "location" : {
+               "lat" : 50.99657699999999,
+               "lng" : -113.970144
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.0035989,
+                  "lng" : -113.9541366
+               },
+               "southwest" : {
+                  "lat" : 50.989554,
+                  "lng" : -113.9861514
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJawW5vz96cVMRcr2vJid9r_Q",
+         "types" : [ "neighborhood", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

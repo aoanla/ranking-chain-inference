@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Grand Junction",
+               "short_name" : "Grand Junction",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Mesa County",
+               "short_name" : "Mesa County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Colorado",
+               "short_name" : "CO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Grand Junction, CO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.1527559,
+                  "lng" : -108.463919
+               },
+               "southwest" : {
+                  "lat" : 39.0186281,
+                  "lng" : -108.6757521
+               }
+            },
+            "location" : {
+               "lat" : 39.0638705,
+               "lng" : -108.5506486
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.1527559,
+                  "lng" : -108.463919
+               },
+               "southwest" : {
+                  "lat" : 39.0186281,
+                  "lng" : -108.6757521
+               }
+            }
+         },
+         "place_id" : "ChIJV3DnIuPWRocRVny_zlH0Y8w",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

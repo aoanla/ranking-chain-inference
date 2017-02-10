@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Northampton",
+               "short_name" : "Northampton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hampshire County",
+               "short_name" : "Hampshire County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Massachusetts",
+               "short_name" : "MA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Northampton, MA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 42.375352,
+                  "lng" : -72.5855359
+               },
+               "southwest" : {
+                  "lat" : 42.283829,
+                  "lng" : -72.741264
+               }
+            },
+            "location" : {
+               "lat" : 42.3250896,
+               "lng" : -72.64120129999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 42.375352,
+                  "lng" : -72.5855359
+               },
+               "southwest" : {
+                  "lat" : 42.283829,
+                  "lng" : -72.741264
+               }
+            }
+         },
+         "place_id" : "ChIJBSqOfD7X5okRC9vYEwt1FsM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

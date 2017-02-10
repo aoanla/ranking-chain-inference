@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Victoria",
+               "short_name" : "Victoria",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Capital",
+               "short_name" : "Capital",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "British Columbia",
+               "short_name" : "BC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Victoria, BC, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.450518,
+                  "lng" : -123.322346
+               },
+               "southwest" : {
+                  "lat" : 48.4028979,
+                  "lng" : -123.3944865
+               }
+            },
+            "location" : {
+               "lat" : 48.4284207,
+               "lng" : -123.3656444
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.450518,
+                  "lng" : -123.322346
+               },
+               "southwest" : {
+                  "lat" : 48.4028979,
+                  "lng" : -123.3944865
+               }
+            }
+         },
+         "place_id" : "ChIJcWGw3Ytzj1QR7Ui7HnTz6Dg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "La Trobe River",
+               "short_name" : "La Trobe River",
+               "types" : [ "natural_feature", "establishment" ]
+            },
+            {
+               "long_name" : "Rosedale",
+               "short_name" : "Rosedale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "La Trobe River, Rosedale VIC, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -38.1417429,
+                  "lng" : 146.8043925
+               },
+               "southwest" : {
+                  "lat" : -38.1473295,
+                  "lng" : 146.76916
+               }
+            },
+            "location" : {
+               "lat" : -38.1445362,
+               "lng" : 146.7867763
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -38.1417429,
+                  "lng" : 146.8043925
+               },
+               "southwest" : {
+                  "lat" : -38.1473295,
+                  "lng" : 146.76916
+               }
+            }
+         },
+         "place_id" : "ChIJoy5hqMwpKWsR0MxdbaR5BSo",
+         "types" : [ "natural_feature", "establishment" ]
+      }
+   ],
+   "status" : "OK"
+}

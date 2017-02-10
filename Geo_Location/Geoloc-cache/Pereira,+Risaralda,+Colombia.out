@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pereira",
+               "short_name" : "Pereira",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pereira",
+               "short_name" : "Pereira",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Risaralda",
+               "short_name" : "Risaralda",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Colombia",
+               "short_name" : "CO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pereira, Pereira, Risaralda, Colombia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 4.8281771,
+                  "lng" : -75.657184
+               },
+               "southwest" : {
+                  "lat" : 4.781372,
+                  "lng" : -75.77033899999999
+               }
+            },
+            "location" : {
+               "lat" : 4.8087174,
+               "lng" : -75.690601
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 4.8281771,
+                  "lng" : -75.657184
+               },
+               "southwest" : {
+                  "lat" : 4.781372,
+                  "lng" : -75.77033899999999
+               }
+            }
+         },
+         "place_id" : "ChIJ_cFW60iHOI4RvN_x-RCUs5U",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lincoln",
+               "short_name" : "Lincoln",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lincoln",
+               "short_name" : "Lincoln",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Lincoln District",
+               "short_name" : "Lincoln District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Lincolnshire",
+               "short_name" : "Lincolnshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lincoln, Lincoln, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.25480349999999,
+                  "lng" : -0.4926212999999999
+               },
+               "southwest" : {
+                  "lat" : 53.1817882,
+                  "lng" : -0.6183716
+               }
+            },
+            "location" : {
+               "lat" : 53.230688,
+               "lng" : -0.5405789999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.25480349999999,
+                  "lng" : -0.4926212999999999
+               },
+               "southwest" : {
+                  "lat" : 53.1817882,
+                  "lng" : -0.6183716
+               }
+            }
+         },
+         "place_id" : "ChIJ-wQRccsMeEgRx93H6M89YDY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

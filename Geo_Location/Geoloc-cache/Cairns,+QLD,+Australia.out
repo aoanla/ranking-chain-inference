@@ -1,0 +1,108 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cairns",
+               "short_name" : "Cairns",
+               "types" : [ "colloquial_area", "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cairns QLD, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.6219771,
+                  "lng" : 146.0072403
+               },
+               "southwest" : {
+                  "lat" : -17.2186728,
+                  "lng" : 145.4537664
+               }
+            },
+            "location" : {
+               "lat" : -16.9203338,
+               "lng" : 145.7708595
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.6219771,
+                  "lng" : 146.0072403
+               },
+               "southwest" : {
+                  "lat" : -17.2186728,
+                  "lng" : 145.4537664
+               }
+            }
+         },
+         "place_id" : "ChIJEySiW1VieGkRYHggf_HuAAQ",
+         "types" : [ "colloquial_area", "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cairns City",
+               "short_name" : "Cairns City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Queensland",
+               "short_name" : "QLD",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "4870",
+               "short_name" : "4870",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Cairns City QLD 4870, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -16.9136742,
+                  "lng" : 145.7833047
+               },
+               "southwest" : {
+                  "lat" : -16.9308505,
+                  "lng" : 145.7653865
+               }
+            },
+            "location" : {
+               "lat" : -16.9203287,
+               "lng" : 145.7708524
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -16.9136742,
+                  "lng" : 145.7833047
+               },
+               "southwest" : {
+                  "lat" : -16.9308505,
+                  "lng" : 145.7653865
+               }
+            }
+         },
+         "place_id" : "ChIJK9zUh5FmeGkRwAYhf_HuAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

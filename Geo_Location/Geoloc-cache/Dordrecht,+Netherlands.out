@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Dordrecht",
+               "short_name" : "Dordrecht",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Dordrecht",
+               "short_name" : "Dordrecht",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Zuid-Holland",
+               "short_name" : "ZH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Netherlands",
+               "short_name" : "NL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Dordrecht, Netherlands",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.8222272,
+                  "lng" : 4.8851016
+               },
+               "southwest" : {
+                  "lat" : 51.71988109999999,
+                  "lng" : 4.6243658
+               }
+            },
+            "location" : {
+               "lat" : 51.81329789999999,
+               "lng" : 4.6900929
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.8222272,
+                  "lng" : 4.8851016
+               },
+               "southwest" : {
+                  "lat" : 51.71988109999999,
+                  "lng" : 4.6243658
+               }
+            }
+         },
+         "place_id" : "ChIJj7RXkhooxEcRwGsejVreAAQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Johnstown",
+               "short_name" : "Johnstown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cambria County",
+               "short_name" : "Cambria County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Pennsylvania",
+               "short_name" : "PA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Johnstown, PA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.36421199999999,
+                  "lng" : -78.8820461
+               },
+               "southwest" : {
+                  "lat" : 40.28970030000001,
+                  "lng" : -78.955348
+               }
+            },
+            "location" : {
+               "lat" : 40.32674069999999,
+               "lng" : -78.9219698
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.36421199999999,
+                  "lng" : -78.8820461
+               },
+               "southwest" : {
+                  "lat" : 40.28970030000001,
+                  "lng" : -78.955348
+               }
+            }
+         },
+         "place_id" : "ChIJ-YXbqi8Ry4kRFeBP5xHlsZQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

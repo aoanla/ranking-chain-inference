@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ventura",
+               "short_name" : "Ventura",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Ventura County",
+               "short_name" : "Ventura County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ventura, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 34.3714917,
+                  "lng" : -119.1452588
+               },
+               "southwest" : {
+                  "lat" : 34.2359653,
+                  "lng" : -119.3223355
+               }
+            },
+            "location" : {
+               "lat" : 34.274646,
+               "lng" : -119.2290316
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 34.3126295,
+                  "lng" : -119.1452588
+               },
+               "southwest" : {
+                  "lat" : 34.2359653,
+                  "lng" : -119.3223355
+               }
+            }
+         },
+         "place_id" : "ChIJTTmXUBWt6YAR6Op6Nnz17yQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

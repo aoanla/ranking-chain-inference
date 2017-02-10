@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Covington",
+               "short_name" : "Covington",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "St. Tammany Parish",
+               "short_name" : "St Tammany Parish",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Louisiana",
+               "short_name" : "LA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Covington, LA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 30.506803,
+                  "lng" : -90.0785169
+               },
+               "southwest" : {
+                  "lat" : 30.439798,
+                  "lng" : -90.17082789999999
+               }
+            },
+            "location" : {
+               "lat" : 30.4754702,
+               "lng" : -90.10091079999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 30.506803,
+                  "lng" : -90.0785169
+               },
+               "southwest" : {
+                  "lat" : 30.439798,
+                  "lng" : -90.17082789999999
+               }
+            }
+         },
+         "place_id" : "ChIJ54krmzBcJ4YRIDV2ITiwDgc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,113 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pau",
+               "short_name" : "Pau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Pyrénées-Atlantiques",
+               "short_name" : "Pyrénées-Atlantiques",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pau, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 43.3580329,
+                  "lng" : -0.294777
+               },
+               "southwest" : {
+                  "lat" : 43.285778,
+                  "lng" : -0.392537
+               }
+            },
+            "location" : {
+               "lat" : 43.2951,
+               "lng" : -0.370797
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 43.3580329,
+                  "lng" : -0.294777
+               },
+               "southwest" : {
+                  "lat" : 43.285778,
+                  "lng" : -0.392537
+               }
+            }
+         },
+         "place_id" : "ChIJ6XpctIVIVg0RsJQTSBdlBgQ",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pau",
+               "short_name" : "Pau",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Beauville",
+               "short_name" : "Beauville",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lot-et-Garonne",
+               "short_name" : "Lot-et-Garonne",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Aquitaine",
+               "short_name" : "Aquitaine",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "47470",
+               "short_name" : "47470",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Pau, 47470 Beauville, France",
+         "geometry" : {
+            "location" : {
+               "lat" : 44.280461,
+               "lng" : 0.9308389999999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.2818099802915,
+                  "lng" : 0.932187980291502
+               },
+               "southwest" : {
+                  "lat" : 44.2791120197085,
+                  "lng" : 0.9294900197084979
+               }
+            }
+         },
+         "place_id" : "ChIJnYGY6ViYqxIRd1GX1nYZvCQ",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Saint-Gratien",
+               "short_name" : "Saint-Gratien",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Val-d'Oise",
+               "short_name" : "Val-d'Oise",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Île-de-France",
+               "short_name" : "Île-de-France",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Saint-Gratien, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.977506,
+                  "lng" : 2.2988571
+               },
+               "southwest" : {
+                  "lat" : 48.95838,
+                  "lng" : 2.271072900000001
+               }
+            },
+            "location" : {
+               "lat" : 48.970259,
+               "lng" : 2.286571
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.977506,
+                  "lng" : 2.2988571
+               },
+               "southwest" : {
+                  "lat" : 48.95838,
+                  "lng" : 2.271072900000001
+               }
+            }
+         },
+         "place_id" : "ChIJBUT-4ydm5kcRsC2LaMOCCwQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

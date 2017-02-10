@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barre",
+               "short_name" : "Barre",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Washington County",
+               "short_name" : "Washington County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vermont",
+               "short_name" : "VT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "05641",
+               "short_name" : "05641",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barre, VT 05641, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.216218,
+                  "lng" : -72.4828639
+               },
+               "southwest" : {
+                  "lat" : 44.1804931,
+                  "lng" : -72.53748589999999
+               }
+            },
+            "location" : {
+               "lat" : 44.1970055,
+               "lng" : -72.50204939999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.216218,
+                  "lng" : -72.4828639
+               },
+               "southwest" : {
+                  "lat" : 44.1804931,
+                  "lng" : -72.53748589999999
+               }
+            }
+         },
+         "place_id" : "ChIJAVSmFd0GtUwR4CHhnjilPNk",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

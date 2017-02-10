@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Texarkana",
+               "short_name" : "Texarkana",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Bowie County",
+               "short_name" : "Bowie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Texarkana, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.5014501,
+                  "lng" : -94.042886
+               },
+               "southwest" : {
+                  "lat" : 33.381386,
+                  "lng" : -94.14485479999999
+               }
+            },
+            "location" : {
+               "lat" : 33.425125,
+               "lng" : -94.04768820000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.5014501,
+                  "lng" : -94.042886
+               },
+               "southwest" : {
+                  "lat" : 33.381386,
+                  "lng" : -94.14485479999999
+               }
+            }
+         },
+         "place_id" : "ChIJV2SgwjJBNIYRcFvbYZI8WJ0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

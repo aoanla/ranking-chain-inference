@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Flagstaff",
+               "short_name" : "Flagstaff",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coconino County",
+               "short_name" : "Coconino County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Arizona",
+               "short_name" : "AZ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Flagstaff, AZ, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.2401021,
+                  "lng" : -111.50679
+               },
+               "southwest" : {
+                  "lat" : 35.12231300000001,
+                  "lng" : -111.709128
+               }
+            },
+            "location" : {
+               "lat" : 35.1982836,
+               "lng" : -111.651302
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.2401021,
+                  "lng" : -111.50679
+               },
+               "southwest" : {
+                  "lat" : 35.12231300000001,
+                  "lng" : -111.709128
+               }
+            }
+         },
+         "place_id" : "ChIJMSYu2veOLYcRALPbzqE8H44",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

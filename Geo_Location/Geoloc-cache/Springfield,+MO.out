@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Springfield",
+               "short_name" : "Springfield",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Greene County",
+               "short_name" : "Greene County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Springfield, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 37.2708071,
+                  "lng" : -93.1786431
+               },
+               "southwest" : {
+                  "lat" : 37.0874019,
+                  "lng" : -93.414006
+               }
+            },
+            "location" : {
+               "lat" : 37.2089572,
+               "lng" : -93.29229889999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 37.2708071,
+                  "lng" : -93.1786431
+               },
+               "southwest" : {
+                  "lat" : 37.0874019,
+                  "lng" : -93.414006
+               }
+            }
+         },
+         "place_id" : "ChIJP5jIRfdiz4cRoA1pHrNs_Ws",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

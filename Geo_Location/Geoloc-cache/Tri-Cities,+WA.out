@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tri-Cities",
+               "short_name" : "Tri-Cities",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "Washington",
+               "short_name" : "WA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tri-Cities, WA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.3704569,
+                  "lng" : -119.023494
+               },
+               "southwest" : {
+                  "lat" : 46.16017410000001,
+                  "lng" : -119.490199
+               }
+            },
+            "location" : {
+               "lat" : 46.2349999,
+               "lng" : -119.2233014
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.3704569,
+                  "lng" : -119.023494
+               },
+               "southwest" : {
+                  "lat" : 46.16017410000001,
+                  "lng" : -119.490199
+               }
+            }
+         },
+         "place_id" : "ChIJR6FyPhl7mFQRxXVfzv1W0g8",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

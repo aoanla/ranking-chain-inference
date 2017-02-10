@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Junction City",
+               "short_name" : "Junction City",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Geary County",
+               "short_name" : "Geary County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Kansas",
+               "short_name" : "KS",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Junction City, KS, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 39.0894779,
+                  "lng" : -96.80234
+               },
+               "southwest" : {
+                  "lat" : 38.986401,
+                  "lng" : -96.887317
+               }
+            },
+            "location" : {
+               "lat" : 39.0286093,
+               "lng" : -96.83139779999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 39.0894779,
+                  "lng" : -96.80234
+               },
+               "southwest" : {
+                  "lat" : 38.986401,
+                  "lng" : -96.887317
+               }
+            }
+         },
+         "place_id" : "ChIJTdVc-0ZJvIcRC9opO4xa54I",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

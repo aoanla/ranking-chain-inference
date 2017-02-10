@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Trondheim",
+               "short_name" : "Trondheim",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Trondheim",
+               "short_name" : "Trondheim",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sør-Trøndelag",
+               "short_name" : "Sør-Trøndelag",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Norway",
+               "short_name" : "NO",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Trondheim, Norway",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 63.45691890000001,
+                  "lng" : 10.5793655
+               },
+               "southwest" : {
+                  "lat" : 63.3805535,
+                  "lng" : 10.2981588
+               }
+            },
+            "location" : {
+               "lat" : 63.4305149,
+               "lng" : 10.3950528
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 63.45691890000001,
+                  "lng" : 10.5793655
+               },
+               "southwest" : {
+                  "lat" : 63.3805535,
+                  "lng" : 10.2981588
+               }
+            }
+         },
+         "place_id" : "ChIJU34DR5cxbUYR1PM8jyjI9ws",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

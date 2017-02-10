@@ -1,0 +1,370 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Federal",
+               "short_name" : "Federal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad de México",
+               "short_name" : "México D.F.",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Venustiano Carranza",
+               "short_name" : "Venustiano Carranza",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Distrito Federal",
+               "short_name" : "D.F.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Federal, Ciudad de México, D.F., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.4268072,
+                  "lng" : -99.0826082
+               },
+               "southwest" : {
+                  "lat" : 19.4146905,
+                  "lng" : -99.0942165
+               }
+            },
+            "location" : {
+               "lat" : 19.4194433,
+               "lng" : -99.08890459999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.4268072,
+                  "lng" : -99.0826082
+               },
+               "southwest" : {
+                  "lat" : 19.4146905,
+                  "lng" : -99.0942165
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJB7Vg8RD80YURl9zrUzQ9Tro",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Federal",
+               "short_name" : "Federal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Toluca de Lerdo",
+               "short_name" : "Toluca de Lerdo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Toluca",
+               "short_name" : "Toluca",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Estado de México",
+               "short_name" : "Méx.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Federal, Toluca de Lerdo, Méx., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.2802518,
+                  "lng" : -99.66549289999999
+               },
+               "southwest" : {
+                  "lat" : 19.2752936,
+                  "lng" : -99.6713475
+               }
+            },
+            "location" : {
+               "lat" : 19.2783763,
+               "lng" : -99.6682448
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.2802518,
+                  "lng" : -99.66549289999999
+               },
+               "southwest" : {
+                  "lat" : 19.2752936,
+                  "lng" : -99.6713475
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJtXjfbLCJzYURLpTlNT0uO2E",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Federal",
+               "short_name" : "Federal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "San Luis Río Colorado",
+               "short_name" : "San Luis Río Colorado",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "San Luis Río Colorado",
+               "short_name" : "San Luis Río Colorado",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Sonora",
+               "short_name" : "Son.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Federal, San Luis Río Colorado, Son., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.4507555,
+                  "lng" : -114.7613562
+               },
+               "southwest" : {
+                  "lat" : 32.4326362,
+                  "lng" : -114.7849528
+               }
+            },
+            "location" : {
+               "lat" : 32.4397864,
+               "lng" : -114.7706876
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.4507555,
+                  "lng" : -114.7613562
+               },
+               "southwest" : {
+                  "lat" : 32.4326362,
+                  "lng" : -114.7849528
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJb-uPA_hO1oARxr6rh50XuFQ",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Federal",
+               "short_name" : "Federal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Xalapa Enríquez",
+               "short_name" : "Xalapa Enríquez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Xalapa",
+               "short_name" : "Xalapa",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Ver.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Federal, Xalapa Enríquez, Ver., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 19.5499295,
+                  "lng" : -96.91363779999999
+               },
+               "southwest" : {
+                  "lat" : 19.5436632,
+                  "lng" : -96.9175613
+               }
+            },
+            "location" : {
+               "lat" : 19.5461959,
+               "lng" : -96.9153623
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 19.5499295,
+                  "lng" : -96.91363779999999
+               },
+               "southwest" : {
+                  "lat" : 19.5436632,
+                  "lng" : -96.9175613
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJ143jgOMx24URnukoNfcVnpU",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Federal",
+               "short_name" : "Federal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Córdoba",
+               "short_name" : "Córdoba",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Córdoba",
+               "short_name" : "Córdoba",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Veracruz",
+               "short_name" : "Ver.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Federal, Córdoba, Ver., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 18.8946419,
+                  "lng" : -96.9419298
+               },
+               "southwest" : {
+                  "lat" : 18.891982,
+                  "lng" : -96.9457903
+               }
+            },
+            "location" : {
+               "lat" : 18.8922969,
+               "lng" : -96.9438593
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 18.8946609302915,
+                  "lng" : -96.9419298
+               },
+               "southwest" : {
+                  "lat" : 18.8919629697085,
+                  "lng" : -96.9457903
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJSf1eahXlxIUR-3ueWylQyoU",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Federal",
+               "short_name" : "Federal",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tecate",
+               "short_name" : "Tecate",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tecate",
+               "short_name" : "Tecate",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baja California",
+               "short_name" : "B.C.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "21450",
+               "short_name" : "21450",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Federal, 21450 Tecate, B.C., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 32.5713242,
+                  "lng" : -116.636052
+               },
+               "southwest" : {
+                  "lat" : 32.570044,
+                  "lng" : -116.6386873
+               }
+            },
+            "location" : {
+               "lat" : 32.5706943,
+               "lng" : -116.6378318
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 32.5720330802915,
+                  "lng" : -116.6360206697085
+               },
+               "southwest" : {
+                  "lat" : 32.56933511970851,
+                  "lng" : -116.6387186302915
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJqYRCgcYS2YARifN30XYmu2M",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

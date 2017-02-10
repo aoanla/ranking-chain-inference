@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tampa",
+               "short_name" : "Tampa",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hillsborough County",
+               "short_name" : "Hillsborough County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Tampa, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 28.1714781,
+                  "lng" : -82.2597409
+               },
+               "southwest" : {
+                  "lat" : 27.82106,
+                  "lng" : -82.6486546
+               }
+            },
+            "location" : {
+               "lat" : 27.950575,
+               "lng" : -82.45717759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 28.1714781,
+                  "lng" : -82.2597409
+               },
+               "southwest" : {
+                  "lat" : 27.82106,
+                  "lng" : -82.6486546
+               }
+            }
+         },
+         "place_id" : "ChIJ4dG5s4K3wogRY7SWr4kTX6c",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

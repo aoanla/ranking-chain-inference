@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Bozeman",
+               "short_name" : "Bozeman",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Gallatin County",
+               "short_name" : "Gallatin County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Bozeman, MT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.72422400000001,
+                  "lng" : -110.983769
+               },
+               "southwest" : {
+                  "lat" : 45.634789,
+                  "lng" : -111.1180349
+               }
+            },
+            "location" : {
+               "lat" : 45.6769979,
+               "lng" : -111.0429339
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.72422400000001,
+                  "lng" : -110.983769
+               },
+               "southwest" : {
+                  "lat" : 45.634789,
+                  "lng" : -111.1180349
+               }
+            }
+         },
+         "place_id" : "ChIJE4i6T0xERVMRqmA792TQ9WM",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

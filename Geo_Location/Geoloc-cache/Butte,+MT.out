@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Butte",
+               "short_name" : "Butte",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Silver Bow County",
+               "short_name" : "Silver Bow County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Montana",
+               "short_name" : "MT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Butte, MT, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.185468,
+                  "lng" : -112.189937
+               },
+               "southwest" : {
+                  "lat" : 45.625222,
+                  "lng" : -113.085474
+               }
+            },
+            "location" : {
+               "lat" : 46.0038232,
+               "lng" : -112.5347776
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.185468,
+                  "lng" : -112.189937
+               },
+               "southwest" : {
+                  "lat" : 45.625222,
+                  "lng" : -113.085474
+               }
+            }
+         },
+         "place_id" : "ChIJ0Tzv0DY_WlMRmZdPTR1ozbU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

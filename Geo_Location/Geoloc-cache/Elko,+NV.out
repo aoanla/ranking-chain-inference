@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Elko",
+               "short_name" : "Elko",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Elko County",
+               "short_name" : "Elko County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Nevada",
+               "short_name" : "NV",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Elko, NV, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.89082090000001,
+                  "lng" : -115.7001241
+               },
+               "southwest" : {
+                  "lat" : 40.803041,
+                  "lng" : -115.8338409
+               }
+            },
+            "location" : {
+               "lat" : 40.8324211,
+               "lng" : -115.7631232
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.89082090000001,
+                  "lng" : -115.7001241
+               },
+               "southwest" : {
+                  "lat" : 40.803041,
+                  "lng" : -115.8338409
+               }
+            }
+         },
+         "place_id" : "ChIJDY8MGbUEpoARifYFxOmxVdg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,70 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Washington Street",
+               "short_name" : "Washington St",
+               "types" : [ "route" ]
+            },
+            {
+               "long_name" : "Stewartstown",
+               "short_name" : "Stewartstown",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Coos County",
+               "short_name" : "Coos County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "New Hampshire",
+               "short_name" : "NH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "03576",
+               "short_name" : "03576",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Washington St, Stewartstown, NH 03576, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 45.0056458,
+                  "lng" : -71.50918229999999
+               },
+               "southwest" : {
+                  "lat" : 44.984682,
+                  "lng" : -71.5319928
+               }
+            },
+            "location" : {
+               "lat" : 45.0011084,
+               "lng" : -71.5215874
+            },
+            "location_type" : "GEOMETRIC_CENTER",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 45.0056458,
+                  "lng" : -71.50918229999999
+               },
+               "southwest" : {
+                  "lat" : 44.984682,
+                  "lng" : -71.5319928
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJO_MkrKWUtkwRu9pls2iAMKc",
+         "types" : [ "route" ]
+      }
+   ],
+   "status" : "OK"
+}

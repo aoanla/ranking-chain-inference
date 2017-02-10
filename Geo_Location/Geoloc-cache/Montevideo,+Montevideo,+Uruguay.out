@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Montevideo",
+               "short_name" : "Montevideo",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Montevideo Department",
+               "short_name" : "Montevideo Department",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Uruguay",
+               "short_name" : "UY",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Montevideo, Uruguay",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.70193,
+                  "lng" : -56.0292436
+               },
+               "southwest" : {
+                  "lat" : -34.9379555,
+                  "lng" : -56.4311685
+               }
+            },
+            "location" : {
+               "lat" : -34.9011127,
+               "lng" : -56.16453139999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.70193,
+                  "lng" : -56.0292436
+               },
+               "southwest" : {
+                  "lat" : -34.9379555,
+                  "lng" : -56.4311685
+               }
+            }
+         },
+         "place_id" : "ChIJ0_c7xv-An5URmexbNS4bMms",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

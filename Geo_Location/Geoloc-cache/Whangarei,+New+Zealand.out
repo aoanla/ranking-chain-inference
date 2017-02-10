@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whangarei",
+               "short_name" : "Whangarei",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Whangarei District",
+               "short_name" : "Whangarei District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northland",
+               "short_name" : "Northland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Whangarei, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -35.6480123,
+                  "lng" : 174.387688
+               },
+               "southwest" : {
+                  "lat" : -35.7756169,
+                  "lng" : 174.1878757
+               }
+            },
+            "location" : {
+               "lat" : -35.7251117,
+               "lng" : 174.323708
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -35.6480123,
+                  "lng" : 174.387688
+               },
+               "southwest" : {
+                  "lat" : -35.7756169,
+                  "lng" : 174.1878757
+               }
+            }
+         },
+         "place_id" : "ChIJxxBrTpyCC20RJ5mjQ2HvAAU",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Whangarei",
+               "short_name" : "Whangarei",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Whangarei",
+               "short_name" : "Whangarei",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Whangarei District",
+               "short_name" : "Whangarei District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northland",
+               "short_name" : "Northland",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Whangarei, Whangarei, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -35.7202281,
+                  "lng" : 174.3348745
+               },
+               "southwest" : {
+                  "lat" : -35.7379777,
+                  "lng" : 174.3150551
+               }
+            },
+            "location" : {
+               "lat" : -35.7251073,
+               "lng" : 174.3236988
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -35.7202281,
+                  "lng" : 174.3348745
+               },
+               "southwest" : {
+                  "lat" : -35.7379777,
+                  "lng" : 174.3150551
+               }
+            }
+         },
+         "place_id" : "ChIJvyn5OPB-C20RIBujQ2HvAAU",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

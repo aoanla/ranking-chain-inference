@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Kenora",
+               "short_name" : "Kenora",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kenora District",
+               "short_name" : "Kenora District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "P0V",
+               "short_name" : "P0V",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Kenora, ON P0V, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 49.9059916,
+                  "lng" : -94.3413389
+               },
+               "southwest" : {
+                  "lat" : 49.73805489999999,
+                  "lng" : -94.59189499999999
+               }
+            },
+            "location" : {
+               "lat" : 49.7670416,
+               "lng" : -94.4893924
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 49.9059916,
+                  "lng" : -94.3413389
+               },
+               "southwest" : {
+                  "lat" : 49.73805489999999,
+                  "lng" : -94.59189499999999
+               }
+            }
+         },
+         "place_id" : "ChIJWzeoIgzrvVIRLJXk-rh3pQo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

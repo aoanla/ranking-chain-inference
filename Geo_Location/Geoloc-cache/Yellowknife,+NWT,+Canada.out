@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Yellowknife",
+               "short_name" : "Yellowknife",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Fort Smith Region",
+               "short_name" : "Fort Smith Region",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Northwest Territories",
+               "short_name" : "NT",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "X0E",
+               "short_name" : "X0E",
+               "types" : [ "postal_code_prefix", "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Yellowknife, NT X0E, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 62.5412576,
+                  "lng" : -114.299678
+               },
+               "southwest" : {
+                  "lat" : 62.4084945,
+                  "lng" : -114.518312
+               }
+            },
+            "location" : {
+               "lat" : 62.4539717,
+               "lng" : -114.3717886
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 62.5412576,
+                  "lng" : -114.299678
+               },
+               "southwest" : {
+                  "lat" : 62.4084945,
+                  "lng" : -114.518312
+               }
+            }
+         },
+         "place_id" : "ChIJyYJGoyzx0VMRge9xQyQ3wbQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

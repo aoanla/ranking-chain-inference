@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Poteau",
+               "short_name" : "Poteau",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Le Flore County",
+               "short_name" : "Le Flore County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Oklahoma",
+               "short_name" : "OK",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Poteau, OK, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 35.202078,
+                  "lng" : -94.5715989
+               },
+               "southwest" : {
+                  "lat" : 34.927885,
+                  "lng" : -94.73447299999999
+               }
+            },
+            "location" : {
+               "lat" : 35.0537094,
+               "lng" : -94.62355789999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 35.202078,
+                  "lng" : -94.5715989
+               },
+               "southwest" : {
+                  "lat" : 34.927885,
+                  "lng" : -94.73447299999999
+               }
+            }
+         },
+         "place_id" : "ChIJGbnCJpX2yocRzRE1BUcE_oQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

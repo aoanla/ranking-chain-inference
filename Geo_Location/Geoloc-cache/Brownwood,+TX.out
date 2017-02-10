@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Brownwood",
+               "short_name" : "Brownwood",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Brown County",
+               "short_name" : "Brown County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Brownwood, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.8084129,
+                  "lng" : -98.941918
+               },
+               "southwest" : {
+                  "lat" : 31.658899,
+                  "lng" : -99.0136799
+               }
+            },
+            "location" : {
+               "lat" : 31.7093197,
+               "lng" : -98.9911611
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.8084129,
+                  "lng" : -98.941918
+               },
+               "southwest" : {
+                  "lat" : 31.658899,
+                  "lng" : -99.0136799
+               }
+            }
+         },
+         "place_id" : "ChIJFSJdSLDHUIYRgRmfu38FplQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

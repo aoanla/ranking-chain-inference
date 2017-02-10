@@ -1,0 +1,60 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Coeur d'Alene",
+               "short_name" : "Coeur d'Alene",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kootenai County",
+               "short_name" : "Kootenai County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Idaho",
+               "short_name" : "ID",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Coeur d'Alene, ID, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 47.7449728,
+                  "lng" : -116.730634
+               },
+               "southwest" : {
+                  "lat" : 47.658448,
+                  "lng" : -116.8535149
+               }
+            },
+            "location" : {
+               "lat" : 47.6776832,
+               "lng" : -116.7804664
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 47.7449728,
+                  "lng" : -116.730634
+               },
+               "southwest" : {
+                  "lat" : 47.658448,
+                  "lng" : -116.8535149
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJj3xVuvi0YVMRkFK_BVuZ5V8",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

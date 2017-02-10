@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Levin",
+               "short_name" : "Levin",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Horowhenua District",
+               "short_name" : "Horowhenua District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Manawatu-Wanganui",
+               "short_name" : "Manawatu-Wanganui",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Levin, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -40.56494,
+                  "lng" : 175.4350894
+               },
+               "southwest" : {
+                  "lat" : -40.6791344,
+                  "lng" : 175.2297576
+               }
+            },
+            "location" : {
+               "lat" : -40.6222455,
+               "lng" : 175.2861796
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -40.56494,
+                  "lng" : 175.4350894
+               },
+               "southwest" : {
+                  "lat" : -40.6791344,
+                  "lng" : 175.2297576
+               }
+            }
+         },
+         "place_id" : "ChIJTX2WfGLzQG0R0NmiQ2HvAAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

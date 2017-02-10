@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waimea",
+               "short_name" : "Waimea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Hawaii County",
+               "short_name" : "Hawaii County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "96743",
+               "short_name" : "96743",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Waimea, HI 96743, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 20.069447,
+                  "lng" : -155.582418
+               },
+               "southwest" : {
+                  "lat" : 19.949279,
+                  "lng" : -155.7258416
+               }
+            },
+            "location" : {
+               "lat" : 20.0230556,
+               "lng" : -155.6716667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 20.069447,
+                  "lng" : -155.582418
+               },
+               "southwest" : {
+                  "lat" : 19.949279,
+                  "lng" : -155.7258416
+               }
+            }
+         },
+         "place_id" : "ChIJc0CcTlaeU3kRd4oSoanfvJw",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Waimea",
+               "short_name" : "Waimea",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Kauai County",
+               "short_name" : "Kauai County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Hawaii",
+               "short_name" : "HI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Waimea, HI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 21.979372,
+                  "lng" : -159.6579909
+               },
+               "southwest" : {
+                  "lat" : 21.9543419,
+                  "lng" : -159.6957951
+               }
+            },
+            "location" : {
+               "lat" : 21.9586111,
+               "lng" : -159.6708333
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 21.979372,
+                  "lng" : -159.6579909
+               },
+               "southwest" : {
+                  "lat" : 21.9543419,
+                  "lng" : -159.6957951
+               }
+            }
+         },
+         "place_id" : "ChIJt1EeSfupB3wRcgvpD7VhFRU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,20 @@
+#!/bin/bash
+#diffmax=1583.2490575469328
+#ratiomax=10.200928998384029
+
+dtmpo=`sort -t'|' -k3,3 -n $1 |tail -n 1`
+dmax=${dtmpo##*|}
+rtmpo=`sort -t'|' -k3,3 -n $2 |tail -n 1`
+rmax=${rtmpo##*|}
+
+join -t'|' -o 1.1,1.2,1.3,2.3 $1 $2 > tmp-combine
+
+IFS=$'\n' 
+for i in `cat tmp-combine`
+do 
+	IFS='|' read -r -a arr <<< "$i"
+	diff=`echo "scale=5;${arr[2]}/$dmax" | bc`
+	ratio=`echo "scale=5;${arr[3]}/$rmax" | bc`
+	ave=`echo "scale=5;($diff+$ratio)/2." | bc`
+echo ${arr[0]}'|'${arr[1]}'|'${arr[2]}'|'${diff}'|'${arr[3]}'|'${ratio}'|'$ave
+done

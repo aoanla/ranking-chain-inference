@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mount Maunganui",
+               "short_name" : "Mount Maunganui",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Tauranga",
+               "short_name" : "Tauranga",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Tauranga City",
+               "short_name" : "Tauranga City",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Bay Of Plenty",
+               "short_name" : "Bay Of Plenty",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "New Zealand",
+               "short_name" : "NZ",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mount Maunganui, Tauranga, New Zealand",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.6231479,
+                  "lng" : 176.2449763
+               },
+               "southwest" : {
+                  "lat" : -37.6973881,
+                  "lng" : 176.1664118
+               }
+            },
+            "location" : {
+               "lat" : -37.6386541,
+               "lng" : 176.1836273
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.6231479,
+                  "lng" : 176.2449763
+               },
+               "southwest" : {
+                  "lat" : -37.6973881,
+                  "lng" : 176.1664118
+               }
+            }
+         },
+         "place_id" : "ChIJQwY7IQZ2bm0RIOeiQ2HvAAU",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

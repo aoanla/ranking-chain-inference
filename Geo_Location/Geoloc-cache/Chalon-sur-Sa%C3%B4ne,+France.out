@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chalon-sur-Saône",
+               "short_name" : "Chalon-sur-Saône",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Saône-et-Loire",
+               "short_name" : "Saône-et-Loire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Burgundy",
+               "short_name" : "Burgundy",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "France",
+               "short_name" : "FR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chalon-sur-Saône, France",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 46.8190131,
+                  "lng" : 4.8813981
+               },
+               "southwest" : {
+                  "lat" : 46.76027699999999,
+                  "lng" : 4.8194928
+               }
+            },
+            "location" : {
+               "lat" : 46.780764,
+               "lng" : 4.853947
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 46.8190131,
+                  "lng" : 4.8813981
+               },
+               "southwest" : {
+                  "lat" : 46.76027699999999,
+                  "lng" : 4.8194928
+               }
+            }
+         },
+         "place_id" : "ChIJOWbs5Jf88kcRcPAOszTOCQQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Essen",
+               "short_name" : "E",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Düsseldorf",
+               "short_name" : "Düsseldorf",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "North Rhine-Westphalia",
+               "short_name" : "NRW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Essen, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.53421239999999,
+                  "lng" : 7.1376762
+               },
+               "southwest" : {
+                  "lat" : 51.3476021,
+                  "lng" : 6.894360199999999
+               }
+            },
+            "location" : {
+               "lat" : 51.4556432,
+               "lng" : 7.0115552
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.53421239999999,
+                  "lng" : 7.1376762
+               },
+               "southwest" : {
+                  "lat" : 51.3476021,
+                  "lng" : 6.894360199999999
+               }
+            }
+         },
+         "place_id" : "ChIJOfarlrfCuEcRnSytpBHhAGo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cleveland",
+               "short_name" : "Cleveland",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cuyahoga County",
+               "short_name" : "Cuyahoga County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ohio",
+               "short_name" : "OH",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cleveland, OH, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 41.5992571,
+                  "lng" : -81.5327439
+               },
+               "southwest" : {
+                  "lat" : 41.390628,
+                  "lng" : -81.87897599999999
+               }
+            },
+            "location" : {
+               "lat" : 41.49932,
+               "lng" : -81.6943605
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 41.5992571,
+                  "lng" : -81.5327439
+               },
+               "southwest" : {
+                  "lat" : 41.390628,
+                  "lng" : -81.87897599999999
+               }
+            }
+         },
+         "place_id" : "ChIJLWto4y7vMIgRQhhi91XLBO0",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

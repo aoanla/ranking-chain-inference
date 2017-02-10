@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Timmins",
+               "short_name" : "Timmins",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Cochrane District",
+               "short_name" : "Cochrane District",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Ontario",
+               "short_name" : "ON",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Canada",
+               "short_name" : "CA",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Timmins, ON, Canada",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.711336,
+                  "lng" : -80.809484
+               },
+               "southwest" : {
+                  "lat" : 48.276874,
+                  "lng" : -81.728295
+               }
+            },
+            "location" : {
+               "lat" : 48.4758208,
+               "lng" : -81.3304953
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.7113373,
+                  "lng" : -80.809484
+               },
+               "southwest" : {
+                  "lat" : 48.276874,
+                  "lng" : -81.728295
+               }
+            }
+         },
+         "place_id" : "ChIJzT_NUd2lPE0Rdpzq_mrp-Hc",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

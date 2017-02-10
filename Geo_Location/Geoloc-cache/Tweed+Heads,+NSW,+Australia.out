@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Tweed Heads",
+               "short_name" : "Tweed Heads",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "New South Wales",
+               "short_name" : "NSW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "2485",
+               "short_name" : "2485",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Tweed Heads NSW 2485, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -28.1646128,
+                  "lng" : 153.5534767
+               },
+               "southwest" : {
+                  "lat" : -28.1907808,
+                  "lng" : 153.5200643
+               }
+            },
+            "location" : {
+               "lat" : -28.173524,
+               "lng" : 153.5430516
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -28.1646128,
+                  "lng" : 153.5534767
+               },
+               "southwest" : {
+                  "lat" : -28.1907808,
+                  "lng" : 153.5200643
+               }
+            }
+         },
+         "place_id" : "ChIJWd6vwdT_kGsRQDBEkLQJBgU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

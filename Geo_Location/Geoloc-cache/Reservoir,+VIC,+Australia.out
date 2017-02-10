@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Reservoir",
+               "short_name" : "Reservoir",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Victoria",
+               "short_name" : "VIC",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Australia",
+               "short_name" : "AU",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Reservoir VIC, Australia",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -37.690986,
+                  "lng" : 145.0407808
+               },
+               "southwest" : {
+                  "lat" : -37.7336469,
+                  "lng" : 144.9703398
+               }
+            },
+            "location" : {
+               "lat" : -37.7142857,
+               "lng" : 145.0078469
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -37.690986,
+                  "lng" : 145.0407808
+               },
+               "southwest" : {
+                  "lat" : -37.7336469,
+                  "lng" : 144.9703398
+               }
+            }
+         },
+         "place_id" : "ChIJx3y26INF1moRANKMIXVWBAU",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Ciudad Juarez",
+               "short_name" : "Cd. Juarez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Juárez Municipality",
+               "short_name" : "Juárez Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chihuahua",
+               "short_name" : "Chih.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Ciudad Juarez, Chihuahua, Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.7839222,
+                  "lng" : -106.2940898
+               },
+               "southwest" : {
+                  "lat" : 31.5238034,
+                  "lng" : -106.5923245
+               }
+            },
+            "location" : {
+               "lat" : 31.6903638,
+               "lng" : -106.4245478
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.7839222,
+                  "lng" : -106.2940898
+               },
+               "southwest" : {
+                  "lat" : 31.5238034,
+                  "lng" : -106.5923245
+               }
+            }
+         },
+         "place_id" : "ChIJnTILPcte54YRdHmcVABhGQs",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Chihuahua",
+               "short_name" : "Chihuahua",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Ciudad Juárez",
+               "short_name" : "Cd. Juarez",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Juárez Municipality",
+               "short_name" : "Juárez Municipality",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Chihuahua",
+               "short_name" : "Chih.",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Mexico",
+               "short_name" : "MX",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Chihuahua, Cd Juárez, Chih., Mexico",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.719216,
+                  "lng" : -106.4411956
+               },
+               "southwest" : {
+                  "lat" : 31.7172336,
+                  "lng" : -106.4444098
+               }
+            },
+            "location" : {
+               "lat" : 31.7184972,
+               "lng" : -106.4424276
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.71957378029149,
+                  "lng" : -106.4411956
+               },
+               "southwest" : {
+                  "lat" : 31.71687581970849,
+                  "lng" : -106.4444098
+               }
+            }
+         },
+         "place_id" : "ChIJw-tiZahe54YRJsRk6LnJUlA",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

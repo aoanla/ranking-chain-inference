@@ -1,0 +1,118 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mol",
+               "short_name" : "Mol",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Antwerp",
+               "short_name" : "AN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Flanders",
+               "short_name" : "Flanders",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mol, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3224999,
+                  "lng" : 5.2421
+               },
+               "southwest" : {
+                  "lat" : 51.15358,
+                  "lng" : 5.0353699
+               }
+            },
+            "location" : {
+               "lat" : 51.191087,
+               "lng" : 5.117064699999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3224999,
+                  "lng" : 5.2421
+               },
+               "southwest" : {
+                  "lat" : 51.15358,
+                  "lng" : 5.0353699
+               }
+            }
+         },
+         "place_id" : "ChIJWe0y5aQ1wUcRrz9Nlk6hPSY",
+         "types" : [ "locality", "political" ]
+      },
+      {
+         "address_components" : [
+            {
+               "long_name" : "Mol",
+               "short_name" : "Mol",
+               "types" : [ "sublocality_level_1", "sublocality", "political" ]
+            },
+            {
+               "long_name" : "Dessel",
+               "short_name" : "Dessel",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Antwerpen",
+               "short_name" : "AN",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Vlaanderen",
+               "short_name" : "Vlaanderen",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Belgium",
+               "short_name" : "BE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Mol, Dessel, Belgium",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.3255379,
+                  "lng" : 5.243967
+               },
+               "southwest" : {
+                  "lat" : 51.1557849,
+                  "lng" : 5.0310387
+               }
+            },
+            "location" : {
+               "lat" : 51.2213789,
+               "lng" : 5.1962097
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.3255379,
+                  "lng" : 5.243967
+               },
+               "southwest" : {
+                  "lat" : 51.1557849,
+                  "lng" : 5.0310387
+               }
+            }
+         },
+         "place_id" : "ChIJTT9XkSnLxkcR63Vgy78O4nw",
+         "types" : [ "sublocality_level_1", "sublocality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

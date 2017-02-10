@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Eureka",
+               "short_name" : "Eureka",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Humboldt County",
+               "short_name" : "Humboldt County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "California",
+               "short_name" : "CA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Eureka, CA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 40.822232,
+                  "lng" : -124.089657
+               },
+               "southwest" : {
+                  "lat" : 40.745348,
+                  "lng" : -124.2027835
+               }
+            },
+            "location" : {
+               "lat" : 40.8020712,
+               "lng" : -124.1636729
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 40.8218836,
+                  "lng" : -124.089657
+               },
+               "southwest" : {
+                  "lat" : 40.745348,
+                  "lng" : -124.2027835
+               }
+            }
+         },
+         "place_id" : "ChIJp07_5oP_01QRlQYpuGYHhio",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

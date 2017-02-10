@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Lauderdale",
+               "short_name" : "Fort Lauderdale",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Broward County",
+               "short_name" : "Broward County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Florida",
+               "short_name" : "FL",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Lauderdale, FL, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 26.21186,
+                  "lng" : -80.09597699999999
+               },
+               "southwest" : {
+                  "lat" : 26.070365,
+                  "lng" : -80.20396909999999
+               }
+            },
+            "location" : {
+               "lat" : 26.1224386,
+               "lng" : -80.13731740000001
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.21186,
+                  "lng" : -80.09597699999999
+               },
+               "southwest" : {
+                  "lat" : 26.070365,
+                  "lng" : -80.20396909999999
+               }
+            }
+         },
+         "place_id" : "ChIJ9cr6ICcB2YgRvo6_QHW-AnY",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

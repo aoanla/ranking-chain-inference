@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Fort Stewart",
+               "short_name" : "Fort Stewart",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Liberty County",
+               "short_name" : "Liberty County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Georgia",
+               "short_name" : "GA",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Fort Stewart, GA, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 31.9005359,
+                  "lng" : -81.5754259
+               },
+               "southwest" : {
+                  "lat" : 31.849072,
+                  "lng" : -81.64385489999999
+               }
+            },
+            "location" : {
+               "lat" : 31.8690667,
+               "lng" : -81.6089873
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 31.9005359,
+                  "lng" : -81.5754259
+               },
+               "southwest" : {
+                  "lat" : 31.849072,
+                  "lng" : -81.64385489999999
+               }
+            }
+         },
+         "place_id" : "ChIJG6F72p3i-ogR8FPtzhV46ao",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

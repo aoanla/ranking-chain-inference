@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Berazategui",
+               "short_name" : "Berazategui",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Berazategui",
+               "short_name" : "Berazategui",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Buenos Aires Province",
+               "short_name" : "Buenos Aires Province",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Argentina",
+               "short_name" : "AR",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Berazategui, Buenos Aires Province, Argentina",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -34.7358692,
+                  "lng" : -58.15754159999999
+               },
+               "southwest" : {
+                  "lat" : -34.7898778,
+                  "lng" : -58.23937609999999
+               }
+            },
+            "location" : {
+               "lat" : -34.762001,
+               "lng" : -58.2112961
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -34.7358692,
+                  "lng" : -58.15754159999999
+               },
+               "southwest" : {
+                  "lat" : -34.7898778,
+                  "lng" : -58.23937609999999
+               }
+            }
+         },
+         "place_id" : "ChIJv70vjDQvo5URBz-TdtJ7IYA",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

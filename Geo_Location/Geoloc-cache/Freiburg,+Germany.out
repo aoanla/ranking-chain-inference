@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Freiburg",
+               "short_name" : "Freiburg",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Baden-Württemberg",
+               "short_name" : "BW",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Germany",
+               "short_name" : "DE",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Freiburg, Germany",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 48.0710448,
+                  "lng" : 7.930832299999999
+               },
+               "southwest" : {
+                  "lat" : 47.9035775,
+                  "lng" : 7.6620078
+               }
+            },
+            "location" : {
+               "lat" : 47.9990077,
+               "lng" : 7.842104299999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 48.0710448,
+                  "lng" : 7.930832299999999
+               },
+               "southwest" : {
+                  "lat" : 47.9035775,
+                  "lng" : 7.6620078
+               }
+            }
+         },
+         "place_id" : "ChIJZdYLViYbkUcRsFffpbdrHwQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Viña del Mar",
+               "short_name" : "Viña",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Viña del Mar",
+               "short_name" : "Viña del Mar",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Valparaíso Province",
+               "short_name" : "Valparaíso Province",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Valparaiso",
+               "short_name" : "Valparaiso",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "Chile",
+               "short_name" : "CL",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Viña del Mar, Viña del Mar, Valparaiso, Chile",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : -32.9484554,
+                  "lng" : -71.472308
+               },
+               "southwest" : {
+                  "lat" : -33.0626024,
+                  "lng" : -71.5880008
+               }
+            },
+            "location" : {
+               "lat" : -33.0153481,
+               "lng" : -71.55002759999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : -32.9484554,
+                  "lng" : -71.472308
+               },
+               "southwest" : {
+                  "lat" : -33.0626024,
+                  "lng" : -71.5880008
+               }
+            }
+         },
+         "place_id" : "ChIJVRLU6oTeiZYRP0E933beX44",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

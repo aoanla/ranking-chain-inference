@@ -1,0 +1,54 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Pulaski County",
+               "short_name" : "Pulaski County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Missouri",
+               "short_name" : "MO",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Pulaski County, MO, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 38.0211789,
+                  "lng" : -92.021112
+               },
+               "southwest" : {
+                  "lat" : 37.6025419,
+                  "lng" : -92.41366900000001
+               }
+            },
+            "location" : {
+               "lat" : 37.8727481,
+               "lng" : -92.2236667
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 38.0211789,
+                  "lng" : -92.021112
+               },
+               "southwest" : {
+                  "lat" : 37.6025419,
+                  "lng" : -92.41366900000001
+               }
+            }
+         },
+         "place_id" : "ChIJ0Wcyog_u2ocRjKHdnE2Z6jo",
+         "types" : [ "administrative_area_level_2", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

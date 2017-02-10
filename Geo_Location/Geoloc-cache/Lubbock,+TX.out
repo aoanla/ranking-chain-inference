@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Lubbock",
+               "short_name" : "Lubbock",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Lubbock County",
+               "short_name" : "Lubbock County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Texas",
+               "short_name" : "TX",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Lubbock, TX, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 33.7084538,
+                  "lng" : -101.7485541
+               },
+               "southwest" : {
+                  "lat" : 33.473833,
+                  "lng" : -102.028333
+               }
+            },
+            "location" : {
+               "lat" : 33.5778631,
+               "lng" : -101.8551665
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 33.7084538,
+                  "lng" : -101.7485541
+               },
+               "southwest" : {
+                  "lat" : 33.473833,
+                  "lng" : -102.028333
+               }
+            }
+         },
+         "place_id" : "ChIJOd19060S_oYRh0LoIikE8Bo",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

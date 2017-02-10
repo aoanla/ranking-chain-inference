@@ -1,0 +1,59 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Appleton",
+               "short_name" : "Appleton",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Outagamie County",
+               "short_name" : "Outagamie County",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Wisconsin",
+               "short_name" : "WI",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United States",
+               "short_name" : "US",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Appleton, WI, USA",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 44.3536019,
+                  "lng" : -88.34298
+               },
+               "southwest" : {
+                  "lat" : 44.2216491,
+                  "lng" : -88.4511578
+               }
+            },
+            "location" : {
+               "lat" : 44.2619309,
+               "lng" : -88.41538469999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 44.3536019,
+                  "lng" : -88.34298
+               },
+               "southwest" : {
+                  "lat" : 44.2216491,
+                  "lng" : -88.4511578
+               }
+            }
+         },
+         "place_id" : "ChIJyfYDuYK2A4gRW5N1BqXWoZw",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

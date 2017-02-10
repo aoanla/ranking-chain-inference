@@ -1,0 +1,50 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Cheshire",
+               "short_name" : "Cheshire",
+               "types" : [ "colloquial_area", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Cheshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 53.4809136,
+                  "lng" : -1.9747939
+               },
+               "southwest" : {
+                  "lat" : 52.9471496,
+                  "lng" : -3.128278
+               }
+            },
+            "location" : {
+               "lat" : 53.23263439999999,
+               "lng" : -2.6103157
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 53.4809136,
+                  "lng" : -1.9747939
+               },
+               "southwest" : {
+                  "lat" : 52.9471496,
+                  "lng" : -3.128278
+               }
+            }
+         },
+         "partial_match" : true,
+         "place_id" : "ChIJnZeKE4v5ekgRy45KEYpdhTU",
+         "types" : [ "colloquial_area", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

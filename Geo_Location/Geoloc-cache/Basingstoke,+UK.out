@@ -1,0 +1,69 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Basingstoke",
+               "short_name" : "Basingstoke",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Basingstoke",
+               "short_name" : "Basingstoke",
+               "types" : [ "postal_town" ]
+            },
+            {
+               "long_name" : "Basingstoke and Deane District",
+               "short_name" : "Basingstoke and Deane District",
+               "types" : [ "administrative_area_level_3", "political" ]
+            },
+            {
+               "long_name" : "Hampshire",
+               "short_name" : "Hampshire",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "England",
+               "short_name" : "England",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "United Kingdom",
+               "short_name" : "GB",
+               "types" : [ "country", "political" ]
+            }
+         ],
+         "formatted_address" : "Basingstoke, Basingstoke, Hampshire, UK",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 51.2906511,
+                  "lng" : -1.0581239
+               },
+               "southwest" : {
+                  "lat" : 51.2214053,
+                  "lng" : -1.1564994
+               }
+            },
+            "location" : {
+               "lat" : 51.26654,
+               "lng" : -1.0923964
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 51.2906511,
+                  "lng" : -1.0581239
+               },
+               "southwest" : {
+                  "lat" : 51.2214053,
+                  "lng" : -1.1564994
+               }
+            }
+         },
+         "place_id" : "ChIJU1mggMEEdEgRKnC5biHHLWg",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}
