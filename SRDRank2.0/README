@@ -1,4 +1,33 @@
+
+Contents:
+
+process-for-python2.22.py
+process-for-python2.22batch.py
+
+These are the main rating engines for SRDRank v2.2
+The difference is that the batch version calculates ratings for the entire history to the point you want to stop at.
+Both combine Least-squares regression with a statistical test to pick up rapidly changing teams (and split them appropriately).
+
+The output on the website also depends on:
+
+parse_fts_csv_2.py		
+
+a support script to process FTS records into our tools, and perform graph analysis of them.
+
+ztest.py
+
+a support script to perform statistical tests on teams for divergence (using z-tests)
+
+process-teams.py
+
+a support script which outputs properly generated team data, including geolocation (map coordinates) for each team.
+
+----
+
+
 This location will contain the infrastructure for SRD Rank v2.0
+
+
 
 This is currently under development, and will probably combine multiple ranking mechanisms to improve tracking.
  - further with with Massey-style least-squares fits, and optimisation, suggests possibilities for optimising the fits to spring-method levels of efficiency.
