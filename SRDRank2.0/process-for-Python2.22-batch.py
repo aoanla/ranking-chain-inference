@@ -115,7 +115,7 @@ for date_i in range(1,len(dates)):
 	sg0_cliques = None #confidences(subgraphs[0])
 	
 	#we now parallelise this over all subgraphs because we're insane and want to do rankings for the small groups too
-	namerank = []
+	#namerank = []
 	
 	for sg in subgraphs:
 		(maximal_bouts, maximal_boutgraph, maximal_names) = pfc.select_bouts(bouts_in, sg, datestart, ref_epoch, final_epoch)
@@ -152,12 +152,13 @@ for date_i in range(1,len(dates)):
 	#print dates_list
 	
 	for d_tmp in dates_list:
+		namerank = [] #reset namerank list here, so it is properly reset for every loop !
 		print d_tmp 
 		d_item = d_tmp*30*24*60*60 + datelim 
 		#print d_item
 		date_string = time.strftime("%d_%b_%y", time.localtime(d_item))
 		print date_string
-		
+			
 		#expand to include test region
 		(bouts_out,boutgraph,names) = pfc.select_bouts(bouts_in,teams_winnowed,datestart,d_item,0)
 		
